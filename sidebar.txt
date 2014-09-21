@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pa:home|Door43 (pa)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[pa:obs|Open Bible Stories (pa)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pa|d43-pa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pa/archive/master.zip|d43-pa.zip]]
+
+**Recent Changes**
+{{changes>ns = pa}}
+
+**Latest Status**
+{{page>en:uwadmin:pa:obs:status}}
+
