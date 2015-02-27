@@ -1,14 +1,8 @@
 
 
-  - [[:pa:obs:01|
-
-ਸ੍ਰਿਸ਼ਟੀ  ]]
-  - [[:pa:obs:02|
-
-ਪਾਪ ਨੂੰ
-ਸੰਸਾਰ
-ਵਿਚ ਦਾਖ਼ਲ  ]]
-  - [[:pa:obs:03|The Flood]]
+  - [[:pa:obs:01|ਸ੍ਰਿਸ਼ਟੀ ]]
+  - [[:pa:obs:02|ਪਾਪ ਨੂੰ ਸੰਸਾਰ ਵਿਚ ਦਾਖ਼ਲ ]]
+  - [[:pa:obs:03|ਹੜ]]
   - [[:pa:obs:04|God's Covenant with Abraham]]
   - [[:pa:obs:05|The Son of Promise]]
   - [[:pa:obs:06|God Provides for Isaac]]
