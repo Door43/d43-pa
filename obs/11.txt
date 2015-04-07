@@ -18,7 +18,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
 
-ਇਸਰਾਏਲੀਆਂ ਦੇ ਸਾਰੇ ਘਰਾਣਿਆਂ ਦੀਆਂ ਚੌਗਾਠਾਂ ਤੇਂ ਲਹੁ ਸੀ, ਇਸ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ ਘਰਾਂ ਦੇ ਉੱਪਰੋਂ ਲੰਘ ਗਿਆ | ਉਹਨਾਂ  ਵਿਚਕਾਰ ਹਰ ਕੋਈ ਸੁਰੱਖਿਅਤ ਸੀ | ਉਹ ਲੇਲੇ ਦੇ ਲਹੁ ਕਾਰਨ ਬਚ ਗਏ ਸੀ |
+ਇਸਰਾਏਲੀਆਂ ਦੇ ਸਾਰੇ ਘਰਾਣਿਆਂ ਦੀਆਂ ਚੌਗਾਠਾਂ ਤੇਂ ਲਹੁ ਸੀ, ਇਸ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ ਘਰਾਂ ਦੇ ਉੱਪਰੋਂ ਲੰਘ ਗਿਆ | ਉਹਨਾਂ ਵਿਚਕਾਰ ਹਰ ਕੋਈ ਸੁਰੱਖਿਅਤ ਸੀ | ਉਹ ਲੇਲੇ ਦੇ ਲਹੁ ਕਾਰਨ ਬਚ ਗਏ ਸੀ |
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
 
@@ -26,10 +26,10 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
 
-Every Egyptian firstborn male died, from the firstborn of the prisoner in jail, to the firstborn of Pharaoh. Many people in Egypt were crying and wailing because of their deep sadness.
+ਹਰ ਮਿਸਰੀ ਪਲੋਠਾ ਲੜਕਾ ਮਰ ਗਿਆ, ਜੇਲ ਵਿਚ ਹਰ ਕੈਦੀ ਦਾ ਪਲੋਠਾ, ਫਰਾਉਨ ਦੇ ਪਲੋਠੇ ਤੱਕ ਮਰ ਗਿਆ | ਮਿਸਰ ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਆਪਣੇ ਗਹਿਰੇ ਦੁੱਖ ਦੇ ਕਾਰਨ ਵਿਰਲਾਪ ਕਰਦੇ ਅਤੇ ਰੋਂਦੇ ਸਨ |
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
 
-That same night, Pharaoh called for Moses and Aaron and said, "Take the Israelites and leave Egypt immediately!" The Egyptian people also urged the Israelites to leave immediately.
+ਉਸੇ ਰਾਤ, ਫਰਾਉਨ ਨੇ ਮੂਸਾ ਅਤੇ ਹਰੂਨ ਨੂੰ ਬੁਲਾਇਆ ਅਤੇ ਕਿਹਾ, “ਇਸਰਾਏਲੀਆਂ ਨੂੰ ਲੈ ਅਤੇ ਜਲਦੀ ਨਾਲ ਮਿਸਰ ਵਿਚੋਂ ਨਿੱਕਲ ਜਾਹ|” ਮਿਸਰੀ ਲੋਕਾਂ ਨੇ ਵੀ ਇਸਰਾਏਲੀਆਂ ਦੀ ਅੱਗੇ ਬੇਨਤੀ ਕੀਤੀ ਕਿ ਜਲਦੀ ਨਾਲ ਮਿਸਰ ਛੱਡ ਦਿਓ |
 
-//A Bible story from: Exodus 11:1-12:32//
+ਬਾਈਬਲ ਕਹਾਣੀ – ਵਿਚੋਂ//: // ਕੂਚ// 11:1-12:32//
