@@ -1,57 +1,39 @@
-====== 33. The Story of the Farmer ======
+====== 33. ਇਕ ਕਿਸਾਨ ਦੀ ਕਹਾਣੀ ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?direct&}}
 
-One day, Jesus was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
+ਇਕ ਦਿਨ, ਯਿਸੂ ਝੀਲ ਦੇ ਕਿਨਾਰੇ ਲੋਕਾਂ ਦੀ ਇਕ ਵੱਡੀ ਭੀੜ ਨੂੰ ਸਿੱਖਾ ਰਿਹਾ ਸੀ |  ਬਹੁਤ ਲੋਕ ਉਸ ਨੂੰ ਸੁਣਨ ਲਈ ਆਏ ਕਿ ਯਿਸੂ ਪਾਣੀ ਦੇ ਕਿਨਾਰੇ ਉੱਤੇ ਇਕ ਬੇੜੀ ਵਿਚ ਚੜ੍ਹ ਗਿਆ ਕਿ ਉਹਨਾਂ ਨਾਲ ਗੱਲ ਕਰਨ ਲਈ ਕਾਫੀ ਜਗ੍ਹਾ ਹੋ ਸਕੇ  | ਉਹ ਬੇੜੀ ਵਿਚ ਬੈਠ ਗਿਆ ਅਤੇ ਸਿੱਖਾਉਣ ਲੱਗਾ |
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?direct&}}
 
+ਯਿਸੁ ਨੇ ਇਹ ਕਹਾਣੀ ਦੱਸੀ  “ਇਕ ਕਿਸਾਨ ਕੁੱਝ ਬੀਜ ਬੀਜਣ ਲਈ ਗਿਆ | ਜਿਵੇਂ ਹੀ ਉਹ ਹੱਥ ਨਾਲ ਬੀਜ ਰਿਹਾ ਸੀ ਕੁੱਝ ਬੀਜ ਰਾਹ ਵਿਚ ਡਿੱਗੇ ਅਤੇ ਪੰਛੀ ਆਏ ਉਹਨਾਂ ਬੀਜਾਂ ਨੂੰ ਚੁੱਗ ਗਏ |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg?direct&}}
 
-Jesus told this story. "A farmer went out to plant some seed. As he was spreading the seeds by hand, some seeds happened to fall on the path, and the birds came and ate all of those seeds."
+“ਦੂਸਰੇ ਬੀਜ ਪਥਰੀਲੀ ਜਮੀਨ ਉੱਤੇ ਡਿੱਗੇ, ਜਿੱਥੇ ਜਿਆਦਾ ਮਿੱਟੀ ਨਹੀ ਸੀ | ਪਥਰੀਲੀ ਜਮੀਨ ਉੱਤੇ ਬੀਜ ਬਹੁਤ ਜਲਦੀ ਨਾਲ ਉੱਗੇ, ਪਰ ਉਹਨਾਂ ਦੀਆਂ ਜੜ੍ਹਾਂ ਹੇਠਾਂ ਮਿੱਟੀ ਵਿਚ ਡੂੰਗੀਆਂ ਨਾ ਜਾ ਸਕੀਆਂ | ਜਦੋਂ ਸੂਰਜ ਚੜ੍ਹਿਆ ਅਤੇ ਗਰਮੀ ਹੋਈ ਪੌਦੇ ਸੁੱਕ ਗਏ ਅਤੇ ਮਰ ਗਏ |”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?direct&}}
 
+“ਫਿਰ ਦੂਸਰੇ ਬੀਜ ਝਾੜੀਆਂ ਵਿਚ ਡਿੱਗੇ |” ਉਹ ਬੀਜ ਵੱਧਣ ਲੱਗੇ ਪਰ ਝਾੜੀਆਂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਦੱਬ ਲਿਆ | ਇਸ ਲਈ ਜਿਹੜੇ ਪੌਦੇ ਝਾੜੀਆਂ ਵਾਲੀ ਜਮੀਨ ਵਿਚਲੇ ਬੀਜਾਂ ਤੋਂ ਵਧੇ ਉਹਨਾਂ ਨੇ ਕੋਈ ਦਾਣਾ ਪੈਦਾ ਨਾ ਕੀਤਾ |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg?direct&}}
 
-"Other seeds fell on rocky ground, where there was very little soil. The seeds in the rocky ground sprouted quickly, but their roots were not able to go deep into the soil. When the sun came up and it got hot, the plants withered and died."
+“ਬਾਕੀ ਬੀਜ ਚੰਗੀ ਜਮੀਨ ਤੇ ਡਿੱਗੇ | ਇਹ ਬੀਜ ਵਧੇ ਅਤੇ ਕੁੱਝ 30, 60, ਗੁਣਾ,  ਇਥੋਂ ਤੱਕ 100 ਗੁਣਾ ਵਧੇਰੇ ਦਾਣੇ ਪੈਦਾ ਕੀਤੇ | ਜਿਸ ਦੇ ਕੰਨ ਹੋਣ ਉਹ ਸੁਣੇ!”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?direct&}}
 
+ਇਸ ਕਹਾਣੀ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਦੁਬਿਧਾ ਵਿਚ ਪਾ ਦਿੱਤਾ | ਇਸ ਲਈ ਯਿਸੂ ਨੇ ਬਿਆਨ ਕੀਤਾ, “ਬੀਜ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਹੈ |” ਰਾਹ ਇਕ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਸੁਣਦਾ ਹੈ ਪਰ ਉਸ ਨੂੰ ਸਮਝਦਾ ਨਹੀਂ ਅਤੇ ਸ਼ੈਤਾਨ ਉਸ ਕੋਲੋਂ ਵਚਨ ਨੂੰ ਦੂਰ ਲੈ ਜਾਂਦਾ ਹੈ |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?direct&}}
 
-"Still other seeds fell among thorn bushes. Those seeds began to grow, but the thorns choked them out. So the plants that grew from the seeds in the thorny ground did not produce any grain."
+“ਪਥਰੀਲੀ ਜਮੀਨ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਸੁਣਦਾ  ਹੈ ਅਤੇ ਅਨੰਦ ਨਾਲ ਗ੍ਰਹਿਣ ਕਰਦਾ ਹੈ | ਪਰ ਜਦੋਂ ਮੁਸ਼ਕਲ ਜਾਂ ਸਤਾਵਟ  ਆਂਉਂਦੀ ਹੈ ਉਹ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ |”
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?direct&}}
 
+“ਕੰਡਿਆਲੀ ਜਮੀਨ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਸੁਣਦਾ ਹੈ ਪਰ ਸਮਾਂ ਪੈਣ ਤੇ ਜਿੰਦਗੀ ਦੀ ਦੇਖਭਾਲ, ਧੰਨ ਦੌਲਤ, ਖੁਸ਼ੀਆਂ ਪ੍ਰਮੇਸ਼ਵਰ ਲਈ ਪਿਆਰ ਨੂੰ ਦਬਾ ਦਿੰਦੇ ਹਨ | ਨਤੀਜੇ ਵਜੋਂ, ਸਿਖਿਆ ਜੋ ਉਸਨੇ ਲਈ ਉਸ ਲਈ ਕੋਈ ਫਲ ਪੈਦਾ ਨਹੀਂ ਕਰਦੀ |”
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg?direct&}}
 
-"Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!"
+“ਪਰ ਚੰਗੀ ਜਮੀਨ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਸੁਣਦਾ ਹੈ, ਵਿਸ਼ਵਾਸ ਕਰਦਾ ਹੈ ਅਤੇ ਫਲ ਪੈਦਾ ਕਰਦਾ ਹੈ |”
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg}}
-
-This story confused the disciples. So Jesus explained, "The seed is the word of God. The path is a person who hears God's word, but does not understand it, and the devil takes the word away from him."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg}}
-
-"The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or persecution, he falls away."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg}}
-
-"The thorny ground is a person who hears God's word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. As a result, the teaching he heard does not produce fruit."
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-09.jpg}}
-
-"But the good soil is a person who hears the word of God, believes it, and produces fruit."
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
-
-
+//ਬਾਈਬਲ ਦੀ ਕਹਾਣੀ//: //ਮੱਤੀ ////13////:1-8, 18-23; ////ਮਰਕੁਸ ////; ////Mark 4:1-8, 13-20;; ////ਲੁਕਾ  ////8:4-15//
