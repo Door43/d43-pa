@@ -1,4 +1,4 @@
-===== **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਕਾਸ਼ ਬਣਾਏ [01-03]**  =====
+===== ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਕਾਸ਼ ਬਣਾਏ [01-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
@@ -8,18 +8,23 @@
   *
 
 **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-==== Translation Notes: ====
+
+=====   =====
+
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ:**  ====
 
   *
 
 **the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
+
   *
 
 **God spoke**  - God created the sky by speaking a command.
+
   *
 
 **created**  - God made the sky out of nothing.
+
   *
 
-**sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
-**[[https://door43.org/en/obs/notes/frames/01-02|<<]] | [[https://door43.org/en/obs/notes/01|Up]] | [[https://door43.org/en/obs/notes/frames/01-04|>>]]**
+**sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens. **[[https://door43.org/en/obs/notes/frames/01-02|<<]] | [[https://door43.org/en/obs/notes/01|Up]] | [[https://door43.org/en/obs/notes/frames/01-04|>>]]**
