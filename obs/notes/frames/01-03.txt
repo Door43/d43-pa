@@ -3,20 +3,14 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
 ਉਤਪਤੀ ਦੇ **ਦੂਸਰੇ ਦਿਨ** **ਪ੍ਰਮੇਸ਼ਵਰ ਬੋਲਿਆ** ਅਤੇ ਧਰਤੀ ਦੇ ਉਤਾਹਾਂ **ਆਕਾਸ਼ ਬਣਾਏ** | ਉਸ ਨੇ ਹੇਠਲੇ ਪਾਣੀਆਂ ਨੂੰ ਉਪਰਲੇ ਪਾਣੀਆਂ ਤੋਂ ਅੱਲਗ ਕਰਦੇ ਹੋਏ ਆਕਾਸ਼ ਰਚੇ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ: **  =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  *
-
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
 =====   =====
 
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ:**  ====
+<font 20px/inherit;;inherit;;inherit>** ਅਨੁਵਾਦ ਦੇ ਨੋਟ: **</font>
 
-  *
-
-**the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-
+  * **ਦੂਸਰਾ ਦਿਨ**  –ਪ੍ਰਮੇਸ਼ਵਰ ਦੁਆਰਾ ਉਤਪਤੀ ਦਾ ਕੰਮ ਯੋਜਨਾਬੱਧ, ਉਦੇਸ ਪੂਰਵਕ ਅਤੇ ਕ੍ਰਮਵਾਰ ਸੀ | ਜੋ ਚੀਜਾਂ ਉਸ ਨੇ ਹਰ ਰੋਜ ਰੱਚੀਆਂ ਉਹ ਪਹਿਲੇ ਦਿਨ ਕੰਮ ਤੇ ਅਧਾਰਿਤ ਅਤੇ ਨਿਰਭਰ ਸੀ |
   *
 
 **God spoke**  - God created the sky by speaking a command.
