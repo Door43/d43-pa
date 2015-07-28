@@ -1,26 +1,17 @@
-<font 24px/inherit;;inherit;;inherit>** ਸੱਪ **  ** [02-02] **</font>
+<font 24px/inherit;;inherit;;inherit>** ਸੱਪ  **  ** [02-02]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
 ਪਰ ਬਾਗ ਵਿਚ ਇਕ ਚਤੁਰ ਸੱਪ ਸੀ | ਉਸ ਨੇ ਔਰਤ ਨੂੰ ਪੁੱਛਿਆ, “ਕਿ ਸੱਚ ਮੁੱਚ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਤੁਹਾਨੂੰ ਇਸ ਬਾਗ ਵਿਚ ਕਿਸੇ ਵੀ ਦਰੱਖਤ ਦਾ ਫਲ ਖਾਣ ਤੋਂ ਮਨ੍ਹਾ ਕੀਤਾ ਹੈ ?”
 
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ :**  =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]** <font 20px/inherit;;inherit;;inherit>**  **</font>
 
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-<font 20px/inherit;;inherit;;inherit>** ਅਨੁਵਾਦ ਦੇ ਨੋਟ: **</font>
+<font 20px/inherit;;inherit;;inherit>** ਅਨੁਵਾਦ ਦੇ ਨੋਟ:  **</font>
 
-  *
-
-**crafty**  - Clever and sly, with the intent to deceive.
-  *
-
-**snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  *
-
-**Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  *
-
-**fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
-**[[https://door43.org/en/obs/notes/frames/02-01|<<]] | [[https://door43.org/en/obs/notes/02|Up]] | [[https://door43.org/en/obs/notes/frames/02-03|>>]]**
+  * **ਚਤੁਰ**  – ਚਲਾਕ, ਮੱਕਾਰ, ਧੋਖਾ ਦੇਣ ਦੇ ਇਰਾਦੇ ਨਾਲ |
+  * **ਸੱਪ – ** ਫੈਲਿਆ ਹੋਇਆ, ਪੈਰ ਰਹਿਤ ਪੇਟ ਭਰ ਰੀੰਗਣ ਵਾਲਾ ਜੰਤੁ | ਚਾਹੇ ਬਾਅਦ ਵਿਚ ਇਸ ਕਹਾਣੀ ਵਿਚ ਪ੍ਰਗਟ ਕੀਤਾ ਗਿਆ ਹੈ ਕਿ ਸੱਪ ਸ਼ੈਤਾਨ ਸੀ, ਇਸ ਸੰਦਰਭ ਵਿਚ ਇਸ ਤਰਾਂ ਨਹੀਂ ਕਿਹਾ ਜਾ ਸਕਦਾ |
+  * **ਕੀ ਸੱਚ ਮੁੱਚ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਤੈਨੂੰ ਕਿਹਾ**  – ਸੱਪ ਨੇ ਔਰਤ ਤੋਂ ਪੁੱਛਿਆ ਕਿ ਕੀ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੱਚ ਵਿਚ ਬਾਗ ਦੇ ਕਿਸੇ ਵੀ ਦਰੱਖਤ ਤੋਂ ਖਾਣਾ ਮਨ੍ਹਾ ਕੀਤਾ ਹੈ | ਪਰ ਸਿਰਫ ਬਹਾਨਾ ਹੀ ਕਰ ਰਿਹਾ ਸੀ ਕਿ ਉਹ ਨਹੀਂ ਜਾਣਦਾ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਕਿ ਕਿਹਾ ਸੀ ਕਿਉਂਕਿ ਔਰਤ ਦੇ ਮਨ ਵਿਚ ਸ਼ੰਕਾ ਪੈਦਾ ਕਰਨਾ ਚਹੁੰਦਾ ਸੀ | ਉਹ ਚਾਹੁੰਦਾ ਸੀ ਕਿ ਔਰਤ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਭਲਾਈ ਤੇ ਸਵਾਲ ਉਠਾਏ |
+  * **ਕਿਸੇ ਵੀ ਦਰੱਖਤ ਦਾ ਫਲ**  – ਬਾਗ ਵਿਚਲੇ ਹਰ ਇਕ ਦਰੱਖਤ ਦੇ ਕਈ ਕਿਸਮ ਦੇ ਫਲ |
+**[[:pa:obs:notes:frames:02-01|<<]] | [[:pa:obs:notes:frames:02-02|Up]] | [[https://door43.org/en/obs/notes/frames/02-03|>>]]**
