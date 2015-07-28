@@ -1,28 +1,16 @@
-<font 24px/inherit;;inherit;;inherit>** ਇਕ ਸਿਧ ਸੰਸਾਰ  **  ** [02-01] **</font>
+<font 24px/inherit;;inherit;;inherit>** ਇਕ ਸਿਧ ਸੰਸਾਰ  **  ** [02-01]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?nolink&}}
 
 **ਆਦਮ** ਅਤੇ ਉਸਦੀ ਪਤਨੀ ਇਕ ਖੂਬਸੂਰਤ ਬਾਗ ਵਿਚ ਅਨੰਦ ਨਾਲ ਰਹਿ ਰਹੇ ਸਨ ਜੋ **ਪ੍ਰਮੇਸ਼ਵਰ ** ਨੇ ਉਹਨਾਂ ਲਈ ਬਣਾਇਆ ਸੀ | ਉਹਨਾਂ ਵਿਚੋ ਕਿਸੇ ਨੇ ਵੀ ਕਪੜੇ ਨਹੀਂ ਪਾਏ ਸਨ ਪਰ ਇਸ ਤੋਂ ਉਹਨਾਂ ਨੂੰ **ਸ਼ਰਮ ** ਨਹੀਂ ਸੀ ਕਿਉਂਕਿ ਸੰਸਾਰ ਵਿਚ ਕੋਈ **ਪਾਪ** ਨਹੀਂ ਸੀ | ਉਹ ਆਮ ਤੌਰ ਤੇ ਬਾਗ ਵਿਚ ਘੁੰਮਦੇ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਗੱਲਾਂ ਕਰਦੇ ਸਨ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ :**  =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:adam|ਆਦਮ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ : ====
 
-**[[:pa:obs:notes:key-terms:adam|ਆਦਮ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ :**  ====
-
-  *
-
-**garden**  - A special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. This should be the same word that was used in **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. See how you translated it there.
-  *
-
-**talked with God**  - The word for “talk” should be the same as would be used to refer to talking to a human being. God may have taken a physical form to talk to the man and the woman since the text indicates that they talked to him face-to-face.
-  *
-
-**shame**  - The feeling that comes with knowing we have sinned or that we fall short in some way.
-**[[https://door43.org/en/obs/notes/frames/01-16|<<]] | [[https://door43.org/en/obs/notes/02|Up]] | [[https://door43.org/en/obs/notes/frames/02-02|>>]]**
+  * **ਬਾਗ **–ਪੌਦੇ ਅਤੇ ਦਰੱਖਤਾਂ ਦੇ ਇਕ ਖਾਸ ਇੱਕਠ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਦਮ ਅਤੇ ਔਰਤ ਦੇ ਅਨੰਦ ਲਈ ਤਿਆਰ ਕੀਤਾ ਸੀ ਇਕ ਉਹ ਇਹਨਾਂ ਤੋਂ ਖਾਣ | ਇਹ ਬਿਲਕੁੱਲ ਉਹੀ ਸ਼ਬਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਜੋ **\ [01-11**] ਵਿਚ ਇਸਤੇਮਾਲ ਕੀਤਾ ਗਿਆ ਸੀ | ਧਿਆਨ ਦੇਵੋ ਤੁਸੀਂ ਇਸ ਨੂੰ ਇੱਥੇ ਕਿਸ ਤਰਾਂ ਇਸਤੇਮਾਲ ਕਰਦੇ ਹੋ |
+  * ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਗੱਲਾਂ  ਕੀਤੀਆਂ – ਸ਼ਬਦ “ਗੱਲਾਂ” ਉਹੀ ਸ਼ਬਦ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਜੋ ਮਨੁੱਖ ਨਾਲ ਗੱਲ ਕਰਨ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਂਦਾ ਹੈ | ਪ੍ਰਮੇਸ਼ਵਰ ਮਰਦ ਅਤੇ ਔਰਤ ਨਾਲ ਗੱਲ ਕਰਨ ਲਈ ਕੋਈ ਵੀ ਰੂਪ ਲੈ ਸਕਦਾ ਸੀ ਪਰ ਪਾਠ ਪ੍ਰਗਟ ਕਰਦਾ ਹੈ ਕਿ ਉਹ ਉਸ ਨਾਲ ਰੁ-ਬ-ਰੂਹ ਗੱਲਾਂ ਕਰਦੇ ਸਨ |
+  * **ਸ਼ਰਮ**  –ਉਹ ਭਾਵਨਾ ਜੋ ਇਹ ਜਾਨਣ ਤੋਂ ਆਉਂਦੀ ਹੈ ਕਿ ਅਸੀਂ ਪਾਪ ਕੀਤਾ ਹੈ ਜਾਂ ਕਿ ਅਸੀਂ ਕਿਸੇ ਤਰੀਕੇ ਨਾਲ ਗਿਰ ਗਏ |
+**[[:pa:obs:notes:frames:01-16|<<]] | [[:pa:obs:notes:frames:02-01|Up]] | [[https://door43.org/en/obs/notes/frames/02-02|>>]]**
