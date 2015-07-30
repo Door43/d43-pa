@@ -1,19 +1,13 @@
-===== **ਵੱਡੀ ਕਿਸ਼ਤੀ [03-03]**  =====
+===== ਵੱਡੀ ਕਿਸ਼ਤੀ [03-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&}}
 
 **ਪ੍ਰਮੇਸ਼ਵਰ ** ਨੇ **ਨੂਹ** ਨੂੰ 140 ਮੀਟਰ ਲੰਬੀ, 23 ਮੀਟਰ ਚੌੜੀ ਅਤੇ 13.5 ਮੀਟਰ ਉੱਚੀ ਇਕ **ਕਿਸ਼ਤੀ** ਬਣਾਉਣ ਲਈ ਕਿਹਾ | ਨੂਹ ਨੂੰ ਇਸ ਨੂੰ ਲਕੜੀ ਨਾਲ ਤਿੰਨ ਮੰਜਲੀ ਅਤੇ ਬਹੁਤ ਕਮਰਿਆਂ, ਛੱਤ ਅਤੇ ਖਿੜਕਿਆਂ ਨਾਲ ਬਨਾਉਣਾ ਸੀ | ਕਿਸ਼ਤੀ ਨੂਹ ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਅਤੇ ਧਰਤੀ ਦੇ ਹਰ ਪ੍ਰਕਾਰ ਦੇ ਜਾਨਵਰਾਂ ਨੂੰ ਜਲ ਪਰਲੋ ਦੇ ਦਿਨਾਂ ਵਿਚ ਸੰਭਾਲੇਗੀ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ :**  =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
-===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
-
-  *
-
-**the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
-**[[https://door43.org/en/obs/notes/frames/03-02|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-04|>>]]**
+  * **ਕਿਸ਼ਤੀ**  – ਕਿਸ਼ਤੀ ਕਾਫੀ ਵੱਡੀ ਸੀ ਜੋ ਅੱਠ ਲੋਕਾਂ ਅਤੇ ਸੱਭ ਜਾਨਵਰਾਂ ਦੇ ਜੋੜਿਆ ਨੂੰ ਅਤੇ ਲੱਗ ਭੱਗ ਇਕ ਸਾਲ ਦੇ ਰਾਸ਼ਨ ਨੂੰ ਚੱਕ ਸਕੇ |
+**[[:pa:obs:notes:frames:03-02|<<]] | [[:pa:obs:notes:frames:03-03|Up]] | [[https://door43.org/en/obs/notes/frames/03-04|>>]]**
