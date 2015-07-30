@@ -6,8 +6,8 @@
 ===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
   * **[[:pa:obs:notes:key-terms:death|ਮਰ ਗਏ ]]**
-===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-* //(There are no notes for this frame.)//
+*(ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
-**[[https://door43.org/en/obs/notes/frames/03-07|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-09|>>]]**
+**[[:pa:obs:notes:frames:03-07|<<]] | [[:pa:obs:notes:frames:03-08|Up]] | [[https://door43.org/en/obs/notes/frames/03-09|>>]]**
