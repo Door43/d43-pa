@@ -1,31 +1,18 @@
-===== **ਨੂਹ ਦਾ ਬਲੀਦਾਨ [03-14]**  =====
+===== ਨੂਹ ਦਾ ਬਲੀਦਾਨ [03-14] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&}}
 
 **ਨੂਹ** ਦੇ ਕਿਸ਼ਤੀ ਵਿਚੋਂ ਉੱਤਰਨ ਦੇ ਬਾਅਦ ਉਸਨੇ **ਬੇਦੀ** ਬਣਾਈ ਅਤੇ ਹਰ ਕਿਸਮ ਦੇ ਜਾਨਵਰਾਂ ਵਿਚੋਂ ਕੁੱਝ ਦੀ **ਬਲੀ ਦਿੱਤੀ** ਜੋ **ਬਲੀਦਾਨ ਲਈ ਗ੍ਰਹਿਣ ਯੋਗ ਸਨ** |**ਪ੍ਰਮੇਸ਼ਵਰ** ਬਲੀਦਾਨਾਂ ਤੋਂ **ਖੁਸ਼ ਸੀ** ਅਤੇ ਨੂਹ ਅਤੇ ਨੂਹ ਦੇ ਪਰੀਵਾਰ ਨੂੰ **ਬਰਕਤ ਦਿੱਤੀ** |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
+  * **[[:pa:obs:notes:key-terms:altar|ਬੇਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:sacrifice|ਬਲੀਦਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * [[:pa:obs:notes:key-terms:bless|ਬਰਕਤਦਿੱਤੀ]]
 
-**[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
-  *
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-**[[:pa:obs:notes:key-terms:altar|ਬੇਦੀ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:sacrifice|ਬਲੀਦਾਨ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-  *
-
-****[[:pa:obs:notes:key-terms:bless|ਬਰਕਤਦਿੱਤੀ]]****
-===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
-
-  *
-
-**animal that could be used for a sacrifice**  - Another way to say this would be, “that people could use to sacrifice to him.”
-  *
-
-**God was happy**  - God was pleased with Noah for sacrificing these animals.
-**[[https://door43.org/en/obs/notes/frames/03-13|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-15|>>]]**
+  * **ਜਾਨਵਰ ਜੋ****ਬਲੀਦਾਨ ਲਈ ਗ੍ਰਹਿਣ ਯੋਗ ਸਨ –**  ਹੋਰ ਤਿਰਕੇ ਨਾਲ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਜਿਹਨਾਂ ਨੂੰ ਲੋਕ ਉਸ ਲਈ ਬਲੀ ਦੇਣ ਲਈ ਇਸਤੇਮਾਲ ਕਰਦੇ ਸਨ|”
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਖੁਸ਼ ਸੀ **– ਇਹਨਾਂ ਜਾਨਵਰਾਂ ਨੂੰ ਬਲੀ ਕਰਨ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਨੂਹ ਨਾਲ ਖੁਸ਼ ਸੀ |
+**[[:pa:obs:notes:frames:03-13|<<]] | [[:pa:obs:notes:frames:03-14|Up]] | [[https://door43.org/en/obs/notes/frames/03-15|>>]]**
