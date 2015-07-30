@@ -1,16 +1,12 @@
-===== **ਕਾਂ [03-10]**  =====
+===== ਕਾਂ [03-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
 ਚਾਲੀ ਹੋਰ ਦਿਨਾਂ ਬਾਅਦ, **ਨੂਹ** ਨੇ ਇਕ ਪੰਛੀ ਜਿਸਨੂੰ **ਕਾਂ** ਕਹਿੰਦੇ ਹਨ ਦੇਖਣ ਲਈ ਭੇਜਿਆ ਕਿ ਕੀ ਪਾਣੀ ਸੁੱਕ ਗਿਆ ਹੈ ਜਾਂ ਨਹੀਂ | ਕਾਂ ਸੱਕੀ ਜਗ੍ਹਾ ਦੇਖਣ ਲਈ ਆਉਂਦਾ ਜਾਂਦਾ ਰਿਹਾ ਪਰ ਕਿੱਤੇ ਵੀ ਨਾ ਲੱਭ ਸਕਿਆ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-**[[:pa:obs:notes:key-terms:noah|ਨੂਹ]]**
-===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
-
-  *
-
-**raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals.
-**[[https://door43.org/en/obs/notes/frames/03-09|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
+  * **ਕਾਂ-**  ਇਕ ਕਾਲੇ ਰੰਗ ਦਾ ਪੰਛੀ ਜੋ ਜੋ ਕਈ ਕਿਸਮ ਦੇ ਪੌਦਿਆਂ ਅਤੇ ਕੀੜੇ ਮਕੌੜਿਆ ਦਾ ਭੋਜਨ ਕਰਦਾ ਹੈ ਜਿਸ ਵਿਚ ਮਰੇ ਹੋਏ ਜਾਨਵਰਾਂ ਦੇ ਗਲੇ ਸੜੇ ਸਰੀਰ ਵੀ ਹਨ |
+**[[:pa:obs:notes:frames:03-09|<<]] | [[:pa:obs:notes:frames:03-10|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
