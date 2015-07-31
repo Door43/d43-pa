@@ -6,7 +6,7 @@
 ===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
   * **[[:pa:obs:notes:key-terms:abraham|ਅਬਰਾਹਾਮ]]**
-  * [[:pa:obs:notes:key-terms:circumcise|ਖਤਨਾਕੀਤਾ]]
+  * **[[:pa:obs:notes:key-terms:circumcise|ਖਤਨਾਕੀਤਾ]]**
   * **[[:pa:obs:notes:key-terms:sarah|ਸਾਰਾਹ]]**
   * **[[:pa:obs:notes:key-terms:son|ਪੁੱਤਰ]]**
   * **[[:pa:obs:notes:key-terms:isaac|ਇਸਹਾਕ]]**
