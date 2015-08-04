@@ -1,19 +1,13 @@
-<font 24px/inherit;;inherit;;inherit>** ਭਾਈਆਂ ਨੇ ਝੂਠ ਬੋਲਿਆ  **  ** [08-03] **</font>
+<font 24px/inherit;;inherit;;inherit>** ਭਾਈਆਂ ਨੇ ਝੂਠ ਬੋਲਿਆ  **  ** [08-03]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-03.jpg?nolink&}}
 
-ਇਸ ਤੋਂ ਪਹਿਲਾਂ **ਯੂਸਫ ਦੇ** ਭਾਈ ਘਰ ਵਾਪਸ ਆਉਣ ਉਹਨਾਂ ਨੇ ਯੂਸਫ ਦੇ ਚੋਲੇ ਨੂੰ ਪਾੜਿਆ ਅਤੇ **ਬੱਕਰੀ ਦੇ ਖੂਨ** ਵਿਚ ਡੋਬਿਆ | ਤੱਦ ਉਹਨਾਂ ਨੇ ਉਹ ਚੋਲਾ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਦਿਖਾਇਆ ਕਿ ਉਹ ਇਹ ਸੋਚੇ ਕਿ ਕਿਸੇ ਜੰਗਲੀ ਜਾਨਵਰ ਨੇ ਯੂਸਫ ਨੂੰ ਮਾਰ ਦਿੱਤਾ ਹੈ | **Jacob** was very sad.
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
+ਇਸ ਤੋਂ ਪਹਿਲਾਂ **ਯੂਸਫ ਦੇ** ਭਾਈ ਘਰ ਵਾਪਸ ਆਉਣ ਉਹਨਾਂ ਨੇ ਯੂਸਫ ਦੇ ਚੋਲੇ ਨੂੰ ਪਾੜਿਆ ਅਤੇ **ਬੱਕਰੀ ਦੇ ਖੂਨ** ਵਿਚ ਡੋਬਿਆ | ਤੱਦ ਉਹਨਾਂ ਨੇ ਉਹ ਚੋਲਾ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਦਿਖਾਇਆ ਕਿ ਉਹ ਇਹ ਸੋਚੇ ਕਿ ਕਿਸੇ ਜੰਗਲੀ ਜਾਨਵਰ ਨੇ ਯੂਸਫ ਨੂੰ ਮਾਰ ਦਿੱਤਾ ਹੈ | **ਯਕੂਬ ** ਬਹੁਤ ਉਦਾਸ ਹੋਇਆ |
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:josephot|ਯੂਸਫ]]**
+  * **[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
+==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-**[[:pa:obs:notes:key-terms:josephot|ਯੂਸਫ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
-
-  *
-
-**goat's blood**  - The brothers wanted Jacob to think that the blood on the clothes was Joseph's blood.
-**[[https://door43.org/en/obs/notes/frames/08-02|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-04|>>]]**
+  * **ਬੱਕਰੀ ਦਾ ਖੂਨ**  – ਭਾਈ ਚਹੁੰਦੇ ਸਨ ਕਿ ਯਕੂਬ ਸੋਚੇ ਕਿ ਕਪੜਿਆਂ ਉੱਤੇ ਖੂਨ ਯੂਸਫ ਦਾ ਖੂਨ ਹੈ |
+**[[:pa:obs:notes:frames:08-02|<<]] | [[:pa:obs:notes:frames:08-03|Up]] | [[https://door43.org/en/obs/notes/frames/08-04|>>]]**
