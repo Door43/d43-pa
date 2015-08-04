@@ -1,22 +1,14 @@
-===== **ਯਕੂਬ ਅਮੀਰ ਹੋ ਗਿਆ  [07-07]**  =====
+===== ਯਕੂਬ ਅਮੀਰ ਹੋ ਗਿਆ [07-07] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-07.jpg?nolink&}}
 
 **ਯਕੂਬ ਰਿਬਕਾਹ ਦੇ** ਰਿਸ਼ਤੇਦਾਰਾਂ ਨਾਲ ਬਹੁਤ ਸਾਲ ਰਿਹਾ | ਉਸ ਸਮੇਂ ਦਰਮਿਆਨ ਉਸਨੇ ਵਿਆਹ ਕਰ ਲਿਆ ਅਤੇ ਉਸਦੇ ਬਾਰਾਂ ਲੜਕੇ ਅਤੇ ਇਕ ਧੀ ਹੋਈ |**ਪ੍ਰਮੇਸ਼ਵਰ** ਨੇ ਉਸਨੂੰ ਬਹੁਤ **ਧਨੀ ** ਕੀਤਾ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
+  * **[[:pa:obs:notes:key-terms:rebekah|ਰਿਬਕਾਹ ਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-**[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:rebekah|ਰਿਬਕਾਹ ਦਾ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
-===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
-
-  *
-
-**wealthy**  – This included money, large herds of animals and other possessions.
-**[[https://door43.org/en/obs/notes/frames/07-06|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-08|>>]]**
+  * **ਧਨੀ**  – ਇਸ ਵਿਚ ਪੈਸਾ, ਪਸ਼ੂਆਂ ਦੇ ਵੱਡੇ ਝੁੰਡ ਅਤੇ ਹੋਰ ਸਨੰਪਤੀ ਵੀ ਸ਼ਾਮਲ ਸੀ |
+**[[:pa:obs:notes:frames:07-06|<<]] | [[:pa:obs:notes:frames:07-07|Up]] | [[https://door43.org/en/obs/notes/frames/07-08|>>]]**
