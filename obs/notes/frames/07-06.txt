@@ -1,34 +1,29 @@
-<font 24px/inherit;;inherit;;inherit>** ਇਸਹਾਕ ਨੇ ਯਕੂਬ ਨੂੰ ਦੂਰ ਭੇਜ ਦਿੱਤਾ  **  ** [07-06] **</font>
+<font 24px/inherit;;inherit;;inherit>** ਇਸਹਾਕ ਨੇ ਯਕੂਬ ਨੂੰ ਦੂਰ ਭੇਜ ਦਿੱਤਾ  **  ** [07-06]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&}}
 
-But **Rebekah** heard of **Esau’s plan**. So **she and Isaac sent Jacob far away to live with her relatives**.
-===== Important Terms: =====
+ਪਰ **ਰਿਬਕਾਹ** ਨੇ **ਇਸਾਓ ਦੀ ਯੋਜਨਾ** ਬਾਰੇ ਸੁਣ ਲਿਆ ਸੀ | ਇਸ **ਲਈ ਉਸਨੇ ਅਤੇ ਇਸਹਾਕ ਨੇ ਯਕੂਬ ਨੂੰ ਦੂਰ ਆਪਣੇ ਰਿਸ਼ਤੇਦਾਰਾਂ ਕੋਲ ਰਹਿਣ ਲਈ ਭੇਜ ਦਿੱਤਾ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:rebekah|ਰਿਬਕਾਹ]]**
+  * **[[:pa:obs:notes:key-terms:esau|ਇਸਾਓ]]**
+  * **[[:pa:obs:notes:key-terms:isaac|ਇਸਹਾਕ]]**
+  * **[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
 
-**[[https://door43.org/en/obe/other/rebekah|Rebekah]]**
-  *
-
-**[[https://door43.org/en/obe/other/esau|Esau's]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-===== Translation Notes: =====
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
   *
 
 **Esau's plan**  - Esau's plan was to kill Jacob after his father died.
+
   *
 
 **she and Isaac sent Jacob**  – Rebekah wanted to protect Jacob from Esau so she talked to Isaac about sending Jacob away.
+
   *
 
 **far away to live with her relatives**  - This was the same place where Rebekah was living when Abraham's servant got her to be Isaac's wife. To make this clear, you could add, “relatives in the same land where she used to live.” The land was to the east, several hundred miles away.
+
   *
 
-**her relatives**  - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives.
-**[[https://door43.org/en/obs/notes/frames/07-05|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-07|>>]]**
+**her relatives**  - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives. **[[https://door43.org/en/obs/notes/frames/07-05|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-07|>>]]**
