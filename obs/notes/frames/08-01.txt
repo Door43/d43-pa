@@ -1,32 +1,21 @@
-===== **ਯੂਸਫ ਚਹੇਤਾ ਪੁੱਤਰ** **[08-01]**  =====
+===== ਯੂਸਫ ਚਹੇਤਾ ਪੁੱਤਰ [08-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?nolink&}}
 
 ਬਹੁਤ ਸਾਲ ਬਾਅਦ ਜਦੋਂ ਯਕੂਬ ਬੁੜਾ ਹੋ ਗਿਆ ਸੀ, ਉਸ ਨੇ ਆਪਣੇ ਚਹੇਤੇ ਪੁੱਤਰ ਯੂਸਫ ਨੂੰ ਭੇਜਿਆ ਕਿ ਆਪਣੇ ਭਾਈਆਂ ਨੂੰ ਦੇਖਣ ਲਈ ਜਾਵੇ ਜੋ ਵੱਗਾਂ ਦੀ ਦੇਖਭਾਲ ਕਰਦੇ ਸਨ |
 
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
+  * **[[:pa:obs:notes:key-terms:josephot|ਯੂਸਫ]]**
+==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-**[[:pa:obs:notes:key-terms:jacob|ਯਕੂਬ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:josephot|ਯੂਸਫ]]**
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
-
-  *
-
-**sent**  – This word means that Jacob told Joseph to go and Joseph went.
-  *
-
-**favorite son**  - This could be translated as, “the son he loved more than any of his other children.”
-  *
-
-**check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, “to see his brothers' well-being.”
-  *
-
-**brothers**  - These were Joseph's older brothers.
+  * **ਭੇਜਿਆ **– ਇਸ ਸ਼ਬਦ ਦਾ ਮਤਲਬ ਕਿ ਯਕੂਬ ਨੇ ਯੂਸਫ ਨੂੰ ਜਾਣ ਲਈ ਕਿਹ ਅਤੇ ਯੂਸਫ ਗਿਆ |
+  * **ਚਹੇਤਾ ਪੁੱਤਰ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਉਹ ਪੁੱਤਰ ਜਿਸ ਨੂੰ ਉਹ ਆਪਣੇ ਬਾਕੀ ਦੇ ਬੱਚਿਆਂ ਨਾਲੋ ਜਿਆਦਾ ਪਿਆਰ ਕਰਦਾ ਸੀ|”
+  * **ਦੇਖ ਕੇ ਆਉਂਣਾ**  – ਇਸ ਦਾ ਮਤਲਬ ਕਿ ਯੂਸਫ ਜਾਵੇ ਅਤੇ ਦੇਖ ਕੇ ਆਵੇ ਕਿ ਉਸ ਦੇ ਭਾਈਆਂ ਨਾਲ ਸੱਭ ਕੁੱਝ ਠੀਕ ਠਾਕ ਹੈ | ਕੁੱਝ ਭਾਸ਼ਾ ਸ਼ਾਇਦ ਇਸ ਤਰਾਂ ਕਹਿ ਸਕਦੀਆਂ ਹਨ, “ਆਪਣੇ ਭਰਾਵਾਂ ਦੀ ਸੁਖ ਸਾਂਦ ਦੇਖਣ ਲਈ |”
+  * **ਭਾਈ **– ਇਹ ਯੂਸਫ ਦੇ ਵੱਡੇ ਭਰਾ ਸਨ |
   *
 
 **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, “who were far away taking care of.”
+
 **[[https://door43.org/en/obs/notes/frames/07-10|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-02|>>]]**
