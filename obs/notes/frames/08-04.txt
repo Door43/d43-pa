@@ -13,8 +13,5 @@
   * **[[:pa:obs:notes:key-terms:bless|ਬਰਕਤ ਦਿੱਤੀ]]**
 ==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-  *
-
-**government official**  - This was a person who was part of the Egyptian government. Another way to say this would be, “a leader in Egypt's government.”
-
-**[[https://door43.org/en/obs/notes/frames/08-03|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-05|>>]]**
+  * **ਸਰਕਾਰੀ ਅਫਸਰ**  – ਇਹ ਵਿਅਕਤੀ ਮਿਸਰੀ ਸਰਕਾਰ ਦਾ ਹਿੱਸਾ ਸੀ | ਇਸ ਨੂੰ ਦੂਸਰੇ ਤਰੀਕੇ ਨਾਲ ਵੀ ਕਿਹਾ ਜਾ ਸਕਦਾ, “ਮਿਸਰ ਦੀ ਸਰਕਾਰ ਦਾ ਇਕ ਲੀਡਰ ਸੀ|”
+**[[:pa:obs:notes:frames:08-03|<<]] | [[:pa:obs:notes:frames:08-04|Up]] | [[https://door43.org/en/obs/notes/frames/08-05|>>]]**
