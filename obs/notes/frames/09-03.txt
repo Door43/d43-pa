@@ -1,28 +1,16 @@
-<font 24px/inherit;;inherit;;inherit>** ਸਖਤ ਮੇਹਨਤ **  ** [09-03] **</font>
+<font 24px/inherit;;inherit;;inherit>** ਸਖਤ ਮੇਹਨਤ  **  ** [09-03]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink&}}
 
 **ਮਿਸਰੀਆਂ** ਨੇ **ਇਸਰੇਲੀਆਂ** ਉੱਤੇ ਜੋਰ ਪਾਇਆ ਕਿ ਉਹ ਬਹੁਤ ਸਾਰੀਆਂ ਇਮਾਰਤਾਂ ਬਣਾਉਣ ਅਤੇ ਪੂਰੇ ਸ਼ਹਿਰ ਵੀ | ਸਖਤ ਮੇਹਨਤ ਨੇ ਉਹਨਾਂ ਦਾ ਜੀਵਨ **ਦੁੱਭਰ ** ਕਰ ਦਿੱਤਾ ਪਰ **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ** ਅਤੇ ਉਹਨਾਂ ਦੇ ਹੋਰ ਬੱਚੇ ਹੋਣ ਲੱਗੇ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:israel|ਇਸਰਾਏਲੀ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * ****[[:pa:obs:notes:key-terms:bless|ਬਰਕਤਦਿੱਤੀ]]****
+==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-**[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰੀ]]**
-  *
-
-**ਇਸਰਾਏਲੀ**
-  *
-
-**ਪ੍ਰਮੇਸ਼ਵਰ**
-  *
-
-**ਬਰਕਤ****ਦਿੱਤੀ**
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
-
-  *
-
-**miserable**  – This means that they suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged.
-  *
-
-**God blessed them**  - God took care of them, helping them endure the severe treatment and even caused them to become more numerous by giving them children.
-**[[https://door43.org/en/obs/notes/frames/09-02|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-04|>>]]**
+  * **ਦੁੱਭਰ –** ਇਸ ਦਾ ਮਤਲਬ ਕਿ ਉਹ ਬਹੁਤ ਬੁਰੇ ਤਰੀਕੇ ਨਾਲ ਦੁਖੀ ਹੋਏ ਕਿਉਂਕਿ ਬਹੁਤ ਬੁਰੇ ਤਰੀਕੇ ਨਾਲ ਉਹਨਾਂ ਨਾਲ ਵਤੀਰਾ ਕੀਤਾ ਜਾਂਦਾ ਸੀ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਕਿੰਨਾ ਜੋਰ ਪਾ ਕੇ ਕੰਮ ਕਰਵਾਇਆ ਜਾਂਦਾ ਸੀ | ਉਹ ਬਹੁਤ ਨਿਰਾਸ਼ ਮਹਿਸੂਸ ਕਰਦੇ ਸਨ |
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ**  – ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਦੀ ਦੇਖ ਭਾਲ ਕੀਤੀ, ਬੁਰੇ ਸਲੂਕ ਨੂੰ ਸਹਿਣ ਲਈ ਮੱਦਦ ਕੀਤੀ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਹੋਰ ਬੱਚੇ ਦੇ ਕੇ ਗਿਣਤੀ ਵਿਚ ਵਧਾਇਆ |
+**[[:pa:obs:notes:frames:09-02|<<]] | [[:pa:obs:notes:frames:09-03|Up]] | [[https://door43.org/en/obs/notes/frames/09-04|>>]]**
