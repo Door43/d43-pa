@@ -3,12 +3,13 @@
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
 **ਮਿਸਰ** ਤੋਂ ਦੂਰ **ਮੂਸਾ** **ਜੰਗਲ** ਵਿਚ **ਆਜੜੀ** ਬਣ ਗਿਆ ਸੀ | ਉਸਨੇ ਉਸ ਜਗ੍ਹਾ ਤੋਂ ਇਕ ਔਰਤ ਨਾਲ ਵਿਆਹ ਕਰ ਲਿਆ ਅਤੇ ਉਸਦੇ ਦੋ ਪੁੱਤਰ ਹੋਏ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **ਮੂਸਾ**
-  * **[[https://door43.org/en/obe/other/shepherd|shepherd]]**
-  * **[[https://door43.org/en/obe/other/egypt|Egypt]]**
-==== Translation Notes: ====
+  * **[[:pa:obs:notes:key-terms:moses|ਮੂਸਾ]]**
+  * **[[:pa:obs:notes:key-terms:shepherd|ਆਜੜੀ]]**
+  * **[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰ]]**
+
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
 
   *
 
