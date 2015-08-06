@@ -11,4 +11,4 @@
 ==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
   * **ਦੇਖਿਆ**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਜਾਣਿਆ” ਜਾਂ “ਪਤਾ ਲੱਗਾ”
-**[[https://door43.org/en/obs/notes/frames/09-03|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-05|>>]]**
+**[[:pa:obs:notes:frames:09-03|<<]] | [[:pa:obs:notes:frames:09-04|Up]] | [[https://door43.org/en/obs/notes/frames/09-05|>>]]**
