@@ -10,6 +10,5 @@
   * **[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰ]]**
 ==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-  *
-
-**wilderness**  - See how you translated this in **[[https://door43.org/en/obs/notes/frames/09-10|[09-10]]]**. **[[https://door43.org/en/obs/notes/frames/09-10|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-12|>>]]**
+  * **ਜੰਗਲ -****__\[09-10]__** ਵਿਚ ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰ ਸਕਦੇ ਹੋ |
+**[[:pa:obs:notes:frames:09-10|<<]] | [[:pa:obs:notes:frames:09-11|Up]] | [[https://door43.org/en/obs/notes/frames/09-12|>>]]**
