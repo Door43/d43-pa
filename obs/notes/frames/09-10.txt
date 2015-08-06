@@ -1,22 +1,14 @@
-===== **ਮੂਸਾ ਮਿਸਰ ਤੋਂ ਭੱਜ ਗਿਆ** ** [09-10]**  =====
+===== ਮੂਸਾ ਮਿਸਰ ਤੋਂ ਭੱਜ ਗਿਆ [09-10] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
 ਜਦੋਂ **ਫਰਾਉਨ ** ਨੇ ਉਹ ਸੁਣਿਆ ਜੋ ਮੂਸਾ ਨੇ ਕੀਤਾ ਸੀ, ਤਾਂ ਉਸ ਨੇ ਮੂਸਾ ਨੂੰ ਮਾਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ | ਮੂਸਾ **ਮਿਸਰ** ਤੋਂ ਭੱਜ ਕੇ **ਜੰਗਲ** ਵਿਚ ਚਲਾ ਗਿਆ ਜਿੱਥੇ ਉਹ ਫਰਾਉਨ ਦੇ ਸਿਪਾਹੀਆਂ ਤੋਂ ਸੁਰੱਖਿਅਤ ਸੀ |
-===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  *
+  * **[[:pa:obs:notes:key-terms:pharaoh|ਫਰਾਉਨ]]**
+  * **[[:pa:obs:notes:key-terms:moses|ਮੂਸਾ]]**
+  * **[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰ]]**
+==== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: ====
 
-**[[:pa:obs:notes:key-terms:pharaoh|ਫਰਾਉਨ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:moses|ਮੂਸਾ]]**
-  *
-
-**[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰ]]**
-==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
-
-  *
-
-**wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-**[[https://door43.org/en/obs/notes/frames/09-09|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-11|>>]]**
+  * **ਜੰਗਲ **– ਜੰਗਲ ਇਕ ਵੱਡਾ ਖੇਤਰ ਸੀ ਜੋ ਬੰਜਰ ਅਤੇ ਪਥਰੀਲਾ ਸੀ | ਉਹ ਭੂਮੀ ਜੋ ਅਨਾਜ ਪੈਦਾ ਕਰਨ ਲਈ ਚੰਗੀ ਨਹੀ ਸੀ ਸਿਰਫ ਕੁੱਝ ਲੋਕ ਹੀ ਉੱਥੇ ਰਹਿੰਦੇ ਸਨ |
+**[[:pa:obs:notes:frames:09-09|<<]] | [[:pa:obs:notes:frames:09-10|Up]] | [[https://door43.org/en/obs/notes/frames/09-11|>>]]**
