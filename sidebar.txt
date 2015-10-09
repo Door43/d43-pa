@@ -18,10 +18,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 {{changes>ns = pa}}
 
-**Latest Status**
-
-{{page>pa:uwadmin:pa:obs:status}}
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/pa|Ethnologue data]]
