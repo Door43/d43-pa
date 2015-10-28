@@ -1,4 +1,4 @@
-===== ਇਸਰਾਏਲ ਨੇ ਪਾਪ ਕੀਤਾ  [20-01] =====
+===== ਇਸਰਾਏਲ ਨੇ ਪਾਪ ਕੀਤਾ [20-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?nolink&}}
 
@@ -6,15 +6,15 @@
 ===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
   * **[[:pa:obs:notes:key-terms:kingdomofisrael|ਇਸਰਾਏਲ ਦਾ ਸਾਮਰਾਜ ]]**
-  * **[[:pa:obs:notes:key-terms:kingdom-of-judah|kingdom-of-judah]]**
-  * **[[:pa:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:pa:obe:kt:god|God]]**
-  * **[[:pa:obe:kt:covenant|covenant]]**
-  * **[[:pa:obe:kt:sinai|sinai]]**
-  * **[[:pa:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:pa:obe:kt:repent|repent, repentance]]**
-  * **[[:pa:obe:kt:worship|worship]]**
-  * **[[:pa:obe:other:obey|obey, obedient, obedience]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofjudah|ਯਹੂਦਾਹ ਦਾ ਸਾਮਰਾਜ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ ਕੀਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ ]]**
+  * **[[:pa:obs:notes:key-terms:covenant|ਨੇਮ]]**
+  * **[[:pa:obs:notes:key-terms:sinai|ਸਨੇਈ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+  * **[[:pa:obs:notes:key-terms:repent|ਅਮੋਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:worship|ਬੰਦਗੀ ]]**
+  * **[[:pa:obs:notes:key-terms:obey|ਹੁਕਮ ਮੰਨਣਾ]]**
 ==== Translation Notes: ====
 
   * **broke the covenant**  - That is, "disobeyed the commands God had given them in his covenant with them at Mount Sinai."
