@@ -1,28 +1,22 @@
-===== Judah Served Babylon [20-06] =====
+===== **ਯਹੂਦਾਹ ਨੇ ਬਾਬਲ ਦੀ ਸੇਵਾ ਕੀਤੀ** **[20-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?nolink&}}
 
-About 100 years after the **Assyrians** destroyed the **kingdom of Israel**, God sent **Nebuchadnezzar**, **king** of the **Babylonians**, to attack the **kingdom of Judah**. **Babylon** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s servant** and pay him a lot of money every year.
-===== Important Terms: =====
+**ਅਸੀਰੀਆ** ਦੁਆਰਾ **ਇਸਰਾਏਲ ਦੇ ਸਾਮਰਾਜ** ਨੂੰ ਖਤਮ ਕਰਨ ਦੇ ਲੱਗ ਭੱਗ 100 ਸਾਲ ਬਾਅਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ **ਨਬੂਕਦਨੱਸਰ** **ਬਾਬਲ** ਦੇ **ਰਾਜੇ** ਨੂੰ **ਯਹੂਦਾਹ** ਉੱਤੇ ਹਮਲਾ ਕਰਨ ਲਈ ਭੇਜਿਆ | **ਬਾਬਲ** ਇਕ ਸ਼ਕਤੀਸ਼ਾਲੀ **ਸਾਮਰਾਜ** ਸੀ | ਯਹੂਦਾਹ ਦਾ ਰਾਜਾ **ਨਬੂਕਦਨੱਸਰ** **ਦੇ** **ਸੇਵਕ** ਨਾਲ ਸਹਿਮਤ ਹੋ ਗਿਆ ਅਤੇ ਹਰ ਸਾਲ ਉਸ ਨੂੰ ਬਹੁਤ ਸਾਰਾ ਧੰਨ ਦਿੰਦਾ ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
+  * **ਅਸੀਰੀਆ ਦੇ ਲੋਕ  **
+  * **ਇਸਰਾਏਲ ਦਾ ਸਾਮਰਾਜ **
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਨਬੂਕਦਨੱਸਰ**
+  * **ਰਾਜਾ**
+  * **ਬਾਬਲ ਦੇ ਲੋਕ  **
+  * **ਯਹੂਦਾਹ ਦਾ ਸਾਮਰਾਜ **
+  * **ਬਾਬਲ**
+  * **ਸੇਵਕ**
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
 
-  * **[[:pa:obe:other:assyria]]**
-  * **[[:pa:obe:other:kingdom-of-israel]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:nebuchadnezzar]]**
-  * **[[:pa:obe:other:king]]**
-  * **[[:pa:obe:other:babylon]]**
-  * **[[:pa:obe:other:kingdom-of-judah]]**
-  * **[[:pa:obe:other:babylon]]**
-  * **[[:pa:obe:other:servant]]**
-
-
-==== Translation Notes: ====
-
-
-  * **empire** - See how you translated this in **[[:pa:obs:notes:frames:20-02|[20-02]]]**.
-  * **agreed to be** – The king of Judah was forced to either serve the Babylonian king or be destroyed.
-  * **to be Nebuchadnezzar's servant** - This could be translated as, "to govern Judah under Nebuchadnezzar's command."
-
-
+  * **ਸਾਮਰਾਜ**  – ਦੇਖੋ ਤੁਸੀਂ **__[20-02]__** ਵਿਚ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਸਹਿਮਤ****ਹੋਇਆ**  – ਯਹੂਦਾਹ ਦਾ ਰਾਜਾ ਮਜਬੂਰ ਸੀ ਕਿ ਉਹ ਜਾਂ ਤਾਂ ਬਾਬਲ ਦੇ ਰਾਜਾ ਦੀ ਸੇਵਾ ਕਰੇ ਜਾਂ ਤਬਾਹ ਕੀਤਾ ਜਾਵੇ |
+  * **ਨਬੂਕਦਨੱਸਰ ਦਾ ਸੇਵਕ ਹੋਣ ਲਈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਯਹੂਦਾਹ ਉੱਤੇ ਨਬੂਕਦਨੱਸਰ ਦੇ ਹੁਕਮ ਅਨੁਸਾਰ ਹਕੂਮਤ ਕਰੇ|”
 **[[:pa:obs:notes:frames:20-05|<<]] | [[:pa:obs:notes:20|Up]] | [[:pa:obs:notes:frames:20-07|>>]]**
