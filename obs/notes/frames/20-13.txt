@@ -1,28 +1,21 @@
-===== The Temple Was Rebuilt [20-13] =====
+===== **ਮੰਦਰ ਦੁਬਾਰਾ ਬਣਾਇਆ ਗਿਆ** **[20-13]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?nolink}}
+ਜਦੋਂ ਲੋਕ **ਯਰੁਸ਼ਲਮ** ਵਿਚ ਪਹੁੰਚੇ, ਉਹਨਾਂ ਨੇ ਮੰ**ਦ** ਰ ਅਤੇ ਸ਼ਹਿਰ ਦੇ ਦੁਆਲੇ **ਦੀਵਾਰ** ਨੂੰ ਦੁਬਾਰਾ ਬਣਾਇਆ | ਚਾਹੇ ਉਹ ਅਜੇ ਵੀ **ਦੂਸਰੇ ਲੋਕਾਂ ਦੇ ਸਾਸ਼ਨ ਵਿਚ** ਸਨ, ਪਰ **ਇਕ** **ਵਾਰ** **ਫਿਰ** ਉਹ ਵਾਇਦੇ ਦੇ ਦੇਸ ਵਿਚ ਵਸੇ ਅਤੇ **ਮੰਦਰ ਵਿਚ ਬੰਦਗੀ ਕੀਤੀ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **ਯਰੂਸ਼ਲਮ**
+  * **ਮੰਦਰ**
+  * **ਵਾਇਦੇ ਦਾ ਦੇਸ **
+  * **ਬੰਦਗੀ ਕੀਤੀ  **
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
 
-When the people arrived in **Jerusalem**, they rebuilt the **Temple** and **the wall** around the city. Although they were still **ruled by other people**, **once again** they lived in the **Promised Land** and **worshiped at the Temple**.
-===== Important Terms: =====
-
-
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:kt:temple]]**
-  * **[[:pa:obe:kt:promisedland]]**
-  * **[[:pa:obe:kt:worship]]**
-
-
-==== Translation Notes: ====
-
-
-  * **the people** - That is, the Israelites, the descendants of Jacob, who were now called the Jews.
-  * **the wall** - This wall was very thick (2.5 meters) and was built to protect the city from attackers.
-  * **ruled by other people** - That is, another nation controlled them. The Jews were ruled by the Persians at this time, and later by other nations.
-  * **once again** - In some languages this might need to be translated as, "now" or, "as their ancestors had done" or, "just as before the Exile."
-  * **worshiped at the Temple** - They worshiped Yahweh, the One True God, at the Temple they rebuilt.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **ਲੋਕ**  – ਮਤਲਬ, ਇਸਰਾਏਲੀ, ਯਕੂਬ ਦੀ ਸੰਤਾਨ ਜੋ ਹੁਣ ਯਹੂਦੀ ਅਖਵਾਉਂਦੇ ਸਨ |
+  * **ਦੀਵਾਰ**  – ਇਹ ਦੀਵਾਰ ਬਹੁਤ ਮੋਟੀ ਸੀ (2.5 ਮੀਟਰ) ਅਤੇ ਸ਼ਹਿਰ ਨੂੰ ਹਮਲਾਵਰਾਂ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਣਾਈ ਹੋਈ ਸੀ |
+  * **ਦੂਸਰੇ ਲੋਕਾਂ ਦੇ ਸਾਸ਼ਨ ਅਧੀਨ**  – ਮਤਲਬ, ਹੋਰ ਦੇਸ ਉਹਨਾਂ ਉੱਤੇ ਰਾਜ ਕਰਦਾ ਸੀ | ਇਸ ਸਮੇਂ ਵੀ ਪਰਸੀਆ ਦੇ ਲੋਕ ਉਹਨਾਂ ਉੱਤੇ ਰਾਜ ਕਰਦੇ ਸਨ, ਅਤੇ ਬਾਅਦ ਵਿਚ ਹੋਰ ਦੇਸ |
+  * **ਇਕ ਵਾਰ ਫੇਰ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਸ਼ਾਇਦ ਇਸ ਨੂੰ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, “ਹੁਣ” ਜਾਂ “ਜਿਵੇਂ ਉਹਨਾਂ ਦੇ ਪੁਰਖਿਆਂ ਨੇ ਕੀਤਾ ਸੀ|” ਜਾਂ “ਬਿਲਕੁੱਲ ਉਵੇਂ ਜਿਵੇਂ ਗੁਲਾਮੀ ਤੋਂ ਪਹਿਲਾਂ ਸੀ|”
+  * **ਮੰਦਰ ਵਿਚ ਬੰਦਗੀ ਕੀਤੀ**  – ਉਹਨਾਂ ਨੇ ਯਹੋਵਾਹ ਦੀ ਬੰਦਗੀ ਕੀਤੀ, ਜੋ ਇਕੋ ਸੱਚਾ ਪ੍ਰਮੇਸ਼ਵਰ ਹੈ ਉਸ ਮੰਦਰ ਵਿਚ ਜੋ ਦੁਬਾਰਾ ਬਣਾਇਆ ਗਿਆ ਸੀ |
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:20-12|<<]] | [[:pa:obs:notes:20|Up]] | [[:pa:obs:notes:frames:21-01|>>]]**
