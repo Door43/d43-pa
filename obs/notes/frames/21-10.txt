@@ -1,18 +1,19 @@
-===== **ਮਸੀਹਾ ਚੰਗਾ ਕਰੇਗਾ ****[21-10]**  =====
+===== ਮਸੀਹਾ ਚੰਗਾ ਕਰੇਗਾ [21-10] =====
+
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?nolink&}}
 
-The **prophet Isaiah** said the Messiah would live in **Galilee**, comfort **broken-hearted people**, and **proclaim freedom to captives** and **release to prisoners**. He also predicted that the **Messiah** would **heal** sick people and those who **could not hear**, **see**, **speak**, **or walk**.
-===== Important Terms: =====
+**ਨਬੀ** **ਯਸਾਯਾਹ** ਨੇ ਕਿਹਾ ਕਿ ਮਸੀਹਾ **ਗਲੀਲ** ਵਿਚ ਰਹੇਗਾ, **ਟੁੱਟੇ** **ਦਿਲ** ਵਾਲਿਆਂ ਨੂੰ **ਤਸੱਲੀ** ਦੇਵੇਗਾ, **ਬੰਧੂਆਂ** **ਨੂੰ ਛੁਟਕਾਰਾ ਦੇਵੇਗਾ ਅਤੇ** **ਕੈਦੀਆਂ** **ਲਈ** **ਅਜਾਦੀ ਦੀ ਘੋਸ਼ਣ ਕਰੇਗਾ |** ਉਸ ਨੇ ਇਹ ਵੀ ਭਵਿਖਬਾਣੀ ਕੀਤੀ ਕਿ **ਮਸੀਹਾ** ਲੋਕਾਂ ਨੂੰ **ਚੰਗਾ** **ਕਰੇਗਾ** ਅਤੇ ਜੋ **ਸੁਣ ਨਹੀਂ** **ਸਕਦੇ**, **ਬੋਲ ਨਹੀਂ ਸਕਦੇ, ਬੋਲ ਨਹੀਂ ਸਕਦੇ ਅਤੇ ਤੁਰ ਨਹੀਂ ਸਕਦੇ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-  * **[[:pa:obe:other:isaiah|Isaiah]]**
-  * **[[:pa:obe:other:galilee|Galilee, Galilean]]**
-  * **[[:pa:obe:kt:christ|Christ, Messiah]]**
-  * **[[:pa:obe:other:heal|heal, cure]]**
-==== Translation Notes: ====
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+  * **[[:pa:obs:notes:key-terms:isaiah|ਯਸਾਯਾਹ]]**
+  * **[[:pa:obs:notes:key-terms:galilee|ਗਲੀਲ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+  * **[[:pa:obs:notes:key-terms:heal|ਚੰਗਾ ਕਰਨਾ]] **
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
 
-  * **broken-hearted people**  - This expression refers to people who are experiencing extreme sadness.
-  * **proclaim freedom to captives**  - That is, "tell slaves they could be free." This could also refer to freeing people from slavery to sin.
-  * **release to prisoners**  - That is, "he will set free those who have unjustly been put into prison." This could also refer to setting people free from the bondage of sin.
-  * **could not hear, see, speak, or walk**  – It may be better to say, "could not hear, could not see, could not speak, or could not walk." Some languages have special words for these conditions, such as "deaf" and "blind."
+  * **ਟੁੱਟੇ ਦਿਲ ਵਾਲੇ ਲੋਕ**  – ਇਹ ਪ੍ਰਗਟੀਕਰਨ ਉਹਨਾਂ ਲੋਕਾਂ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਗਿਆ ਹੈ ਜੋ ਬਹੁਤ ਜਿਆਦਾ ਗਮੀ ਅਨੁਭੱਵ ਕਰ ਰਹੇ ਹਨ |
+  * **ਬੰਧੂਆਂ ਨੂੰ ਛੁਟਕਾਰਾ ਦੇਵੇਗਾ**  – ਮਤਲਬ “ਬੰਧੂਆਂ ਨੂੰ ਦੱਸੇ ਕਿ ਉਹ ਅਜਾਦ ਹੋ ਸਕਦੇ ਹਨ” | ਲੋਕਾਂ ਨੂੰ ਪਾਪਾਂ ਦੀ ਗੁਲਾਮੀ ਤੋਂ ਛੁਡਾਉਣ ਦੇ ਸੰਦਰਭ ਵਿਚ ਵੀ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ |
+  * **ਕੈਦੀਆਂ ਦੀ ਬਹਾਲੀ**  – ਮਤਲਬ, “ਉਹ ਉਹਨਾਂ ਨੂੰ ਬਹਾਲ ਕਰੇਗਾ ਜੋ ਧੋਖੇ ਨਾਲ ਜੇਲ ਵਿਚ ਬੰਦ ਕੀਤੇ ਗਏ ਹਨ |” ਲੋਕਾਂ ਨੂੰ ਪਾਪਾਂ ਦੀ ਕੈਦ ਵਿਚੋਂ ਛੁਡਾਉਣ ਦੇ ਸੰਦਰਭ ਵਿਚ ਵੀ ਇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ |
+  * **ਸੁਣ, ਦੇਖ, ਬੋਲ ਜਾਂ ਤੁਰ ਨਹੀਂ ਸਕਦੇ**  – ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚੰਗਾ ਹੋਵੇਗਾ, “ਸੁਣ ਨਹੀਂ ਸਕਦੇ, ਦੇਖ ਨਹੀਂ ਸਕਦੇ, ਬੋਲ ਨਹੀਂ ਸਕਦੇ ਜਾਂ ਤੁਰ ਨਹੀਂ ਸਕਦੇ |” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਹਨਾਂ ਹਲਾਤਾਂ ਲਈ ਖਾਸ ਸ਼ਬਦ ਹਨ, ਜਿਵੇਂ ਕਿ, “ਬਹਿਰੇ” ਅਤੇ “ਅੰਨੇ” |
 **[[:pa:obs:notes:frames:21-09|<<]] | [[:pa:obs:notes:21|Up]] | [[:pa:obs:notes:frames:21-11|>>]]**
