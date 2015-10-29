@@ -1,28 +1,18 @@
-===== A Promise for the Whole World [21-02] =====
+===== **ਸਾਰੇ ਸੰਸਾਰ ਲਈ ਇਕ ਵਾਇਦਾ** **[21-02]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?nolink}}
+**ਪ੍ਰਮੇਸ਼ਵਰ** ਨੇ **ਅਬਰਾਹਾਮ** ਨਾਲ ਵਾਇਦਾ ਕੀਤਾ ਕਿ **ਉਸ** **ਦੁਆਰਾ** ਸੰਸਾਰ ਦੀਆਂ **ਸਾਰੀਆਂ** **ਜਾਤੀਆਂ** **ਬਰਕਤ** ਪ੍ਰਾਪਤ ਕਰਨਗੀਆਂ | ਇਹ ਬਰਕਤ ਉਦੋਂ **ਪੂਰੀ** **ਹੋਵੇਗੀ** ਜਦੋਂ ਭਵਿੱਖ ਵਿਚ **ਮਸੀਹਾ** ਆਵੇਗਾ | ਉਹ ਸੰਭਵ ਕਰੇਗਾ ਕਿ ਸੰਸਾਰ ਦੀਆਂ ਸਾਰੀਆਂ ਜਾਤੀਆਂ ਦੇ ਲੋਕ **ਬਚਾਏ** ਜਾਂਣ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ ]]**
+  * **[[:pa:obs:notes:key-terms:abraham|ਅਬਰਾਹਾਮ]]**
+  * **[[:pa:obs:notes:key-terms:peoplegroup|ਲੋਕਾਂ ਦੀ ਜਾਤੀਆਂ]] **
+  * **[[:pa:obs:notes:key-terms:bless|ਬਰਕਤਾਂ]]**
+  * **[[:pa:obs:notes:key-terms:fulfill|ਪੂਰਾ ਹੋਣਾ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਏ ਗਏ]]**
+==== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: ====
 
-**God** promised **Abraham** that **through him** all **people groups** of the world would receive a **blessing**. This blessing would be **fulfilled** when the **Messiah** would come sometime in the future. He would make it possible for people from every people groups in the world to be **saved**.
-
-
-===== Important Terms: =====
-
-
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:abraham]]**
-  * **[[:pa:obe:other:peoplegroup]]**
-  * **[[:pa:obe:kt:bless]]**
-  * **[[:pa:obe:kt:fulfill]]**
-  * **[[:pa:obe:kt:christ]]**
-  * **[[:pa:obe:kt:save]]**
-
-
-==== Translation Notes: ====
-
-
-  * **through him** – That is, "because of one of his descendants."
-
-
+  * **ਉਸ ਦੁਆਰਾ**  “ਮਤਲਬ, “ਉਸਦੀ ਸੰਤਾਨ ਵਿਚੋਂ ਇਕ ਦੇ ਕਾਰਨ|”
 **[[:pa:obs:notes:frames:21-01|<<]] | [[:pa:obs:notes:21|Up]] | [[:pa:obs:notes:frames:21-03|>>]]**
