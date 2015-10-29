@@ -1,23 +1,16 @@
-===== A Descendant of David [21-04] =====
+===== **ਇਕ ਦਾਉਦ ਦੀ ਸੰਤਾਨ** **[21-04]**  =====
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?nolink}}
+**ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਦਾਉਦ ਰਾਜਾ ਨਾਲ ਵਾਇਦਾ ਕੀਤਾ** ਕਿ ਉਸ ਦੀ **ਸੰਤਾਨ** ਵਿਚੋ ਇਕ **ਰਾਜੇ** ਦੇ ਰੂਪ ਵਿਚ ਉਸ ਦੇ ਲੋਕਾਂ ਉੱਤੇ ਹਮੇਸ਼ਾਂ ਲਈ ਰਾਜ ਕਰੇਗਾ | ਜਿਸ ਦਾ ਮਤਲਬ ਕਿ **ਮਸੀਹਾਂ** **ਦਾਉਦ ਦੀ ਸੰਤਾਨ** ਵਿਚੋਂ ਇਕ ਹੋਵੇਗਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-**God promised King David** that one of his own **descendants** would rule as **king** over God’s people forever. That meant that the **Messiah** would be one of **David’s own descendants**.
-===== Important Terms: =====
-
-
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:promise]]**
-  * **[[:pa:obe:other:david]]**
-  * **[[:pa:obe:kt:christ]]**
-  * **[[:pa:obe:other:descendant]]**
-
-
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਵਾਇਦਾ ਕੀਤਾ **
+  * **ਰਾਜਾ ਦਾਉਦ **
+  * **ਮਸੀਹਾ**
+  * **ਸੰਤਾਨ**
 ==== Translation Notes: ====
 
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
-
+  * **David's own descendants**  - Another way to say this would be, "a direct descendant of David himself."
 **[[:pa:obs:notes:frames:21-03|<<]] | [[:pa:obs:notes:21|Up]] | [[:pa:obs:notes:frames:21-05|>>]]**
