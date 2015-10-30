@@ -1,24 +1,19 @@
-===== The Trip to Bethlehem [23-04] =====
+===== **ਬੈਤਲਹਮ ਦੀ ਯਾਤਰਾ** **[23-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-04.jpg?nolink&}}
 
+**ਜਦੋਂ ਮਰੀਯਮ ਦਾ ਬੱਚੇ ਨੂੰ ਜਨਮ ਦੇਣ ਦਾ ਸਮਾਂ ਨੇੜੇ ਆਇਆ**, **ਰੋਮੀ** **ਸਰਕਾਰ** ਨੇ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਹਰ ਕੋਈ ਆਪਣੀ **ਜਨਗਣਨਾ** **ਲਈ** ਉਹਨਾਂ ਸ਼ਹਿਰਾਂ ਨੂੰ **ਜਾਣ** ਜਿੱਥੇ ਉਹਨਾਂ ਦੇ  ਪੁਰਖੇ ਰਹਿੰਦੇ ਸਨ | **ਯੂਸਫ** ਅਤੇ ਮਰੀਯਮ ਨੂੰ **ਨਾਸਰਤ** ਤੋਂ ਜਿੱਥੇ ਉਹ ਰਹਿੰਦੇ ਸਨ **ਬੈਤਲਹਮ** ਲਈ ਇਕ ਲੰਬੀ ਯਾਤਰਾ ਕਰਨੀ ਪਈ ਕਿਉਂਕਿ ਉਹਨਾਂ ਦਾ ਪੁਰਖਾ ਦਾਉਦ ਸੀ ਜਿਸ ਦਾ ਸ਼ਹਿਰ ਬੈਤਲਹਮ ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-**When the time was near for Mary to give birth**, the **Roman government** told everyone to go **for a census** to the town where their ancestors had lived. **Joseph** and Mary had to make a long journey from where they lived in **Nazareth** to **Bethlehem** because their ancestor was **David** whose hometown was Bethlehem.
-===== Important Terms: =====
+  * **[[:pa:obs:notes:key-terms:mary|ਮਰੀਯਮ]]**
+  * **[[:pa:obs:notes:key-terms:rome|ਰੋਮੀ]]**
+  * **[[:pa:obs:notes:key-terms:josephnt|ਯੂਸਫ]] **
+  * **[[:pa:obs:notes:key-terms:nazareth|ਨਾਸਰਤ ]]**
+  * **[[:pa:obs:notes:key-terms:bethlehem|ਬੈਤਲਹਮ]]**
+  * **[[:pa:obs:notes:key-terms:david|ਦਾਉਦ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:other:mary]]**
-  * **[[:pa:obe:other:rome]]**
-  * **[[:pa:obe:other:josephnt]]**
-  * **[[:pa:obe:other:nazareth]]**
-  * **[[:pa:obe:other:bethlehem]]**
-  * **[[:pa:obe:other:david]]**
-
-
-===== Translation Notes: =====
-
-  * **When the time was near for Mary to give birth** - That is, "When it was near the end of Mary's pregnancy."
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, "to be counted for the government record" or, "so that the government could write their names on a list" or, "to be counted by the government." This census was probably made for the purpose of taxing the people.
-
-
+  * **ਜਦੋਂ ਮਰੀਯਮ ਦਾ ਬੱਚੇ ਨੂੰ ਜਨਮ ਦੇਣ ਦਾ ਸਮਾਂ ਨੇੜੇ ਆਇਆ**  – ਮਤਲਬ, “ਜਦੋਂ ਮਰੀਯਮ ਦੇ ਗਰਭ ਦਾ ਆਖਰੀ ਸਮਾਂ ਸੀ |
+  * **ਰੋਮੀ ਸਰਕਾਰ**  – ਉਸ ਸਮੇਂ ਰੋਮ ਇਸਰਾਏਲ ਉੱਤੇ ਜਿੱਤ ਪਾ ਚੁੱਕਾ ਸੀ ਅਤੇ ਉਸ ਉੱਤੇ ਰਾਜ ਕਰਦਾ ਸੀ |
+  * **ਜਨਗਣਨਾ  ਲਈ**  – ਮਤਲਬ, “ਸਰਕਾਰ ਦੇ ਲੇਖੇ ਲਈ ਗਿਣਤੀ” ਜਾਂ “ਤਾਂ ਕਿ ਸਰਕਾਰ ਉਹਨਾਂ ਦੇ ਨਾਮ ਲਿਸਟ ਉੱਤੇ ਲਿੱਖ ਸਕੇ” ਜਾਂ “ਕਿ ਉਹ ਸਰਕਾਰ ਦੁਆਰਾ ਗਿਣੇ ਜਾਣ|” ਸੰਭਵਤਾ ਇਹ ਜਣਗਣਨਾ ਲੋਕਾਂ ਉੱਤੇ ਕਰ ਲਾਉਣ ਦੇ ਉਦੇਸ਼ ਨਾਲ ਕੀਤੀ ਗਈ ਸੀ |
 **[[:pa:obs:notes:frames:23-03|<<]] | [[:pa:obs:notes:23|Up]] | [[:pa:obs:notes:frames:23-05|>>]]**
