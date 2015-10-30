@@ -1,25 +1,21 @@
-===== Take Mary as Your Wife [23-02] =====
+===== **ਮਰੀਯਮ ਨੂੰ ਆਪਣੀ ਪਤਨੀ ਵਜੋਂ ਲੈ ਜਾਹ** **[23-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-02.jpg?nolink&}}
 
-The **angel** said, “**Joseph**, **do not be afraid to take Mary as your wife**. The baby that is in her **is from the Holy Spirit**. She will give birth to a **son**. Name him **Jesus** (which means, '**Yahweh saves**'), because he will save the people from their **sins**.”
-===== Important Terms: =====
+ਦੂਤ ਨੇ ਕਿਹਾ, “**ਯੂਸਫ, ਮਰੀਯਮ ਨੂੰ ਆਪਣੀ ਪਤਨੀ ਬਣਾਉਣ ਤੋਂ ਨਾ ਡਰ |** ਜਿਹੜਾ ਬੱਚਾ ਉਸਦੇ ਗਰਭ ਵਿਚ ਹੈ **ਉਹ ਪਵਿੱਤਰ ਆਤਮਾ ਵਲੋਂ ਹੈ** | ਉਹ ਇਕ **ਪੁੱਤਰ** ਨੂੰ ਜਨਮ ਦੇਵੇਗੀ | ਉਸ ਦਾ ਨਾਮ ਯਿਸੂ ਰੱਖੀਂ (ਜਿਸ ਦਾ ਮਤਲਬ, **ਯਹੋਵਾਹ** **ਬਚਾਉਂਦਾ** ਹੈ”), ਕਿਉਂਕਿ ਉਹ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ **ਪਾਪਾਂ** ਤੋਂ ਬਚਾਵੇਗਾ|”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:other:josephnt]]**
-  * **[[:pa:obe:other:mary]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:kt:son]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:yahweh]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:kt:sin]]**
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:josephnt|ਯੂਸਫ]]**
+  * **[[:pa:obs:notes:key-terms:mary|ਮਰੀਯਮ]] **
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:son|ਪੁੱਤਰ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:yahweh|ਯਹੋਵਾਹ ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਉਂਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **do not be afraid to take Mary as your wife** - This can also be translated as, "Stop thinking that you shouldn't marry Mary" or, "Do not hesitate to have Mary as your wife."
-  * **is from the Holy Spirit** - That is, "was conceived by a miracle of the Holy Spirit."
-
-
+  * **ਮਰੀਯਮ ਨੂੰ ਆਪਣੀ ਪਤਨੀ ਬਨਾਉਣ ਤੋਂ ਨਾ ਡਰ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਹ ਸੋਚਣਾ ਬੰਦ ਕਰ ਕਿ ਤੈਨੂੰ ਮਰੀਯਮ ਨਾਲ ਵਿਆਹ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ” ਜਾਂ “ਮਰੀਯਮ ਨੂੰ ਆਪਣੀ ਪਤਨੀ ਬਣਾਉਣ ਤੋਂ ਨਾ ਹਿਚਕਚਾਹ|”
+  * **ਪਵਿੱਤਰ ਆਤਮਾ ਵਲੋਂ ਹੈ**  – ਮਤਲਬ, “ਉਹ ਪਵਿੱਤਰ ਆਤਮਾ ਦੇ ਚਮਤਕਾਰ ਦੁਆਰਾ ਗਰਭਵਤੀ ਹੈ|”
 **[[:pa:obs:notes:frames:23-01|<<]] | [[:pa:obs:notes:23|Up]] | [[:pa:obs:notes:frames:23-03|>>]]**
