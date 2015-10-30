@@ -1,23 +1,18 @@
-===== You Will Have a Son [22-02] =====
+===== **ਤੇਰੇ ਪੁੱਤਰ ਹੋਵੇਗਾ** **[22-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&}}
 
-The **angel** said to **Zechariah**, “Your wife will have a son. You will name him **John**. He will be **filled with the Holy Spirit**, and will **prepare the people for the Messiah**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-===== Important Terms: =====
+**ਦੂਤ** ਨੇ **ਜ਼ਕਰੀਆ** ਨੂੰ ਕਿਹਾ, “ਤੇਰੀ ਪਤਨੀਂ ਦੇ ਪੁੱਤਰ ਹੋਵੇਗਾ. ਤੂੰ ਉਸ ਦਾ ਨਾਮ **ਯਹੁੰਨਾ** ਰੱਖੇਂਗਾ | ਉਹ **ਪਵਿੱਤਰ ਆਤਮਾਂ ਨਾਲ ਭਰਿਆ ਹੋਵੇਗਾ** ਅਤੇ **ਲੋਕਾਂ ਨੂੰ ਮਸੀਹਾ ਲਈ ਤਿਆਰ ਕਰੇਗਾ |** ਜ਼ਕਰੀਆ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਬੱਚਾ ਪੈਦਾ ਕਰਨ ਮੇਰੀ ਪਤਨੀ ਅਤੇ ਮੈਂ ਤਾਂ ਬਹੁਤ ਬੁੱਢ਼ੇ ਹੋ ਚੁੱਕੇ ਹਾਂ! ਕਿਸ ਤਾਰਨ ਮੈਂ ਜਾਣਾ ਕਿ ਇਹ ਹੋਵੇਗਾ ?”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:zechariahnt|ਜ਼ਕਰੀਆ]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]] **
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:other:zechariahnt]]**
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:kt:christ]]**
-
-
-===== Translation Notes: =====
-
-  * **The angel** - This refers to the angel that came to Zechariah in **[[:pa:obs:notes:frames:22-01|[22-01]]]**.
-  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit" or, "given wisdom and power by the Holy Spirit."
-  * **How will I know this will happen?** - Another way to translate this would be, "How can I be sure that this will truly happen?"
-
-
+  * **ਦੂਤ**  – ਇਹ ਉਸ ਦੂਤ ਲਈ ਵਰਤਿਆ ਗਿਆ ਹੈ ਜੋ **__[22-01]__** ਵਿਚ ਜ਼ਕਰੀਆ ਕੋਲ ਆਇਆ |
+  * **ਪਵਿੱਤਰ ਆਤਮਾ ਨਾਲ ਭਰਿਆ ਹੋਇਆ –**  ਮਤਲਬ, “ਪਵਿੱਤਰ ਆਤਮਾਂ ਦੇ ਅਧਿਕਾਰ ਵਿਚ ਹੈ” ਜਾਂ “ਪਵਿੱਤਰ ਆਤਮਾ ਦੁਆਰਾ ਬੁੱਧੀ ਅਤੇ ਸ਼ਕਤੀ ਦਿੱਤੀ ਗਈ|”
+  * **ਕਿਸ ਤਾਰਨ ਮੈਂ ਜਾਣਾ ਕਿ ਇਹ ਹੋਵੇਗਾ ?**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਮੈਂ ਕਿਸ ਤਰਾਂ ਜਾਣਾ ਕਿ ਇਹ ਸੱਚ ਮੁੱਚ ਹੋਵੇਗਾ ?”
 **[[:pa:obs:notes:frames:22-01|<<]] | [[:pa:obs:notes:22|Up]] | [[:pa:obs:notes:frames:22-03|>>]]**
