@@ -1,20 +1,15 @@
-===== Unable to Speak [22-03] =====
+===== **ਗੁੰਗਾ ਹੋ ਗਿਆ** **[22-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&}}
 
+**ਦੂਤ** ਨੇ ਜ਼ਕਰੀਆ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਤੈਨੂੰ ਇਹ ਖੁਸ਼ ਖਬਰੀ ਦੇਣ ਲਈ ਮੈਂ **ਪ੍ਰਮੇਸ਼ਵਰ** ਦੁਆਰਾ ਭੇਜਿਆ ਗਿਆਂ ਹਾਂ | ਕਿਉਂਕਿ ਤੂੰ ਮੇਰੇ ਉੱਤੇ **ਵਿਸ਼ਵਾਸ** ਨਹੀਂ ਕੀਤਾ ਇਸ ਲਈ ਜੱਦ ਤੱਕ ਬੱਚਾ ਪੈਦਾ ਨਾ ਹੋ ਜਾਵੇ ਤੂੰ ਗੁੰਗਾ ਰਹੇਂਗਾ|” ਇਕਦਮ **ਜ਼ਕਰੀਆ** ਗੁੰਗਾ ਹੋ ਗਿਆ | ਤੱਦ ਦੂਤ ਜ਼ਕਰੀਆ ਕੋਲੋਂ ਚਲਾ ਗਿਆ | ਇਸ ਤੋਂ ਬਾਅਦ ਜ਼ਕਰੀਆ ਘਰ ਵਾਪਸ ਆਇਆ ਅਤੇ ਉਸ ਦੀ ਪਤਨੀ **ਗਰਭਵਤੀ** **ਹੋਈ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-The **angel** responded to Zechariah, “I was sent by **God** to bring you this good news. Because you did not **believe** me, you will not be able to speak until the child is born.” Immediately, **Zechariah** was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife **became pregnant**.
-===== Important Terms: =====
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ]]**
+  * **[[:pa:obs:notes:key-terms:zechariahnt|ਜ਼ਕਰੀਆ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:other:zechariahnt]]**
-
-
-===== Translation Notes: =====
-
-  * **became pregnant** - Some languages have polite ways of saying "become pregnant." Use an expression that will not be embarrassing to readers.
-
-
+  * **ਗਰਭਵਤੀ ਹੋਈ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਨੂੰ ਕਹਿਣ ਦਾ ਤਰੀਕਾ ਬਹੁਤ ਧੀਮਾ ਹੈ, “ਗਰਭਵਤੀ ਹੋ ਗਈ|” ਐਸਾ ਵਾਕ ਇਸਤੇਮਾਲ ਕਰੋ ਜੋ ਪਾਠਕ ਨੂੰ ਬੁਰਾ ਨਾ ਲੱਗੇ |
 **[[:pa:obs:notes:frames:22-02|<<]] | [[:pa:obs:notes:22|Up]] | [[:pa:obs:notes:frames:22-04|>>]]**
