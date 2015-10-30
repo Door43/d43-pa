@@ -1,19 +1,15 @@
-===== The Birth of Jesus [23-05] =====
+===== **ਯਿਸੂ ਦਾ ਜਨਮ** **[23-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-05.jpg?nolink&}}
 
-When they arrived in **Bethlehem**, there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since they did not have a bed for him. They named him **Jesus**.
-===== Important Terms: =====
+ਜਦੋਂ ਉਹ **ਬੈਤਲਹਮ** ਵਿਚ ਪਹੁੰਚੇ, ਉਹਨਾਂ ਦੇ ਠਹਿਰਨ **ਲਈ ਕੋਈ ਜਗ੍ਹਾ ਨਹੀਂ** ਸੀ | ਉਹ ਉਹੀ ਇਕ ਕਮਰਾ ਲੱਭ ਸਕੇ **ਜਿੱਥੇ ਪਸ਼ੁ ਬੰਨੇ ਜਾਂਦੇ ਸਨ** | ਬੱਚਾ ਉੱਥੇ ਪੈਦਾ ਹੋ ਗਿਆ ਅਤੇ ਉਸ ਦੀ ਮਾਂ ਨੇ ਉਸ ਨੂੰ **ਖੁਰਲੀ** ਵਿਚ ਲਿਟਾ ਦਿੱਤਾ, ਜਦਕਿ ਉਹਨਾਂ ਕੋਲ ਉਸ ਨੂੰ ਲਿਟਾਉਣ ਲਈ ਕੋਈ ਬਿਸਤਰ ਨਹੀਂ ਸੀ | ਉਹਨਾਂ ਨੇ ਉਸ ਦਾ ਨਾਮ **ਯਿਸੂ** ਰੱਖਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:bethlehem]]**
-  * **[[:pa:obe:kt:jesus]]**
- 
+  * **[[:pa:obs:notes:key-terms:bethlehem|ਬੈਤਲਹਮ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-===== Translation Notes: =====
-
-  * **no place to stay** - That is, "no usual place to stay." Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people.
-  * **place where animals stayed** - This was a place for sheltering animals, not a place where people lived. Translate this with a term that would normally be used for a place where animals were kept.
-  * **feeding trough** - That is, "animal feed box" or, "wooden or stone box for feeding animals." The box could have been filled with hay to provide a padded surface for the baby to lie on.
-
-
+  * **ਠਹਿਰਨ ਲਈ ਕੋਈ ਜਗ੍ਹਾ ਨਹੀਂ**  –ਮਤਲਬ, “ਕੋਈ ਵੀ ਠਹਿਰਨ ਲਈ ਆਮ ਜਗ੍ਹਾ ਨਹੀ|” ਕਿਉਂਕਿ ਉਸ ਸਮੇਂ ਬੈਤਲਹਮ ਬਹੁਤ ਭੀੜ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਸੀ, ਅਤੇ ਪ੍ਰਾਹੁਣਿਆ ਲਈ  ਆਮ ਕਮਰੇ ਪਹਿਲਾਂ ਹੀ ਭਰ ਚੁੱਕੇ ਸਨ |
+  * **ਜਗ੍ਹਾ ਜਿੱਥੇ ਪਸ਼ੁ ਬੰਨੇ ਜਾਂਦੇ ਸਨ**  – ਇਹ ਪਸ਼ੂਆਂ ਦੇ ਰਹਿਣ ਦੀ ਜਗ੍ਹਾ ਸੀ, ਨਾ ਕਿ ਉਹ ਜਗ੍ਹਾ ਜਿੱਥੇ ਲੋਕ ਰਹਿੰਦੇ ਸਨ | ਉਸ ਸ਼ਬਦ ਨਾਲ ਅਨੁਵਾਦ ਕਰੋ ਜੋ ਆਮ ਤੌਰ ਤੇ ਪਸ਼ੁ ਬੰਨਣ ਦੀ ਜਗ੍ਹਾ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤੇ ਜਾਂਦੇ ਹਨ |
+  * **ਖੁਰਲੀ**  – ਮਤਲਬ “ਪਸ਼ੂਆਂ ਦਾ ਚਾਰਾ ਪਾਉਣ ਵਾਲਾ ਡੱਬਾ” ਜਾਂ  “ਲੱਕੜ ਜਾਂ ਪੱਥਰ ਦੀ ਉਹ ਜਗ੍ਹਾ ਜਿੱਥੇ ਪਸ਼ੂਆਂ ਨੂੰ ਚਾਰਾ ਪਾਇਆ ਜਾਂਦਾ ਹੈ|” ਸ਼ਾਇਦ ਖੁਰਲੀ ਪਰਾਲੀ ਨਾਲ ਭਰੀ ਹੋਈ ਸੀ ਜੋ ਬੱਚੇ ਦੇ ਲਿਟਾਉਣ ਲਈ ਗੱਦੇ ਦਾ ਕੰਮ ਕਰ ਰਹੀ ਸੀ |
 **[[:pa:obs:notes:frames:23-04|<<]] | [[:pa:obs:notes:23|Up]] | [[:pa:obs:notes:frames:23-06|>>]]**
