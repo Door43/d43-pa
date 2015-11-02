@@ -2,17 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?nolink&}}
 
-When people heard **John's** message, many of them **repented from their sins**, and John **baptized** them. Many **religious leaders** also came to be baptized by John, but they **did not repent** or **confess their sins**.
+ਜਦੋਂ ਲੋਕਾਂ ਨੇ **ਯਹੁੰਨਾ** **ਦਾ** ਸੰਦੇਸ਼ ਸੁਣਿਆ, ਉਹਨਾਂ ਵਿਚੋਂ ਬਹੁਤ ਸਾਰਿਆ ਨੇ **ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ ਕੀਤੀ** ਅਤੇ ਯਹੁੰਨਾ ਨੇ ਉਹਨਾਂ ਨੂੰ **ਬਪਤਿਸਮਾ** **ਦਿੱਤਾ** | ਬਹੁਤ ਸਾਰੇ **ਧਾਰਮਿਕ** **ਆਗੂ** ਵੀ ਯਹੁੰਨਾ ਦੁਆਰਾ ਬਪਤਿਸਮਾ ਪਾਉਣ ਲਈ ਆਏ ਪਰ ਉਹਨਾਂ ਨੇ **ਆਪਣੇ ਪਾਪਾਂ ਨੂੰ ਨਾ ਮੰਨਿਆ** ਜਾਂ **ਤੌਬਾ ਨਾ ** ਕੀਤੀ |
 ===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  * **[[:pa:obe:other:johnthebaptist|John (the Baptist)]]**
-  * **[[:pa:obe:kt:repent|repent, repentance]]**
-  * **[[:pa:obe:kt:sin|sin, sinful, sinner, sinning]]**
-  * **[[:pa:obe:kt:baptize|baptize, baptism]]**
-  * **[[:pa:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ ਦਾ]] **
+  * **[[:pa:obs:notes:key-terms:repent|ਤੌਬਾ ਕੀਤੀ ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **__[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ ਦਿੱਤਾ]]__**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਧਾਰਮਿਕ ਆਗੂ]]**
 ===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **repented from their sins**  - This could also be translated as, "repented concerning their sins" or, "changed their minds about their sins" or, "turned away from their sins."
-  * **did not repent**  - That is, "did not turn away from their sins."
-  * **confess their sins**  - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as, "confess that they had sinned."
+  * **ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ  ਕੀਤੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਆਪਣੇ ਪਾਪਾਂ ਦੇ ਬਾਰੇ ਤੁਆਬਾ ਕੀਤੀ” ਜਾਂ “ ਆਪਣੇ ਪਾਪਾਂ ਬਾਰੇ ਆਪਣੇ ਮਨਾ ਨੂੰ ਬਦਲਿਆ” ਜਾਂ “ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਪਰ੍ਹਾਂ ਹਟ ਗਏ|”
+  * **ਤੌਬਾ ਨਾ ਕੀਤੀ –**  ਮਤਲਬ, “ ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਦੂਰ ਨਾ ਹੋਏ|”
+  * **ਆਪਣੇ ਪਾਪਾਂ ਦਾ ਇਕਰਾਰ ਕੀਤਾ**  – ਇਕਰਾਰ ਕਰਨ ਦਾ ਮਤਲਬ ਕਿ ਕਿਸੇ ਸਚਾਈ ਨੂੰ ਜਾਣ ਲੈਣਾ | ਇਹਨਾਂ ਆਗੂਆਂ ਨੇ ਇਕਰਾਰ ਨਾ ਕੀਤਾ ਕਿ ਉਹ ਪਾਪ ਕਰ ਚੁੱਕੇ ਹਨ | ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕਰਾਰ ਕੀਤਾ ਕਿ ਉਹ ਪਾਪ ਕਰ ਚੁੱਕੇ ਹਨ|”
 **[[:pa:obs:notes:frames:24-02|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-04|>>]]**
