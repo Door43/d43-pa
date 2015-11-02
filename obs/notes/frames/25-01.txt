@@ -1,25 +1,21 @@
-===== Satan Tempted Jesus [25-01] =====
+===== **ਸ਼ੈਤਾਨ ਯਿਸੂ ਨੂੰ ਪਰਖਦਾ ਹੈ [25-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?nolink&}}
 
-Immediately after **Jesus** was **baptized**, **the Holy Spirit led him** out into **the wilderness**, where he **fasted** for **forty days and forty nights**. Then **Satan** came to Jesus and **tempted him to sin**.
-===== Important Terms: =====
+**ਯਿਸੂ** ਦੇ **ਬਪਤਿਸਮਾ** ਲੈਣ ਦੇ ਇਕ ਦਮ ਬਾਅਦ **ਪਵਿੱਤਰ ਆਤਮਾ ਉਸ ਨੂੰ ਜੰਗਲ ਵਿਚ ਲੈ ਗਿਆ ** ਜਿੱਥੇ  ਉਸ ਨੇ **ਚਾਲੀ ਦਿਨ ਅਤੇ ਚਾਲੀ ਰਾਤ ਵਰਤ ਰੱਖਿਆ** | ਤੱਦ ਸ਼ੈਤਾਨ ਯਿਸੂ ਕੋਲ ਆਇਆ ਅਤੇ ਪਾਪ ਲਈ ਉਸ ਦੀ ਪਰਖ ਕੀਤੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:baptize]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:other:fast]]**
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:kt:tempt]]**
-  * **[[:pa:obe:kt:sin]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ ਲਿਆ]]**
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]] **
+  * **[[:pa:obs:notes:key-terms:fast|ਵਰਤ ਰੱਖਿਆ]]**
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:tempt|ਪਰਖ ਕੀਤੀ ]] **
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **the Holy Spirit led him** - That is, "the Holy Spirit guided him" or, "the Holy Spirit prompted him to go."
-  * **the wilderness** - This could also be translated as, "the desert" or, "a remote, barren place with few people." This place probably had very few trees or other plants, so most people would not be able to live there.
-  * **forty days and forty nights** - This means "forty days, both during the day and during the night." Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, "tried to convince him to sin."
-
-
+  * **ਪਵਿੱਤਰ ਆਤਮਾ ਲੈ ਗਿਆ**  – ਮਤਲਬ “ਪਵਿੱਤਰ ਆਤਮਾ ਨੇ ਉਸ ਦੀ ਅਗੁਵਾਈ ਕੀਤੀ” ਜਾਂ “ਪਵਿੱਤਰ ਆਤਮਾ ਨੇ ਉਸ ਨੂੰ ਜਾਣ ਲਈ ਉਕਸਾਇਆ|”
+  * **ਇਕ****ਜੰਗਲ**  – ਮਤਲਬ, “ਪਵਿੱਤਰ ਆਤਮਾ ਨੇ ਉਸ ਦੀ ਅਗੁਵਾਈ ਕੀਤੀ” ਜਾਂ “ਇਕ ਬੀਆਬਾਨ ਜਗ੍ਹਾ ਜਿੱਥੇ ਬਹੁਤ ਹੀ ਘੱਟ ਲੋਕ ਰਹਿੰਦੇ ਸਨ|” ਸ਼ਾਇਦ ਇਸ ਜਗ੍ਹਾ ਬਹੁਤ ਹੀ ਘੱਟ ਦਰੱਖਤ ਜਾਂ ਪੌਦੇ ਸਨ, ਜਿਸ ਕਾਰਨ ਜਿਆਦਾ ਤਰ ਲੋਕ ਇੱਥੇ ਰਹਿ ਨਹੀਂ ਸਕਦੇ ਸਨ |
+  * **ਚਾਲੀ ਦਿਨ ਅਤੇ ਚਾਲੀ ਰਾਤ**  – ਇਸ ਦਾ ਮਤਲਬ, “ਚਾਲੀ ਦਿਨ, ਦੋਨੋ ਰਾਤ ਅਤੇ ਦਿਨ ਮਿਲਾ ਕੇ|” ਪੱਕਾ ਜਾਣੋ ਕਿ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਪ੍ਰਗਟ ਨਾ ਕਰੇ ਕਿ ਅੱਸੀ ਦਿਨਾ ਦਾ ਸਮਾਂ |
+  * **ਪਾਪ ਕਰਨ ਲਈ ਉਸ ਨੂੰ ਪਰਖਿਆ**  – ਜਦਕਿ ਯਿਸੂ ਨੇ ਪਾਪ ਨਹੀਂ ਕੀਤਾ, ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਐਸਾ ਸ਼ਬਦ ਇਸਤੇਮਾਲ ਨਹੀਂ ਕਰਦੇ ਜੋ ਦਿਖਾਉਂਦਾ ਹੈ ਕਿ ਸ਼ੈਤਾਨ ਨੇ ਯਿਸੂ ਨੂੰ ਪਾਪ ਕਰਨ ਲਈ ਕਾਇਲ ਕਰ ਲਿਆ | ਇਸ ਵਾਕ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਸ ਤੋਂ ਪਾਪ ਕਰਾਉਣ ਲਈ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ|”
 **[[:pa:obs:notes:frames:24-09|<<]] | [[:pa:obs:notes:25|Up]] | [[:pa:obs:notes:frames:25-02|>>]]**
