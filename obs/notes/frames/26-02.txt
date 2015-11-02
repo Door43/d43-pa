@@ -1,24 +1,20 @@
-===== Jesus in Nazareth [26-02] =====
+===== **ਯਿਸੂ ਨਾਸਰਤ ਵਿਚ** **[26-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?nolink&}}
 
-**Jesus** went to the town of **Nazareth** where he had lived during his childhood. On the **Sabbath**, he went to the **place of worship**. They handed him the **scroll of the prophet Isaiah** so that he would read from it. Jesus **opened up the scroll** and read part of it to the people.
-===== Important Terms: =====
+**ਯਿਸੂ** **ਨਾਸਰਤ** ਨਗਰ ਵਿਚ ਗਿਆ ਜਿਥੇ ਉਸ ਦਾ ਬਚਪਨ ਗੁਜਰਿਆ ਸੀ | **ਸਬਤ** ਦੇ ਦਿਨ ਉਹ **ਬੰਦਗੀ ਵਾਲੀ ਜਗ੍ਹਾ** ਤੇ ਗਿਆ | ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ **ਯਸਾਯਾਹ ਨਬੀ ਦੀਆਂ ਪੋਥੀਆਂ** ਦਿੱਤੀਆਂ ਤਾਂ ਕਿ ਉਹ ਉਸ ਵਿਚੋਂ ਪੜ੍ਹੇ | ਯਿਸੂ ਨੇ **ਪੋਥੀਆਂ ਖੋਲੀਆਂ** ਅਤੇ ਲੋਕਾਂ ਲਈ ਉਸ ਵਿਚੋਂ ਇਕ ਭਾਗ ਪੜ੍ਹਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:nazareth]]**
-  * **[[:pa:obe:kt:sabbath]]**
-  * **[[:pa:obe:kt:worship]]**
-  * **[[:pa:obe:kt:prophet]]**
-  * **[[:pa:obe:other:isaiah]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:nazareth|ਨਾਸਰਤ]]**
+  * **[[:pa:obs:notes:key-terms:sabbath|ਸਬਤ]]**
+  * **[[:pa:obs:notes:key-terms:worship|ਬੰਦਗੀ ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+  * **[[:pa:obs:notes:key-terms:isaiah|ਯਸਾਯਾਹ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jews gathered to worship God." This can also be translated as, "worship building."
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** - That is, "the scroll that had the words that the prophet Isaiah had written." Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** - This could be translated as, "rolled open the scroll" or, "unrolled the scroll."
-
-
+  * **ਬੰਦਗੀ ਦੀ ਜਗ੍ਹਾ**  – ਮਤਲਬ, “ਉਹ ਇਮਾਰਤ ਜਿੱਥੇ ਯਹੂਦੀ ਲੋਕ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਬੰਦਗੀ ਕਰਨ ਲਈ ਇੱਕਠੇ ਹੁੰਦੇ ਸਨ |” ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ  ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਬੰਦਗੀ ਲਈ ਇਮਾਰਤ|”
+  * **ਪੋਥੀਆਂ**  – ਪੋਥੀ ਕਾਗਜ ਜਾਂ ਚਮੜੇ ਦੀ ਇਕ  ਸ਼ੀਟ ਹੁੰਦੀ ਸੀ |
+  * **ਯਸਾਯਾਹ ਨਬੀ ਦੀ ਪੋਥੀ**  –ਮਤਲਬ, “ਪੋਥੀ ਉੱਤੇ ਜੋ ਵਚਨ ਸਨ ਉਹ ਯਸਾਯਾਹ ਨਬੀ ਦੁਆਰਾ ਲਿੱਖੇ ਗਏ ਸਨ |” ਯਸਾਯਾਹ ਨੇ ਇਸ ਪੋਥੀ ਉੱਤੇ ਸੈਕੜੇ ਸਾਲ ਪਹਿਲਾਂ ਲਿੱਖਿਆ ਸੀ | ਇਹ ਉਸ ਪੋਥੀ ਦੀ ਨਕਲ ਸੀ |
+  * **ਪੋਥੀ ਖੋਲੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਲਪੇਟੀ ਹੋਈ ਪੋਥੀ ਖੋਲੀ” ਜਾਂ “ਪੋਥੀ ਦੇ ਗੋਲੇ ਨੂੰ ਖੋਲਿਆ|”
 **[[:pa:obs:notes:frames:26-01|<<]] | [[:pa:obs:notes:26|Up]] | [[:pa:obs:notes:frames:26-03|>>]]**
