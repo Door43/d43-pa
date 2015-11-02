@@ -1,21 +1,16 @@
-===== The First Temptation [25-02] =====
+===== **ਪਹਿਲੀ ਪਰਖ** **[25-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
-**Satan tempted Jesus** by saying, “If you are the **Son of God**, **turn these rocks into bread** so you can eat!”
-===== Important Terms: =====
+**ਸ਼ੈਤਾਨ ਨੇ ਯਿਸੂ ਦੀ ਪਰਖ ਕੀਤੀ** ਇਹ ਕਹਿੰਦੇ ਹੋਏ, “ਜੇ ਤੂੰ **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈਂ, ਇਹਨਾਂ ਪੱਥਰਾਂ ਨੂੰ ਰੋਟੀ ਵਿਚ ਬਦਲ ਦੇਹ** ਕਿ ਤੂੰ ਇਸ ਨੂੰ ਖਾ ਸਕੇਂ !”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:tempt|ਪਰਖ ਕੀਤੀ]] **
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:sonofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:kt:tempt]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-
-
-===== Translation Notes: =====
-
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **ਇਹਨਾਂ ਪੱਥਰਾਂ ਨੂੰ ਰੋਟੀਆਂ ਵਿਚ ਬਦਲ ਦੇਹ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਹਨਾਂ ਪੱਥਰਾਂ ਨੂੰ ਰੋਟੀਆਂ ਬਣਾ ਦੇਹ” ਜਾਂ “ਚਮਤਕਾਰੀ ਤਰੀਕੇ ਨਾਲ ਇਹਨਾਂ ਪੱਥਰਾਂ ਨੂੰ ਰੋਟੀਆਂ ਵਿਚ ਬਦਲ ਦੇਹ|”
+  * **ਰੋਟੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਭੋਜਨ” ਜਿੱਥੇ ਰੋਟੀ ਆਮ ਖਾਣਾ ਨਹੀਂ ਹੈ | ਯਹੂਦੀ ਸੰਸਕ੍ਰਿਤੀ ਵਿਚ ਰੋਟੀ ਆਮ ਭੋਜਨ ਸੀ |
 **[[:pa:obs:notes:frames:25-01|<<]] | [[:pa:obs:notes:25|Up]] | [[:pa:obs:notes:frames:25-03|>>]]**
