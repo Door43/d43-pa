@@ -1,21 +1,17 @@
-===== A Call to Repent [24-02] =====
+===== **ਤੌਬਾ ਕਰਨ ਲਈ ਬੁਲਾਵਾ** **[24-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?nolink&}}
 
-Many people came out to the **wilderness** to listen to **John**. He **preached** to them, saying, “**Repent**, for **the kingdom of God is near**!”
-===== Important Terms: =====
+ਬਹੁਤ ਲੋਕ ਨਿਕਲ ਕੇ **ਜੰਗਲ** ਵਿਚ **ਯਹੁੰਨਾ** ਨੂੰ ਸੁਣਨ ਲਈ ਆਏ | ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਇਹ ਕਹਿੰਦੇ ਹੋਏ **ਪ੍ਰਚਾਰ** **ਕੀਤਾ**, “**ਤੌਬਾ ਕਰੋ, ਕਿਉਂਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਨੇੜੇ ਹੈ!”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:repent]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕੀਤਾ]] **
+  * **[[:pa:obs:notes:key-terms:repent|ਤੌਬਾ]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **wilderness** - See how you translated this word in **[[:pa:obs:notes:frames:24-01|[24-01]]]**.
-  * **Repent** - It might be better to say, "Repent from your sins."
-  * **the kingdom of God is near** - That is, "the kingdom of God is ready to appear" or, "the kingdom of God will arrive soon." This refers to God's ruling over people. This can also be translated as, "God's reign is about to begin" or, "God will soon rule over us as king."
-
-
+  * **ਜੰਗਲ**  -  **__[24-01]__** ਵਿਚ ਦੇਖੋ ਇਹ ਸ਼ਬਦ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਤੌਬਾ**  – ਇਸ ਕਹਿਣਾ ਚੰਗਾ ਹੋਵੇਗਾ, “ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ ਕਰੋ”
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਨੇੜੇ ਹੈ**  – ਮਤਲਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਪ੍ਰਗਟ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਜਲਦੀ ਪਹੁੰਚੇਗਾ|” ਇਹ ਲੋਕਾਂ ਉੱਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਰਾਜ ਬਾਰੇ ਕਹਿ ਰਿਹਾ ਹੈ| ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲਾ ਹੈ” ਜਾਂ “ਬਹੁਤ ਜਲਦ ਪ੍ਰਮੇਸ਼ਵਰ ਸਾਡੇ ਉੱਤੇ ਇਕ ਰਾਜੇ ਦੇ ਰੂਪ ਵਿਚ ਰਾਜ ਕਰੇਗਾ|”
 **[[:pa:obs:notes:frames:24-01|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-03|>>]]**
