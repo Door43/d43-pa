@@ -1,24 +1,20 @@
-===== Jesus Is the Lamb of God [24-06] =====
+===== **ਯਿਸੂ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਮੇਮਨਾ ਹੈ** **[24-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?nolink&}}
 
-The next day, **Jesus** came to be **baptized** by **John**. When John saw him, he said, “Look! **There is** the **Lamb of God** who **will take away** the **sin of the world**.”
-===== Important Terms: =====
+ਅਗਲੇ ਦਿਨ, **ਯਿਸੂ** **ਯਹੁੰਨਾ** ਕੋਲੋਂ **ਬਪਤਿਸਮਾ** ਲੈਣ ਲਈ ਆਇਆ | ਜਦੋਂ ਯਹੁੰਨਾ ਨੇ ਉਸ ਨੂੰ ਦੇਖਿਆ, ਉਸ ਨੇ ਕਿਹਾ, “ਦੇਖੋ! **ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਮੇਮਨਾ ਜੋ ਜਗਤ ਦੇ ਪਾਪ ਨੂੰ ਹਟਾ ਦੇਵੇਗਾ |**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:baptize]]**
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:kt:lamb]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:sin]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]] **
+  * **[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ ਦਿੱਤਾ ]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:lamb|ਮੇਮਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **There is** - For some languages this would be, "Here is" or, "That man is."
-  * **Lamb of God** - This could also be translated as, "the Lamb from God" or, "the sacrifice Lamb that God has provided." Jesus was the perfect sacrifice for sin that God promised to provide. He fulfills the image that was presented by the sacrifice of lambs in the Old Testament.
-  * **will take away** - The sacrifice of Jesus causes God to look at our sin as if it never existed.
-  * **sin of the world** - That is, "the sin of the people in the world."
-
-
+  * **ਇੱਥੇ ਹੈ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਹੋਵੇਗਾ, “ਇੱਥੇ ਹੈ” ਜਾਂ “ਉਹ ਮਨੁੱਖ ਇੱਥੇ ਹੈ|”
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਮੇਮਨਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਵਲੋਂ **ਮੇਮਨਾ**” ਜਾਂ “ਉਹ ਬਲੀਦਾਨ ਲਈ ਮੇਮਨਾ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਪ੍ਰਦਾਨ ਕੀਤਾ ਹੈ|” ਯਿਸੂ ਪਾਪ ਲਈ ਸਿੱਧ ਬਲੀਦਾਨ ਸੀ ਜਿਸ ਨੂੰ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਾਇਦਾ ਕੀਤਾ ਸੀ | ਉਹ ਉਸ ਚਿੱਤਰ ਨੂੰ ਪੂਰਾ ਕਰ ਰਿਹਾ ਸੀ ਪੁਰਾਣੇ ਨੇਮ ਵਿਚ ਬਲੀਦਾਨ ਵਾਲੇ ਮੇਮਨੇ ਦਾ ਦਿੱਤਾ ਗਿਆ ਹੈ |
+  * **ਲੈ ਲਵੇਗਾ**  – ਯਿਸੂ ਦਾ ਬਲੀਦਾਨ ਪ੍ਰਮੇਸ਼ਵਰ ਨੂੰ ਸਾਡੇ ਪਾਪਾਂ ਉੱਤੇ ਇਸ ਤਰਾਂ ਦੇਖਣ ਲਈ ਕਹਿ ਰਿਹਾ ਹੈ ਜਿਵੇਂ ਉਹ ਕਦੀ ਹੁੰਦੇ ਹੀ ਨਹੀਂ ਸਨ |
+  * **ਜਗਤ ਦਾ ਪਾਪ**  – ਮਤਲਬ, ਜਗਤ ਵਿਚ ਲੋਕਾਂ ਦਾ ਪਾਪ|”
 **[[:pa:obs:notes:frames:24-05|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-07|>>]]**
