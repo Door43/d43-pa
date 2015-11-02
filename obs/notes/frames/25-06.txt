@@ -1,22 +1,18 @@
-===== The Third Temptation [25-06] =====
+===== **ਤੀਸਰੀ ਪ੍ਰੀਖਿਆ** **[25-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-06.jpg?nolink&}}
 
-Then **Satan** showed **Jesus** all the **kingdoms of the world** and all **their glory** and said, “**I will give you all this** if you bow down and **worship** me.”
-===== Important Terms: =====
+ਤੱਦ **ਸ਼ੈਤਾਨ** ਨੇ **ਯਿਸੂ** ਨੂੰ ਸਾਰੇ **ਸੰਸਾਰ ਦੇ ਰਾਜ** ਦਿਖਾਏ ਅਤੇ **ਉਹਨਾਂ ਦੀ ਸਾਰੀ ਮਹਿੰਮਾ** ਅਤੇ ਕਿਹਾ, “ਜੇ ਤੂੰ ਝੁੱਕ ਕੇ ਮੈਨੂੰ ਸਿੱਜਦਾ ਕਰੇਂ ਤਾਂ **ਮੈਂ ਤੈਨੂੰ ਇਹ ਸੱਭ ਦੇ ਦੇਵਾਂਗਾ** |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:kingdom]]**
-  * **[[:pa:obe:kt:glory]]**
-  * **[[:pa:obe:kt:worship]]**
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:kingdom|ਰਾਜ]]**
+  * **[[:pa:obs:notes:key-terms:glory|ਮਹਿੰਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:worship|ਸਿੱਜਦਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **kingdoms of the world** - This refers to all the greatest cities, countries, and other territories of the world.
-  * **their glory** - That is, "their power and wealth."
-  * **I will give you all this** - This could be translated as, "I will give you all the wealth and power of these kingdoms" or, "I will make you the ruler over all these countries, cities and people."
-
-
+  * **ਸੰਸਾਰ ਦੇ ਰਾਜ**  – ਇਹ ਸੰਸਾਰ ਦੇ ਸਾਰੇ ਮਹਾਂਨ ਸ਼ਹਿਰਾਂ, ਦੇਸਾਂ ਅਤੇ ਖੇਤਰਾਂ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ |
+  * **ਉਹਨਾਂ ਦੀ ਮਹਿੰਮਾ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਦੀ ਦੌਲਤ ਅਤੇ ਸ਼ਕਤੀ|”
+  * **ਮੈਂ ਤੈਨੂੰ ਇਹ ਸੱਭ ਦੇ ਦੇਵਾਂਗਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਮੈਂ ਤੈਨੂੰ ਇਹਨਾਂ ਰਾਜਾਂ ਦੀ ਸਾਰੀ ਦੌਲਤ ਅਤੇ ਸ਼ਕਤੀ ਦੇਵਾਂਗਾ” ਜਾਂ “ਮੈਂ ਤੈਨੂੰ ਇਹਨਾਂ ਸਾਰੇ ਦੇਸਾਂ, ਸ਼ਹਿਰਾਂ ਅਤੇ ਲੋਕਾਂ ਉੱਤੇ ਹਾਕਮ ਬਣਾ ਦੇਵਾਂਗਾ|”
 **[[:pa:obs:notes:frames:25-05|<<]] | [[:pa:obs:notes:25|Up]] | [[:pa:obs:notes:frames:25-07|>>]]**
