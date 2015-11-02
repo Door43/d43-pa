@@ -1,23 +1,19 @@
-===== The Ministry of Elisha [26-06] =====
+===== **ਅਲੀਸ਼ਾ ਦੀ ਸੇਵਕਾਈ** **[26-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?nolink&}}
 
-**Jesus** continued saying, “And during the time of the **prophet Elisha**, there were many people in **Israel** with skin diseases. But Elisha did not **heal** any of them. He only healed the skin disease of **Naaman**, **a commander** of Israel’s enemies.” The people who were listening to Jesus were **Jews**. So when they heard him say this, **they were furious at him**.
-===== Important Terms: =====
+**ਯਿਸੂ** ਲਗਾਤਾਰ ਕਹਿੰਦਾ ਰਿਹਾ, “ਅਤੇ **ਅਲੀਸ਼ਾ ਨਬੀ** ਦੇ ਸਮੇਂ ਵਿਚ ਵੀ **ਇਸਰਾਏਲ** ਵਿਚ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਚਮੜੀ ਦੀ ਬਿਮਾਰੀ ਵਾਲੇ ਸਨ | ਪਰ ਅਲੀਸ਼ਾ ਨੇ ਉਹਨਾਂ ਵਿਚੋ ਇਕ ਨੂੰ ਵੀ **ਚੰਗਾ** ਨਾ ਕੀਤਾ | ਉਸ ਨੇ ਸਿਰਫ **ਨਾਮਾਨ** ਨੂੰ ਹੀ ਚੰਗਾ ਕੀਤਾ ਜੋ ਇਸਰਾਏਲ ਦਾ ਦੁਸ਼ਮਣ **ਸੂਬੇਦਾਰ** ਸੀ | ਜਿਹੜੇ ਲੋਕ ਯਿਸੂ ਨੂੰ ਸੁਣ ਰਹੇ ਸਨ ਉਹ **ਯਹੂਦੀ** ਸਨ | ਜਦੋਂ ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ ਗੱਲਾਂ ਕਹਿੰਦੇ ਸੁਣਿਆ, **ਉਹ ਉਸ ਉੱਤੇ ਬਹੁਤ ਗੁੱਸੇ ਹੋਏ |**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:prophet]]**
-  * **[[:pa:obe:other:israel]]**
-  * **[[:pa:obe:other:heal]]**
-  * **[[:pa:obe:other:naaman]]**
-  * **[[:pa:obe:other:jew]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+  * **[[:pa:obs:notes:key-terms:israel|ਇਸਰਾਏਲ]]**
+  * **[[:pa:obs:notes:key-terms:heal|ਚੰਗਾ ਕਰਨਾ]] **
+  * **[[:pa:obs:notes:key-terms:naaman|ਨਾਮਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **Elisha** - Elisha was God's prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do.
-  * **a commander** - That is, "a military leader."
-  * **they were furious at him** - The Jews did not want to hear that God had blessed any people group besides themselves, so they were very angry at what Jesus said.
-
-
+  * **ਅਲੀਸ਼ਾ**  – ਅਲੀਸ਼ਾ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਇਕ ਨਬੀ ਸੀ ਜੋ ਏਲੀਯਾਹ ਤੋਂ ਬਾਅਦ ਆਇਆ | ਏਲੀਯਾਹ ਦੀ ਤਰਾਂ, ਅਲੀਸ਼ਾ ਨੇ ਇਸਰਾਏਲ ਦੇ ਰਾਜਿਆਂ ਦਾ ਵਿਰੋਧ ਕੀਤਾ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਿਰੁਧ ਪਾਪ ਕਰਦੇ ਸਨ ਅਤੇ ਉਸ ਨੇ ਚਮਤਕਾਰ ਕੀਤੇ ਕਿਉਂਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਇਹ ਕਰਨ ਦੀ ਸ਼ਕਤੀ ਦਿੱਤੀ ਸੀ |
+  * **ਇਕ ਸੂਬੇਦਾਰ**  – ਮਤਲਬ, “ਸੈਨਾ ਦਾ ਇਕ ਅਗੂਆ |”
+  * **ਉਹ ਉਸ ਉੱਤੇ ਬਹੁਤ ਗੁੱਸੇ ਹੋਏ**  – ਯਹੂਦੀ ਇਹ ਸੁਣਨਾ ਨਹੀਂ ਚਹੁੰਦੇ ਸਨ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਦੇ ਬਰਾਬਰ ਲੋਕਾਂ ਦੇ ਕਿਸੇ ਹੋਰ ਝੁੰਡ ਨੂੰ ਵੀ ਬਰਕਤ ਦਿੱਤੀ ਹੈ ਇਸ ਲਈ ਜੋ ਯਿਸੂ ਕਹਿ ਰਿਹਾ ਸੀ ਉਸ ਲਈ ਉਹ ਉਸ ਉੱਤੇ ਬਹੁਤ ਗੁੱਸੇ ਸਨ |
 **[[:pa:obs:notes:frames:26-05|<<]] | [[:pa:obs:notes:26|Up]] | [[:pa:obs:notes:frames:26-07|>>]]**
