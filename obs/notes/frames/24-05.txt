@@ -1,19 +1,15 @@
-===== Not the Messiah [24-05] =====
+===== **ਮਸੀਹਾ ਨਹੀਂ** **[24-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?nolink&}}
 
-Some **Jews** asked **John** if he was the **Messiah**. John replied, “I am not the Messiah, but there is someone coming after me. **He is so great** that I am **not even worthy to untie his sandals**.”
-===== Important Terms: =====
+ਕੁੱਝ **ਯਹੂਦੀਆਂ** ਨੇ **ਯਹੁੰਨਾ** ਨੂੰ ਪੁੱਛਿਆ ਕਿ ਕੀ ਤੂੰ **ਮਸੀਹਾ** ਹੈਂ| ਯਹੁੰਨਾ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਮੈਂ ਮਸੀਹਾ ਨਹੀਂ ਹਾਂ, ਪਰ ਕੋਈ ਮੇਰੇ ਪਿੱਛੇ ਆਉਂਦਾ ਹੈ| **ਉਹ ਬਹੁਤ ਮਹਾਨ ਹੈ** ਕਿ ਮੈਂ **ਉਸਦੀ ਜੁੱਤੀ ਦੇ ਤਸਮੇ ਖੋਲਣ ਦੇ ਯੋਗ ਨਹੀਂ ਹਾਂ|”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:kt:christ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **He is so great** - This could be translated as, "He is so important."
-  * **not even worthy to untie his sandals** - In other words, "compared to him, I am not important enough to do even the most menial task for him." Untying sandals was a very low job, something a slave would do.
-
-
+  * **ਉਹ ਬਹੁਤ ਮਹਾਨ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਸਕਦਾ ਹੈ, “ਉਹ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ|”
+  * **ਉਸ ਦੀ ਜੁੱਤੀ ਦੇ ਤਸਮੇ ਖੋਲਣ ਦੇ ਯੋਗ ਨਹੀਂ ਹਾਂ**  – ਦੂਸਰੇ ਸ਼ਬਦਾਂ ਵਿਚ, “ਉਸ ਦੇ ਮੁਕਾਬਲੇ ਮੈਂ ਇਨਾ ਵੀ ਮਹੱਤਵਪੂਰਨ ਨਹੀਂ ਹੂੰ ਕਿ ਉਸਦੇ ਲਈ ਛੋਟਾ ਜਿਹਾ ਕੰਮ ਕਰ ਸਕਾਂ|” ਤਸਮੇ ਖੋਲਣਾ ਇਕ ਬਹੁਤ ਹੀ ਛੋਟਾ ਕੰਮ ਸੀ ਜੋ ਆਮ ਤੌਰ ਤੇ ਇਕ ਗੁਲਾਮ ਕਰਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:24-04|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-06|>>]]**
