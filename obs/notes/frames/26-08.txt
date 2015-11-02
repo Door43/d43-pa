@@ -1,18 +1,14 @@
-===== Jesus Healed the Sick [26-08] =====
+===== **ਯਿਸੂ ਨੇ ਬਿਮਾਰਾਂ ਨੂੰ ਚੰਗਾ ਕੀਤਾ** **[26-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-08.jpg?nolink&}}
 
-Then **Jesus went throughout the region of Galilee**, and large crowds came to him. They brought many people who were sick or handicapped, including those who could not see, walk, hear, or speak, and Jesus **healed** them.
-===== Important Terms: =====
+ਤੱਦ **ਯਿਸੂ ਗਲੀਲ ਦੀ ਇਲਾਕੇ ਵਿਚ ਗਿਆ ਅਤੇ** ਇਕ ਵੱਡੀ ਭੀੜ ਉਸ ਦੇ ਮਗਰ ਆਈ | ਉਹ ਬਹੁਤ ਸਾਰੇ ਬਿਮਾਰਾਂ ਅਤੇ ਅਪਹਾਜਾ ਨੂੰ ਉਸ ਕੋਲ ਲੈ ਕੇ ਆਏ, ਜਿਸ ਵਿਚ ਅੰਨੇ, ਲੰਗੜੇ, ਗੁੰਗੇ ਅਤੇ ਬਹਿਰੇ ਵੀ ਸ਼ਾਮਲ ਸਨ ਅਤੇ ਨੇ ਉਹਨਾਂ ਸਾਰਿਆ ਨੂੰ **ਚੰਗਾ ਕੀਤਾ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:galilee]]**
-  * **[[:pa:obe:other:heal]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:galilee|ਗਲੀਲ]] **
+  * **[[:pa:obs:notes:key-terms:heal|ਚੰਗਾ ਕੀਤਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **went throughout the region of Galilee** - That is, "all around in Galilee" or, "from place to place in Galilee."
-
-
+  * **ਗਲੀਲ ਦੀ ਇਲਾਕੇ ਵਿਚ ਗਿਆ**  – ਮਤਲਬ,”ਗਲੀਲ ਦੇ ਚਾਰੋਂ ਤਰਫ਼” ਜਾਂ “ਗਲੀਲ ਵਿਚ ਜਗ੍ਹਾ ਜਗ੍ਹਾ |”
 **[[:pa:obs:notes:frames:26-07|<<]] | [[:pa:obs:notes:26|Up]] | [[:pa:obs:notes:frames:26-09|>>]]**
