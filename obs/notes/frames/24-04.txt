@@ -1,27 +1,23 @@
-===== Preparing the Way [24-04] =====
+===== **ਰਸਤਾ ਤਿਆਰ ਕਰਨਾ** **[24-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?nolink&}}
 
-**John** said to the **religious leaders**, “**You poisonous snakes**! **Repent** and change your behavior. **Every tree that does not bear good fruit will be cut down and thrown into the fire**.” **John fulfilled** what the **prophets** said, “**See**, I send **my messenger ahead of you**, who will **prepare your way**.”
-===== Important Terms: =====
+**ਯਹੁੰਨਾ** ਨੇ **ਧਾਰਮਿਕ** **ਆਗੂਆਂ** ਨੂੰ ਕਿਹਾ, “**ਤੁਸੀਂ ਜਹਰੀਲੇ ਸੱਪ!** **ਤੌਬਾ** ਕਰੋ ਅਤੇ ਆਪਣੇ ਚਾਲ ਚੱਲਣ ਨੂੰ ਬਦਲੋ| **ਹਰ ਇਕ ਦਰੱਖਤ ਜਿਹੜਾ ਚੰਗਾ ਫਲ ਨਹੀਂ ਦਿੰਦਾ ਉਹ ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਅੱਗ ਵਿਚ ਸੁੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ |** **ਯਹੁੰਨਾ** ਨੇ ਉਹ **ਪੂਰਾ ਕੀਤਾ** ਜੋ **ਨਬੀ** ਨੇ ਕਿਹਾ ਸੀ, “**ਦੇਖ**, **ਮੈਂ ਤੇਰੇ ਅੱਗੇ ਆਪਾਂ ਸੰਦੇਸ਼ਵਾਹਕ ਭੇਜ ਰਿਹਾਂ ਹਾਂ ਜੋ ਤੇਰੇ ਮਾਰਗ ਨੂੰ ਤਿਆਰ ਕਰੇਗਾ |”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:repent]]**
-  * **[[:pa:obe:kt:fulfill]]**
-  * **[[:pa:obe:kt:prophet]]**
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਧਾਰਮਿਕ ਆਗੂ]] **
+  * **[[:pa:obs:notes:key-terms:repent|ਤੌਬਾ]]**
+  * **[[:pa:obs:notes:key-terms:fulfill|ਪੂਰਾ ਹੋਇਆ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **You poisonous snakes** - This could be translated as, "You are like lying poisonous snakes!" John was calling them poisonous snakes because they were dangerous and deceptive.
-  * **Every tree that does not bear good fruit** - John is not really talking about trees. This is an expression that compares good fruit to good actions and attitudes that come from God.
-  * **will be cut down and thrown into the fire** - This means, "will be judged and punished by God."
-  * **John fulfilled** - That is, "John was doing" what the prophet said God's messenger would do.
-  * **See** - This could be translated as "Look and see" or, "Pay attention!"
-  * **my messenger** - That is, "I, Yahweh, will send my messenger." In some languages it would be more natural to use an indirect quote for this sentence, such as: "what the prophet Isaiah predicted when he said that God would send his messenger."
-  * **ahead of you** - In this phrase, the word "you" refers to the Messiah.
-  * **prepare your way** - God's messenger will prepare the people to listen to the Messiah.
-
-
+  * **ਤੁਸੀਂ ਜਹਿਰੀਲੇ ਸੱਪ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ ਤੁਸੀਂ ਝੂਠ ਬੋਲਣ ਵਾਲੇ ਜਹਿਰੀਲੇ ਸੱਪਾਂ ਵਰਗੇ ਹੋ!” ਯਹੁੰਨਾ ਉਹਨਾਂ ਨੂੰ ਇਸ ਲਈ ਜਹਿਰੀਲੇ ਸੱਪ ਕਹਿ ਰਿਹਾ ਹੈ ਕਿਉਂਕਿ ਉਹ ਬਹੁਤ ਖਤਰਨਾਕ ਅਤੇ ਧੋਖੇਬਾਜ ਸਨ |
+  * **ਹਰ ਦਰੱਖਤ ਜੋ ਚੰਗੇ ਫਲ ਨਹੀਂ ਦਿੰਦਾ**  – ਯਹੁੰਨਾ ਅਸਲ ਵਿਚ ਦਰੱਖਤਾ ਬਾਰੇ ਗੱਲ ਨਹੀਂ ਕਰ ਰਿਹਾ | ਇਹ ਇਕ ਪ੍ਰਗਟੀਕਰਨ ਹੈ ਜੋ ਚੰਗੇ ਫਲਾਂ ਦੀ ਚੰਗੇ ਕੰਮਾਂ ਅਤੇ ਉਸ ਸੁਭਾਓ ਨਾਲ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਵਲੋਂ ਆਉਂਦਾ ਹੈ ਉਸ ਨਾਲ ਤੁਲਨਾ ਕਰਦਾ ਹੈ |
+  * **ਕੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਅੱਗ ਵਿਚ ਸੁੱਟ ਦਿੱਤਾ ਜਾਵੇਗਾ**  – ਇਸ ਦਾ ਮਤਲਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੁਆਰਾ ਨਿਆਂ ਕੀਤਾ ਜਾਵੇਗਾ ਅਤੇ ਸਜਾ ਦਿੱਤੀ ਜਾਵੇਗੀ |
+  * **ਯਹੁੰਨਾ ਨੇ ਪੂਰਾ ਕੀਤਾ**  – ਇਸ ਦਾ ਮਤਲਬ, “ਯਹੁੰਨਾ ਉਹ ਕਰ ਰਿਹਾ ਸੀ” ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਨਬੀ ਨੇ ਕਿਹਾ ਸੀ ਕਿ ਸੰਦੇਸ਼ਵਾਹਕ ਕਰੇਗਾ |
+  * **ਦੇਖ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਨਜਰ ਕਰ ਅਤੇ ਦੇਖ” ਜਾਂ “ਧਿਆਨ ਦੇਹ|”
+  * **ਮੇਰਾ ਸੰਦੇਸ਼ਵਾਹਕ**  – ਮਤਲਬ, “ਮੈਂ, ਆਪਣਾ ਸੰਦੇਸ਼ਵਾਹਕ ਭੇਜਾਂਗਾ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਵਾਕ ਲਈ ਅਸਿਧੇ ਕਥਨ ਦਾ ਪ੍ਰਯੋਗ ਕਰਨਾ ਹੋਰ ਵੀ ਸੁਭਾਵਿਕ ਹੋਵੇਗਾ ਜਿਵੇਂ ਕਿ, “ਜੋ ਕੁੱਝ ਯਸਾਯਾਹ ਨਬੀ ਨੇ ਭਵਿੱਖਬਾਣੀ ਕੀਤੀ ਜਦੋਂ ਉਸ ਨੇ ਕਿਹਾ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਆਪਣਾ ਸੰਦੇਸ਼ਵਾਹਕ ਭੇਜੇਗਾ|”
+  * **ਤੇਰੇ ਅੱਗੇ**  – ਇਸ ਵਾਕ ਵਿਚ, ਸ਼ਬਦ, “ਤੇਰੇ” ਮਸੀਹ ਲਈ ਇਸਤੇਮਾਲ ਹੁੰਦਾ ਹੈ |
+  * **ਤੇਰੇ ਮਾਰਗ ਨੂੰ ਤਿਆਰ ਕਰੇ**  – ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਸੰਦੇਸ਼ਵਾਹਕ ਲੋਕਾਂ ਨੂੰ ਤਿਆਰ ਕਰੇਗਾ ਕਿ ਮਸੀਹਾ ਦੀ ਗੱਲ ਸੁਣਨ |
 **[[:pa:obs:notes:frames:24-03|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-05|>>]]**
