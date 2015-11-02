@@ -1,26 +1,19 @@
-===== The Angel and the Shepherds [23-06] =====
+===== **ਦੂਤ ਅਤੇ ਆਜੜੀ** **[23-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-06.jpg?nolink&}}
 
-That night, there were some **shepherds** in a nearby field **guarding their flocks**. Suddenly, **a shining angel** appeared to them, and **they were terrified**. The angel said, “**Do not be afraid**, because I have some good news for you. The **Messiah**, the **Master**, has been born in **Bethlehem**!”
+ਉਸ ਰਾਤ ਨੇੜੇ ਦੇ ਖੇਤਾਂ ਵਿਚ ਕੁੱਝ **ਆਜੜੀ** **ਆਪਣੇ** **ਇੱਜੜਾਂ** ਦੀ **ਰਖਵਾਲੀ** ਕਰਦੇ ਸਨ ਅਚਾਨਕ, ਇਕ **ਚਮਕੀਲਾ** **ਦੂਤ** ਉਹਨਾਂ ਉੱਤੇ ਪ੍ਰਗਟ ਹੋਇਆ, ਅਤੇ **ਉਹ** **ਡਰ ਗਏ** | ਦੂਤ ਨੇ ਕਿਹਾ, “**ਨਾ ਡਰੋ**, ਕਿਉਂਕਿ ਮੇਰੇ ਕੋਲ ਤੁਹਾਡੇ ਲਈ ਇਕ ਖੁਸ਼ੀ ਦੀ ਖਬਰ ਹੈ| **ਮਸੀਹਾ**, **ਸਵਾਮੀ**, **ਬੈਤਲਹਮ** ਵਿਚ ਪੈਦਾ ਹੋ ਚੁੱਕਾ ਹੈ !”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-
-===== Important Terms: =====
-
-
-  * **[[:pa:obe:other:shepherd]]**
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:kt:christ]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:other:bethlehem]]**
-
-
+  * **[[:pa:obs:notes:key-terms:shepherd|ਆਜੜੀ]]**
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]]**
+  * **[[:pa:obs:notes:key-terms:bethlehem|ਬੈਤਲਹਮ]]**
 ===== Translation Notes: =====
 
-  * **guarding their flocks** - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
-  * **a shining angel** - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
-  * **they were terrified** - The appearance of the supernatural angel was extremely frightening.
-  * **Do not be afraid** - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
-
-
+  * **guarding their flocks**  - A "flock" is a group of sheep. The shepherds were caring for their sheep, and protecting them from harm or theft.
+  * **a shining angel**  - This could also be translated as, "an angel surrounded by a bright light." The shining light would have seemed even brighter in contrast to the darkness of the night.
+  * **they were terrified**  - The appearance of the supernatural angel was extremely frightening.
+  * **Do not be afraid**  - This often means, "stop being afraid." The shepherds were very afraid when they saw the angel so he was telling them they did not need to be afraid.
 **[[:pa:obs:notes:frames:23-05|<<]] | [[:pa:obs:notes:23|Up]] | [[:pa:obs:notes:frames:23-07|>>]]**
