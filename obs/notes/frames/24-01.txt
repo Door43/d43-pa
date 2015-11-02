@@ -1,23 +1,18 @@
-===== John the Prophet [24-01] =====
+===== **ਯਹੁੰਨਾ ਨਬੀ** **[24-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?nolink&}}
 
-**John**, the son of **Zechariah** and Elizabeth, grew up and became a **prophet**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from camel hair**.
-===== Important Terms: =====
+**ਜ਼ਕਰੀਆ** ਅਤੇ ਇਲਿਜ਼ੇਬਥ ਦਾ ਪੁੱਤਰ **ਯਹੁੰਨਾ** ਵਧਿਆ ਅਤੇ ਇਕ **ਨਬੀ** ਬਣ ਗਿਆ | ਉਹ **ਜੰਗਲ** ਵਿਚ ਰਿਹਾ, **ਜੰਗਲੀ** **ਸ਼ਹਿਦ** ਅਤੇ **ਟਿੱਡੀਆਂ** ਖਾਂਦਾ ਸੀ ਅਤੇ **ਊਂਠ** **ਦੇ ਵਾਲਾਂ ਦੇ** ਬ**ਣੇ** **ਕਪੜੇ** **ਪਹਿਨਦਾ** ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **[[:pa:obs:notes:key-terms:johnthebaptist|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:zechariahnt|ਜ਼ਕਰੀਆ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਨਬੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:other:johnthebaptist]]**
-  * **[[:pa:obe:other:zechariahnt]]**
-  * **[[:pa:obe:kt:prophet]]**
-
-
-===== Translation Notes: =====
-
-  * **wilderness** - That is, "the desert" or, "a remote, desert-like place." There were few people living out in this area.
-  * **wild honey** - This honey was the natural product of bees in the wilderness; it was not cultivated by people. If that is what people would understand by the word "honey," you may not need to call it "wild."
-  * **locusts** - These were large, hopping insects with wings, like very large grasshoppers. Some people who live in the desert eat them.
-  * **camel hair** - A camel is an animal that has very rough hair. People could make clothing out of it. This could be translated as "rough animal hair."
-  * **clothes made from camel hair** - That is, "coarse clothes made of camel hair." These clothes would not quickly wear out in the wilderness as other clothes would.
-
-
+  * **ਜੰਗਲ**  – ਮਤਲਬ, “ਇਕ ਜੰਗਲ” ਜਾਂ “ਇਕ ਇਕਾਂਤ, ਜੰਗਲ ਜਿਹੀ ਜਗ੍ਹਾ”| ਬਹੁਤ ਘੱਟ ਲੋਕ ਇਸ ਜਗ੍ਹਾ ਵਿਚ ਰਹਿੰਦੇ ਸਨ |
+  * **ਜੰਗਲੀ ਸ਼ਹਿਦ**  – ਜੰਗਲ ਵਿਚ ਮਧੂ ਮੱਖੀ ਦਾ ਇਹ ਇਕ ਕੁਦਰਤੀ ਉਤਪਾਦ ਸੀ; ਇਹ ਲੋਕਾਂ ਦੁਆਰਾ ਉਤਪਾਦ ਕੀਤਾ ਹੋਇਆ ਨਹੀਂ ਸੀ | ਅਗਰ ਲੋਕ ਸ਼ਬਦ “ਸ਼ਹਿਦ” ਬਾਰੇ ਇਹ ਸਮਝਦੇ ਹੁੰਦੇ ਤਾਂ ਇਸ ਨੂੰ “ਜੰਗਲੀ” ਨਹੀ ਕਿਹਾ ਜਾਂਦਾ |
+  * **ਟਿੱਡੀਆਂ**  – ਇਹ ਵੱਡੇ ਅਤੇ ਖੰਬਾਂ ਵਾਲੇ ਟਿੱਡੇ ਸਨ ਇਕ ਘਾਹ ਖਾਣ ਵਾਲੇ ਵੱਡੇ ਟਿੱਡੇ ਦੀ ਤਰਾਂ | ਜੰਗਲ ਵਿਚ ਰਹਿਣ ਵਾਲੇ ਕੁੱਝ ਲੋਕ ਇਸ ਨੂੰ ਖਾਂਦੇ ਸਨ |
+  * **ਊਂਠ ਦੇ ਵਾਲ**  – ਊਂਠ ਇਕ ਐਸਾ ਪਸ਼ੁ ਹੈ ਜਿਸਦੇ ਵਾਲ ਬਹੁਤ ਖੁਰਦਰੇ ਹੁੰਦੇ ਹਨ | ਲੋਕ ਉਸ ਤੋਂ ਕਪੜੇ ਬਣਾ ਸਕਦੇ ਸਨ | ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਖੁਰਦਰੇ ਪਸ਼ੁ ਦੇ ਵਾਲ|”
+  * **ਊਂਠ ਦੇ ਵਾਲਾਂ ਦੇ ਵਾਲਾਂ ਦੇ ਬਣੇ ਕਪੜੇ**  – ਮਤਲਬ, “ਨੁਥ ਦੇ ਵਾਲਾਂ ਦੇ ਬਣੇ ਖਰਵੇਂ ਕਪੜੇ|” ਇਹ ਕਪੜੇ ਦੂਸਰੇ ਕਪੜਿਆਂ ਦੀ ਤਰਾਂ ਜੰਗਲ ਵਿਚ ਛੇਤੀ ਖਰਾਬ ਨਹੀਂ ਹੁੰਦੇ ਸਨ |
 **[[:pa:obs:notes:frames:23-10|<<]] | [[:pa:obs:notes:24|Up]] | [[:pa:obs:notes:frames:24-02|>>]]**
