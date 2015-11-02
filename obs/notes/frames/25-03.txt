@@ -1,19 +1,15 @@
-===== God's Word Gives Life [25-03] =====
+===== **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਜਿੰਦਗੀ ਦਿੰਦਾ ਹੈ** **[25-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-03.jpg?nolink&}}
 
-**Jesus** replied, “It is written in **God’s word**, ‘People do not only need **bread** in order to live, **but they need every word that God speaks**!’”
-===== Important Terms: =====
+**ਯਿਸੂ** ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “**ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ** ਵਿਚ ਲਿੱਖਿਆ ਹੈ, “ਜੀਣ ਲਈ ਲੋਕਾਂ ਨੂੰ ਸਿਰਫ **ਰੋਟੀ** ਦੀ ਹੀ ਲੋੜ ਨਹੀਂ ਹੈ, **ਪਰ ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਹਰ ਵਚਨ ਦੀ ਲੋੜ ਹੈ ਜੋ ਉਸ ਦੇ ਮੂੰਹ ਵਿਚੋਂ ਨਿੱਕਲਦਾ ਹੈ!”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:god]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:wordofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ]] **
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:pa:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **ਰੋਟੀ**  – ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਅਨੁਵਾਦ ਲਈ ਓਹੀ ਸ਼ਬਦ “ਰੋਟੀ” ਇਸਤੇਮਾਲ ਕਰਦੇ  ਜੋ ਤੁਸੀਂ [25-02] ਵਿਚ ਇਸਤੇਮਾਲ ਕੀਤਾ ਹੈ |
+  * **ਪਰ ਉਹਨਾਂ ਨੇ ਉਸ ਦੇ ਹਰ ਵਚਨ ਦੀ ਲੋੜ ਹੈ ਜੋ ਉਹ ਬੋਲਦਾ ਹੈ**! –ਇਸ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਦਾ ਇਕ ਦੂਸਰਾ ਤਰੀਕਾ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਦੀ ਬਜਾਏ, ਲੋਕਾਂ ਨੂੰ ਸੁਣਨ ਅਤੇ ਮੰਨਣ ਦੀ ਲੋੜ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਕਹਿੰਦਾ ਹੈ” ਜਾਂ “ਇਸ ਦੀ ਬਜਾਏ, ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਕਹਿੰਦਾ ਹੈ ਉਸ ਨੂੰ ਮੰਨਣ ਅਤੇ ਵਿਸ਼ਵਾਸ ਕਰਨ ਵਿਚ ਸੱਚ ਮੁੱਚ  ਲੋਕਾਂ ਕੋਲ ਜੀਵਨ ਹੈ |
 **[[:pa:obs:notes:frames:25-02|<<]] | [[:pa:obs:notes:25|Up]] | [[:pa:obs:notes:frames:25-04|>>]]**
