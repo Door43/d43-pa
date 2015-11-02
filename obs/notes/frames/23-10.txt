@@ -1,20 +1,17 @@
-===== Worship for the Baby [23-10] =====
+===== **ਬਾਲਕ ਦੀ ਅਰਾਧਨਾ** **[23-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-23-10.jpg?nolink&}}
 
-When the** wise men** saw Jesus with his mother, they **bowed down** and **worshiped** him. They gave Jesus **expensive** gifts. Then they returned home.
-===== Important Terms: =====
+ਜਦੋਂ **ਗਿਆਨੀਆਂ** ਨੇ ਬਾਲਕ ਨੂੰ ਆਪਣੀ ਮਾਤਾ ਨਾਲ ਦੇਖਿਆ, ਉਹ **ਝੁਕੇ** ਅਤੇ ਉਸ ਦੀ **ਅਰਾਧਨਾ** **ਕੀਤੀ** | ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਨੂੰ **ਬਹੁਮੁੱਲੇ** ਤੋਹਫ਼ੇ ਦਿੱਤੇ | ਤੱਦ ਉਹ ਘਰ ਵਾਪਸ ਚਲੇ ਗਏ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:worship]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:worship|ਅਰਾਧਨਾ ਕੀਤੀ ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **wise men** - See how you translated this term in **[[:pa:obs:notes:frames:23-09|[23-09]]]**.
-  * **bowed down** - That is, "bowed low to the ground." At that time, this was the customary way of showing great respect or reverence.
-  * **expensive** - That is, "very valuable."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **ਗਿਆਨੀ ਮਨੁੱਖ**  –ਦੇਖੋ  ਇਸ ਸ਼ਬਦ ਨੂੰ ਕਿਸ ਤਰਾਂ **__[23-09]__** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਹੇਠਾਂ ਝੁਕੇ**  – ਮਤਲਬ, “ਧਰਤੀ ਤੱਕ ਝੁਕੇ|” ਉਸ ਸਮੇਂ ਇਹ ਪਰੰਪਰਾਗਿਤ ਤਰੀਕਾ ਸੀ ਵੱਡੀ ਇੱਜਤ ਜਾਂ ਆਦਰ ਨੂੰ ਪ੍ਰਗਟ ਕਰਨ ਦਾ |
+  * **ਬਹੁਮੁੱਲੇ**  – ਮਤਲਬ “ਬਹੁਤ ਮੁਲਵਾਨ|”
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:23-09|<<]] | [[:pa:obs:notes:23|Up]] | [[:pa:obs:notes:frames:24-01|>>]]**
