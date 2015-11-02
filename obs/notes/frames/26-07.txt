@@ -1,19 +1,15 @@
-===== The Attempt to Kill Jesus [26-07] =====
+===== **ਯਿਸੂ ਨੂੰ ਮਾਰਨ ਦੀ ਕੋਸ਼ਿਸ਼** **[26-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-07.jpg?nolink&}}
 
-The people of **Nazareth** dragged **Jesus** out of the **place of worship** and brought him to the edge of a cliff to throw him off of it in order to kill him. **But Jesus walked through the crowd** and left the town of Nazareth.
-===== Important Terms: =====
+**ਨਾਸਰਤ** ਦੇ ਲੋਕਾਂ ਨੇ ਯਿਸੂ ਨੂੰ **ਬੰਦਗੀ ਦੀ ਜਗ੍ਹਾ** ਤੋਂ ਬਾਹਰ ਘਸੀਟ ਲਿਆ ਅਤੇ ਚੋਟੀ ਦੇ ਕਿਨਾਰੇ ਉਸ ਨੂੰ ਲੈ ਗਏ ਤਾਂ ਕਿ ਉਸ ਨੂੰ ਹੇਠਾ ਸੁੱਟ ਕੇ ਮਾਰ ਦੇਣ | **ਪਰ ਯਿਸੂ ਭੀੜ ਵਿਚੋਂ ਖਿੱਸਕ ਗਿਆ** ਅਤੇ ਨਾਸਰਤ ਵਿਚੋਂ ਚੱਲਿਆ ਗਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:nazareth]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:worship]]**
+  * **[[:pa:obs:notes:key-terms:nazareth|ਨਾਸਰਤ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:worship|ਬੰਦਗੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **place of worship** - That is, "the building where the Jewish people gathered to worship God." This can also be translated as "worship building." See how you translated it in **[[:pa:obs:notes:frames:26-02|[26-02]]]**.
-  * **But Jesus walked through the crowd** - "But" could be translated with a strong contrast word or phrase such as "But instead" or, "However" to show that the people were not able to do to Jesus what they had planned to do.
-
-
+  * **ਬੰਦਗੀ ਦੀ ਜਗ੍ਹਾ**  – ਮਤਲਬ, “ਉਹ ਇਮਾਰਤ ਜਿੱਥੇ ਯਹੂਦੀ ਲੋਕ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਬੰਦਗੀ ਕਰਨ ਲਈ ਇੱਕਠੇ ਹੁੰਦੇ ਸਨ |” ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਬੰਦਗੀ ਦੀ ਇਮਾਰਤ|” **__[26-02]__** ਵਿਚ ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਪਰ ਯਿਸੂ ਭੀੜ ਵਿਚੋਂ ਖਿੱਸਕ ਗਿਆ**  – “ਪਰ” ਦਾ ਅਨੁਵਾਦ ਜੋਰ ਦੇਣ ਵਾਲੇ ਸ਼ਬਦ ਜਾਂ ਕਿਸੇ ਵਾਕ ਨਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜਿਵੇਂ ਕਿ “ਪਰ ਇਸ ਦੀ ਬਜਾਏ” ਜਾਂ “ਫਿਰ ਵੀ” ਇਸ ਗੱਲ ਨੂੰ ਦਿਖਾਉਣ ਲਈ ਕਿ ਲੋਕ ਜੋ ਯਿਸੂ ਨਾਲ ਕਰਨਾ ਚਹੁੰਦੇ ਸਨ ਨਾ ਕਰ ਸਕੇ |
 **[[:pa:obs:notes:frames:26-06|<<]] | [[:pa:obs:notes:26|Up]] | [[:pa:obs:notes:frames:26-08|>>]]**
