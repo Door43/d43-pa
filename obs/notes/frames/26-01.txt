@@ -1,25 +1,21 @@
-===== Jesus in Galilee [26-01] =====
+===== **ਯਿਸੂ ਗਲੀਲ ਵਿਚ [****26-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?nolink&}}
 
-**After overcoming Satan's temptations**, **Jesus returned in the power of the Holy Spirit** to the region of **Galilee** where he lived. Jesus **went from place to place teaching**. **Everyone spoke well of him**.
-===== Important Terms: =====
+**ਸ਼ੈਤਾਨ ਦੀਆਂ ਪ੍ਰੀਖਿਆਵਾਂ ਉੱਤੇ ਫਤਹਿ ਪਾਉਣ ਤੋਂ ਬਾਅਦ, ਯਿਸੂ ਪਵਿੱਤਰ ਆਤਮਾ ਦੀ ਸ਼ਕਤੀ ਨਾਲ ਭਰ ** ਕੇ ਗਲੀਲ ਦੀ ਇਲਾਕੇ ਵਿਚ ਵਾਪਸ ਆਇਆ ਜਿੱਥੇ ਉਹ ਰਿਹਾ | ਯਿਸੂ **ਜਗ੍ਹਾ ਜਗ੍ਹਾ ਸਿਖਾਉਂਦਾ ਹੋਇਆ ਚਲਿਆ ਗਿਆ |** **ਹਰ ਇਕ ਨੇ ਉਸ ਦੀ ਪ੍ਰਸੰਸਾਂ ਕੀਤੀ |**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:kt:tempt]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:power]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:other:galilee]]**
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ ਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:tempt|ਪ੍ਰੀਖਿਆਵਾਂ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:power|ਸ਼ਕਤੀ]] **
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:galilee|ਗਲੀਲ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **After overcoming Satan's temptations, Jesus returned** - You may prefer to make this into two sentences and say, "Jesus did not do the wrong things Satan tried to get him to do and so defeated him. After that, Jesus returned." The word "overcoming" can also be translated with "resisting" or, "rejecting" or, "refusing."
-  * **in the power of the Holy Spirit** - This may be translated as, "as the power of the Holy Spirit worked through him" or, "and the Holy Spirit was powerfully guiding him."
-  * **went from place to place teaching** - That is, he "traveled to different towns and other places and taught the people there."
-  * **Everyone** - That is, "Everyone who knew him or heard about him."
-  * **spoke well of him** - That is, "said good things about him."
-
-
+  * **ਸ਼ੈਤਾਨ ਦੀਆਂ ਪ੍ਰੀਖਿਆਵਾਂ ਉੱਤੇ ਜਿੱਤ ਪਾਉਣ ਤੋਂ ਬਾਅਦ, ਯਿਸੂ ਮੁੜਿਆ**  – ਸ਼ਾਇਦ ਤੁਸੀਂ ਇਸ ਨੂੰ ਦੋ ਵਾਕਾਂ ਵਿਚ ਰੱਖਣਾ ਚੰਗਾ ਸਮਝੋ ਅਤੇ ਕਹੋਂ, “ਯਿਸੂ ਨੇ ਕੋਈ ਵੀ ਗਲਤ ਕੰਮ ਨਹੀ ਕੀਤਾ ਜੋ ਸ਼ੈਤਾਨ ਉਸ ਤੋਂ ਕਰਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਸੀ, ਇਸ ਤਰਾਂ ਉਸ ਨੇ ਸ਼ੈਤਾਨ ਨੂੰ ਹਰਾਇਆ| ਉਸ ਤੋਂ ਬਾਅਦ, ਯਿਸੂ ਮੁੜਿਆ |” ਸ਼ਬਦ “ਜਿੱਤ ਪਾਉਣਾ“ ਨੂੰ “ਵਿਰੋਧ ਕਰਨਾ” ਜਾਂ “ਤ੍ਰਿਸਕਾਰ ਕਰਨਾ” ਜਾਂ “ਇਨਕਾਰ ਕਰਨਾ” ਨਾਲ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ |
+  * **ਪਵਿੱਤਰ ਆਤਮਾ ਦੀ ਸ਼ਕਤੀ ਵਿਚ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਜਿਵੇਂ ਹੀ ਪਵਿੱਤਰ ਆਤਮਾ ਦੀ ਸ਼ਕਤੀ ਉਸ ਦੁਆਰਾ ਕੰਮ ਕਰਨ ਲੱਗੀ” ਜਾਂ “ਅਤੇ ਪਵਿੱਤਰ ਆਤਮਾ ਜੋਰ ਨਾਲ ਉਸ ਦੀ ਅਗੁਵਾਈ ਕਰ ਰਹੀ ਸੀ|”
+  * **ਸਿਖਾਉਂਦਾ ਹੋਇਆ ਜਗ੍ਹਾ ਜਗ੍ਹਾ ਗਿਆ**  – ਮਤਲਬ, ਉਸ ਨੇ ਅੱਲਗ ਅੱਲਗ ਨਗਰਾਂ ਅਤੇ ਦੂਸਰੇ ਸਥਾਨਾਂ ਦੀ ਯਾਤਰਾ ਕੀਤੀ ਅਤੇ ਉੱਥੇ ਲੋਕਾਂ ਨੂੰ ਸਿਖਾਇਆ |”
+  * **ਹਰ****ਇਕ**  – ਮਤਲਬ, “ਹਰ ਕੋਈ ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਜਾਣਿਆ ਅਤੇ ਉਸ ਬਾਰੇ ਸੁਣਿਆ|”
+  * **ਉਸ ਬਾਰੇ ਪ੍ਰਸੰਸਾਂ ਕੀਤੀ**  – ਮਤਲਬ, “ਉਸ ਬਾਰੇ ਚੰਗਾ ਬੋਲਿਆ|”
 **[[:pa:obs:notes:frames:25-08|<<]] | [[:pa:obs:notes:26|Up]] | [[:pa:obs:notes:frames:26-02|>>]]**
