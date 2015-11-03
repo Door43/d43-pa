@@ -1,22 +1,19 @@
-===== The First and the Last [28-10] =====
+===== **ਪਹਿਲਾ ਅਤੇ ਆਖਰੀ** **[28-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?nolink&}}
 
-**Jesus** answered, “Everyone who **has left** houses, brothers, sisters, father, mother, children, or property **for my sake**, will receive **100 times more** and will also receive **eternal life**. But **many who are first will be last**, and **many who are last will be first**.”
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਹਰ ਇਕ ਜਿਸ ਨੇ **ਮੇਰੇ ਲਈ** ਆਪਣਾ ਘਰ, ਭੈਣ, ਭਾਈ, ਮਾਤਾ, ਪਿਤਾ, ਬੱਚੇ, ਜਾਂ ਸੰਪਤੀ **ਛੱਡੀ** **ਹੈ** ਉਹ **100 ਗੁਣਾ** ਜਿਆਦਾ ਪਾਉਣਗੇ ਅਤੇ **ਅਨੰਤ** **ਜੀਵਨ** ਪਾਉਣਗੇ| ਪਰ **ਬਹੁਤ ਜੋ ਪਹਿਲੇ ਹਨ ਪਿੱਛੇ ਕੀਤੇ ਜਾਣਗੇ ਅਤੇ ਜਿਹੜੇ ਪਿੱਛੇ ਹਨ ਅੱਗੇ ਕੀਤੇ ਜਾਣਗੇ|”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:eternity]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:eternity|ਅਨੰਤ ਜੀਵਨ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **has left** - That is, "has left behind" or, "has given up" or, "has counted as less important than God."
-  * **for my sake** - This may also be translated as, "because of me" or, "on my account."
-  * **100 times more** - That is, "very much more than he had before."
-  * **many who are first will be last** - That is, "many people who are important now, will not be important then."
-  * **many who are last will be first** - That is, "many people who are considered to not be very important on earth will be considered very important in heaven" or, "Many people who are considered now to be of little value on earth will be highly valued in heaven."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **ਛੱਡ  ਚੁੱਕੇ**  – ਮਤਲਬ, “ਪਿੱਛੇ ਛੱਡ ਚੁੱਕੇ” ਜਾਂ “ਦੇ ਚੁੱਕੇ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲੋਂ ਘੱਟ ਮਹੱਤਵਪੂਰਨ ਸਮਝਿਆ|”
+  * **ਮੇਰੇ ਲਈ**  – ਇਸ ਦਾ ਵੀ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਮੇਰੇ ਲਈ” ਜਾਂ “ਮੇਰੇ ਹਿੱਸੇ”
+  * **100 ਗੁਣਾ ਜਿਆਦਾ**  – ਮਤਲਬ, “ਪਹਿਲਾਂ ਜੋ ਕੁੱਝ ਉਸ ਕੋਲ ਸੀ ਨਾਲੋਂ ਬਹੁਤ ਜਿਆਦਾ|”
+  * **ਬਹੁਤ ਜੋ ਅੱਗੇ ਹਨ ਪਿੱਛੇ ਹੋਣਗੇ**  – ਮਤਲਬ, “ਬਹੁਤ ਲੋਕ ਜੋ ਹੁਣ ਮਹੱਤਵਪੂਰਨ ਹਨ, ਤੱਦ ਮਹੱਤਵਪੂਰਨ ਨਹੀਂ ਹੋਣਗੇ|”
+  * **ਬਹੁਤ ਜੋ ਪਿੱਛੇ ਹਨ ਅੱਗੇ ਹੋਣਗੇ**  –ਮਤਲਬ, “ਬਹੁਤ ਲੋਕ ਜੋ ਧਰਤੀ ਉੱਤੇ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਨਹੀਂ ਸਮਝੇ ਜਾਂਦੇ ਸਵਰਗ ਵਿਚ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਸਮਝੇ ਜਾਣਗੇ” ਜਾਂ “ਬਹੁਤ ਲੋਕ ਜੋ ਹੁਣ ਧਰਤੀ ਉੱਤੇ ਬਹੁਤ ਭੱਟ ਕੀਮਤੀ ਜਾਣੇ ਜਾਂਦੇ ਹਨ ਸਵਰਗ ਵਿਚ ਉਹਨਾਂ ਦਾ ਬਹੁਤ ਆਦਰਮਾਨ ਹੋਵੇਗਾ |”
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:28-09|<<]] | [[:pa:obs:notes:28|Up]] | [[:pa:obs:notes:frames:29-01|>>]]**
