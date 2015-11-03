@@ -1,15 +1,12 @@
-===== The Robbers [27-05] =====
+===== **ਡਾਕੂ  [27-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?nolink&}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
-===== Important Terms: =====
+“ਜਦੋਂ ਵਿਅਕਤੀ ਯਾਤਰਾ ਕਰ ਰਿਹਾ ਸੀ, ਉਸ ਉੱਤੇ ਡਾਕੂਆਂ ਦੇ ਝੁੰਡ ਦੁਆਰਾ ਹਮਲਾ ਹੋਇਆ| ਉਹ **ਉਸ ਦਾ ਸੱਭ ਕੁੱਝ** ਲੈ ਗਏ ਅਤੇ ਉਸ ਨੂੰ ਤੱਦ ਤੱਕ ਮਾਰਿਆ ਜੱਦ ਤੱਕ ਉਹ ਮਰਨਾਊ ਨਾ ਹੋ ਗਿਆ | ਜਦੋਂ ਉਹ ਦੂਰ ਭੱਜ ਗਏ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **everything he had** - That is, "everything he had with him, including the clothes he was wearing."
-
-
+  * (ਯਿਸੂ ਲਗਾਤਾਰ ਕਹਾਣੀ ਦੱਸਦਾ ਰਿਹਾ)
+  * **ਜੋ ਕੁੱਝ ਉਸ ਕੋਲ ਸੀ**  – ਮਤਲਬ, “ਸੱਭ ਕੁੱਝ ਜੋ ਉਸਦੇ ਕੋਲ ਸੀ, ਉਸਦੇ ਪਹਿਨੇ ਹੋਏ ਕਪੜੇ ਵੀ ਇਸ ਸ਼ਾਮਲ ਸਨ |”
 **[[:pa:obs:notes:frames:27-04|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-06|>>]]**
