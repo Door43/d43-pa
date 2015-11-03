@@ -1,21 +1,17 @@
-===== The Debt Is Canceled [29-04] =====
+===== **ਕਰਜ਼ਾ ਮਾਫ਼ ਮਾਫ਼ ਹੋ ਗਿਆ** **[29-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?nolink&}}
 
-“The **servant fell on his knees before the king** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king **felt pity** for the servant, so he **canceled all of his debt** and let him go.”
-===== Important Terms: =====
+“**ਨੌਕਰ ਰਾਜੇ ਦੇ ਸਾਹਮਣੇ ਆਪਣੇ ਗੁਟਨਿਆ ਉੱਤੇ ਡਿੱਗ ਪਿਆ** ਅਤੇ ਕਿਹਾ, “ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਨਾਲ ਧੀਰਜ ਕਰੋ ਅਤੇ ਮੈ ਪੂਰਾ ਕਰਜ਼ ਵਾਪਸ ਕਰ ਦਿਆਂਗਾ ਜਿਸ ਲਈ ਮੈਂ ਕਰਜਾਈ ਹਾਂ| ਰਾਜੇ ਨੇ ਨੌਕਰ ਪ੍ਰਤੀ **ਤਰਸ** **ਖਾਧਾ** ਇਸ ਲਈ ਉਸ ਨੇ ਉਸ ਦਾ **ਕਰਜ਼ ਮਾਫ਼ ਕਰ ਦਿੱਤਾ** ਅਤੇ ਉਸ ਨੂੰ ਜਾਣ ਦਿੱਤਾ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:other:king]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਨੌਕਰ]]**
+  * **[[:pa:obs:notes:key-terms:king|ਰਾਜਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **fell on his knees** - That is, "quickly knelt down on the ground." This was a way to show his humility and his desire for the king to help him. Make sure it doesn't sound like he fell down accidentally.
-  * **before the king** - This means, "in front of the king."
-  * **felt pity** - That is, "felt compassion for" or, "felt sorry for." The king knew that the servant and his family would suffer greatly if they were sold into slavery.
-  * **canceled all of his debt** - This can be translated as, "said that the servant did not need to pay back any of the money that he owed the king."
-
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਚਾਲੂ ਰੱਖਦਾ ਹੈ )
+  * **ਆਪਣੇ ਗੁਟਨਿਆ ਤੇ ਡਿੱਗ ਪਿਆ**  – ਮਤਲਬ, “ਛੇਤੀ ਨਾਲ ਧਰਤੀ ਉੱਤੇ ਗੁਟਨੇ ਟੇਕੇ|” ਆਪਣੀ ਨਮਰਤਾ ਨੂੰ ਪੇਸ਼ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਸੀ ਅਤੇ ਉਸ ਦੀ ਇੱਛਾ ਕਿ ਰਾਜਾ ਉਸ ਦੀ ਮੱਦਦ ਕਰੇ| ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਸ ਤਰਾਂ ਦਿਖਾਈ ਨਹੀਂ ਦੇਣਾ ਚਾਹੀਦਾ ਕਿ ਉਹ ਅਚਾਨਕ ਹੇਠਾਂ ਡਿੱਗ ਪਿਆ |
+  * **ਰਾਜੇ ਦੇ ਸਾਹਮਣੇ**  – ਮਤਲਬ, ‘ਰਾਜੇ ਬਿਲਕੁੱਲ ਸਾਹਮਣੇ”
+  * **ਤਰਸ ਮਹਿਸੂਸ ਕੀਤਾ**  – ਮਤਲਬ, “ਦਯਾ ਮਹਿਸੂਸ ਕੀਤੀ” ਜਾਂ “ਉਸ ਲਈ ਬੁਰਾ ਮਹਿਸੂਸ ਕੀਤਾ” ਰਾਜਾ ਜਾਣਦਾ ਸੀ ਕਿ ਜੇਕਰ ਨੌਕਰ ਅਤੇ ਉਸ ਦਾ ਪਰੀਵਾਰ ਗੁਲਾਮੀ ਵਿਚ ਵੇਚ ਦਿੱਤੇ ਗਏ ਤਾਂ ਉਹ ਬਹੁਤ ਦੁੱਖੀ ਹੋਣਗੇ |
+  * **ਉਸ ਦਾ ਸਾਰਾ ਕਰਜ਼ ਮਾਫ਼ ਕਰ ਦਿੱਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਕਿਹਾ ਕਿ ਨੌਕਰ ਨੂੰ ਕੋਈ ਵੀ ਪੈਸਾ ਵਾਪਸ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ ਜਿਸ ਲਈ ਉਹ ਰਾਜੇ ਦਾ ਕਰਜਾਈ ਹੈ |”
 **[[:pa:obs:notes:frames:29-03|<<]] | [[:pa:obs:notes:29|Up]] | [[:pa:obs:notes:frames:29-05|>>]]**
