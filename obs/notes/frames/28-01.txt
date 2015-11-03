@@ -1,28 +1,24 @@
-===== What Must I Do? [28-01] =====
+===== **ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਜਰੂਰੀ ਹੈ ?** **[28-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?nolink&}}
 
-**One day**, a **rich young ruler came up to Jesus** and asked him, “**Good teacher**, what must I do **to have eternal life?**” Jesus said to him, “**Why do you call me 'good'**? **There is only one who is good**, **and that is God**. But if you want to have eternal life, **obey God's laws**.”
-===== Important Terms: =====
+**ਇਕ** ਦਿ**ਨ** **ਇਕ ਜਵਾਨ ਹਾਕਮ ਯਿਸੂ ਕੋਲ ਆਇਆ** ਅਤੇ ਉਸ ਨੂੰ ਪੁੱਛਿਆ, “ਹੇ **ਚੰਗੇ** **ਗੁਰੂ**, **ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ** ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?” ਯਿਸੂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “**ਤੂੰ ਮੈਨੂੰ ਚੰਗਾ ਕਿਉਂ ਕਹਿ ਰਿਹਾਂ ਹੈ?”** **ਸਿਰਫ ਇਕ ਹੀ ਚੰਗਾ ਹੈ ਅਤੇ ਉਹ ਹੈ ਪ੍ਰਮੇਸ਼ਵਰ |** ਪਰ ਜੇ ਤੂੰ ਅਨੰਤ ਜੀਵਨ ਪਾਉਣਾ ਚਹੁੰਦਾ ਹੈ, **ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਹੁਕਮਾਂ ਨੂੰ ਮੰਨ|”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:good]]**
-  * **[[:pa:obe:kt:teacher]]**
-  * **[[:pa:obe:kt:eternity]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:obey]]**
-  * **[[:pa:obe:kt:lawofmoses]]**
+  * **ਯਿਸੂ**
+  * **ਚੰਗਾ**
+  * **ਗੁਰੂ**
+  * **ਅਨੰਤ ਜੀਵਨ  **
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਮੰਨਣਾ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਹੁਕਮ **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **rich young ruler** - This man was already a rich and powerful political official, even though he was still young.
-  * **came up to Jesus** - That is, "approached Jesus."
-  * **Good teacher** - That is, "righteous teacher." He was not saying that Jesus was simply a skilled teacher.
-  * **to have eternal life** - That is, "to receive eternal life" or, "to live with God forever." Also consider how "eternal life" was translated on **[[:pa:obs:notes:frames:27-01|[27-01]]]** and see the note about that there.
-  * **Why do you call me 'good'** - Jesus is not denying that he is God. Rather, he is asking if the ruler understands that Jesus is God.
-  * **There is only one who is good, and that is God** - Another way to say this would be, "The only one who is truly good is God" or, "God is the only one who is truly good."
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
+  * **ਧਨੀ ਜਵਾਨ ਹਾਕਮ**  –ਇਹ ਵਿਅਕਤੀ ਪਹਿਲਾਂ ਹੈ ਧਨੀ ਅਤੇ ਰਾਜਨੀਤਕ ਤੌਰ ਤੇ ਤਕੜਾ ਅਫਸਰ ਸੀ ਚਾਹੇ ਉਹ ਅਜੇ ਜਵਾਨ ਹੀ ਸੀ |
+  * **ਯਿਸੂ ਕੋਲ ਆਇਆ**  – ਮਤਲਬ, “ਯਿਸੂ ਤੱਕ ਪਹੁੰਚ ਕੀਤੀ”
+  * **ਚੰਗਾ ਗੁਰੂ –**  ਮਤਲਬ, “ਧਰਮੀ ਗੁਰੂ” ਉਹ ਇਹ ਨਹੀਂ ਕਿਹ ਰਿਹਾ ਸੀ ਕਿ ਯਿਸੂ ਆਮ ਤਜਰਬੇ ਕਾਰ ਸਿੱਖਿਆਕ ਹੈ |
+  * **ਅਨੰਤ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਨਾ**  – ਮਤਲਬ, “ਅਨੰਤ ਜੀਵਨ ਪਾਉਣਾ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਹਮੇਸ਼ਾਂ ਰਹਿਣਾ|” ਇਸ ਗੱਲ ਤੇ ਵੀ ਧਿਆਨ ਕਰੋ ਕਿ “ਅਨੰਤ ਜੀਵਨ” **__[27-01]__** ਵਿਚ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਸੀ ਅਤੇ ਇਸ ਬਾਰੇ ਟਿੱਪਣੀ ਦੇਖੋ |
+  * **ਤੂੰ ਮੈਨੂੰ ‘ਚੰਗਾ’ ਕਿਉਂ ਕਹਿ ਰਿਹਾ ਹੈਂ**  –ਯਿਸੂ ਇਨਕਾਰ ਨਹੀਂ ਕਰ ਰਿਹਾ ਕਿ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਹੈ | ਇਸ ਦੀ ਬਜਾਏ ਉਹ ਇਹ ਪੁੱਛ ਰਿਹਾ ਹੈ ਕਿ ਕੀ ਹਾਕਮ ਸਮਝਦਾ ਹੈ ਕਿ ਯਿਸੂ ਪ੍ਰਮੇਸ਼ਵਰ ਹੈ |
+  * **ਸਿਰਫ ਇਕ ਹੀ ਚੰਗਾ ਹੈ ਅਤੇ ਉਹ ਹੈ ਪ੍ਰਮੇਸ਼ਵਰ **– ਹੋ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਸਿਰਫ ਇਕ ਜੋ ਸੱਚ ਮੁਚ ਚੰਗਾ ਹੈ, ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਹੈ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਹੀ ਸਿਰਫ ਇਕ ਚੰਗਾ ਹੈ|”
 **[[:pa:obs:notes:frames:27-11|<<]] | [[:pa:obs:notes:28|Up]] | [[:pa:obs:notes:frames:28-02|>>]]**
