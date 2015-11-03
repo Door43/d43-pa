@@ -1,24 +1,20 @@
-===== The Wicked Servant [29-08] =====
+===== **ਇਕ ਬੁਰਾ ਨੌਕਰ** **[29-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?nolink&}}
 
-“The **king called the servant** and said, ‘You wicked servant! I **forgave** your debt because you **begged me**. **You should have done the same**.’ The king was so angry that he **threw** the **wicked** servant into prison until he could pay back all of his debt.”
-===== Important Terms: =====
+“**ਰਾਜੇ ਨੇ ਨੌਕਰ ਨੂੰ ਬੁਲਾਇਆ** ਅਤੇ ਕਿਹਾ, “ਤੂੰ ਬੁਰੇ ਨੌਕਰ! **ਮੈਂ** ਤੇਰੇ ਕਰਜ਼ ਨੂੰ **ਮਾਫ਼ ਕੀਤਾ** ਕਿਉਂਕਿ ਤੂੰ **ਮੇਰੇ ਅੱਗੇ ਬੇਨਤੀ ਕੀਤੀ** | **ਤੈਨੂੰ ਵੀ ਐਸਾ ਹੀ ਕਰਨਾ ਚਾਹੀਦਾ ਸੀ** | ਰਾਜਾ ਬਹੁਤ ਗੁੱਸੇ ਹੋਇਆ ਅਤੇ ਉਸ ਨੇ ਬੁਰੇ ਨੌਕਰ ਨੂੰ ਜੇਲ ਵਿਚ ਪਾ ਦਿੱਤਾ ਜੱਦ ਤੱਕ ਉਹ ਉਸ ਦਾ ਕਰਜ਼ ਵਾਪਸ ਨਹੀਂ ਕਰਦਾ|
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:king]]**
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:forgive]]**
-  * **[[:pa:obe:other:beg]]**
-  * **[[:pa:obe:kt:evil]]**
+  * **[[:pa:obs:notes:key-terms:king|ਰਾਜਾ]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਨੌਕਰ]]**
+  * **[[:pa:obs:notes:key-terms:forgive|ਮਾਫ਼ ਕਰਨਾ]] **
+  * **[[:pa:obs:notes:key-terms:beg|ਬੇਨਤੀ ਕੀਤੀ ]]**
+  * **[[:pa:obs:notes:key-terms:evil|ਬੁਰਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **called the servant** - That is, "commanded the servant to come to him" or, "ordered his guards to bring the servant to him."
-  * **begged me** - This could be translated as, "pleaded with me" or, "urgently asked me to be merciful."
-  * **You should have done the same** - That is, "You should have forgiven the man who owed you, just as I forgave you."
-  * **threw** - That is, "commanded his guards to put." Consider how "threw" was translated in frame **[[:pa:obs:notes:frames:29-06|[29-06]]]**.
-
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਚਾਲੂ ਰੱਖਦਾ ਹੈ )
+  * **ਨੌਕਰ ਨੂੰ ਬੁਲਾਇਆ**  – ਮਤਲਬ, “ਨੌਕਰ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਉਸ ਕੋਲ ਆਵੇ” ਜਾਂ “ਆਪਣੇ ਸਿਪਾਹੀਆਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਉਸ ਨੌਕਰ ਨੂੰ ਉਸ ਕੋਲ ਲਿਆਉਣ|”
+  * **ਮੇਰੀ ਬੇਨਤੀ ਕੀਤੀ –**  ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਮੇਰੇ ਅੱਗੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ” ਜਾਂ “ਬਹੁਤ ਬੇਤਾਬੀ ਨਾਲ ਮੇਰੀ ਅਰਜ਼ ਕੀਤੀ ਮੈ ਦਿਯਾਲੁ ਹੋਵਾਂ|”
+  * **ਤੈਨੂੰ ਵੀ ਐਸਾ ਹੀ ਕਰਨਾ ਚਾਹੀਦਾ ਸੀ**  – ਮਤਲਬ, “ਤੈਨੂੰ ਚਾਹੀਦਾ ਸੀ ਕਿ ਤੂੰ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਮਾਫ਼ ਕਰਦਾ ਜੋ ਤੇਰਾ ਕਰਜਾਈ ਸੀ ਜਿਵੇਂ ਮੈਂ ਤੈਨੂੰ ਮਾਫ਼ ਕੀਤਾ|”
+  * **ਸੁੱਟ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਆਪਣੇ ਸਿਪਾਹੀਆਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਉਸ ਨੂੰ ਪਾ ਦੇਣ|” ਸ਼ਬਦ “ਸੁੱਟ ਦਿੱਤਾ” ਤੇ ਧਿਆਨ ਦੇਵੋ ਕਿਸ ਤਰਾਂ ਢਾਂਚੇ **__[29-06]__** ਵਿਚ ਇਸ ਦਾ ਅਨੁਵਾਦ ਕੀਤਾ ਸੀ |
 **[[:pa:obs:notes:frames:29-07|<<]] | [[:pa:obs:notes:29|Up]] | [[:pa:obs:notes:frames:29-09|>>]]**
