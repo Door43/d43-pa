@@ -1,21 +1,17 @@
-===== The Priest [27-06] =====
+===== **ਜਾਜਕ** **[27-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?nolink&}}
 
-“Soon after that, a **Jewish priest happened to walk down** that same road. When this **religious leader** saw the man who had been robbed and beaten, he moved to the other side of the road, **ignored the man** who needed help, and **kept on going**.”
-===== Important Terms: =====
+“ਉਸ ਦੇ ਬਿਲਕੁਲ ਬਾਅਦ, **ਇਕ ਯਹੂਦੀ ਜਾਜਕ ਉਸ ਰਸਤੇ ਲੰਘਿਆ |** ਜਦੋਂ ਉਹ **ਧਰਮਿਕ** **ਆਗੂ** ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਦੇਖਿਆ ਜਿਸ ਨੂੰ ਮਾਰਿਆ ਗਿਆ ਸੀ ਅਤੇ ਲੁੱਟਿਆ ਗਿਆ ਸੀ, ਉਹ ਮਾਰਗ ਦੇ ਦੂਸਰੇ ਪਾਸੇ ਹੋ ਗਿਆ, ਉਸ **ਵਿਅਕਤੀ ਨੂੰ ਬੇਧਿਆਨਾ** **ਕਰਕੇ** ਜਿਸ ਨੂੰ ਮੱਦਦ ਦੀ ਲੋੜ ਸੀ ਅਤੇ **ਤੁਰਦਾ ਗਿਆ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:kt:priest]]**
-  * **[[:pa:obe:other:jewishleaders]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]] **
+  * **[[:pa:obs:notes:key-terms:priest|ਜਾਜਕ]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਧਾਰਮਿਕ ਆਗੂ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **happened to walk down** - That is, "happened to be traveling along." For some languages it may be necessary to use a word like "travel" rather than "walk" since the priest was not just walking on the road but was traveling to get to another city.
-  * **ignored the man** - That is, "did not help the man" or, "showed no concern for the man."
-  * **kept on going** - That is, "continued traveling down the road."
-
-
+  * (ਯਿਸੂ ਲਗਾਤਾਰ ਕਹਾਣੀ ਦੱਸਦਾ ਰਿਹਾ)
+  * **ਉੱਥੋਂ ਦੀ ਲੰਘਿਆ**  – ਮਤਲਬ, “ਉਸੇ ਮਾਰਗ ਲੰਘਿਆ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਜਰੂਰੀ ਹੈ ਕਿ ਇਸ ਤਰਾਂ ਦਾ ਸ਼ਬਦ ਇਸਤੇਮਾਲ ਕਰੇ, “ਯਾਤਰਾ” ਇਸ ਦੀ ਬਜਾਏ “ਤੁਰਨਾ” ਜਾਜਕ ਸਿਰਫ ਤੁਰ ਹੀਂ ਨਹੀਂ ਸੀ ਰਿਹਾ ਬਲਕਿ ਉਹ ਦੂਸਰੇ ਸ਼ਹਿਰ ਲਈ ਯਾਤਰਾ ਕਰ ਰਿਹਾ ਸੀ |
+  * **ਵਿਅਕਤੀ ਨੂੰ ਬੇਧਿਆਨਾ ਕੀਤਾ**  – ਮਤਲਬ, “ਵਿਅਕਤੀ ਦੀ ਮੱਦਦ ਨਾ ਕੀਤੀ” ਜਾਂ “ਉਸ ਵਿਅਕਤੀ ਲਈ ਕੋਈ ਚਿੰਤਾ ਨਾ ਦਿਖਾਈ|”
+  * **ਚੱਲਦਾ ਰਿਹਾ**  – ਮਤਲਬ, “ਲਗਾਤਾਰ ਮਾਰਗ ਵਿਚ ਯਾਤਰਾ ਕਰਦਾ ਰਿਹਾ|”
 **[[:pa:obs:notes:frames:27-05|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-07|>>]]**
