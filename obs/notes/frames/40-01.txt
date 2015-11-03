@@ -1,20 +1,16 @@
-===== Jesus Carried His Cross [40-01] =====
+===== **ਯਿਸੂ ਨੇ ਆਪਣੀ ਸਲੀਬ ਚੁੱਕੀ ** [40-01] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-01.jpg?nolink&}}
 
-After the soldiers **mocked Jesus**, they **led him away to crucify him**. They made him carry the **cross** on which he would die.
-===== Important Terms: =====
+ਸਿਪਾਹੀਆਂ ਦੁਆਰਾ **ਯਿਸੂ** ਦਾ **ਮਜਾਕ ਉਡਾਉਣ** ਤੋਂ ਬਾਅਦ, **ਉਹ ਉਸ ਨੂੰ ਸਲੀਬ ਦੇਣ ਲਈ ਦੂਰ ਲੈ ਗਏ |** ਉਹਨਾਂ ਨੇ ਉਸ ਕੋਲੋਂ ਉਹ **ਸਲੀਬ** ਚੁਕਵਾਈ ਜਿਸ ਉੱਤੇ ਉਹ ਮਰੇਗਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:mock]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:crucify]]**
-  * **[[:pa:obe:kt:cross]]**
+  * **[[:pa:obs:notes:key-terms:mock|ਮਜਾਕ ਉਡਾਇਆ ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:crucify|ਸਲੀਬ ਚਾੜਨਾ]] **
+  * **[[:pa:obs:notes:key-terms:cross|ਸਲੀਬ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **led him away** - That is, "forced him to go with them." This could also be translated as, "took him away."
-  * **to crucify him** - That is, "to kill him on a cross."
-
-
+  * **ਉਸ ਨੂੰ ਦੂਰ ਲੈ ਗਏ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਦੇ ਨਾਲ ਜਾਣ ਲਈ ਉਸ ਉੱਤੇ ਜੋਰ ਪਾਇਆ |” ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ, “ਉਸ ਨੂੰ ਦੂਰ ਲੈ ਗਏ”
+  * **ਉਸ ਨੂੰ ਸਲੀਬ ਦੇਣ ਲਈ**  – ਮਤਲਬ, “ਉਸ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਮਾਰਨ ਲਈ |”
 **[[:pa:obs:notes:frames:39-12|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-02|>>]]**
