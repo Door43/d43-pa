@@ -1,21 +1,17 @@
-===== The Levite [27-07] =====
+===== **ਇਕ ਲੇਵੀ [27-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?nolink&}}
 
-“Not long after that, a Levite **came down the road**. (**Levites were a tribe of Jews** who helped the **priests** at the Temple.) The Levite also crossed over to the other side of the road and **ignored** the man who had been robbed and beaten.”
-===== Important Terms: =====
+“ਉਸ ਤੋਂ ਲੰਬੇ ਸਮੇਂ ਬਾਅਦ ਨਹੀ, ਇਕ ਲੇਵੀ **ਉਸ ਮਾਰਗ ਤੇ ਆਇਆ** | (**ਲੇਵੀ ਯਹੂਦੀਆਂ ਦਾ ਇਕ ਗੋਤਰ ਸੀ** ਜੋ **ਜਾਜਕਾਂ** ਦੀ ਮੰਦਰ ਵਿਚ ਮੱਦਦ ਕਰਦੇ ਸਨ) ਲੇਵੀ ਵੀ ਲੰਘ ਕੇ ਮਾਰਗ ਦੇ ਦੂਸਰੇ ਪਾਸੇ ਚਲਾ ਗਿਆ ਅਤੇ ਵਿਅਕਤੀ ਨੂੰ **ਬੇਧਿਆਨਾ ਕੀਤਾ** ਜੋ ਮਾਰਿਆ ਗਿਆ ਸੀ ਅਤੇ ਲੁੱਟਿਆ ਗਿਆ ਸੀ|”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:kt:priest]]**
-  * **[[:pa:obe:kt:temple]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:priest|ਜਾਜਕ]]**
+  * **[[:pa:obs:notes:key-terms:temple|ਮੰਦਰ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * (ਯਿਸੂ ਲਗਾਤਾਰ ਕਹਾਣੀ ਦੱਸਦਾ ਰਿਹਾ)
+  * **ਉਸੇ ਮਾਰਗ ਆਇਆ**  – ਮਤਲਬ, “ਉਸੇ ਮਾਰਗ ਉੱਤੇ ਯਾਤਰਾ ਕਰਦਾ ਸੀ|”
+  * **ਲੇਵੀ ਯਹੂਦੀਆਂ ਦਾ ਇਕ ਗੋਤਰ ਸੀ**  – ਮਤਲਬ, “ਲੇਵੀ ਲੋਕ ਇਸਰਾਏਲੀ ਗੋਤਰ ਲੇਵੀ ਦੇ ਸਨ” ਜਾਂ “ਲੇਵੀ ਲੋਕ ਇਸਰਾਏਲੀ ਲੇਵੀ ਦੇ ਝੁੰਡ ਦੇ ਸਨ|”
+  * **ਬੇਧਿਆਨਾ**  – ਮਤਲਬ, “ਮੱਦਦ ਨਹੀਂ ਕੀਤੀ|”
 **[[:pa:obs:notes:frames:27-06|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-08|>>]]**
