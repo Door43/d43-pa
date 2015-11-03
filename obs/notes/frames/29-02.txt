@@ -1,20 +1,16 @@
-===== The Huge Debt [29-02] =====
+===== **ਇਕ ਵੱਡਾ ਕਰਜ਼** **[29-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?nolink&}}
 
-Jesus said, “**The kingdom of God is like a king who** wanted to **settle accounts with his servants**. One of his servants owed a huge debt worth 200,000 years’ wages.”
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਕਿਹਾ, “**ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਇਕ ਰਾਜੇ ਵਰਗਾ ਹੈ ਜੋ ਆਪਣੇ ਨੌਕਰਾਂ ਨਾਲ ਹਿਸਾਬ ਠੀਕ ਕਰਨਾ ਚਹੁੰਦਾ ਸੀ |** ਉਸਦੇ ਨੌਕਰਾਂ ਵਿਚੋਂ ਇਕ ਨੇ ਉਸ ਦਾ ਵੱਡਾ ਕਰਜ਼ ਦੇਣਾ ਸੀ ਲੱਗ ਭੱਗ 200,000 ਸਾਲਾਂ ਦੀ ਕਮਾਈ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:kingdomofgod]]**
-  * **[[:pa:obe:other:king]]**
-  * **[[:pa:obe:other:servant]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ]] **
+  * **[[:pa:obs:notes:key-terms:king|ਰਾਜਾ]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਨੌਕਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **The kingdom of God is like** - Another way to say this would be, "God's rule over people is like" or, "The way God rules people can be compared to."
-  * **is like a king who** - This could be translated as, "is like the kingdom of a king who" or, "can be compared with the rule of a king who."
-  * **settle accounts with his servants** - That is, "collect the debts his servants owed him" or, "collect the money his servants had borrowed from him."
-
-
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਇਸ ਤਰਾਂ ਦਾ ਹੈ**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਕਹਿਣਾ ਇਸ ਤਰਾਂ ਹੋਵੇਗਾ, “ਲੋਕਾਂ ਉੱਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਇਸ ਤਰਾਂ ਦਾ ਹੋਵੇਗਾ” ਜਾਂ “ਜਿਸ ਤਰੀਕੇ ਨਾਲ ਪ੍ਰਮੇਸ਼ਵਰ ਲੋਕਾਂ ਉੱਤੇ ਰਾਜ ਕਰਦਾ ਹੈ ਉਸ ਦੀ ਤੁੱਲਨਾ ਇਸ ਤਰਾਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ|”
+  * **ਇਕ ਰਾਜੇ ਦੀ ਤਰਾਂ ਜੋ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਰਾਜੇ ਦੇ ਰਾਜ ਦੀ ਤਰਾਂ ਹੈ ਜੋ” ਜਾਂ “ਇਕ ਰਾਜੇ ਦੇ ਰਾਜ ਨਾਲ ਤੁੱਲਨਾ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ ਜੋ|”
+  * **ਆਪਣੇ ਨੌਕਰਾਂ  ਨਾਲ ਹਿਸਾਬ ਠੀਕ ਕਰਨਾ**  – ਮਤਲਬ, “ਕਰਜਾ ਵਸੂਲਨਾ ਜੋ ਉਸਦੇ ਨੌਕਰ ਉਸ ਦੇ ਕਰਜਾਈ ਸਨ” ਜਾਂ “ਪੈਸਾ ਵਸੂਲਣਾ ਜੋ ਉਸ ਦੇ ਨੌਕਰਾਂ ਨੇ ਉਸ ਤੋਂ ਉਧਾਰ ਲਿਆ ਸੀ |”
 **[[:pa:obs:notes:frames:29-01|<<]] | [[:pa:obs:notes:29|Up]] | [[:pa:obs:notes:frames:29-03|>>]]**
