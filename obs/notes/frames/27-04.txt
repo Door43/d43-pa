@@ -1,21 +1,17 @@
-===== The Jewish Traveler [27-04] =====
+===== **ਯਹੂਦੀ ਯਾਤਰੀ [27-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?nolink&}}
 
-**Jesus** answered the **law expert** by telling a story. “There was a **Jewish** man who was traveling along the road from **Jerusalem** to **Jericho**.”
-===== Important Terms: =====
+**ਯਿਸੂ** ਨੇ **ਬਵਿਸਥਾ ਦੇ ਮਹਿਰ** ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ ਇਕ ਕਹਾਣੀ ਦੱਸਦੇ ਹੋਏ | “ਇਕ ਵਾਰੀ ਇਕ **ਯਹੂਦੀ** ਮਨੁੱਖ ਸੀ **ਯਰੁਸ਼ਲਮ** ਤੋਂ **ਯਰੀਹੋ** ਨੂੰ ਜਾਣ ਵਾਲੇ ਮਾਰਗ ਉੱਤੇ ਜਾ ਰਿਹਾ ਸੀ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:other:jericho]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੁਸ਼ਲਮ]]**
+  * **[[:pa:obs:notes:key-terms:jericho|ਯਰੀਹੋ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (The cloud-like frame around this picture indicates that Jesus is telling a story, and not necessarily explaining a historical event.)
-  * **law expert** - See how you translated this term in **[[:pa:obs:notes:frames:27-01|[27-01]]]**.
-  * **from Jerusalem to Jericho** - In some languages you could translate this as, "from the city of Jerusalem to the city of Jericho" or, "from Jerusalem City to Jericho City."
-
-
+  * ਇਸ ਤਸਵੀਰ ਦੇ ਦੁਆਲੇ ਬੱਦਲ ਜਿਹਾ ਘੇਰਾ ਦਿਖਾਉਂਦਾ ਹੈ ਕਿ ਯਿਸੂ ਇਕ ਕਹਾਣੀ ਦੱਸ ਰਿਹਾ ਹੈ ਅਤੇ ਨਾ ਕਿ ਉਹ ਕੋਈ ਇਤਹਾਸਿਕ ਘਟਨਾ ਦਾ ਜਿਕਰ ਕਰ ਰਿਹਾ ਹੈ |
+  * **ਬਵਿਸਥਾ ਦਾ ਮਾਹਿਰ**  - **__[27-01]__** ਵਿਚ ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਯਰੂਸ਼ਲਮ ਤੋਂ ਯਰੀਹੋ ਨੂੰ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਤੁਸੀਂ ਇਸ ਦਾ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰ ਸਕਦੇ ਹੋ, “ਯਰੂਸ਼ਲਮ ਦੇ ਸ਼ਹਿਰ ਤੋਂ ਯਰੀਹੋ ਦੇ ਸ਼ਹਿਰ ਵੱਲ” ਜਾਂ “ਯਰੂਸ਼ਲਮ ਸ਼ਹਿਰ ਤੋਂ ਯਰੀਹੋ ਸ਼ਹਿਰ ਵੁੱਲ|”
 **[[:pa:obs:notes:frames:27-03|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-05|>>]]**
