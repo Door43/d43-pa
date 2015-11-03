@@ -1,24 +1,20 @@
-===== How Many Times? [29-01] =====
+===== **ਕਿੰਨੀ ਵਾਰੀ ?**** [29-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?nolink&}}
 
-**One day**, **Peter** asked **Jesus**, “**Master**, how many times should I **forgive my brother** when he **sins against me**? As many as seven times?” Jesus said, “**Not seven times**, **but seventy times seven**!” **By this, Jesus meant** that we should always forgive. Then Jesus told the following story.
-===== Important Terms: =====
+**ਇਕ** **ਦਿਨ** **ਪਤਰਸ** ਨੇ ਯਿਸੂ ਨੂੰ ਪੁੱਛਿਆ, “**ਸਵਾਮੀ**, ਕਿਨੀਂ ਵਾਰ ਮੈਨੂੰ **ਆਪਣੇ ਭਾਈ ਨੂੰ ਮਾਫ਼ ਕਰਨਾ ਚਾਹੀਦਾ** ਹੈ ਜਦੋਂ ਉਹ **ਮੇਰੇ ਵਿਰੁਧ ਪਾਪ ਕਰਦਾ ਹੈ ?** ਕਿ ਸੱਤ ਵਾਰ ? ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “**ਸੱਤ ਵਾਰ ਨਹੀਂ, ਪਰ ਸੱਤ ਦਾ ਸੱਤਰ ਵਾਰ!” ਇਸ ਦੁਆਰਾ ਯਿਸੂ ਦਾ ਮਤਲਬ ਕਿ ** ਤੈਨੂੰ ਹਮੇਸ਼ਾਂ ਮਾਫ਼ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ | ਤੱਦ ਯਿਸੂ ਨੂੰ ਅੱਗੇ ਦਿੱਤੀ ਕਹਾਣੀ ਸੁਣਾਈ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:forgive]]**
-  * **[[:pa:obe:kt:sin]]**
+  * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]] **
+  * **[[:pa:obs:notes:key-terms:forgive|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
+  * **ਮੇਰਾ ਭਾਈ **– ਇਹ ਵਾਕ ਬਹੁਤ ਸਮੇਂ ਉਹਨਾਂ ਲੋਕਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰਦਾ ਹੈ ਜੋ ਆਪਣੇ ਸਕੇ ਭੈਣ ਭਾਈ ਨਹੀਂ ਹੁੰਦੇ, ਪਰ ਪਰ ਜੋ ਇਕ ਹੋਰ ਬਹੁਤ ਮਜਬੂਤ ਬੰਧਨ ਨੂੰ ਵੰਡਦੇ ਹਨ ਜਿਵੇ ਕਿ ਧਰਮ, ਜਾਤੀ ਅਧਾਰਿਤ ਪ੍ਰ੍ਸ਼ਟਭੂਮੀ ਅਤਿ ਆਦਿ |
+  * **ਮੇਰੇ ਵਿਰੁਧ ਪਾਪ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦ ਅਹਿ, “ਮੇਰੇ ਵਿਰੁਧ ਕੁੱਝ ਗਲਤ ਕਰਦਾ ਹੈ |”
+  * **ਸੱਤ ਵਾਰ ਨਹੀਂ, ਪਰ ਸੱਤ ਦਾ ਸੱਤਰ ਵਾਰ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਤੂੰ ਸਿਰਫ ਸੱਤ ਵਾਰ ਮਾਫ਼ ਨਾ ਕਰ ਬਲਕਿ ਸੱਤ ਗੁਣਾ ਸੱਤਰ ਵਾਰ ਮਾਫ਼ ਕਰ|” ਯਿਸੂ ਬਿਲਕੁੱਲ ਪੂਰੀ ਗਿਣਤੀ ਨਹੀਂ ਦੱਸ ਰਿਆ | ਉਹ ਕਹਿ ਰਿਹਾ ਸੀ ਕਿ ਸਾਨੂੰ ਲੋਕਾਂ ਨੂੰ ਹਰ ਵਾਰ ਮਾਫ਼ ਕਰਨਾ ਹੈ ਜਦ ਵੀ ਉਹ ਸਾਡੇ ਵਿਰੁਧ ਪਾਪ ਕਰਦੇ ਹਨ |
+  * **ਇਸ ਦੁਆਰਾ, ਯਿਸੂ ਦਾ ਮਤਲਬ ਸੀ**  – ਮਤਲਬ, “ਜਦੋਂ ਯਿਸੂ ਨੇ ਇਹ ਕਿਹਾ ਉਸ ਦਾ ਮਤਲਬ ਸੀ |”
 **[[:pa:obs:notes:frames:28-10|<<]] | [[:pa:obs:notes:29|Up]] | [[:pa:obs:notes:frames:29-02|>>]]**
