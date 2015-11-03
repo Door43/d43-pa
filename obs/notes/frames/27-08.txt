@@ -1,18 +1,14 @@
-===== The Samaritan [27-08] =====
+===== **ਇਕ ਸਾਮਰੀ  [27-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?nolink&}}
 
-“The next person to **walk down** that road was a **Samaritan**. (Samaritans were the descendants of Jews who had married people from other nations. Samaritans and Jews hated each other.) But when the Samaritan saw the Jewish man, he felt very strong compassion for him. So he cared for him and bandaged his wounds.”
-===== Important Terms: =====
+“ਉਸ ਮਾਰਗ **ਲੰਘਣ** ਵਾਲਾ ਅੱਗਲਾ ਵਿਅਕਤੀ ਇਕ **ਸਾਮਰੀ** ਸੀ | (ਸਾਮਰੀ ਉਹਨਾਂ ਯਹੂਦੀਆਂ ਦੀ ਸੰਤਾਨ ਸਨ ਜਿਹਨਾਂ ਨੇ ਦੂਸਰੇ ਦੇਸਾਂ ਦੇ ਲੋਕਾਂ ਨਾਲ ਵਿਆਹ ਕੀਤੇ ਸਨ| ਸਾਮਰੀ ਅਤੇ ਯਹੂਦੀ ਇਕ ਦੂਸਰੇ ਨੂੰ ਨਫਰਤ ਕਰਦੇ ਸਨ | ਪਰ ਜਦੋਂ ਸਾਮਰੀ ਨੇ ਉਸ ਯਹੂਦੀ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ, ਉਸ ਨੇ ਉਸ ਪ੍ਰਤੀ ਬਹੁਤ ਹੀ ਜੋਰਦਾਰ ਤਰਸ ਨੂੰ ਮਹਿਸੂਸ ਕੀਤਾ | ਇਸ ਲਈ ਉਸ ਨੇ ਉਸ ਦੀ ਦੇਖ ਭਾਲ ਕੀਤੀ ਅਤੇ ਉਸਦੇ ਜਖਮਾਂ ਉੱਤੇ ਪੱਟੀ ਬੰਨੀ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:samaria]]**
-  * **[[:pa:obe:other:jew]]**
+  * **[[:pa:obs:notes:key-terms:samaria|ਸਾਮਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **walk down** - That is, "travel along." These people were traveling from one city to another. Make sure that it does not sound like they were just taking a walk.
-
-
+  * (ਯਿਸੂ ਲਗਾਤਾਰ ਕਹਾਣੀ ਦੱਸਦਾ ਰਿਹਾ)
+  * **ਉੱਥੋਂ ਲੰਘਿਆ – ** ਮਤਲਬ, “ਉੱਥੋਂ ਦੀ ਗੁਜਰਿਆ|” ਇਹ ਲੋਕ ਇਕ ਸ਼ਹਿਰ ਤੋਂ ਦੂਸਰੇ ਸ਼ਹਿਰ ਲਈ ਯਾਤਰਾ ਕਰਦੇ ਸਨ | ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਸ ਤਰਾਂ ਨਹੀਂ ਲੱਗਣਾ ਚਾਹੀਦਾ ਕਿ ਉਹ ਆਮ ਟਹਿਲ ਰਹੇ ਸਨ |
 **[[:pa:obs:notes:frames:27-07|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-09|>>]]**
