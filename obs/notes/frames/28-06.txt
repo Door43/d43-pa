@@ -1,20 +1,16 @@
-===== The Camel and the Needle [28-06] =====
+===== **ਊਂਠ ਅਤੇ ਸੂਈ** **[28-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?nolink&}}
 
-Then **Jesus** said to his **disciples**, “It is extremely hard for rich people to **enter into the kingdom of God**! Yes, it is easier for a **camel** to go through the **eye of a needle** than for a rich man to enter the kingdom of God.”
-===== Important Terms: =====
+ਤੱਦ **ਯਿਸੂ** ਨੇ ਆਪਣੇ **ਚੇਲਿਆਂ** ਨੂੰ ਕਿਹਾ, “ਧਨੀ ਲੋਕਾਂ ਨੂੰ **ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਵੜਨਾ** ਬਹੁਤ ਹੀ ਔਖਾ ਹੈ|” ਹਾਂ, ਇਕ ਧਨੀ ਦੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਵਿਚ ਵੜਨ ਨਾਲੇ ਇਕ **ਊਂਠ** ਦਾ **ਸੂਈ ਦੇ ਨੱਕੇ** ਵਿਚੋਂ ਲੰਘਣਾ ਅਸਾਨ ਹੈ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **enter the kingdom of God** - This can also be translated as, "become a citizen in God's kingdom."
-  * **camel** - Camels are very large animals that are often used to carry heavy loads. If camels are not known in your language area, a phrase such as, "very large animal" or, "beast of burden" could be used. If you choose to substitute the name of some other large animal, make sure that the animal would have been known by the people Jesus was talking to, such as, "ox" or, "donkey."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
-
-
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਵਿਚ ਵੜਨਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ , “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਦਾ ਨਾਗਰਿਕ ਬਣਨਾ|”
+  * **ਊਂਠ**  – ਊਂਠ ਬਹੁਤ ਵੱਡੇ ਜਾਨਵਰ ਹਨ ਜੋ ਆਮ ਤੌਰ ਤੇ ਭਾਰੀ ਸਮਾਨ ਨੂੰ ਢੋਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ | ਅਗਰ ਊਂਠ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਦੇ ਖੇਤਰ ਵਿਚ ਨਹੀਂ ਜਾਣਿਆ ਜਾਂਦਾ ਤਾਂ ਐਸਾ ਨਾਮ ਇਸਤੇਮਾਲ ਕਰੋ ਜਿਵੇਂ ਕਿ, “ਬਹੁਤ ਵੱਡਾ ਜਾਨਵਰ” ਜਾਂ “ਭੋਝ ਵਾਲਾ ਜਾਨਵਰ” ਇਸਤੇਮਾਲ ਕਰ ਸਕਦੇ ਹੋ | ਅਗਰ ਤੁਸੀਂ ਵੱਡੇ ਜਾਨਵਰ ਦੀ ਜਗ੍ਹਾ ਕਿਸੇ ਹੋਰ ਨਾਮ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰਨਾ ਚਹੁੰਦੇ ਹੋ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਲੋਕ ਉਸ ਜਾਨਵਰ ਦਾ ਨਾਮ ਜਾਣਦੇ ਹਨ ਜਿਸ ਬਾਰੇ ਯਿਸੂ ਗੱਲ ਕਰ ਰਿਹਾ ਸੀ ਜਿਵੇਂ ਕਿ “ਬਲਦ” ਜਾਂ “ਗਧਾ”
+  * **ਸੂਈ ਦਾ ਨੱਕਾ**  – ਸੂਈ ਦੇ ਨੱਕੇ ਉੱਤੇ ਇਕ ਛੋਟੇ ਛੇਦ ਲਈ ਇਹ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ | ਊਂਠ ਦੀ ਤਰਾਂ ਇਕ ਵੱਡੇ ਜਾਨਵਰ ਦਾ ਸੂਈ ਦੇ ਨੱਕੇ ਵਿਚੋਂ ਗੁਜਰਨ ਦਾ ਵਿਚਾਰ ਕਿਸੇ ਅਸੰਭਵ ਗੱਲ ਨੂੰ ਪੇਸ਼ ਕਰਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:28-05|<<]] | [[:pa:obs:notes:28|Up]] | [[:pa:obs:notes:frames:28-07|>>]]**
