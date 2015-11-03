@@ -1,19 +1,15 @@
-===== Who Can Be Saved? [28-07] =====
+===== **ਕੌਣ ਬਚਾਇਆ ਜਾ ਸਕਦਾ ਹੈ ?** **[28-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?nolink&}}
 
-When the **disciples** heard what Jesus said, they were **shocked** and said, “Then **who can be saved**?”
-===== Important Terms: =====
+ਜਦੋਂ **ਚੇਲਿਆਂ** ਨੇ ਸੁਣਿਆ ਜੋ ਯਿਸੂ ਨੇ ਕਿਹਾ ਸੀ, ਉਹ **ਹਿੱਲ** **ਗਏ** ਆਏ ਕਿਹਾ, “ਤੱਦ **ਕੌਣ** **ਬਚਾਇਆ ਜਾ ਸਕਦਾ ਹੈ?”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:save]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਇਆ ਗਿਆ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **shocked** - That is, "greatly astonished."
-  * **who can be saved** - This could also be translated as, "If even rich people cannot be saved, how can anyone else be saved?" Many people believed that being rich was a sign of God's favor.
-  * **saved** - Here it refers to being saved from God's judgment and condemnation for sin and being allowed to be a citizen in God's kingdom.
-
-
+  * **ਹਿੱਲ****ਗਏ**  – ਮਤਲਬ, ‘ਬਹੁਤ ਹੈਰਾਨ ਹੋ ਗਏ|”
+  * **ਕੌਣ ਬਚਾਇਆ ਜਾ ਸਕਦਾ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਅਗਰ ਅਮੀਰ ਲੋਕ ਵੀ ਬਚਾਏ ਨਹੀਂ ਜਾ ਸਕਦੇ, ਤਾਂ ਬਾਕੀ ਕਿਸ ਤਰਾਂ ਬਚਾਏ ਜਾ ਸਕਦੇ?” ਬਹੁਤ ਲੋਕ ਵਿਸ਼ਵਾਸ ਕਰਦੇ ਸਨ ਕਿ ਅਮੀਰ ਹੋਣਾ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਦਯਾ ਦਾ ਨਿਸ਼ਾਨ ਹੈ|
+  * **ਬਚਾਏ ਜਾਣਾ**  – ਇੱਥੇ ਇਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਨਿਆਂ ਅਤੇ ਪਾਪ ਦੀ ਸਜਾ ਤੋਂ ਬਚਾਏ ਜਾਣਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਵਿਚ ਨਾਗਰਿਕ ਹੋਣ ਲਈ ਮਨਜੂਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:28-06|<<]] | [[:pa:obs:notes:28|Up]] | [[:pa:obs:notes:frames:28-08|>>]]**
