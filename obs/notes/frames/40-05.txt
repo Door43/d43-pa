@@ -1,22 +1,18 @@
-===== Come Down from the Cross [40-05] =====
+===== **ਸਲੀਬ ਤੋਂ ਹੇਠਾਂ ਉਤਰ ਆ** **[40-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-05.jpg?nolink&}}
 
-The **Jewish leaders** and the other people in the crowd **mocked Jesus**. They said to him, “If you are the **Son of God**, come down from the **cross** and **save** yourself! Then we will **believe** you.”
-===== Important Terms: =====
+**ਯਹੂਦੀ ਆਗੂਆਂ** ਅਤੇ ਭੀੜ ਵਿਚ ਲੋਕਾਂ ਨੇ **ਯਿਸੂ ਦਾ ਮਜਾਕ ਉਡਾਇਆ** | ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਜੇ ਤੂੰ **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ** ਹੈਂ, **ਸਲੀਬ** ਤੋਂ ਹੇਠਾਂ ਉਤਰ ਆ ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ **ਬਚਾ ਲੈ** ! ਤੱਦ ਅਸੀਂ ਤੇਰੇ ਉੱਤੇ **ਵਿਸ਼ਵਾਸ** ਕਰਾਂਗੇ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:other:mock]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:cross]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:kt:believe]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਯਹੂਦੀ ਆਗੂ]] **
+  * **[[:pa:obs:notes:key-terms:mock|ਮਜਾਕ ਉਡਾਇਆ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:sonofgod|ਪ੍ਰਮੇਸ਼ਵਰ  ਦਾ ਪੁੱਤਰ ]]**
+  * **[[:pa:obs:notes:key-terms:cross|ਸਲੀਬ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਉਣਾ ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **believe you** - That is, "believe in you" or, "believe that you are the Messiah."
-
-
+  * **ਤੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਾਂਗੇ**  – ਮਤਲਬ, “ਤੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਾਂਗੇ” ਜਾਂ “ਵਿਸ਼ਵਾਸ ਕਰਾਂਗੇ ਕਿ ਤੂੰ ਮਸੀਹਾ ਹੈਂ|”
 **[[:pa:obs:notes:frames:40-04|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-06|>>]]**
