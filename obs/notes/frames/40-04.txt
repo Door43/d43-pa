@@ -1,28 +1,24 @@
-===== The Two Robbers [40-04] =====
+===== ਦੋ ਡਾਕੂ  **[40-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-04.jpg?nolink&}}
 
-**Jesus** was **crucified** between **two robbers**. One of them **mocked** Jesus, but the other said, “Do you have no fear of **God**? We are **guilty**, **but this man is innocent**.” Then he said to Jesus, “**Please remember me in your kingdom**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
-===== Important Terms: =====
+**ਯਿਸੂ ਨੂੰ ਦੋ ਡਾਕੂਆਂ ਦੇ ਵਿਚਕਾਰ ਸਲੀਬ ਦਿੱਤਾ ਗਿਆ ਸੀ |** ਉਹਨਾਂ ਵਿਚੋਂ ਇਕ ਨੇ ਯਿਸੂ ਨੂੰ **ਮਜਾਕ ਕੀਤਾ**, ਪਰ ਦੂਸਰੇ ਨੇ ਕਿਹਾ, “ਕਿ ਤੈਨੂੰ **ਪ੍ਰਮੇਸ਼ਵਰ** ਦਾ ਡਰ ਨਹੀਂ ਹੈ? ਅਸੀਂ ਤਾਂ **ਦੋਸ਼ੀ ਹਾਂ, ਪਰ ਇਹ ਵਿਅਕਤੀ ਨਿਰਦੋਸ਼ ਹੈ |”** ਤੱਦ ਉਸ ਨੇ ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “**ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਆਪਣੇ ਰਾਜ ਵਿਚ ਯਾਦ ਕਰੀਂ|”** ਯਿਸੂ ਨੇ ਉਸ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਅੱਜ ਹੀ ਤੂੰ ਮੇਰੇ ਨਾਲ **ਸਵਰਗ** ਵਿਚ ਹੋਵੇਗਾ|”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:crucify]]**
-  * **[[:pa:obe:other:mock]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:guilt]]**
-  * **[[:pa:obe:kt:innocent]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]] **
+  * **** **[[:pa:obs:notes:key-terms:crucify|ਸਲੀਬ ਦਿੱਤਾ ਗਿਆ]]******
+  * **[[:pa:obs:notes:key-terms:mock|ਮਜਾਕ ਉਡਾਇਆ ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:guilt|ਦੋਸ਼ੀ]]**
+  * **[[:pa:obs:notes:key-terms:innocent|ਨਿਰਦੋਸ਼]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਰਾਜ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **ਦੋ ਡਾਕੂ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਦੋ ਬਦਮਾਸ਼” | ਇਹ ਉਹਨਾਂ ਦੋਸ਼ੀਆਂ ਲਈ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਜੋ ਧੱਕੇ ਅਤੇ ਵਿਦਰੋਹ ਨਾਲ ਲੋਕਾਂ ਤੋਂ ਉਹਨਾਂ ਦੀਆਂ ਚੀਜਾਂ ਚੁਰਾ ਲੈਂਦੇ ਸਨ |
+  * **ਕੀ ਤੈਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਡਰ ਨਹੀਂ ਹੈ ?**  – ਡਾਕੂ ਇਸ ਪ੍ਰਸ਼ਨ ਦੇ ਉੱਤਰ ਦੀ ਆਸ਼ਾ ਨਹੀਂ ਕਰਦਾ ਸੀ; ਇਹ ਕਈ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਕ ਕਥਨ ਨੂੰ ਮਜਬੂਤ ਬਣਾਉਣ ਲਈ ਕਹਿਣ ਦਾ ਤਰੀਕਾ ਹੈ | ਜੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿਚ ਪ੍ਰਸ਼ਨਾਂ ਦਾ ਇਸਤੇਮਾਲ ਇਸ ਪ੍ਰਕਾਰ ਨਹੀਂ ਹੁੰਦਾ, ਤਾਂ ਇਸ ਦਾ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰੋ, “ਤੁਹਾਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਤੋਂ ਡਰਨ ਦੀ ਲੋੜ ਹੈ !”
+  * **ਅਸੀਂ ਤਾਂ ਦੋਸ਼ੀ ਹਾਂ ਪਰ ਇਹ ਵਿਅਕਤੀ ਨਿਰਦੋਸ਼ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਤੂੰ ਅਤੇ ਮੈਂ ਤਾਂ ਬੁਰੇ ਕੰਮ ਕੀਤੇ ਹਨ ਅਤੇ ਮੌਤ ਦੇ ਹੱਕਦਾਰ ਹਾਂ, ਪਰ ਇਹ ਵਿਅਕਤੀ, ਯਿਸੂ, ਨੇ ਕੁੱਝ ਵੀ ਬੁਰਾ ਨਹੀਂ ਕੀਤਾ ਅਤੇ ਮੌਤ ਦਾ ਹੱਕਦਰ ਨਹੀਂ ਹੈ |” “ਅਸੀਂ” ਇਥੇ ਡਾਕੂ ਆਪਣੇ ਆਪ ਦੋਨਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰ ਰਿਹਾ ਹੈ ਨਾਂ ਕਿ ਯਿਸੂ ਨੂੰ |
+  * **ਇਹ ਵਿਅਕਤੀ**  – ਯਿਸੂ ਲਈ ਵਰਤਿਆ ਗਿਆ ਹੈ |
+  * **ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਯਾਦ ਕਰੀਂ**  – ਮਤਲਬ, “ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਗ੍ਰਹਿਣ ਕਰ” ਜਾਂ “ਕਿਰਪਾ ਕਰਕੇ ਮੇਰਾ ਸਵਾਗਤ ਕਰ” ਜਾਂ “ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਨਾਲ ਰਹਿਣ ਲਈ ਮੈਨੂੰ ਮਨਜੂਰੀ ਦੇਹ” ਇੱਥੇ ਯਾਦ ਕਰਨ ਦਾ ਮਤਲਬ ਇਹ ਨਹੀ ਹੈ ਕਿ ਕਿਸੇ ਭੁੱਲੀ ਚੀਜ ਨੂੰ ਯਾਦ ਕਰਨਾ | ਇਸ ਦਾ ਇਸ ਤਰੀਕੇ ਨਾਲ ਅਨੁਵਾਦ ਕਰੋ ਕਿ ਇਹ ਨਮਰ ਬੇਨਤੀ ਹੋਵੇ |
+  * **ਆਪਣੇ ਰਾਜ ਵਿਚ**  – ਮਤਲਬ, “ਜਦੋਂ ਤੂੰ ਆਪਣਾ ਰਾਜ ਸਥਾਪਿਤ ਕਰੇਂ” ਜਾਂ “ਜਦੋਂ ਤੂੰ ਰਾਜੇ ਵਜੋਂ ਰਾਜ ਕਰੇਂ” |
+  * **ਸਵਰਗ**  – ਇਹ ਸਵਰਗ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਗਿਆ ਹੈ |
 **[[:pa:obs:notes:frames:40-03|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-05|>>]]**
