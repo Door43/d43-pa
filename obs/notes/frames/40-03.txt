@@ -1,19 +1,15 @@
-===== Gambling for His Clothes [40-03] =====
+===== **ਉਸ ਦੇ ਕਪੜਿਆਂ ਲਈ ਜੂਆ ਖੇਡਦੇ ਸਨ [****40-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-03.jpg?nolink&}}
 
-The soldiers **gambled for Jesus' clothing**. When they did this, **they fulfilled a prophecy that said**, “They divided my garments among them, and gambled for my clothing.”
-===== Important Terms: =====
+ਸਿਪਾਹੀਆਂ **ਨੇ ਯਿਸੂ ਦੇ ਕਪੜਿਆਂ ਲਈ ਜੂਆ ਖੇਡਿਆ** | ਜਦੋਂ ਉਹਨਾਂ ਨੇ ਇਹ ਕੀਤਾ ਤਾਂ **ਉਹਨਾਂ ਨੇ ਇਕ ਭਵਿੱਖ ਬਾਣੀ ਪੂਰੀ ਕੀਤੀ** ਜੋ ਕਹਿੰਦੀ ਹੈ, “ਉਹਨਾਂ ਨੇ ਮੇਰੇ ਕਪੜੇ ਆਪਸ ਵਿਚ ਵੰਡੇ ਅਤੇ ਮੇਰੇ ਕਪੜਿਆਂ ਲਈ ਜੂਆ ਖੇਡਿਆ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:fulfill]]**
-  * **[[:pa:obe:kt:prophet]]**
-
-
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ ਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:fulfill|ਪੂਰੀ ਕੀਤੀ ]]**
+  * **[[:pa:obs:notes:key-terms:prophet|ਭਵਿੱਖ ਬਾਣੀ]] **
 ===== Translation Notes: =====
 
-  * **gambled for Jesus' clothing** - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
-  * **they fulfilled a prophecy that said** - That is, "they did what the scriptures had long ago predicted would happen to the Messiah" or, "they did what a prophet wrote long ago."
-
-
+  * **gambled for Jesus' clothing**  - That is, "played a game of chance to win Jesus' clothes." We do not know how they did this, but in some cultures it could be translated as, "tossed stones on the ground to win Jesus' clothing" or, "chose sticks to decide who could take Jesus' clothes."
+  * **they fulfilled a prophecy that said**  - That is, "they did what the scriptures had long ago predicted would happen to the Messiah" or, "they did what a prophet wrote long ago."
 **[[:pa:obs:notes:frames:40-02|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-04|>>]]**
