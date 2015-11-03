@@ -1,20 +1,16 @@
-===== Generous Help [27-10] =====
+===== **ਖੁੱਲਦਿਲੀ ਨਾਲ ਮੱਦਦ [27-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?nolink&}}
 
-“The next day, the **Samaritan** needed to **continue his journey**. He gave some money to the person **in charge of** the inn and said, ‘**Take care of hi**m, and if you spend any more money than this, I will **repay those expenses** when I return.’”
-===== Important Terms: =====
+“ਅਗਲੇ ਦਿਨ, **ਸਾਮਰੀ** ਨੂੰ **ਆਪਣੀ ਯਾਤਰਾ ਨੂੰ ਲਗਾਤਾਰ ਕਰਨ ** ਦੀ ਜਰੂਰਤ ਸੀ | ਉਸ ਨੇ ਕੁੱਝ ਪੈਸਾ ਸਰਾਂ ਦੇ **ਅਧਿਕਾਰੀ** ਨੂੰ ਦਿੱਤਾ ਅਤੇ ਕਿਹਾ, “**ਉਸ ਦੀ ਦੇਖਭਾਲ ਕਰੀ** ਅਤੇ ਜੇ ਤੂੰ ਇਸ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਪੈਸੇ ਖਰਚੇ ਤਾਂ **ਮੈਂ** ਜਦੋਂ ਵਾਪਸ ਆਇਆ ਉਸ **ਖਰਚੇ ਨੂੰ ਪੂਰਾ ਕਰ ਦਿਆਂਗਾ |”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:samaria]]**
+  * **[[:pa:obs:notes:key-terms:samaria|ਸਾਮਰੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
-
+  * (ਯਿਸੂ ਲਗਾਤਾਰ ਕਹਾਣੀ ਦੱਸਦਾ ਰਿਹਾ)
+  * **ਆਪਣੀ ਯਾਤਰਾ ਨੂੰ ਜਾਰੀ ਰੱਖਿਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ, “ਆਪਣੀ ਮੰਜਿਲ ਲਈ ਆਪਣੀ ਯਾਤਰਾ ਨੂੰ ਜਾਰੀ ਰੱਖਿਆ|”
+  * **ਅਧਿਕਾਰੀ**  – ਮਤਲਬ, “ਜੋ ਸਾਰਾ ਇੰਤਜਾਮ ਕਰਦਾ ਹੈ|” ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਇਹ ਆਦਮੀ ਉਸ ਰਹਿਣ ਬਸੇਰੇ ਦਾ ਮਾਲਕ ਹੋਵੇ |
+  * **ਉਸ ਦੀ ਦੇਖਭਾਲ ਕਰਨੀ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਸ਼ਾਇਦ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਸਹੀ ਹੋਵੇ, “ਕਿਰਪਾ ਕਰਕੇ ਉਸ ਦੀ ਦੇਖ ਭਾਲ ਕਰਨਾ” ਇਸ ਨੂੰ ਸਾਫ਼ ਸਾਫ਼ ਕਹਿਣ ਲਈ ਇਹ ਇਕ ਸਹਿਜ ਬੇਨਤੀ ਸੀ ਨਾ ਕਿ ਕੋਈ ਹੁਕਮ|
+  * **ਉਹਨਾਂ ਖਰਚਿਆਂ ਨੂੰ ਭਰਨਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਤੈਨੂੰ ਵਾਪਸ ਦੇਵਾਂਗਾ” ਜਾਂ “ਉਸ ਪੈਸੇ ਨੂੰ ਵਾਪਸ ਕਰਾਂਗਾ” ਜਾਂ “ਇਹ ਵਾਪਸ ਕਰਾਂਗਾ”
 **[[:pa:obs:notes:frames:27-09|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:27-11|>>]]**
