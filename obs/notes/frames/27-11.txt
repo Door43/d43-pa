@@ -1,24 +1,21 @@
-===== Do the Same [27-11] =====
+===== **ਉਸੇ ਤਰਾਂ ਕਰੋ** **[27-11]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?nolink&}}
 
+ਤੱਦ ਯਿਸੂ ਨੇ **ਬਵਿਸਥਾ ਦੇ ਮਾਹਿਰ** ਨੂੰ ਪੁੱਛਿਆ, “ਤੂੰ ਕਿ ਸੋਚਦਾ ਹੈਂ? ਇਹਨਾਂ **ਤਿੰਨਾ ਵਿਅਕਤੀਆਂ ਵਿਚੋਂ ਕਿਹੜਾ ਉਸ ਵਿਅਕਤੀ ਦਾ ਗੁਆਂਢੀ ਸੀ** ਜਿਸ ਨੂੰ ਲੁੱਟਿਆ ਅਤੇ ਮਾਰਿਆ ਗਿਆ ਸੀ ?” ਉਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਜੋ ਉਸ ਉੱਤੇ **ਦਯਾਵਾਨ** ਹੋਇਆ|” ਯਿਸੂ ਨੇ ਉਸ ਨੂੰ ਦੱਸਿਆ,”**ਤੂੰ ਜਾਹ ਅਤੇ ਓਦਾਂ ਹੀ ਕਰ** |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-Then **Jesus** asked the **law expert**, “What do you think? Which one of **the three men was a neighbor** to the man who was robbed and beaten?” He replied, “The one who was **merciful** to him.” Jesus told him, “**You go and do the same**.”
-===== Important Terms: =====
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:mercy|ਦਯਾਵਾਨ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:mercy]]**
-
-
-===== Translation Notes: =====
-
-  * **law expert** - That is, "an expert in the Jewish law." See how you translated this term in **[[:pa:obs:notes:frames:27-01|[27-01]]]**.
-  * **the three men** - The three men were the priest, the Levite, and the Samaritan.
-  * **neighbor** - Jesus is using the word "neighbor" in a broader sense than in **[[:pa:obs:notes:frames:27-02|[27-02]]]**. "Neighbor" here refers to anyone that we meet who needs our help.
-  * **was a neighbor** - This can also be translated as, "behaved as a neighbor" or, "was a friend" or, "acted in a loving way". See how you translated "neighbor" in **[[:pa:obs:notes:frames:27-02|[27-02]]]** and **[[:pa:obs:notes:frames:27-03|[27-03]]]**.
-  * **You go and do** - That is, "You, too, should go and do" or, "Now you must do." Jesus was commanding the law expert to do as the Samaritan did.
-  * **do the same** - That is, "love others, even your enemies." Make sure it does not sound like "the same" is only referring to helping a wounded man.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **ਬਵਿਸਥਾ ਦਾ ਮਾਹਿਰ**  – ਮਤਲਬ, “ਇਕ ਯਹੂਦੀਆਂ ਦੀ ਬਵਿਸਥਾ ਦਾ ਮਾਹਿਰ”| **__[27-01]__** ਵਿਚ ਦੇਖੋ ਤੁਸੀਂ ਇਸ ਵਾਕ ਨੂੰ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਤਿੰਨ ਵਿਅਕਤੀ**  – ਇਹ ਤਿੰਨ ਵਿਅਕਤੀ ਸਨ ਜਾਜਕ, ਲੇਵੀ ਅਤੇ ਸਾਮਰੀ |
+  * **ਗੁਆਂਢੀ**  – ਯਿਸੂ “ਗੁਆਂਢੀ” ਸ਼ਬਦ ਦਾ ਪ੍ਰਯੋਗ **__[27-02__ **__] __ ਵਿੱਚਲੇ ਨਾਲੋ ਵੱਡੇ ਦਾਇਰੇ ਵਿਚ  ਕਰ ਰਿਹਾ | “ਗੁਆਂਢੀ” ਇੱਥੇ ਉਸ ਹਰ ਇਕ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਗਿਆ ਜਿਸ ਨੂੰ ਸਾਡੀ ਮੱਦਦ ਦੀ ਜਰੂਰਤ ਹੈ|
+  * **ਇਕ ਗੁਆਂਢੀ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਇਕ ਗੁਆਂਢੀ ਦੀ ਤਰਾਂ ਵਰਤਾਓ ਕਰੋ” ਜਾਂ “ਇਕ ਮਿੱਤਰ ਸੀ” ਜਾਂ “ਪਿਆਰ ਭਰੇ ਤਰੀਕੇ ਨਾਲ ਵਿਵਹਾਰ ਕੀਤਾ”| ਦੇਖੋ **__[27-02]__** ਅਤੇ  **__[14}[27-03]__** ਵਿਚ ਕਿਸ ਤਰਾਂ “ਗੁਆਂਢੀ” ਸ਼ਬਦ ਦਾ ਪ੍ਰਯੋਗ ਕੀਤਾ ਗਿਆ ਹੈ |
+  * **ਤੂੰ ਜਾਹ ਅਤੇ ਕਰ**
+  - ਮਤਲਬ, “ਤੈਨੂੰ ਵੀ ਵੀ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ” ਜਾਂ “ਹੁਣ ਤੈਨੂੰ ਵੀ ਕਰਨਾ ਜਰੂਰੀ ਹੈ|” ਯਿਸੂ ਉਸ ਬਵਿਸਥਾ ਦੇ ਮਾਹਿਰ ਨੂੰ ਹੁਕਮ ਕਰ ਰਿਹਾ ਹੈ ਕਿ ਉਹ ਵੀ ਉਸੇ ਤਰਾਂ ਕਰੇ ਜਿਵੇਂ ਸਾਮਰੀ ਨੇ ਕੀਤਾ ਸੀ |
+  * **ਉਸੇ ਤਰਾਂ ਕਰ**  – ਮਤਬਲ, “ਦੂਸਰਿਆਂ ਨੂੰ ਪਿਆਰ ਕਰ, ਇਥੋਂ ਤੱਕ ਕਿ ਆਪਣੇ ਦੁਸ਼ਮਣਾ ਨੂੰ ਵੀ “| ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਸ ਤਰਾਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇਣਾ ਚਾਹੀਦਾ “ਬਿਲਕੁਲ ਉਸੇ ਤਰਾਂ” ਕਿ ਸਿਰਫ ਇਕ ਘਾਇਲ ਮੁਨੱਖ ਦੀ ਮੱਦਦ ਕਰਨੀ |
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:27-10|<<]] | [[:pa:obs:notes:27|Up]] | [[:pa:obs:notes:frames:28-01|>>]]**
