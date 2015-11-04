@@ -1,26 +1,22 @@
-===== You Are Witnesses [42-08] =====
+===== **ਤੁਸੀਂ ਗਵਾਹ ਹੋ** **[42-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-08.jpg?nolink&}}
 
-“It was also written in the **scriptures** that my **disciples** will **proclaim** that everyone should **repent** in order to **receive forgiveness** for their **sins**. T**hey will do this starting in Jerusalem**, and then go to all **people groups** everywhere. **You are witnesses of these things**.”
-===== Important Terms: =====
+“ਇਹ ਵੀ **ਵਚਨ** ਵਿੱਚ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ ਕਿ ਮੇਰੇ **ਚੇਲੇ** **ਘੋਸ਼ਣਾ** ਕਰਨਗੇ ਕਿ ਹਰ ਇਕ ਨੂੰ ਆਪਣੇ **ਪਾਪਾਂ** ਤੋਂ **ਮਾਫ਼ੀ** **ਪਾਉਣ** ਲਈ  **ਤੌਬਾ** ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ | ਉਹ ਇਸ ਨੂੰ **ਕਰਨ ਦਾ ਆਰੰਭ ਯਰੂਸ਼ਲਮ ਵਿਚ ਕਰਨਗੇ** ਅਤੇ ਫਿਰ ਹਰ ਜਗ੍ਹਾ ਤੇ ਸਾਰੇ **ਲੋਕਾਂ** **ਦੇ ਝੁੰਡਾਂ** ਕੋਲ ਜਾਣਗੇ | **ਤੁਸੀਂ ਇਹਨਾਂ ਗੱਲਾਂ ਦੇ ਗਵਾਹ ਹੋਆ** |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:repent]]**
-  * **[[:pa:obe:kt:receive]]**
-  * **[[:pa:obe:kt:forgive]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:other:peoplegroup]]**
-  * **[[:pa:obe:kt:witness]]**
+  * **[[:pa:obs:notes:key-terms:wordofgod|ਵਚਨ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:repent|ਤੌਬਾ]]**
+  * **[[:pa:obs:notes:key-terms:receive|ਪ੍ਰਾਪਤ ਕਰਨਾ]] **
+  * **[[:pa:obs:notes:key-terms:forgive|ਮਾਫ਼ੀ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ ]]**
+  * **[[:pa:obs:notes:key-terms:peoplegroup|ਲੋਕਾਂ ਦੇ ਝੁੰਡ]]**
+  * **[[:pa:obs:notes:key-terms:witness|ਗਵਾਹ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **proclaim** - That is, "announce" or, "preach."
-  * **They will do this starting in Jerusalem** - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
-  * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
-
-
+  * **ਐਲਾਨ ਕਰਨਾ**  – ਮਤਲਬ, “ਘੋਸ਼ਣਾ ਕਰਨਾ” ਜਾਂ “ਪ੍ਰਚਾਰ ਕਰਨਾ”|
+  * **ਉਹ ਇਸ ਨੂੰ ਯਰੂਸ਼ਲਮ ਵਿਚੋਂ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰਨਗੇ**  – ਮਤਲਬ, “ਉਹ ਇਸ ਨੂੰ ਯਰੂਸ਼ਲਮ ਵਿਚੋਂ ਕਰਦੇ ਹੋ ਸ਼ੁਰੂ ਕਰਨਗੇ” ਜਾਂ “ਉਹ ਯਰੁਸ਼ਲਮ ਵਿਚ ਇਹਨਾਂ ਗੱਲਾਂ ਦੀ ਘੋਸ਼ਣਾ ਕਰਦੇ ਹੋਏ ਸ਼ੁਰੂ ਕਰਨਗੇ|”
+  * **ਤੁਸੀਂ ਇਹਨਾਂ ਗੱਲਾਂ ਦੇ ਗਵਾਹ ਹੋ**  – ਮਤਲਬ, “ਤੁਸੀਂ ਇਹ ਗੱਲਾਂ ਵਾਪਰਦੀਆਂ ਹੋਈਆਂ ਦੇਖਿਆਂ ਹਨ” ਜਾਂ “ਤੁਸੀਂ ਦੂਸਰਿਆਂ ਨੂੰ ਇਹ ਗੱਲਾਂ ਦੱਸੋਗੇ ਜੋ ਤੁਸੀਂ ਵਾਪਰਦੀਆਂ ਹੋਈਆਂ ਦੇਖੀਆਂ ਹਨ|”
 **[[:pa:obs:notes:frames:42-07|<<]] | [[:pa:obs:notes:42|Up]] | [[:pa:obs:notes:frames:42-09|>>]]**
