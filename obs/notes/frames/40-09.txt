@@ -1,23 +1,19 @@
-===== The Burial of Jesus [40-09] =====
+===== **ਯਿਸੂ ਦਾ ਦਫਨਾਉਣ** **[40-09] **  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-09.jpg?nolink&}}
 
-Then **Joseph** and Nicodemus, two **Jewish leaders** who **believed Jesus** was the **Messiah**, **asked Pilate for Jesus’ body**. They wrapped his body in cloth and placed it in a **tomb** cut out of rock. Then they rolled a large stone in front of the tomb to block the opening.
-===== Important Terms: =====
+ਤੱਦ ਦੋ **ਯਹੂਦੀ** **ਆਗੂ** **ਯੂਸਫ** ਅਤੇ ਨਿਕੋਦੀਮੁਸ ਜੋ **ਯਿਸੂ** **ਤੇ ਵਿਸ਼ਵਾਸ** ਕਰਦੇ ਸਨ ਕਿ ਉਹ ਮਸੀਹਾ ਹੈ, **ਉਹਨਾਂ ਨੇ ਪਿਲਾਤੂਸ ਕੋਲੋਂ ਯਿਸੂ ਦੀ ਲੋਥ ਮੰਗੀ** | ਉਹਨਾਂ ਨੇ ਉਸ ਦੀ ਲੋਥ ਨੂੰ ਕਪੜੇ ਵਿਚ ਲਪੇਟਿਆ ਅਤੇ ਚਟਾਨ ਵਿਚ ਖੋਦੀ ਹੋਈ **ਕਬਰ** ਵਿਚ ਰੱਖਿਆ | ਤੱਦ ਉਹਨਾਂ ਨੇ ਇਕ ਵੱਡਾ ਪੱਥਰ ਕਬਰ ਦਾ ਮੂੰਹ ਬੰਦ ਕਰਨ ਲਈ ਅੱਗੇ ਰੱਖਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:christ]]**
-  * **[[:pa:obe:other:pilate]]**
-  * **[[:pa:obe:other:tomb]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਯਹੂਦੀ ਆਗੂ]] **
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ਕੀਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+  * **[[:pa:obs:notes:key-terms:pilate|ਪਿਲਾਤੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:tomb|ਕਬਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **Joseph** - This was not Mary's husband. It was another man named Joseph.
-  * **asked Pilate for Jesus' body** - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
+  * **ਯੂਸਫ**  – ਇਹ ਮਰੀਯਮ ਦਾ ਪਤੀ ਨਹੀ ਸੀ | ਇਹ ਇਕ ਹੋਰ ਆਦਮੀ ਸੀ ਜਿਸ ਦਾ ਨਾਮ ਯੂਸਫ ਸੀ |
+  * **asked Pilate for Jesus' body**  - That is, "asked Pilate to permit them to take Jesus' body down from the cross."
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
 **[[:pa:obs:notes:frames:40-08|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:41-01|>>]]**
