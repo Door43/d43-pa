@@ -1,21 +1,17 @@
-===== Jesus Is Risen [41-05] =====
+===== **ਯਿਸੂ ਜੀਅ ਉੱਠਿਆ** **[41-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-05.jpg?nolink&}}
 
-When the women arrived at the tomb, the **angel** told them, “**Do not be afraid**. **Jesus** is not here. **He has risen from the dead**, just like he said he would! Look in the **tomb** and see.” The women looked into the tomb and saw where Jesus' body had been laid. His body was not there!
-===== Important Terms: =====
+ਜਦੋਂ ਔਰਤਾਂ ਕਬਰ ਤੇ ਆਈਆਂ, **ਦੂਤ** ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, “**ਨਾ ਡਰੋ** | **ਯਿਸੂ** ਇੱਥੇ ਨਹੀਂ ਹੈ | **ਉਹ ਮੁਰਦਿਆਂ ਵਿਚੋਂ ਜੀਅ ਉੱਠਿਆ ਹੈ**, ਜਿਵੇਂ ਉਸ ਨੇ ਕਿਹਾ ਸੀ ਕਿ ਉਹ ਜੀਅ ਉੱਠੇਗਾ! **ਕਬਰ** ਵਿਚ ਦੇਖੋ ! ਔਰਤਾਂ ਨੇ ਕਬਰ ਵਿਚ ਦੇਖਿਆ ਅਤੇ ਉਸ ਜਗ੍ਹਾ ਵੱਲ ਵੀ ਦੇਖਿਆ ਜਿੱਥੇ ਉਸ ਦੀ ਲਾਸ਼ ਰੱਖੀ ਗਈ ਸੀ | ਉਸ ਦੀ ਲਾਸ਼ ਉੱਥੇ ਨਹੀਂ ਸੀ !
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:raise]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:other:tomb]]**
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:raise|ਜੀਅ ਉੱਠਿਆ ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮੁਰਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:tomb|ਕਬਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **Do not be afraid** - That is, "Stop being afraid." An angel shining like lightning was a frightening sight!
-  * **He has risen from the dead** - This could be translated as, "He has come back to life."
-
-
+  * **ਨਾ ਡਰੋ**  – ਮਤਲਬ, “ਡਰਨਾ ਬੰਦ ਕਰੋ”| ਬਿਜਲੀ ਵਾਂਗੂ ਚਮਕਦਾ ਦੂਤ ਇਕ ਡਰਾਉਣ ਵਾਲਾ ਦ੍ਰਿਸ਼ ਸੀ !
+  * **ਉਹ ਮੁਰਦਿਆਂ ਵਿਚੋਂ ਜੀਅ ਉੱਠਿਆ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹ ਦੁਬਾਰਾ ਜੀਵਨ ਵਿਚ ਆ ਗਿਆ ਹੈ |”
 **[[:pa:obs:notes:frames:41-04|<<]] | [[:pa:obs:notes:41|Up]] | [[:pa:obs:notes:frames:41-06|>>]]**
