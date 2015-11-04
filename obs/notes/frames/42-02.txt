@@ -1,19 +1,14 @@
-===== Jesus Walked with the Disciples [42-02] =====
+===== **ਯਿਸੂ ਚੇਲਿਆਂ ਨਾਲ ਚੱਲਿਆ** **[42-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-02.jpg?nolink&}}
 
-**Jesus** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** concerning Jesus during the previous few days. They thought they were talking to a visitor who did not know what had happened in **Jerusalem**.
-===== Important Terms: =====
+**ਯਿਸੂ** ਉਹਨਾਂ ਕੋਲ ਪਹੁੰਚਿਆ ਅਤੇ ਉਹਨਾਂ ਦੇ ਨਾਲ ਚੱਲਣਾ ਸ਼ੁਰੂ ਕੀਤਾ, ਪਰ ਉਹਨਾਂ ਨੇ **ਉਸ ਨੂੰ ਨਾ ਪਹਿਚਾਣਿਆ** | ਉਸ ਨੇ ਉਹਨਾਂ ਕੋਲੋਂ ਪੁੱਛਿਆ ਕਿ ਉਹ ਕੀ ਗੱਲਾਂ ਕਰਦੇ ਹਨ, ਅਤੇ ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ  **ਉਹ ਸੱਭ ਮਹੱਤਵਪੂਰਨ ਗੱਲਾਂ ਦੱਸੀਆਂ ਜੋ ਪਿੱਛਲੇ ਹਫਤੇ ** ਜੋ ਯਿਸੂ ਨਾਲ ਸਬੰਧਿਤ **ਹੋਈਆਂ** **ਸਨ** | ਉਹਨਾਂ ਨੇ ਸੋਚਿਆ ਕਿ ਉਹ ਕਿਸੇ ਯਾਤਰੀ ਨਾਲ ਗੱਲਾਂ ਕਰ ਰਹੇ ਹਨ ਜੋ ਨਹੀ ਜਾਣਦਾ ਕਿ **ਯਰੂਸ਼ਲਮ** ਵਿਚ ਕੀ ਹੋਇਆ ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:jerusalem]]**
-
-
-===== Translation Notes: =====
-
-  * **did not recognize him** - That is, "did not know that it was Jesus."
-  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
-
-
+  * **ਉਸ ਨੂੰ ਨਾ ਪਹਿਚਾਣਿਆ**  – ਮਤਲਬ, “ਨਹੀਂ ਜਾਣਿਆ ਕਿ ਇਹ ਯਿਸੂ ਸੀ |”
+  * **ਸਾਰੀਆਂ ਮਹੱਤਵਪੂਰਨ ਗੱਲਾਂ ਜੋ ਹੋਈਆਂ ਸਨ –**  ਇਹ ਯਿਸੂ ਦੀ ਸਿੱਖਿਆ ਅਤੇ ਚਮਤਕਾਰਾਂ, ਉਸ ਦੀ ਮੌਤ, ਅਤੇ ਯਿਸੂ ਦੇ ਦੁਬਾਰਾ ਜੀਅ ਉੱਠਣ ਦੀ ਖਬਰ ਦੇ ਬਾਰੇ ਵਿਚ ਹੈ |
 **[[:pa:obs:notes:frames:42-01|<<]] | [[:pa:obs:notes:42|Up]] | [[:pa:obs:notes:frames:42-03|>>]]**
