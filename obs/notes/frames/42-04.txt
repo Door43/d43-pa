@@ -1,17 +1,13 @@
-===== Breaking the Bread [42-04] =====
+===== **ਰੋਟੀ ਤੋੜਨਾ** **[42-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-04.jpg?nolink&}}
 
-The two men invited **Jesus** to stay with them, so he did. When they were ready to eat the evening meal, Jesus picked up a loaf of bread, thanked **God** for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, **he disappeared from their sight**.
-===== Important Terms: =====
+ਦੋ ਆਦਮੀਆਂ ਨੇ **ਯਿਸੂ** ਨੂੰ ਆਪਣੇ ਨਾਲ ਰਹਿਣਾ ਲਈ ਬੁਲਾਇਆ, ਇਸ ਲਈ ਉਸ ਨੇ ਉਸੇ ਤਰਾਂ ਕੀਤਾ | ਜਦੋਂ ਉਹ ਸ਼ਾਮ ਦਾ ਭੋਜਨ ਖਾਣ ਲਈ ਤਿਆਰ ਸਨ, ਯਿਸੂ ਨੇ ਰੋਟੀ ਲਈ ਅਤੇ ਇਸ ਲਈ **ਪ੍ਰਮੇਸ਼ਵਰ** ਦਾ ਧੰਨਵਾਦ ਕੀਤਾ ਅਤੇ ਇਸ ਨੂੰ ਤੋੜਿਆ | ਅਚਾਨਕ, ਉਹਨਾਂ ਨੇ ਪਹਿਚਾਣ ਲਿਆ ਕਿ ਇਹ ਯਿਸੂ ਸੀ | ਪਰ ਉਸੇ ਸਮੇਂ ਉਹ ਉਹਨਾਂ ਦੇ ਸਾਹਮਣਿਓ ਅਲੋਪ ਹੋ ਗਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:god]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **he disappeared from their sight** - This could also be translated as, "he was gone" or, "he was no longer there."
-
-
+  * **ਉਹ ਉਹਨਾਂ ਦੇ ਸਾਹਮਣਿਓ ਅਲੋਪ ਹੋ ਗਿਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹ ਜਾ ਚੁੱਕਾ ਸੀ” ਜਾਂ “ਉਹ ਅੱਗੇ ਤੋਂ ਉੱਥੇ ਨਹੀਂ ਸੀ”|
 **[[:pa:obs:notes:frames:42-03|<<]] | [[:pa:obs:notes:42|Up]] | [[:pa:obs:notes:frames:42-05|>>]]**
