@@ -1,21 +1,18 @@
-===== The Two Disciples [42-01] =====
+===== **ਦੋ ਚੇਲੇ** **[42-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-01.jpg?nolink&}}
 
-On the day that **Jesus** was **raised** from the dead, two of his **disciples** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **Messiah**, but then he was killed. Now the women said he was **alive** again. They did not know what to **believe**.
-===== Important Terms: =====
+ਉਸ ਦਿਨ ਜਿਸ ਦਿਨ **ਯਿਸੂ** ਮੁਰਦਿਆਂ ਵਿਚੋਂ **ਜੀਵਤ** **ਹੋਇਆ**, ਉਸਦੇ ਦੋ **ਚੇਲੇ** ਲਾਗਲੇ ਸ਼ਹਿਰ ਨੂੰ ਜਾ ਰਹੇ ਸਨ | ਜਿਵੇਂ ਉਹ ਚਲਦੇ ਜਾਂਦੇ ਸਨ, ਉਹ ਉਸ ਬਾਰੇ ਗੱਲਾਂ ਕਰਦੇ ਸਨ ਜੋ ਕੁੱਝ ਯਿਸੂ ਨਾਲ ਹੋਇਆ ਸੀ | ਉਹ ਆਸ਼ਾ ਕਰਦੇ ਸਨ ਕਿ ਉਹ **ਮਸੀਹਾ** ਹੈ ਪਰ ਤੱਦ ਉਸ ਨੂੰ ਮਾਰ ਦਿੱਤਾ | ਹੁਣ ਔਰਤਾਂ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਦੁਬਾਰਾ **ਜੀਵਤ** ਹੋ ਗਿਆ ਸੀ | ਉਹ ਨਹੀਂ ਜਾਣਦੇ ਸਨ ਕਿ ਕੀ **ਵਿਸ਼ਵਾਸ** ਕਰੀਏ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:raise]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:christ]]**
-  * **[[:pa:obe:kt:life]]**
-  * **[[:pa:obe:kt:believe]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:raise|ਜੀਅ ਉੱਠਿਆ]] **
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+  * **[[:pa:obs:notes:key-terms:life|ਜੀਵਤ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:41-08|<<]] | [[:pa:obs:notes:42|Up]] | [[:pa:obs:notes:frames:42-02|>>]]**
