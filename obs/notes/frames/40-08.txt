@@ -1,22 +1,18 @@
-===== The Soldier's Testimony [40-08] =====
+===== **ਸਿਪਾਹੀਆਂ ਦੀ ਗਵਾਹੀ** **[40-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-08.jpg?nolink&}}
 
-**Through his death**, **Jesus opened a way** for people to **come to God**. When the soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was **innocent**. He was the **Son of God**.”
-===== Important Terms: =====
+**ਉਸ ਦੀ ਮੌਤ ਦੁਆਰਾ, ਯਿਸੂ ਨੇ ਲੋਕਾਂ ਲਈ ਇਕ ਮਾਰਗ ਖੋਲਿਆ** ਕਿ ਉਹ **ਪ੍ਰਮੇਸ਼ਵਰ** **ਕੋਲ** **ਆਉਣ** | ਜਦੋਂ ਸਿਪਾਹੀ ਨੇ ਯਿਸੂ ਦੀ ਰਾਖੀ ਕਰਦੇ ਹੋਏ ਸੱਭ ਕੁੱਝ ਦੇਖਿਆ ਤਾਂ ਕਿਹਾ, “ਸੱਚ ਮੁੱਚ ਇਹ ਵਿਅਕਤੀ **ਨਿਰਦੋਸ਼** ਸੀ| ਉਹ **ਪ੍ਰਮੇਸ਼ਵਰ** **ਦਾ ਪੁੱਤਰ** ਸੀ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:innocent]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-
-
+  * **[[:pa:obs:notes:key-terms:death|ਮੌਤ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **ਨਿਰਦੋਸ਼**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ  ਦਾ ਪੁੱਤਰ **
 ===== Translation Notes: =====
 
-  * **Through his death** - That is, "By means of his death" or, "By dying."
-  * **opened a way** - That is, "made it possible."
-  * **come to God** - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
-
-
+  * **Through his death**  - That is, "By means of his death" or, "By dying."
+  * **opened a way**  - That is, "made it possible."
+  * **come to God**  - That is, "come near to God" or, "go near to God" or, "approach God" or, "know God personally." The tearing of the curtain showed that the barrier between God and people had been removed.
 **[[:pa:obs:notes:frames:40-07|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-09|>>]]**
