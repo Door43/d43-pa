@@ -1,21 +1,17 @@
-===== The Women [41-03] =====
+===== **ਔਰਤਾਂ ****[41-03]**  =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink&}}
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-41-03.jpg?nolink}}
+**ਯਿਸੂ** ਨੂੰ ਦਫਨਾਉਣ ਤੋਂ ਬਾਅਦ ਅਗਲਾ ਦਿਨ **ਸਬਤ** ਦਾ ਦਿਨ ਸੀ , ਅਤੇ **ਯਹੂਦੀਆਂ ਨੂੰ ਮਨਾਹੀ ** ਸੀ ਕਿ ਉਸ ਦਿਨ ਉਹ **ਕਬਰ** ਉੱਤੇ ਜਾਣ | __ਇਸ ਲਈ__ ਸਬਤ ਤੋਂ ਬਾਅਦ ਅਗਲੇ ਦਿਨ ਬਹੁਤ ਤੜਕੇ, ਕੁੱਝ ਔਰਤਾਂ ਨੇ ਯਿਸੂ ਦੀ **ਕਬਰ** ਉੱਤੇ ਜਾਣ ਦੀ ਤਿਆਰੀ ਕੀਤੀ ਕਿ ਉਹ ਦੀ ਲਾਸ਼ ਉੱਤੇ ਹੋਰ **ਦਫਨਾਉਣ ਵਾਲੇ ਇਤਰ** ਪਾਉਣ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-The day after **Jesus** was buried was a **Sabbath** day, and **the Jews were not permitted** to go to a **tomb** on that day. So very early on the morning after the Sabbath day, several women prepared to go to Jesus’ **tomb** to put more **burial spices** on his body.
-===== Important Terms: =====
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:sabbath|ਸਬਤ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:tomb|ਕਬਰ]]**
+  * **[[:pa:obs:notes:key-terms:tomb|ਕਬਰ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sabbath]]**
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:other:tomb]]**
-  * **[[:pa:obe:other:tomb]]**
-
-
-===== Translation Notes: =====
-
-  * **the Jews were not permitted** - The Sabbath day rules did not permit a Jew to walk very far or to do any other kind of work.
-  * **burial spices** - This refers to sweet-smelling spices that were placed on a dead body to cover the bad smell. This can also be translated as, "sweet-smelling spices" or, "sweet-smelling oils" or, "sweet-smelling plants."
-
-
+  * **ਯਹੂਦੀਆਂ ਨੂੰ ਆਗਿਆ ਨਹੀਂ ਸੀ**
+  - ਸਬਤ ਦੇ ਦਿਨ ਦਾ ਕਨੂੰਨ ਯਹੂਦੀਆਂ ਨੂੰ ਦੂਰ ਜਾਣ ਅਤੇ ਕਿਸੇ ਵੀ ਪ੍ਰਕਾਰ ਦਾ ਕੰਮ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦਾ ਸੀ |
+  * **ਦਫਨਾਉਣ ਦਾ ਇਤਰ**  – ਇਹ ਮਿੱਠੀ ਸੁਗੰਧੀ ਵਾਲੇ ਮਸਾਲਿਆਂ ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ ਜੋ ਮੁਰਦੇ ਉੱਤੇ ਰੱਖੇ ਜਾਂਦੇ ਸਨ ਕਿ ਲਾਸ਼ ਦੀ ਬੁਰੀ ਦੁਰਗੰਧ ਨੂੰ ਰੋਕਣ | ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਮਿੱਠੀ ਸੁਗੰਧੀ ਵਾਲੇ ਮਸਾਲੇ” ਜਾਂ “ਮਿੱਠੀ ਸੁਗੰਧੀ ਵਾਲਾ ਤੇਲ” ਜਾਂ “ਮਿੱਠੀ ਸੁਗੰਧੀ ਵਾਲੇ ਪੌਦੇ|”
 **[[:pa:obs:notes:frames:41-02|<<]] | [[:pa:obs:notes:41|Up]] | [[:pa:obs:notes:frames:41-04|>>]]**
