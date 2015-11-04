@@ -1,25 +1,21 @@
-===== Jesus Died [40-07] =====
+===== **ਯਿਸੂ ਮਰ ਗਿਆ** **[40-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-40-07.jpg?nolink&}}
 
-Then **Jesus** cried out, “**It is finished**! **Father**, I give my **spirit into your hand**s.” Then he **bowed his head** and **gave up his spirit**. When he **died**, there was an earthquake and the **large curtain** that separated the people from the presence of **God** in the **Temple** was torn in two, from the top to the bottom.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਚਿਲਾਇਆ, “**ਸੱਭ ਪੂਰਾ ਹੋਇਆ !** **ਪਿਤਾ**, ਮੈਂ ਆਪਣਾ **ਆਤਮਾ ਤੇਰੇ ਹੱਥ ਵਿਚ** ਦਿੰਦਾ ਹਾਂ|” ਤੱਦ ਉਸ ਨੇ ਆਪਣਾ **ਸਿਰ** **ਝੁਕਾਇਆ** ਅਤੇ **ਆਪਣਾ ਆਤਮਾ ਦੇ ਦਿੱਤਾ** | ਜਦੋਂ ਉਹ **ਮਰ** ਗਿਆ, ਇਕ ਭੁੰਚਾਲ ਆਇਆ ਅਤੇ **ਮੰਦਰ** ਵਿਚ ਜੋ **ਵੱਡਾ ਪਰਦਾ** ਲੋਕਾਂ ਨੂੰ **ਪ੍ਰਮੇਸ਼ਵਰ** ਤੋਂ ਜੁਦਾ ਕਰਦਾ ਸੀ ਉੱਪਰ ਤੋਂ ਹੇਠਾਂ ਵੱਲ ਦੋ ਭਾਗਾਂ ਵਿਚ ਫਟ ਗਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:godthefather]]**
-  * **[[:pa:obe:kt:spirit]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:temple]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:godthefather|ਪਿਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:spirit|ਆਤਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮਰ ਗਿਆ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:temple|ਮੰਦਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **It is finished!** - This could also be translated as, "It is completed" or, "I have finished it" or, "I have completed the work." This means that Jesus' work of salvation was complete.
-  * **into your hands** - That is, "into your care."
-  * **bowed his head** - That is, "lowered his head."
-  * **gave up his spirit** - That is, "gave up his spirit to God" or, "released his spirit to God and died."
-  * **large curtain** - This was a large, strong fabric hung in the temple. It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
-
-
+  * **ਇਹ ਪੂਰਾ ਹੋਇਆ**  !-ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਹ ਪੂਰਨ ਹੋਇਆ” ਜਾਂ “ਮੈਂ ਇਸ ਨੂੰ ਪੂਰਾ ਕਰ ਦਿੱਤਾ ਹੈ” ਜਾਂ “ਮੈਂ ਕੰਮ ਨੂੰ ਪੂਰਾ ਕਰ ਦਿੱਤਾ ਹੈ |” ਇਸ ਦਾ ਮਤਲਬ ਕਿ ਯਿਸੂ ਦਾ ਮੁਕਤੀ ਦਾ ਕੰਮ ਪੂਰਾ ਹੋ ਗਿਆ ਸੀ |
+  * **ਤੇਰੇ ਹੱਥ ਵਿਚ**  – ਮਤਲਬ, “ਤੇਰੀ ਨਿਗਹਬਾਨੀ ਵਿਚ”|
+  * **ਆਪਣਾ ਸਿਰ ਝੁਕਾਇਆ**  – ਮਤਲਬ, “ਆਪਣੇ ਸਿਰ ਨੂੰ ਹੇਠਾਂ ਕਰ ਦਿੱਤਾ|”
+  * **ਆਪਣਾ ਆਤਮਾ ਦੇ ਦਿੱਤਾ**  – ਮਤਲਬ , “ਆਪਣਾ ਆਤਮਾ ਪ੍ਰਮੇਸ਼ਵਰ ਨੂੰ ਦੇ ਦਿੱਤਾ ਅਤੇ ਮਰ ਗਿਆ |”
+  * **ਵੱਡਾ ਪਰਦਾ**  – ਇਹ ਵੱਡਾ ਅਤੇ ਮਜਬੂਤ ਕਪੜਾ ਸੀ ਜੋ ਮੰਦਰ ਵਿਚ ਲਟਕਦਾ ਸੀ | It was like a wall separating one room from another. It can also be translated as "thick curtain" or, "hanging fabric" or, "screen."
 **[[:pa:obs:notes:frames:40-06|<<]] | [[:pa:obs:notes:40|Up]] | [[:pa:obs:notes:frames:40-08|>>]]**
