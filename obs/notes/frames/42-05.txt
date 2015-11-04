@@ -1,20 +1,16 @@
-===== Jesus Is Alive [42-05] =====
+===== **ਯਿਸੂ ਜੀਵਤ ਹੈ** **[42-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-05.jpg?nolink&}}
 
-The two men said to each other, “That was **Jesus**! That is why **our hearts were burning** when he explained **God’s word** to us!” Immediately, they went back to **Jerusalem**. When they arrived, they told the **disciples**, “Jesus is **alive**! We have seen him!”
-===== Important Terms: =====
+ਦੋਨਾ ਵਿਅਕਤੀਆਂ ਨੇ ਇਕ ਦੂਸਰੇ ਨੂੰ ਕਿਹਾ, “ਉਹ ਤਾਂ **ਯਿਸੂ** ਸੀ! ਇਸ ਲਈ ਜਦੋਂ ਉਹ ਸਾਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਨੂੰ ਸਮਝਾਉਂਦਾ ਸੀ ਤਾਂ **ਸਾਡੇ ਹਿਰਦੇ ਗਰਮ ਹੋ ਰਹੇ ਸਨ !”** ਛੇਤੀ ਨਾਲ ਉਹ **ਯਰੂਸ਼ਲਮ** ਨੂੰ ਵਾਪਸ ਗਏ | ਜਦੋਂ ਉਹ ਪਹੁੰਚੇ ਤਾਂ ਉਹਨਾਂ ਨੇ **ਚੇਲਿਆਂ** ਨੂੰ ਦੱਸਿਆ, “ਯਿਸੂ **ਜੀਵਤ** ਹੈ! ਅਸੀਂ ਉਸ ਨੂੰ ਦੇਖਿਆ ਹੈ !”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:life]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:wordofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:life|ਜੀਵਤ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **our hearts were burning** - That is, "we were getting excited" or, "we were beginning to hope" or, "we felt joy." Some languages have ways of expressing it such as, "our hearts were stirred" or, "our hearts were warmed." If you use an expression that refers to the heart burning, make sure it does not indicate that they were upset or angry.
-
-
+  * **ਸਾਡੇ ਹਿਰਦੇ ਗਰਮ ਹੋ ਰਹੇ ਸਨ**  – ਮਤਲਬ, “ਅਸੀਂ ਉਤਸ਼ਾਹਿਤ ਹੋ ਰਹੇ ਸੀ” ਜਾਂ “ਸਾਡੇ ਅੰਦਰ ਆਸ਼ਾ ਪੈਦਾ ਹੋ ਰਹੀ ਸੀ” ਜਾਂ “ਅਸੀਂ ਅਨੰਦ ਮਹਿਸੂਸ ਕੀਤਾ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਨੇ ਕੁੱਝ ਇਸ ਤਰਾਂ ਬਿਆਨ ਕੀਤਾ ਹੈ, “ਸਾਡੇ ਹਿਰਦੇ ਉੱਛਲ ਰਹੇ ਸਨ” ਜਾਂ “ਸਾਡੇ ਹਿਰਦੇ ਗਰਮ ਹੋ ਰਹੇ ਸਨ |” ਅਗਰ ਤੁਸੀਂ ਹਿਰਦੇ ਦੇ ਗਰਮ ਹੋਣ ਦੀ ਗੱਲ ਕਰ ਰਹੇ ਹੋ ਤਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਗੁੱਸੇ ਹੋਣ ਜਾਂ ਪਰੇਸ਼ਾਨ ਹੋਣ ਦੀ ਗੱਲ ਨਹੀਂ ਕਰਦੇ |
 **[[:pa:obs:notes:frames:42-04|<<]] | [[:pa:obs:notes:42|Up]] | [[:pa:obs:notes:frames:42-06|>>]]**
