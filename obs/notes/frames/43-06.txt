@@ -1,23 +1,19 @@
-===== You Crucified Jesus [43-06] =====
+===== **ਤੁਸੀਂ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਚੜ੍ਹਾਇਆ** **[43-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?nolink&}}
 
-“Men of **Israel**, **Jesus** was a man who did many mighty **signs and wonders** by the **power** of **God**, as you have seen and already know. But **you crucified him**!”
-===== Important Terms: =====
+“**ਇਸਰਾਏਲ** ਦੇ ਮਰਦੋ, **ਯਿਸੂ** ਇਕ ਉਹ ਬੰਦਾ ਸੀ ਜਿਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਸ਼ਕਤੀ ਦੁਆਰਾ  ਬਹੁਤ **ਨਿਸ਼ਾਨ ਅਤੇ ਅਚੰਭੇ** ਕੀਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਦੇਖ ਚੁੱਕੇ ਹੋ ਅਤੇ ਪਹਿਲਾਂ ਹੀ ਜਾਣਦੇ ਹੋ| ਪਰ ਤੁਸੀਂ ਉਸ ਨੂੰ ਸਲੀਬ ਦਿੱਤਾ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:israel]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:miracle]]**
-  * **[[:pa:obe:kt:power]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:crucify]]**
+  * **[[:pa:obs:notes:key-terms:israel|ਇਸਰਾਏਲ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:miracle|ਨਿਸ਼ਾਨ ਅਤੇ ਅਚੰਭੇ]]**
+  * **[[:pa:obs:notes:key-terms:power|ਭਵਿੱਖ ਬਾਣੀ]] **
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:crucify|ਸਲੀਬ ਦਿੱਤਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * (Peter continues preaching to the crowd.)
-  * **Men of Israel** - For some languages it is better to say, "People of Israel" for it to be clear that this included men and women. This could also be translated as, "My fellow people of Israel" or, "My fellow Jews" to make it clear that Peter was also a Jew and belonged to the "people of Israel."
-  * **you crucified him!** - This could also be translated as, "you caused him to be crucified" or, "because of you, he was crucified." The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified.
-
-
+  * (ਪਤਰਸ ਲੋਕਾਂ ਨੂੰ ਲਗਾਤਾਰ ਪ੍ਰਚਾਰ ਕਰਦਾ)
+  * **ਇਸਰਾਏਲ ਦੇ ਮਰਦ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚੰਗਾ ਹੋਵੇਗਾ, “ਇਸਰਾਏਲ ਦੇ ਲੋਕ” ਇਸ ਨੂੰ ਹੋਰ ਵੀ ਸਾਫ਼ ਕਰਦੇ ਹੋਏ ਕਿ ਇਸ ਵਿਚ ਮਰਦ ਅਤੇ ਔਰਤਾਂ ਦੋਨੋਂ ਸ਼ਾਮਲ ਹਨ | ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਮੇਰੇ ਇਸਰਾਏਲੀ ਮਿੱਤਰੋ” ਜਾਂ ਮੇਰੇ ਯਹੂਦੀ ਮਿੱਤਰੋ” ਇਸ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਲਈ ਕਿ ਪਤਰਸ ਵੀ ਯਹੂਦੀ ਸੀ ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਲੋਕਾਂ ਨਾਲ ਸਬੰਧ ਰੱਖਦਾ ਸੀ |”
+  * **ਤੁਸੀਂ ਉਸ ਨੂੰ ਸਲੀਬ ਦਿੱਤਾ!**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਤੁਸੀਂ ਹੋਣ ਦਿੱਤਾ ਕਿ ਉਹ ਸਲੀਬ ਦਿੱਤਾ ਜਾਵੇ” ਜਾਂ “ਤੁਹਾਡੇ ਕਾਰਨ ਉਹ ਸਲੀਬ ਦਿੱਤਾ ਗਿਆ ਸੀ|” ਅਸਲ ਵਿਚ ਯਹੂਦੀਆਂ ਨੇ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਕਿੱਲਾਂ ਨਾਲ ਨਹੀਂ ਠੋਕਿਆ ਸੀ |” ਚਾਹੇ, ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਯਹੂਦੀ ਲੋਕਾਂ ਨੇ ਹੋਣ ਦਿੱਤਾ ਕਿ ਉਹ ਦੋਸ਼ੀ ਠਹਿਰੇ ਅਤੇ ਭੀੜ ਵਿਚ ਬਹੁਤ ਲੋਕਾਂ ਨੇ ਰੌਲਾ ਪਾਇਆ ਕਿ ਉਸ ਨੂੰ ਸਲੀਬ ਦੇਵੋ |
 **[[:pa:obs:notes:frames:43-05|<<]] | [[:pa:obs:notes:43|Up]] | [[:pa:obs:notes:frames:43-07|>>]]**
