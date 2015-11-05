@@ -1,16 +1,12 @@
-===== Philip Met the Ethiopian [45-09] =====
+===== **ਫਿਲਿੱਪ ਇਥੋਪਿਆ ਦੇ ਬੰਦੇ ਨੂੰ ਮਿਲਿਆ** **[45-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-09.jpg?nolink&}}
 
-Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. **Was Isaiah writing about** himself or someone else?”
-===== Important Terms: =====
+ਫਿਲਿੱਪ ਨੇ ਇਥੋਪਿਆ ਦੇ ਬੰਦੇ ਨੂੰ ਪੁੱਛਿਆ, “ਕੀ ਤੂੰ ਸਮਝਦਾ ਹੈਂ ਜੋ ਤੂੰ ਪੜ੍ਹਦਾ ਹੈਂ?” ਇਥੋਪੀਆਂ ਦੇ ਬੰਦੇ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਨਹੀਂ| ਜੱਦ ਤੱਕ ਕੋਈ ਮੈਨੂੰ ਨਾ ਸਮਝਾਏ ਮੈਂ ਇਸ ਨੂੰ ਕਿਸ ਤਰਾਂ ਸਮਝ ਸਕਦਾ ਹਾਂ| ਕਿਰਪਾ ਕਰਕੇ ਆ ਅਤੇ ਮੇਰੇ ਨਾਲ ਬੈਠ ਜਾਹ| **ਕੀ ਯਸਾਯਾਹ ਆਪਣੇ ਆਪ ਬਾਰੇ** ਲਿੱਖ ਰਿਹਾ ਹੈ ਜਾਂ ਕਿਸੇ ਹੋਰ ਦੇ ਬਾਰੇ ਵਿਚ ?
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:isaiah]]**
+  * **[[:pa:obs:notes:key-terms:isaiah|ਯਸਾਯਾਹ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **Was Isaiah writing about** - This can also be translated as, "Was Isaiah referring to."
-
-
+  * **ਕੀ  ਯਸਾਯਾਹ ਬਾਰੇ ਵਿਚ ਲਿੱਖ ਰਿਹਾ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਕੀ ਯਸਾਯਾਹ ਹਵਾਲਾ ਦੇ ਰਿਹਾ ਸੀ|”
 **[[:pa:obs:notes:frames:45-08|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-10|>>]]**
