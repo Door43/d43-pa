@@ -1,27 +1,22 @@
-===== The Disciples Were Released [44-09] =====
+===== **ਚੇਲੇ ਛੱਡ ਦਿੱਤੇ ਗਏ** **[44-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&}}
 
-The **leaders were shocked** that **Peter** and **John** spoke so boldly because they could see that these men were **ordinary** men **who were uneducated**. But **then they remembered** that these men **had been with Jesus**. **After they threatened** Peter and John, they **let them go**.
+**ਆਗੂ ਕੰਬ ਗਏ** ਕਿ ਪਤਰਸ ਅਤੇ **ਯਹੁੰਨਾ** ਕਿਸ ਤਰਾਂ ਹੌਸਲੇ ਨਾਲ ਬੋਲਦੇ ਸਨ ਕਿਉਂਕਿ ਉਹ ਦੇਖ ਸਕਦੇ ਸਨ ਕਿ ਇਹ ਵਿਅਕਤੀ **ਸਧਾਰਨ** ਹਨ ਅਤੇ ਅਨਪੜ ਹਨ | ਪਰ ਫਿਰ **ਉਹਨਾਂ ਨੇ** **ਯਾਦ** ਕੀਤਾ ਕਿ ਇਹ ਮਰਦ **ਯਿਸੂ ਨਾਲ ਰਹੇ ਹਨ** | ਪਤਰਸ ਅਤੇ ਯਹੁੰਨਾ ਨੂੰ **ਧਮਕਾਉਣ ਤੋਂ ਬਾਅਦ** ਉਹਨਾਂ ਨੇ ਉਹਨਾਂ **ਨੂੰ ਜਾਣ ਦਿੱਤਾ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-===== Important Terms: =====
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਆਗੂ]]**
+  * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
+  * **[[:pa:obs:notes:key-terms:johntheapostle|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:johntheapostle]]**
-  * **[[:pa:obe:kt:jesus]]**
-
-
-===== Translation Notes: =====
-
-  * **were shocked** - That is, "were very surprised" or, "were amazed."
-  * **ordinary** - That is, "common" or, "lower-class." Peter and John were simple fishermen.
-  * **who were uneducated** - That is, "who did not have a formal education." This could also be translated as, "who had not gone to religious school."
-  * **then they remembered** - This could also be translated as, "But then they thought about the fact that."
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
-  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus.
-  * **let them go** - That is, "allowed them to leave."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ਕੰਬ ਗਏ**  – ਮਤਲਬ, “ਉਹ ਬਹੁਤ ਹੈਰਾਨ ਸਨ” ਜਾਂ “ਉਹ ਅਚੰਬੇ ਸਨ|”
+  * **ਸਧਾਰਨ**  – ਮਤਲਬ, “ਆਮ” ਜਾਂ “ਛੋਟੀ ਸ਼੍ਰੇਣੀ ਦੇ|” ਪਤਰਸ ਅਤੇ ਯਹੁੰਨਾ ਸਧਾਰਨ ਮਸ਼ਵਾਰੇ ਸਨ|
+  * **ਜੋ ਅਨਪੜ ਸਨ**  – ਮਤਲਬ, “ਜਿਹਨਾਂ ਕੋਲ ਰਸਮੀ ਪੜ੍ਹਾਈ ਨਹੀ ਸੀ|” ਇਸ ਦਾ ਅਨੁਵਾਦ ਵੀ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਜੋ ਧਾਰਮਿਕ ਸਕੂਲ ਵਿਚ ਨਹੀਂ ਗਏ ਸਨ|”
+  * **ਤੱਦ ਉਹਨਾਂ ਨੂੰ ਯਾਦ ਆਇਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਵੀ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਪਰ ਤੱਦ ਉਹਨਾਂ ਨੇ ਉਸ ਸਚਾਈ ਬਾਰੇ ਸੋਚਿਆ|”
+  * **ਯਿਸੂ ਨਾਲ ਰਹਿ ਚੁੱਕੇ ਹਨ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਵੀ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਯਿਸੂ ਨਾਲ ਸਮਾਂ ਬਤੀਤ ਕੀਤਾ ਹੈ” ਜਾਂ “ਯਿਸੂ ਦੁਆਰਾ ਸਿਖਾਏ ਗਏ ਹਨ|”
+  * **ਧਮਕਾਉਣ ਤੋਂ ਬਾਅਦ**  – ਆਗੂਆਂ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਪਤਰਸ ਅਤੇ ਯਹੁੰਨਾ ਨੂੰ ਸਜਾ ਦੇਣਗੇ ਜੀ ਉਹਨਾਂ ਨੇ ਅਗੋਂ ਤੋਂ ਲੋਕਾਂ ਨੂੰ ਯਿਸੂ ਦਾ ਪ੍ਰਚਾਰ ਕੀਤਾ |
+  * **ਉਹਨਾਂ ਨੂੰ ਜਾਣ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਨੂੰ ਜਾਣ ਦੀ ਮਨਜੂਰੀ ਦਿੱਤੀ|”
+  * //ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ//  – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:44-08|<<]] | [[:pa:obs:notes:44|Up]] | [[:pa:obs:notes:frames:45-01|>>]]**
