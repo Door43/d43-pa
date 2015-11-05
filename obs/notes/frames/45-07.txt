@@ -1,28 +1,24 @@
-===== Philip on the Desert Road [45-07] =====
+===== **ਫਿਲਿੱਪ ਮਾਰੁਸਥਲ ਦੇ ਮਾਰਗ** **[45-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink&}}
 
-A **disciple** of **Jesus**' named Philip was one of the **believers** who fled from **Jerusalem** during the **persecution**. He went to **Samaria** where he **preached** about Jesus and many people were **saved**. Then **one day**, an **angel** from **God** told Philip to go to a certain road in the desert. As he walked along the road, Philip saw an important official from **Ethiopia** riding in his **chariot**. The **Holy Spirit** told Philip to go and talk to this man.
-===== Important Terms: =====
+**ਯਿਸੂ** ਦਾ ਇਕ **ਚੇਲਾ** ਜਿਸ ਦਾ ਨਾਮ ਫਿਲਿੱਪ ਸੀ ਜੋ **ਸਤਾਵਟ** ਸਮੇਂ ਯਰੂਸ਼ਲਮ ਵਿਚੋਂ ਭੱਜੇ **ਵਿਸ਼ਵਾਸੀਆਂ** ਵਿਚੋਂ ਇਕ | ਉਹ **ਸਾਮਰੀਆ** ਨੂੰ ਚਲਾ ਗਿਆ ਜਿੱਥੇ ਉਸ ਨੇ ਯਿਸੂ ਬਾਰੇ **ਪ੍ਰਚਾਰ** **ਕੀਤਾ** ਅਤੇ ਬਹੁਤ ਸਾਰੇ ਲੋਕਾ **ਬਚਾਏ** **ਗਏ** | ਤੱਦ **ਇਕ** **ਦਿਨ**, **ਪ੍ਰਮੇਸ਼ਵਰ** ਵਲੋ ਇਕ **ਦੂਤ** ਨੇ ਫਿਲਿੱਪ ਨੂੰ ਮਾਰੁਸਥਲ ਵਿਚ ਕਿਸੇ ਮਾਰਗ ਵਿਚ ਜਾਣ ਨੂੰ ਕਿਹਾ | ਜਿਵੇਂ ਹੀ ਉਹ ਰਾਹ ਵਿੱਚ ਤੁਰਿਆ ਜਾਂਦਾ ਸੀ, ਫਿਲਿੱਪ ਨੇ ਦੇ ਦੇਖਿਆ ਕਿ ਇਕ ਖਾਸ ਅਧਿਕਾਰੀ **ਇਥੋਪੀਆ** ਵਲੋਂ ਆਪਣੇ ਰਥ ਵਿਚ ਆ ਰਿਹਾ ਹੈ | **ਪਵਿੱਤਰ** **ਆਤਮਾ** ਨੇ ਫਿਲਿੱਪ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਜਾ ਕੇ ਉਸ ਵਿਅਕਤੀ ਨਾਲ ਗੱਲ ਕਰੇ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:believer]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:other:persecute]]**
-  * **[[:pa:obe:other:samaria]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:kt:angel]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:chariot]]**
-  * **[[:pa:obe:kt:holyspirit]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:believer|ਵਿਸ਼ਵਾਸੀ ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ]]**
+  * **[[:pa:obs:notes:key-terms:persecute|ਸਤਾਵਟ]]**
+  * **[[:pa:obs:notes:key-terms:samaria|ਸਾਮਰੀਆ]] **
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕੀਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਏ ਗਏ]]**
+  * **[[:pa:obs:notes:key-terms:angel|ਦੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:chariot|ਰਥ]]**
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Ethiopia** - Ethiopia is a country in Eastern Africa.
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
+  * **ਇਥੋਪੀਆ**  – ਇਥੋਪਿਆ ਪੂਰਬੀ ਅਫਰੀਕਾ ਦਾ ਇਕ ਦੇਸ ਹੈ |
 **[[:pa:obs:notes:frames:45-06|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-08|>>]]**
