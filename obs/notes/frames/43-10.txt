@@ -1,18 +1,14 @@
-===== What Should We Do? [43-10] =====
+===== **ਅਸੀਂ ਕੀ ਕਰੀਏ ? [****43-10] **  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?nolink&}}
 
-The people listening to **Peter** were **deeply moved by** the things that he said. So they asked Peter and the **disciples**, “**Brothers**, what should we do?”
-===== Important Terms: =====
+ਜੋ ਲੋਕ **ਪਤਰਸ** ਨੂੰ ਸੁਣ ਰਹੇ ਸਨ ਉਹਨਾਂ ਗੱਲਾਂ ਦੁਆਰਾ **ਬਹੁਤ ਹੀ ਪ੍ਰ੍ਭਾਵਿੱਤ ਹੋਏ** ਜੋ ਉਸ ਨੇ ਕਹੀਆਂ | ਇਸ ਲਈ ਉਹਨਾਂ ਨੇ ਪਤਰਸ ਅਤੇ **ਚੇਲਿਆਂ** ਨੂੰ ਪੁੱਛਿਆ, “**ਭਾਈਓ**, ਅਸੀਂ ਕੀ ਕਰੀਏ?”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:disciple]]**
+  * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **deeply moved by** - That is, "very troubled by" or, "felt very sad when they heard." To be "moved" is to feel strong emotions.
-  * **Brothers** - This was a normal way for a Jew to address fellow Jews. It could also be translated as, "Friends."
-
-
+  * **ਦੁਆਰਾ ਬਹੁਤ ਪ੍ਰ੍ਭਾਵਿੱਤ ਹੋਏ**  – ਮਤਲਬ, “ਦੁਆਰਾ ਬਹੁਤ ਬੇਚੈਨ ਹੋਏ” ਜਾਂ “ਜਦੋਂ ਉਹਨਾਂ ਨੇ ਸੁਣਿਆ ਤਾਂ ਬਹੁਤ ਦੁੱਖ ਮਹਿਸੂਸ ਕੀਤਾ|” “ਪ੍ਰ੍ਭਾਵਿੱਤ” ਹੋਣਾ ਦਾ ਮਤਲਬ ਤੀਬਰ ਭਾਵਨਾਵਾਂ ਨੂੰ ਮਹਿਸੂਸ ਕਰਨਾ |
+  * **ਭਾਈਓ**  – ਇਕ ਯਹੂਦੀ ਦੁਆਰਾ ਦੂਸਰੇ ਯਹੂਦੀ ਨੂੰ ਸੰਬੋਧਿਤ ਕਰਨ ਦਾ ਇਹ ਇਕ ਆਮ ਤਰੀਕਾ ਸੀ | ਇਹ ਇਸ ਤਰਾਂ ਵੀ ਅਨੁਵਾਦ ਹੋ ਸਕਦਾ ਹੈ, “ਮਿੱਤਰੋ”|
 **[[:pa:obs:notes:frames:43-09|<<]] | [[:pa:obs:notes:43|Up]] | [[:pa:obs:notes:frames:43-11|>>]]**
