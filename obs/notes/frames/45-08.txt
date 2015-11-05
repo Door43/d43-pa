@@ -1,21 +1,19 @@
-===== The Ethiopian Read Isaiah [45-08] =====
+===== **ਇਥੋਪੀਆ ਦੇ ਮਾਰਗ ਬਾਰੇ ਯਸਾਯਾਹ ਵਿਚ ਪੜ੍ਹੋ** **[45-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-08.jpg?nolink&}}
 
-When Philip **approached the chariot**, he heard the **Ethiopian** reading from what the **prophet Isaiah** wrote. The man read, “They led him like a **lamb** to be killed, and **as a lamb is silent**, he did not say a word. They treated him unfairly and did not respect him. **They took his life away from him**.”
-===== Important Terms: =====
+ਜਦੋਂ ਫਿਲਿੱਪ **ਰਥ ਦੇ ਨੇੜੇ ਪਹੁੰਚਿਆ** ਤਾਂ ਉਸ ਨੇ **ਇਥੋਪਿਆ** ਦੇ ਉਸ ਬੰਦੇ ਨੂੰ ਪੜ੍ਹਦੇ ਸੁਣਿਆ ਜੋ **ਯਸਾਯਾਹ** ਨਬੀ ਨੇ ਲਿੱਖਿਆ ਸੀ | ਉਹ ਵਿਅਕਤੀ ਨੇ ਪੜ੍ਹਿਆ, “ਉਹ ਉਸ ਨੂੰ ਮਾਰੀ ਜਾਣ ਵਾਲੀ **ਭੇਡ** ਦੀ ਤਰਾਂ ਲੈ ਗਏ ਅਤੇ ਉਸ ਨੇ ਇਕ **ਮੇਮਨੇ** ਦੀ ਤਰਾਂ **ਇਕ ਵੀ ਸ਼ਬਦ ਨਾ ਬੋਲਿਆ** | ਉਹਨਾਂ ਨੇ ਉਸ ਨਾਲ ਦੁਰਵਿਵਹਾਰ ਕੀਤਾ ਅਤੇ ਉਸ ਦੀ ਇੱਜਤ ਨਾ ਕੀਤੀ| **T****ਉਹਨਾਂ ਨੇ ਉਸ ਦੀ ਜਾਨ ਉਸ ਕੋਲੋਂ ਲੈ ਲਈ|”**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:chariot]]**
-  * **[[:pa:obe:other:isaiah]]**
-  * **[[:pa:obe:kt:lamb]]**
-  * **[[:pa:obe:kt:life]]**
+  * **[[:pa:obs:notes:key-terms:chariot|ਰਥ]]**
+  * **[[:pa:obs:notes:key-terms:isaiah|
 
+ਯਸਾਯਾਹ  ]]**
+  * **[[:pa:obs:notes:key-terms:lamb|ਭੇਡ]]**
+  * **[[:pa:obs:notes:key-terms:life|ਜਾਨ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-===== Translation Notes: =====
-
-  * **Ethiopian** - That is, a person from the country of Ethiopia. See note on **[[:pa:obs:notes:frames:45-07|[45-07]]]**.
-  * **approached the chariot** - That is, "got close to the chariot" or, "came near to the chariot."
-  * **as a lamb is silent** - This could also be translated as, "like a lamb that is silent even when it is about to be killed."
-
-
+  * **ਇਥੋਪਿਆ ਦਾ**  – ਮਤਲਬ, “ਇਕ ਵਿਅਕਤੀ ਜੋ ਇਥੋਪਿਆ ਦੇਸ ਦਾ ਹੈ|” ਨੋਟ **__[45-07]__** ਨੂੰ ਦੇਖੋ |
+  * **ਰਥ ਕੋਲ ਪਹੁੰਚਿਆ**  – ਮਤਲਬ, “ਰਥ ਦੇ ਨੇੜੇ ਪਹੁੰਚਿਆ” ਜਾਂ “ਰਥ ਦੇ ਲਾਗੇ ਗਿਆ”|
+  * **ਭੇਡ ਦੀ ਤਰਾਂ ਚੁੱਪ**  –ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਭੇਡ ਦੀ ਤਰਾਂ ਜੋ ਸ਼ਾਂਤ ਹੈ ਚਾਹੇ ਉਹ ਮਾਰੀ ਜਾਣ ਵਾਲੀ ਹੀ ਹੈ|”
 **[[:pa:obs:notes:frames:45-07|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-09|>>]]**
