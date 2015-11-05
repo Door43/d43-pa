@@ -1,20 +1,17 @@
-===== Before the Jewish Leaders [44-07] =====
+===== **ਯਹੂਦੀ ਆਗੂਆਂ ਦੇ ਅੱਗੇ** **[44-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&}}
 
-The next day, the **Jewish leaders** brought **Peter** and **John** to the **high priest** and the other religious leaders. They asked Peter and John, “By what **power** did you heal this crippled man?”
-===== Important Terms: =====
+ਅਗਲੇ ਦਿਨ, **ਯਹੂਦੀ** **ਆਗੂ** **ਪਤਰਸ** ਅਤੇ **ਯਹੁੰਨਾ** ਨੂੰ **ਮਹਾਂ** **ਜਾਜਕ** ਅਤੇ ਹੋਰ ਧਾਰਮਿਕ ਆਗੂਆਂ ਦੇ ਸ੍ਹਾਮਣੇ ਲੈ ਕੇ ਆਏ | ਉਹਨਾਂ ਨੇ ਪਤਰਸ ਅਤੇ ਯਹੁੰਨਾ ਨੂੰ ਪੁੱਛਿਆ, “ਕਿਸ ਸ਼ਕਤੀ ਨਾਲ ਤੁਸੀਂ ਇਸ ਲੰਗੜੇ ਵਿਅਕਤੀ ਨੂੰ ਚੰਗਾ ਕੀਤਾ ?
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:johntheapostle]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:kt:power]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਯਹੂਦੀ ਆਗੂ]] **
+  * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
+  * **[[:pa:obs:notes:key-terms:johntheapostle|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:highpriest|ਮਹਾਂ ਜਾਜਕ]]**
+  * **[[:pa:obs:notes:key-terms:power|ਸ਼ਕਤੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ )
 
 **[[:pa:obs:notes:frames:44-06|<<]] | [[:pa:obs:notes:44|Up]] | [[:pa:obs:notes:frames:44-08|>>]]**
