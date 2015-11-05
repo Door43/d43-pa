@@ -1,24 +1,20 @@
-===== The Miracles of Stephen [45-01] =====
+===== **ਇਸਤੀਫਾਨ ਦੇ ਚਮਤਕਾਰ** **[45-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-01.jpg?nolink&}}
 
-One of the leaders **in the early Church** was a man named Stephen. He **had a good reputation** and **was full of the Holy Spirit and of wisdom**. Stephen did many **miracles** and **reasoned persuasively that** people should **believe** in **Jesus**.
-===== Important Terms: =====
+**ਪਿਹਿਲੀ** **ਕਲੀਸੀਆ** ਦਾ ਇਕ ਆਗੂ ਜਿਸ ਦਾ ਨਾਮ ਇਸਤੀਫਾਨ ਸੀ | **ਉਸ ਦੀ ਬਹੁਤ ਇੱਜਤ ਅਤੇ ਉਹ ਪਵਿੱਤਰ ਆਤਮਾ ਅਤੇ ਬੁੱਧੀ ਨਾਲ ਭੱਰਿਆ ਹੋਇਆ ਸੀ** | ਇਸਤੀਫਾਨ ਨੇ ਬਹੁਤ **ਚਮਤਕਾਰ** ਕੀਤੇ ਅਤੇ **ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਦਲੀਲਾਂ ਦਿੱਤੀਆਂ** ਕਿ ਲੋਕ **ਯਿਸੂ** ਤੇ **ਵਿਸ਼ਵਾਸ** ਕਰਨ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:church]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:kt:wise]]**
-  * **[[:pa:obe:kt:miracle]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
+  * **[[:pa:obs:notes:key-terms:church|ਕਲੀਸੀਆ]]**
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]] **
+  * **[[:pa:obs:notes:key-terms:wise|ਬੁੱਧੀ]]**
+  * **[[:pa:obs:notes:key-terms:miracle|ਚਮਤਕਾਰ ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the early Church** - That is, "the Church when it first began."
-  * **had a good reputation** - This could be translated as, "was thought well of by the people." Some languages might translate this as, "had a good name."
-  * **was full of the Holy Spirit and of wisdom** - This could also be translated as, "had power and ability from the Holy Spirit and had much wisdom" or, "was full of the Holy Spirit and was very wise."
-  * **reasoned persuasively that** - That is, "gave convincing reasons why."
-
-
+  * **ਪਹਿਲੀ ਕਲੀਸੀਆ**  – ਮਤਲਬ, “ਕਲੀਸੀਆ ਜਦੋਂ ਪਹਿਲੀ ਵਾਰ ਸ਼ੁਰੂ ਹੋਈ|”
+  * **ਬਹੁਤ ਇੱਜਤ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਲੋਕਾਂ ਦੁਆਰਾ ਉਸ ਬਾਰੇ ਵੱਧੀਆ ਮੰਨੀਆਂ ਜਾਣਦਾ ਸੀ |” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਸ਼ਾਇਦ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰਨ, “ਉਸ ਦਾ ਚੰਗਾ ਨਾਮ ਸੀ|”
+  * **ਪਵਿੱਤਰ ਆਤਮਾ ਅਤੇ ਬੁੱਧੀ ਨਾਲ ਭਰਪੂਰ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪਵਿੱਤਰ ਆਤਮਾ ਵਲੋਂ ਸ਼ਕਤੀ ਅਤੇ ਯੋਗਤਾ ਸੀ ਅਤੇ ਬਹੁਤ ਬੁੱਧੀ ਵੀ” ਜਾਂ “ਪਵਿੱਤਰ ਆਤਮਾ ਨਾਲ ਭਰਪੂਰ ਸੀ ਅਤੇ ਬਹੁਤ ਬੁੱਧੀਮਾਨ ਸੀ|”
+  * **ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਦਲੀਲਾਂ ਦਿੱਤੀਆਂ ਕਿ**  –ਮਤਲਬ, “ਕਾਇਲ ਕਰਨ ਵਾਲੀਆਂ ਦਲੀਲਾਂ ਦਿੱਤੀਆਂ ਕਿ ਕਿਉਂ|”
 **[[:pa:obs:notes:frames:44-09|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-02|>>]]**
