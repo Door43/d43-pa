@@ -1,19 +1,15 @@
-===== The Crippled Man Was Healed [44-03] =====
+===== **ਲੰਗੜਾ ਮਨੁੱਖ ਚੰਗਾ ਹੋ ਗਿਆ** **[44-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&}}
 
-Immediately, **God healed** the lame man, and he began to walk and jump around, and to **praise** God. The people in the **courtyard of the Temple** were amazed.
-===== Important Terms: =====
+ਇਕ ਦਮ, **ਪ੍ਰਮੇਸ਼ਵਰ** ਨੇ ਲੰਗੜੇ ਮਨੁੱਖ ਨੂੰ **ਚੰਗਾ ਕਰ ਦਿੱਤਾ** ਅਤੇ ਉਹ ਚੱਲਣ ਲੱਗਾ ਅਤੇ ਇੱਧਰ ਉੱਧਰ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ **ਵਡਿਆਈ** ਕਰਦਾ ਹੋਇਆ ਕੁੱਦਣ ਲੱਗਾ | **ਮੰਦਰ ਦੇ ਵੇਹੜੇ** ਅੰਦਰ ਲੋਕ ਹੈਰਾਨ ਹੋਏ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:heal]]**
-  * **[[:pa:obe:other:praise]]**
-  * **[[:pa:obe:kt:temple]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:heal|ਚੰਗਾ ਕੀਤਾ]] **
+  * **[[:pa:obs:notes:key-terms:praise|ਵਡਿਆਈ ]]**
+  * **[[:pa:obs:notes:key-terms:temple|ਮੰਦਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **courtyard of the Temple** - Only priests could enter the Temple, but ordinary Jews were allowed to come into this area that surrounded the Temple.
-
-
+  * **ਮੰਦਰ ਦਾ ਵੇਹੜਾ**  – ਸਿਰਫ ਜਾਜਕ ਹੀ ਮੰਦਰ ਵਿਚ ਪ੍ਰਵੇਸ਼ ਕਰ ਸਕਦੇ ਸਨ, ਪਰ ਆਮ ਯਹੂਦੀਆਂ ਨੂੰ ਸਿਰਫ ਮੰਦਰ ਦੇ ਆਲੇ ਦੁਆਲੇ ਦੀ ਜਗ੍ਹਾ ਵਿਚ ਹੀ ਆਉਣ ਦੀ ਮਨਜੂਰੀ ਸੀ |
 **[[:pa:obs:notes:frames:44-02|<<]] | [[:pa:obs:notes:44|Up]] | [[:pa:obs:notes:frames:44-04|>>]]**
