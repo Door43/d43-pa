@@ -1,23 +1,19 @@
-===== Stephen's Prayer [45-05] =====
+===== **ਇਸਤੀਫਾਨ ਦੀ ਪ੍ਰਾਰਥਨਾਂ** **[45-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-05.jpg?nolink&}}
 
-**As Stephen was dying**, he **cried out**, “**Jesus**, **receive** my **spirit**.” Then he fell to his knees and cried out again, “**Master**, **do not count this sin against them**.” Then he **died**.
-===== Important Terms: =====
+**ਜਿਵੇਂ ਹੀ ਇਸਤੀਫਾਨ ਮਰ ਰਿਹਾ ਸੀ, ਉਹ ਉੱਚੀ ਬੋਲਿਆ, “ਯਿਸੂ, ਮੇਰੇ ਆਤਮਾ ਨੂੰ ਗ੍ਰਿਹਣ ਕਰ|”** ਤੱਦ ਉਹ ਆਪਣੇ ਗੁੱਟਨੇ ਭਾਰ ਡਿੱਗਿਆ ਅਤੇ ਦੁਬਾਰਾ ਫੇਰ ਚਿਲਾਇਆ, “**ਸਵਾਮੀ, ਤੂੰ ਇਹ ਪਾਪ ਉਹਨਾਂ ਦੇ ਲੇਖੇ ਨਾ ਗਿਣੀ|”** ਤੱਦ ਉਹ ਮਰ ਗਿਆ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:receive]]**
-  * **[[:pa:obe:kt:spirit]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:death]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:receive|ਗ੍ਰਿਹਣ ਕਰ ]]**
+  * **[[:pa:obs:notes:key-terms:spirit|ਆਤਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮਰ ਗਿਆ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **As Stephen was dying** - That is, "Just before Stephen died."
-  * **cried out** - That is, "called out in a loud voice" or, "said very loudly."
-  * **do no count this sin against them** - That is, "do not consider them guilty of the sin of killing me."
-
-
+  * **ਜਿਵੇਂ ਹੀ ਇਸਤੀਫਾਨ ਮਰ ਰਿਹਾ ਸੀ**  – ਮਤਲਬ, “ਇਸਤੀਫਾਨ ਦੇ ਬਿਲਕੁਲ ਮਰਨ ਤੋਂ ਪਹਿਲਾਂ|”
+  * **ਚਿਲਾਇਆ – ** ਮਤਲਬ, “ਉੱਚੀ ਅਵਾਜ ਵਿਚ ਚਿਲਾਇਆ” ਜਾਂ “ਉੱਚੀ ਅਵਾਜ ਵਿਚ ਕਿਹਾ”|
+  * **ਇਹ ਪਾਪ ਇਹਨਾਂ ਦੇ ਲੇਖੇ ਨਾ ਗਿਣੀ**  – ਮਤਲਬ, “ਮੈਨੂੰ ਮਾਰਨ ਦੇ ਪਾਪ ਲਈ ਉਹਨਾਂ ਨੂੰ ਦੋਸ਼ੀ ਨਾ ਮੰਨੀ”
 **[[:pa:obs:notes:frames:45-04|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-06|>>]]**
