@@ -8,7 +8,7 @@
   * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
   * **[[:pa:obs:notes:key-terms:repent|ਤੌਬਾ]]**
   * **[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ]]**
-  * [[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ ਮਸੀਹ ]]
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ ਮਸੀਹ ]]**
   * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
   * **[[:pa:obs:notes:key-terms:forgive|ਮਾਫੀ]]**
   * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
