@@ -1,20 +1,16 @@
-===== Peter and John Were Arrested [44-06] =====
+===== **ਪਤਰਸ ਅਤੇ ਯਹੁੰਨਾ ਕੈਦ ਵਿਚ ਪਾ ਦਿੱਤੇ ਗਏ [****44-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&}}
 
-The leaders of the **Temple** were very upset by what **Peter** and **John** were saying. So they arrested them and put them into prison. But many of the people **believed Peter's message**, and the **number of men** who believed in Jesus grew to about 5,000.
-===== Important Terms: =====
+**ਮੰਦਰ** ਦੇ ਆਗੂ ਜੋ ਕੁੱਝ **ਪਤਰਸ** ਅਤੇ **ਯਹੁੰਨਾ** ਕਹਿ ਰਹੇ ਸਨ ਉਸ ਤੋਂ ਬਹੁਤ ਪਰੇਸ਼ਾਨ ਸਨ | ਇਸ ਲਈ ਉਹਨਾਂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਫੜ੍ਹ ਲਿਆ ਅਤੇ ਜੇਲ ਵਿਚ ਪਾ ਦਿੱਤਾ | ਪਰ ਬਹੁਤ ਲੋਕਾਂ ਨੇ **ਪਤਰਸ ਦੇ ਸੰਦੇਸ਼ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕੀਤਾ** ਅਤੇ **ਉਹਨਾਂ ਮਰਦਾਂ ਦੀ ਗਿਣਤੀ ਲੱ** ਗ ਭੱਗ 5000 ਹੋ ਗਈ ਜਿਹਨਾਂ ਨੇ ਯਿਸੂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕੀਤਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:temple]]**
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:johntheapostle]]**
-  * **[[:pa:obe:kt:believe]]**
+  * **[[:pa:obs:notes:key-terms:temple|ਮੰਦਰ]] **
+  * **[[:pa:obs:notes:key-terms:peter|ਪਤਰਸ]]**
+  * **[[:pa:obs:notes:key-terms:johntheapostle|ਯਹੁੰਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ਕੀਤਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **Peter's message** - That is, "the message that Peter had preached to them."
-  * **number of men** - This was in addition to the woman and children who believed.
-
-
+  * **ਪਤਰਸ ਦਾ ਸੰਦੇਸ਼**  – ਮਤਲਬ, “ਉਹ ਸੰਦੇਸ਼ ਜਿਸ ਦਾ ਪਤਰਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਚਾਰ ਕੀਤਾ ਸੀ |”
+  * **ਮਰਦਾਂ ਦੀ ਗਿਣਤੀ**  – ਉਹ ਔਰਤਾਂ ਅਤੇ ਬੱਚਿਆਂ ਵਿਚ ਵਾਧੂ ਸਨ ਜਿਹਨਾਂ ਨੇ ਵਿਸ਼ਵਾਸ ਕੀਤਾ ਸੀ |
 **[[:pa:obs:notes:frames:44-05|<<]] | [[:pa:obs:notes:44|Up]] | [[:pa:obs:notes:frames:44-07|>>]]**
