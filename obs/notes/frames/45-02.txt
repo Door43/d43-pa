@@ -1,23 +1,19 @@
-===== Stephen's Arrest [45-02] =====
+===== **ਇਸਤੀਫਾਨ ਦੀ ਬੰਦੀ** **[45-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-02.jpg?nolink&}}
 
-**One day**, when Stephen was teaching about **Jesus**, some **Jews** who did not believe in Jesus began to argue with Stephen. They became very angry and lied about Stephen to the **religious leaders**. They said, “We heard him speak **evil** things about **Moses** and **God**!” So the religious leaders arrested Stephen and brought him to the **high priest** and the other leaders of the Jews, where more false **witnesses** lied about Stephen.
-===== Important Terms: =====
+**ਇਕ ਦਿਨ**, ਜਦੋਂ ਇਸਤੀਫਾਨ **ਯਿਸੂ** ਦੇ ਬਾਰੇ ਵਿਚ ਸਿੱਖਾ ਰਿਹਾ ਸੀ ਕੁੱਝ **ਯਹੂਦੀ** ਜੋ ਯਿਸੂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਨਹੀਂ ਕਰਦੇ ਸਨ ਇਸਤੀਫਾਨ ਨਾਲ ਬਹਿੰਸ ਕਰਨ ਲੱਗੇ| ਉਹ ਬਹੁਤ ਗੁੱਸੇ ਹੋਏ ਅਤੇ ਇਸਤੀਫਾਨ ਬਾਰੇ **ਧਾਰਮਿਕ** **ਆਗੂਆਂ** ਕੋਲ ਝੂਠ ਬੋਲਿਆ | ਉਹਨਾਂ ਨੇ ਕਿਹਾ, “ਅਸੀਂ ਉਸ ਨੂੰ **ਮੂਸਾ** ਅਤੇ **ਪ੍ਰਮੇਸ਼ਵਰ** ਬਾਰੇ **ਬੁਰਾਈ** ਕਰਦੇ ਸੁਣਿਆ ਹੈ! ਇਸ ਲਈ ਧਾਰਮਿਕ ਆਗੂਆਂ ਨੇ ਇਸਤੀਫਾਨ ਨੂੰ ਬੰਦੀ ਬਣਾ ਲਿਆ ਅਤੇ ਉਸ ਨੂੰ **ਮਹਾਂ** **ਜਾਜਕ** ਅਤੇ ਯਹੂਦੀਆਂ ਦੇ ਦੂਸਰੇ ਆਗੂਆਂ ਦੇ ਸਾਹਮਣੇ ਲੈ ਕੇ ਆਏ ਜਿੱਥੇ ਇਸਤੀਫਾਨ ਬਾਰੇ ਹੋ ਝੂਠੀਆਂ **ਗਵਾਹੀਆਂ** ਦਿੱਤੀਆਂ ਗਈਆਂ|
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:evil]]**
-  * **[[:pa:obe:other:moses]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:kt:witness]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:jewishleaders|ਧਾਰਮਿਕ ਆਗੂ ]]**
+  * **[[:pa:obs:notes:key-terms:evil|ਬੁਰਾਈ]]**
+  * **[[:pa:obs:notes:key-terms:moses|ਮੂਸਾ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:highpriest|ਮਹਾਂ ਜਾਜਕ]] **
+  * **[[:pa:obs:notes:key-terms:witness|ਗਵਾਹ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:45-01|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-03|>>]]**
