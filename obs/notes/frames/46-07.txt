@@ -1,20 +1,16 @@
-===== Saul Escaped Damascus [46-07] =====
+===== **ਸੌਲੁਸ ਦਮਾਸਕੁਸ ਵਿਚੋਂ ਬਚ ਕੇ ਨਿੱਕਲਦਾ** **[46-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-07.jpg?nolink&}}
 
-After many days, the **Jews** made a plan to kill **Saul**. They sent people to watch for him at **the city gates** in order to kill him. But Saul heard about the plan, and his friends helped him escape. One night they **lowered him over the city wall in a basket**. After Saul escaped from Damascus, he continued to **preach** about **Jesus**.
-===== Important Terms: =====
+ਬਹੁਤ ਦਿਨਾਂ ਦੇ ਬਾਅਦ, **ਯਹੂਦੀਆਂ** ਨੇ **ਉਸ** ਨੂੰ ਮਾਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਈ | ਉਹਨਾਂ ਨੇ ਲੋਕਾਂ ਨੂੰ **ਸ਼ਹਿਰ** **ਦੇ** **ਦਰਵਾਜੇ** ਉੱਤੇ ਪਹਿਰਾ ਦੇਣ ਲਈ ਭੇਜਿਆ ਕਿ ਉਸ ਨੂੰ ਮਾਰ ਦੇਣ | ਪਰ ਸੌਲੁਸ ਨੂੰ ਇਸ ਯੋਜਨਾ ਦਾ ਪਤਾ ਲੱਗ ਗਿਆ ਅਤੇ ਉਸ ਦੇ ਮਿੱਤਰਾਂ ਨੇ ਉਸ ਦੀ ਬਚ ਨਿੱਕਲਣ ਵਿਚ ਮੱਦਦ ਕੀਤੀ | ਇਕ ਰਾਤ ਉਹਨਾਂ ਨੇ **ਉਸ ਨੂੰ ਟੋਕਰੀ ਵਿਚ ਪਾ ਕੇ ਸ਼ਹਿਰ ਦੀ ਦੀਵਾਰ ਤੋਂ ਹੇਠਾਂ ਉਤਾਰ ਦਿੱਤਾ | ** ਸੌਲੁਸ ਦੇ ਦਮਾਸਕੁਸ ਵਿਚੋਂ ਬਚ ਨਿੱਕਲਣ ਦੇ ਬਾਅਦ ਉਹ ਲਗਾਤਾਰ **ਯਿਸੂ** ਦਾ **ਪ੍ਰਚਾਰ** ਕਰਦਾ ਰਿਹਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:jesus]]**
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕਰਦਾ]] **
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the city gates** - The gates were the only normal way into or out of the walled cities.
-  * **lowered him over the city wall in a basket** - Another way to say this would be, "helped him get into a large basket and lowered the basket with him in it over the city wall."
-
-
+  * **ਸ਼ਹਿਰ ਦੇ ਦਰਵਾਜੇ –**  ਦੀਵਾਰ ਕੀਤੇ ਸ਼ਹਿਰ ਦੇ ਅੰਦਰ ਆਉਣ ਅਤੇ ਬਾਹਰ ਜਾਣ ਲਈ ਦਰਵਾਜੇ ਆਮ ਤੌਰ ਤੇ ਮਾਰਗ ਹੁੰਦੇ ਸਨ |
+  * **ਉਸ ਨੂੰ ਟੋਕਰੀ ਵਿਚ ਪਾ ਕੇ ਸ਼ਹਿਰ ਦੀ ਦੀਵਾਰ ਤੋਂ ਹੇਠਾਂ ਉਤਾਰ ਦਿੱਤਾ**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਇਕ ਵੱਡੀ ਟੋਕਰੀ ਵਿਚ ਬੈਠਣ ਲਈ ਉਸ ਦੀ ਮੱਦਦ ਕੀਤੀ ਅਤੇ ਉਸੇ ਸਮੇਤ ਉਸ ਨੂੰ ਸ਼ਹਿਰ ਦੀ ਦੀਵਾਰ ਦੇ ਹੇਠਾਂ ਉਤਾਰ ਦਿੱਤਾ|”
 **[[:pa:obs:notes:frames:46-06|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-08|>>]]**
