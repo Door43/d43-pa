@@ -1,22 +1,18 @@
-===== Paul Healed the Slave Girl [47-05] =====
+===== **ਪੌਲੂਸ ਗੁਲਾਮ ਕੁੜੀ ਨੂੰ ਠੀਕ ਕਰਦਾ** **[47-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?nolink&}}
 
-Finally **one day** when the **slave girl** started yelling, **Paul turned to her** and said to the **demon** that was in her, “**In the name of Jesus**, **come out of her**.” Right away the demon left her.
-===== Important Terms: =====
+ਆਖਰਕਾਰ, **ਇਕ** **ਦਿਨ** ਜਦੋਂ **ਗੁਲਾਮ** **ਕੁੜੀ** ਨੇ ਚਿਲਾਉਣਾ ਸ਼ੁਰੂ ਕੀਤਾ, **ਪੌਲੂਸ ਉਸ ਵੱਲ ਮੁੜਿਆ** ਅਤੇ ਭੂਤ ਨੂੰ ਕਿਹਾ ਜੋ ਉਸ ਦੇ ਵਿਚ ਸੀ, “**ਯਿਸੂ ਦੇ ਨਾਮ ਵਿਚ ਉਸ ਵਿਚੋਂ ਬਾਹਰ ਆ ਜਾਹ|”** ਉਸੇ ਸਮੇਂ ਉਸ ਨੇ ਉਸ ਨੂੰ ਛੱਡ ਦਿੱਤਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ**: =====
 
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:kt:demon]]**
-  * **[[:pa:obe:kt:jesus]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਗੁਲਾਮ ਕੁੜੀ  ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:demon|ਭੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **turned to her** - That is, "turned around and looked at her."
-  * **In the name of Jesus** - That is, "by the authority of Jesus." Because of Jesus' authority, Paul could command the demon to leave.
-  * **come out of her** - That is, "leave her" or, "go away from her."
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
+  * **ਉਸ ਵੱਲ ਮੁੜਿਆ**  – ਮਤਲਬ, “ਮੁੜਿਆ ਅਤੇ ਉਸ ਵੱਲ ਦੇਖਿਆ|”
+  * **ਯਿਸੂ ਦੇ ਨਾਮ ਵਿਚ**  – ਮਤਲਬ, “ਯਿਸੂ ਦੇ ਅਧਿਕਾਰ ਦੁਆਰਾ|” ਯਿਸੂ ਦੇ ਅਧਿਕਾਰ ਦੇ ਕਾਰਨ ਪੌਲੂਸ ਭੂਤ ਨੂੰ ਛੱਡ ਕੇ ਜਾਣ ਲਈ ਹੁਕਮ ਕਰ ਸਕਦਾ ਸੀ |
+  * **ਉਸ ਵਿਚੋਂ ਬਾਹਰ ਆ ਜਾਹ**  – ਮਤਲਬ, “ਉਸ ਨੂੰ ਛੱਡ” ਜਾਂ “ਉਸ ਤੋਂ ਦੂਰ ਚੱਲਿਆ ਜਾਹ”|
 **[[:pa:obs:notes:frames:47-04|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-06|>>]]**
