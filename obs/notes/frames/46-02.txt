@@ -1,18 +1,14 @@
-===== Saul Saw Jesus [46-02] =====
+===== **ਸੌਲੁਸ ਨੇ ਯਿਸੂ ਨੂੰ ਦੇਖਿਆ** **[46-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-02.jpg?nolink&}}
 
-While **Saul** was **on his way** to Damascus, a bright light from heaven shone all around him, and he fell to the ground. Saul heard someone say, “Saul! Saul! Why do you **persecute** me?” Saul asked, “Who are you, **Master**?” Jesus replied to him, “I am Jesus. You are persecuting me!”
-===== Important Terms: =====
+ਜਦੋਂ **ਸੌਲੁਸ** ਦਮਾਸਕੁਸ ਲਈ **ਆਪਣੇ ਮਾਰਗ ਵਿਚ** ਸੀ ਤਾਂ ਸਵਰਗ ਤੋਂ ਉਸ ਦੇ ਦੁਆਲੇ ਇਕ ਚਮਕੀਲੀ ਰੋਸ਼ਨੀ ਆਈ ਅਤੇ ਉਹ ਧਰਤੀ ਉੱਤੇ ਡਿੱਗ ਗਿਆ | ਸੌਲੁਸ ਨੇ ਕਿਸੇ ਨੂੰ ਇਹ ਕਹਿੰਦੇ ਸੁਣਿਆ, “ਸੌਲੁਸ! ਸੌਲੁਸ! ਕਿਉਂ ਤੂੰ ਮੈਨੂੰ **ਸਤਾਉਂਦਾ** ਹੈ?” ਸੌਲੁਸ ਨੇ ਪੁੱਛਿਆ, “**ਸਵਾਮੀ**, ਤੂੰ ਕੌਣ ਹੈ?” ਯਿਸੂ ਨੇ ਉਸ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਮੈਂ ਯਿਸੂ ਹਾਂ| ਤੂੰ ਮੈਨੂੰ ਸਤਾਉਂਦਾ ਹੈ!”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:persecute]]**
-  * **[[:pa:obe:kt:lord]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:persecute|ਸਤਾਉਣਾ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **on his way** - That is, "on his journey."
-
-
+  * **ਆਪਣੇ ਮਾਰਗ ਵਿਚ**  – ਮਤਲਬ, “ਆਪਣੀ ਯਾਤਰਾ ਤੇ|”
 **[[:pa:obs:notes:frames:46-01|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-03|>>]]**
