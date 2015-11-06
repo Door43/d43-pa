@@ -1,23 +1,19 @@
-===== Lydia Was Baptized [47-02] =====
+===== **ਲਿਦੀਆ ਨੂੰ ਬਪਤਿਸਮਾ ਦਿੱਤਾ** **[47-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?nolink&}}
 
-**God opened Lydia's heart** to **believe** the message about **Jesus**, and **she and her family were baptized**. She invited **Paul** and **Silas** to stay at her house, **so they stayed with her and her family**.
-===== Important Terms: =====
+**ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਲਿਦੀਆ ਦੇ ਮਨ ਨੂੰ ਖੋਲਿਆ** ਕਿ ਉਹ ਯਿਸੂ ਦੇ ਸੰਦੇਸ਼ ਉੱਤੇ  **ਵਿਸ਼ਵਾਸ** **ਕਰੇ** ਅਤੇ ਉਹ **ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਨੂੰ ਬਪਤਿਸਮਾ ਦਿੱਤਾ |** ਉਸ ਨੇ **ਪੌਲੂਸ** ਅਤੇ **ਸਿਲਾਸ** ਨੂੰ ਆਪਣੇ ਘਰ ਠਹਿਰਨ ਲਈ ਸੱਦਾ ਦਿੱਤਾ **ਇਸ ਲਈ ਉਹ ਉਸ ਦੇ ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਨਾਲ ਰਹੇ |**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:baptize]]**
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:silas]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ ਦਿੱਤਾ ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:silas|ਸਿਲਾਸ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **opened Lydia's heart** - That is, "enabled Lydia."
-  * **she and her family were baptized** - This can also be translated as, "they baptized Lydia and her family."
-  * **so they stayed with her and her family** - This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement.
-
-
+  * **ਲਿਦੀਆ ਦੇ ਮਨ ਨੂੰ ਖੋਲਿਆ**  – ਮਤਲਬ, “ਲਿਦੀਆ ਨੂੰ ਯੋਗ ਬਣਾਇਆ”|
+  * **ਉਹ ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਨੂੰ ਬਪਤਿਸਮਾ ਦਿੱਤਾ – ** ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹਨਾਂ ਨੇ ਲਿਦੀਆ ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਨੂੰ ਬਪਤਿਸਮਾ ਦਿੱਤਾ|”
+  * **ਇਸ ਲਈ ਉਹ ਉਸ ਦੇ ਅਤੇ ਉਸਦੇ ਪਰੀਵਾਰ ਦੇ ਨਾਲ ਰਹੇ**  –ਉਹਨਾਂ ਦਿਨਾਂ ਵਿਚ ਇਹ ਇਕ ਆਮ ਰਿਵਾਜ ਸੀ ਕਿ ਲੋਕ ਰਾਹੀਆਂ ਦੀ ਮਹਿਮਾਨ ਨਿਵਾਜੀ ਕਰਦੇ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਘਰਾਂ ਵਿਚ ਰੱਖਦੇ | ਇਸ ਪ੍ਰਬੰਧ ਵਿਚ ਕੋਈ ਵੀ ਅਨੈਤਿਕ ਉਦੇਸ਼ ਨਹੀਂ ਹੁੰਦਾ ਸੀ |
 **[[:pa:obs:notes:frames:47-01|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-03|>>]]**
