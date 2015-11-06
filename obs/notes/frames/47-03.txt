@@ -1,23 +1,19 @@
-===== The Slave Girl [47-03] =====
+===== **ਇਕ ਗੁਲਾਮ ਕੁੜੀ** **[47-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?nolink&}}
 
-**Paul** and **Silas** often met with people at the place of **prayer**. Every day as they walked there, a **slave girl possessed by a demon** followed them. By means of this **demon** she predicted the future for people, so she made a lot of money for **her masters as a fortuneteller**.
-===== Important Terms: =====
+**ਪੌਲੂਸ** ਅਤੇ **ਸਿਲਾਸ** ਆਮ ਤੌਰ ਤੇ ਲੋਕਾਂ ਨਾਲ **ਪ੍ਰਾਰਥਨਾਂ** ਦੀ ਜਗ੍ਹਾ ਤੇ ਮਿਲਦੇ | ਹਰ ਜਿਵੇਂ ਹੀ ਉਹ ਉਸ ਜਗ੍ਹਾ ਲਈ ਜਾਂਦੇ ਇਕ **ਗੁਲਾਮ ਕੁੜੀ ਜੋ ਭੂਤਾਂ ਨਾਲ ਭਰੀ ਹੋਈ ਸੀ** ਉਹਨਾਂ ਦੇ ਪਿੱਛੇ ਆਉਂਦੀ | ਇਹਨਾਂ **ਭੂਤਾਂ** ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਉਹ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਭਵਿੱਖ ਬਾਰੇ ਦੱਸਦੀ, ਇਸ ਤਰਾਂ ਉਹ ਆਪਣੇ **ਮਾਲਕ ਲਈ** ਬਹੁਤ ਸਾਰੇ ਪੈਸੇ ਕਮਾ ਲੈਂਦੀ **ਇਕ ਭਵਿੱਖ ਬਕਤਾ ਦੇ ਵਜੋਂ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:silas]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:demonpossessed]]**
-  * **[[:pa:obe:kt:demon]]**
-  * **[[:pa:obe:kt:lord]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]] **
+  * **[[:pa:obs:notes:key-terms:silas|ਸਿਲਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:pray|ਪ੍ਰਾਰਥਨਾਂ ]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਗੁਲਾਮ ਕੁੜੀ]] **
+  * **[[:pa:obs:notes:key-terms:demonpossessed|ਭੂਤਾਂ ਨਾਲ ਭਰੀ ਹੋਈ ]]**
+  * **[[:pa:obs:notes:key-terms:demon|ਭੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **her masters**  - In this case, this could also be translated as, "her owners."
+  * **as a fortuneteller**  - That is, "as someone who told people what would happen to them in the future."
 **[[:pa:obs:notes:frames:47-02|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-04|>>]]**
