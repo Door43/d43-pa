@@ -1,16 +1,13 @@
-===== The Ethiopian Went Home [45-13] =====
+===== **ਇਥੋਪੀਆ ਦਾ ਬੰਦਾ ਆਪਣੇ ਘਰ ਚਲਾ ਗਿਆ** **[45-13] **  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-13.jpg?nolink&}}
 
-The Ethiopian continued traveling toward his home, happy that he knew **Jesus**.
-===== Important Terms: =====
+ਇਥੋਪੀਆ ਦਾ ਬੰਦਾ ਆਪਣੇ ਘਰ ਵੱਲ ਖੁਸ਼ੀ ਨਾਲ ਜਾ ਰਿਹਾ ਸੀ ਕਿ ਉਹ ਯਿਸੂ ਨੂੰ ਜਾਣ ਗਿਆ ਸੀ |
 
-  * **[[:pa:obe:kt:jesus]]**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * //ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ//  – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:45-12|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:46-01|>>]]**
