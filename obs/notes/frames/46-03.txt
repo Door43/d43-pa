@@ -1,16 +1,14 @@
-===== Saul Became Blind [46-03] =====
+===== **ਸੌਲੁਸ ਅੰਨਾ ਹੋ ਗਿਆ** **[46-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-03.jpg?nolink&}}
 
-When **Saul** got up, he could not see. His friends had to lead him into Damascus. Saul did not eat or drink anything for three days.
-===== Important Terms: =====
+ਜਦੋਂ **ਸੌਲੁਸ** ਨੂੰ ਪਤਾ ਲੱਗਾ ਕਿ ਉਹ ਦੇਖ ਨਹੀਂ ਸਕਦਾ | ਉਸ ਦੇ ਮਿੱਤਰਾਂ ਨੇ ਦਮਾਸਕੁਸ ਜਾਣ ਲਈ ਉਸ ਦੀ ਅਗੁਵਾਈ ਕੀਤੀ | ਸੌਲੁਸ ਨੇ ਤਿੰਨ ਦਿਨ ਕੁੱਝ ਵੀ ਨਾ ਖਾਧਾ ਅਤੇ ਪਿਤਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
 
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਵੀ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:46-02|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-04|>>]]**
