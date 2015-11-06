@@ -1,18 +1,14 @@
-===== The Jailer [47-10] =====
+===== **ਦਰੋਗਾ** **[47-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?nolink&}}
 
-**The jailer** woke up, and when he saw that the prison doors were open, he was terrified! He thought all the prisoners had escaped, so he planned to kill himself. (He knew the **Roman authorities** would kill him if he allowed the prisoners to escape.) But **Paul** saw him and yelled, “Stop! Do not hurt yourself. **We** are all here.”
-===== Important Terms: =====
+**ਦਰੋਗਾ** ਜਾਗਿਆ ਅਤੇ ਜਦੋਂ ਉਸ ਨੇ ਦੇਖਿਆ ਕਿ ਜੇਲ ਦੇ ਦਰਵਾਜੇ ਖੁੱਲੇ ਹਨ ਤਾਂ ਉਹ ਬਹੁਤ ਡਰ ਗਿਆ! ਉਸ ਨੇ ਸੋਚਿਆ ਕਿ ਸਾਰੇ ਕੈਦੀ ਭੱਜ ਗਏ ਹਨ ਇਸ ਲਈ ਉਸ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਮਾਰਨ ਦੀ ਯੋਜਨਾ ਬਣਾਈ | (ਉਹ ਜਾਣਦਾ ਸੀ ਕਿ **ਰੋਮੀ ਅਧਿਕਾਰੀ** ਉਸ ਨੂੰ ਮਾਰ ਦੇਣਗੇ ਜੇ ਉਹ ਕੈਦੀਆਂ ਨੂੰ ਬਚ ਨਿੱਕਲਣ ਦੀ ਮਨਜੂਰੀ ਦੇਵੇਗਾ|) ਪਰ **ਪੌਲੂਸ** ਨੇ ਦੇਖਿਆ ਅਤੇ ਚਿਲਾਇਆ, “ਰੁੱਕ! ਆਪਣੇ ਆਪ ਨੂੰ ਹਾਨੀ ਨਾ ਪਹੁੰਚਾ | **ਅਸੀਂ** ਸਾਰੇ ਇੱਥੇ ਹਾਂ |”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:rome]]**
-  * **[[:pa:obe:other:paul]]**
+  * **[[:pa:obs:notes:key-terms:rome|ਰੋਮੀ ਅਧਿਕਾਰੀ]] **
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **The jailer** - That is, "the official in charge of the jail."
-  * **We** - Some languages have a special form of the word "we" which does not include the person being talked to. Here the "we" does not include the jailer, only Paul and the rest of the prisoners.
-
-
+  * **ਦਰੋਗਾ**  –ਮਤਲਬ, “ਜੇਲ ਦਾ ਅਧਿਕਾਰੀ ਅਫਸਰ|”
+  * **ਅਸੀਂ – ** ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਸ਼ਬਦਾਂ ਦਾ ਇਕ ਅੱਲਗ ਬਣਤਰ ਹੈ, “ਅਸੀਂ” ਜਿਸ ਵਿਚ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਸ਼ਾਮਲ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਜਿਸ ਨਾਲ ਗੱਲ ਹੋ ਰਹੀ ਹੈ| ਇੱਥੇ “ਅਸੀਂ” ਵਿਚ ਦਰੋਗਾ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ, ਸਿਰਫ ਪੌਲੂਸ ਅਤੇ ਬਾਕੀ ਦੇ ਕੈਦੀ ਹਨ |
 **[[:pa:obs:notes:frames:47-09|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-11|>>]]**
