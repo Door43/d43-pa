@@ -1,24 +1,20 @@
-===== Saul Arrested the Believers [46-01] =====
+===== **ਸੌਲੁਸ ਨੇ ਵਿਸ਼ਵਾਸੀਆਂ ਨੂੰ ਕੈਦ ਵਿਚ ਪਾਇਆ** **[46-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-01.jpg?nolink&}}
 
-**Saul** was the young man who **guarded the robes of the men who killed Stephen**. He did not **believe** in **Jesus**, and so he **persecuted** the **believers**. He went **from house to house** in **Jerusalem** to arrest both men and women and to put them in prison. The **high priest** gave Saul permission to go to the city of **Damascus** to arrest Christians there and to bring them back to Jerusalem.
-===== Important Terms: =====
+**ਸੌਲੁਸ** ਇਕ ਨੌਜਵਾਨ ਸੀ ਜਿਸ ਨੇ ਉਹਨਾਂ **ਲੋਕਾਂ ਦੇ ਕਪੜਿਆਂ ਦੀ ਰਾਖੀ ਕੀਤੀ ਜਿਹਨਾਂ ਨੇ ਇਸਤੀਫਾਨ ਨੂੰ ਮਾਰਿਆ ਸੀ |** ਉਸ ਨੇ **ਯਿਸੂ** ਵਿਚ **ਵਿਸ਼ਵਾਸ** ਨਹੀਂ ਕੀਤਾ ਅਤੇ ਇਸ ਲਈ ਉਸ ਨੇ ਵਿਸ਼ਵਾਸੀਆਂ ਨੂੰ **ਸਤਾਇਆ** | ਉਹ ਮਰਦਾਂ, ਔਰਤਾਂ ਅਤੇ ਬੱਚਿਆਂ ਨੂੰ ਜੇਲ ਵਿਚ ਪਾਉਣ ਲਈ **ਯਰੂਸ਼ਲਮ** ਵਿਚ ਉਹਨਾਂ ਨੂੰ ਫੜਨ ਲਈ **ਘਰ ਘਰ ਗਿਆ** | ਮਹਾਂ ਜਾਜਕ ਨੇ ਸੌਲੁਸ ਨੂੰ ਮਨਜੂਰੀ ਦਿੱਤੀ ਸੀ ਕਿ ਉਹ ਮਸੀਹੀਆਂ ਨੂੰ ਫੜਨ ਲਈ ਦਮਾਸਕੁਸ ਦੇ ਸ਼ਹਿਰ ਨੂੰ ਜਾਵੇ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਯਰੂਸ਼ਲਮ ਵਿਚ ਵਾਪਸ ਲੈ ਕੇ ਆਵੇ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:persecute]]**
-  * **[[:pa:obe:kt:believer]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:kt:highpriest]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:persecute|ਸਤਾਇਆ]]**
+  * **[[:pa:obs:notes:key-terms:believer|ਵਿਸ਼ਵਾਸੀ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ]]**
+  * **[[:pa:obs:notes:key-terms:highpriest|ਮਹਾਂ ਜਾਜਕ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **guarded the robes of the men who killed Stephen** - See **[[:pa:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **ਉਹਨਾਂ ਲੋਕਾਂ ਦੇ ਕਪੜਿਆਂ ਦੀ ਰਾਖੀ ਕੀਤੀ ਜਿਹਨਾਂ ਨੇ ਇਸਤੀਫਾਨ ਨੂੰ ਮਾਰਿਆ ਸੀ - [45-06] ਨੂੰ ਦੇਖੋ |**
+  * **ਘਰੋ ਘਰ**  – ਮਤਲਬ, “ਬਹੁਤ ਘਰਾਂ ਵਿਚ|”
+  * **ਦਮਾਸਕੁਸ **– ਦਮਾਸਕੁਸ ਹੁਣ ਸੀਰੀਆ ਦੀ ਰਾਜਧਾਨੀ ਹੈ | ਸੌਲੁਸ ਦੇ ਦਿਨਾਂ ਵਿਚ ਇਹ ਸ਼ਹਿਰ ਰੋਮੀ ਸਾਮਰਾਜ ਦਾ ਹਿੱਸਾ ਸੀ | ਉੱਥੇ ਜਿਆਦਾ ਤਰ ਲੋਕ ਯਹੂਦੀ ਨਹੀਂ ਸਨ, ਪਰ ਕੁੱਝ ਯਹੂਦੀ ਸਨ ਅਤੇ ਕੁੱਝ ਮਸੀਹੀ ਵੀ ਰਹਿੰਦੇ ਸਨ |
 **[[:pa:obs:notes:frames:45-13|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-02|>>]]**
