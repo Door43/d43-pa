@@ -1,23 +1,19 @@
-===== Saul Preached about Jesus [46-06] =====
+===== **ਸੌਲੁਸ ਨੇ ਯਿਸੂ ਬਾਰੇ ਪ੍ਰਚਾਰ ਕੀਤਾ** **[46-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-06.jpg?nolink&}}
 
-**Right away**, **Saul** began **preaching** to the **Jews** in Damascus, saying, “**Jesus** is the **Son of God**!” The Jews were amazed that the man who had tried to destroy the **believers** now also believed in Jesus! Saul **reasoned with the Jews**, proving that Jesus was the **Messiah**.
-===== Important Terms: =====
+**ਉਸੇ** **ਸਮੇਂ**, **ਸੌਲੁਸ** ਨੇ **ਯਹੂਦੀਆਂ** ਨੂੰ ਯਿਸੂ ਬਾਰੇ **ਪ੍ਰਚਾਰ** ਕਰਨਾ ਸ਼ੁਰੂ ਕੀਤਾ ਇਹ ਕਹਿੰਦੇ ਹੋਏ, “**ਯਿਸੂ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈ!”** ਯਹੂਦੀ ਇਸ ਨੂੰ ਦੇਖ ਕੇ ਬਹੁਤ ਹੈਰਾਨ ਹੋਏ ਕਿ ਜੋ **ਵਿਸ਼ਵਾਸੀਆਂ** ਨੂੰ ਤਬਾਹ ਕਰਨ ਕਿ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਸੀ ਹੁਣ ਉਹ ਵੀ ਯਿਸੂ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਦਾ ਹੈ! ਸੌਲੁਸ ਨੇ **ਯਹੂਦੀਆਂ** **ਨਾਲ ਤਰਕ ਕੀਤੀ** ਇਹ ਸਾਬਤ ਕਰਨ ਲਈ ਕਿ ਯਿਸੂ ਹੀ **ਮਸੀਹ** ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:believer]]**
-  * **[[:pa:obe:kt:christ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕਰਦਾ]] **
+  * **[[:pa:obs:notes:key-terms:jew|ਯਹੂਦੀ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:sonofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ]]**
+  * **[[:pa:obs:notes:key-terms:believer|ਵਿਸ਼ਵਾਸੀ]]**
+  * **[[:pa:obs:notes:key-terms:christ|ਮਸੀਹਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **Right away** - This can also be translated as, "Immediately" or, "Then."
-  * **reasoned with the Jews** - This could also be translated as, "gave the Jews good reasons for believing in Jesus" or, "spoke persuasively with the Jews."
-
-
+  * **ਉਸੇ ਸਮੇਂ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਦਮ” ਜਾਂ “ਤੱਦ”
+  * **ਯਹੂਦੀਆਂ ਨਾਲ ਤਰਕ ਕੀਤੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਯਿਸੂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕਰਨ ਲਈ ਯਹੂਦੀਆਂ ਨੂੰ ਚੰਗੀਆਂ ਦਲੀਲਾਂ ਦਿੱਤੀਆਂ” ਜਾਂ “ਯਹੂਦੀਆਂ ਨਾਲ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਤਰੀਕੇ ਨਾਲ ਬੋਲਿਆ|”
 **[[:pa:obs:notes:frames:46-05|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-07|>>]]**
