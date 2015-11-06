@@ -1,23 +1,19 @@
-===== The Good News Spreads [47-13] =====
+===== **ਖੁਸ਼ ਖਬਰੀ ਫੈਲਦੀ ਹੈ** **[47-13]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?nolink&}}
 
-The next day **the leaders of the city** released **Paul** and **Silas** from prison and asked them to leave **Philippi**. Paul and Silas visited **Lydia** and some other friends and then left the city. **The good news about Jesus kept spreading**, and **the Church kept growing**.
-===== Important Terms: =====
+ਅਗਲੇ ਦਿਨ **ਸ਼ਹਿਰ ਦੇ ਆਗੂ** **ਪੌਲੂਸ** ਅਤੇ **ਸਿਲਾਸ** ਨੂੰ ਜੇਲ ਵਿਚੋਂ ਅਜਾਦ ਕਰਦੇ ਅਤੇ ਉਹਨਾਂ ਨੂੰ **ਫਿਲਿਪੀ** ਛੱਡਣ ਲਈ ਕਹਿੰਦੇ | ਪੌਲੂਸ ਅਤੇ ਸਿਲਾਸ **ਲਿਦੀਆਂ** ਅਤੇ ਕੁੱਝ ਮਿੱਤਰਾਂ ਨੂੰ ਮਿਲੇ ਅਤੇ ਸ਼ਹਿਰ ਨੂੰ ਛੱਡ ਦਿੱਤਾ | **ਯਿਸੂ ਬਾਰੇ ਖੁਸ਼ ਖਬਰੀ ਫੈਲਦੀ ਗਈ ਅਤੇ ਕਲੀਸੀਆ ਵਧਦੀ ਗਈ |**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:silas]]**
-  * **[[:pa:obe:other:philippi]]**
-  * **[[:pa:obe:kt:goodnews]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:church]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:silas|ਸਿਲਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:philippi|ਫਿਲਿਪੀ]] **
+  * **[[:pa:obs:notes:key-terms:goodnews|ਖੁਸ਼ ਖਬਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:church|ਕਲੀਸੀਆ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the leaders of the city** - This refers to, "the officials of the city" or, "the authorities of the city."
-  * **The good news about Jesus kept spreading** - That is, "People in more and more places were hearing the good news about Jesus."
-  * **the Church kept growing** - That is, "more and more people were becoming part of the Church" or, "more and more people were believing in Jesus."
-
-
+  * **ਸ਼ਹਿਰ ਦੇ ਆਗੂ**  – ਇਹ “ਸ਼ਹਿਰ ਦੇ ਅਫਸਰਾਂ” ਜਾਂ “ਸ਼ਹਿਰ ਦੀ ਅਧਿਕਾਰੀਆਂ” ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ|
+  * **ਯਿਸੂ ਬਾਰੇ ਖੁਖ ਖਬਰੀ ਫੈਲਦੀ ਗਈ**  – ਮਤਲਬ, “ਲੋਕ ਹੋਰ ਹੋਰ ਜਗ੍ਹਾਵਾਂ ਤੇ ਯਿਸੂ ਬਾਰੇ ਖੁਸ਼ ਖਬਰੀ ਸੁਣ ਰਹੇ ਸਨ|”
+  * **ਕਲੀਸੀਆ ਵੱਧਦੀ ਗਈ**  – ਮਤਲਬ, “ਹੋਰ ਜਿਆਦਾ ਲੋਕ ਕਲੀਸੀਆ ਦੇ ਭਾਗ ਬਣਦੇ ਜਾ ਰਹੇ ਸਨ” ਜਾਂ “ਹੋਰ ਜਿਆਦਾ ਲੋਕ ਯਿਸੂ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਦੇ ਸਨ|”
 **[[:pa:obs:notes:frames:47-12|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-14|>>]]**
