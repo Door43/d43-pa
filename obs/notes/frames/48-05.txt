@@ -1,20 +1,16 @@
-===== A Way of Salvation [48-05] =====
+===== **ਮੁਕਤੀ ਦਾ ਇਕ ਰਾਹ** **[48-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-05.jpg?nolink&}}
 
-When **God** destroyed the whole earth by the flood, he provided the boat to **save** the people who **believed** in him. In the same way, everyone deserves to be **destroyed because of their sins**, but God provided **Jesus** to save everyone who believes in him.
-===== Important Terms: =====
+ਜਦੋਂ **ਪ੍ਰਮੇਸ਼ਵਰ** ਨੇ ਜਲ ਪਰਲੋ ਦੁਆਰਾ ਸਾਰੀ ਧਰਤੀ ਨੂੰ ਤਬਾਹ ਕੀਤਾ ਤਾਂ ਉਸਨੇ ਜੋ ਲੋਕ ਉਸ ਉੱਤੇ **ਵਿਸ਼ਵਾਸ** **ਕਰਦੇ** ਸਨ ਉਹਨਾਂ ਨੂੰ **ਬਚਾਉਣ** ਲਈ ਇਕ ਕਿਸ਼ਤੀ ਦਿੱਤੀ | ਉਸ ਤਰਾਂ, ਹਰ ਇਕ **ਆਪਣੇ ਪਾਪ ਦੇ ਕਾਰਨ ਤਬਾਹ ਹੋਣ ਦਾ ਹੱਕਦਾਰ ਹੈ**, ਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ **ਯਿਸੂ** ਪ੍ਰਦਾਨ ਕੀਤਾ ਕਿ ਉਸ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕਰਨ ਵਾਲ ਹਰ ਇਕ ਬਚਾਇਆ ਜਾਵੇ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:jesus]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਉਣਾ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ਕੀਤਾ]] **
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **destroyed because of their sins** - This could also be translated as, "everyone should be punished eternally by God because they have sinned."
-
-
+  * **ਉਹਨਾਂ ਦੇ ਪਾਪਾਂ ਦੇ ਕਾਰਨ ਤਬਾਹ ਕੀਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਹਰ ਇਕ ਅਨੰਤ ਕਾਲ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਕੋਲੋਂ ਸਜਾ ਦਾ ਹੱਕਦਾਰ ਹੈ ਕਿਉਕਿ ਉਹਨਾਂ ਨੇ ਪਾਪ ਕੀਤਾ ਹੈ|”
 **[[:pa:obs:notes:frames:48-04|<<]] | [[:pa:obs:notes:48|Up]] | [[:pa:obs:notes:frames:48-06|>>]]**
