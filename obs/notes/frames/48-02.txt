@@ -1,22 +1,18 @@
-===== Adam and Eve Sinned [48-02] =====
+===== **ਆਦਮ ਅਤੇ ਹਵਾ ਨੇ ਪਾਪ ਕੀਤਾ** **[48-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-02.jpg?nolink&}}
 
-**Satan** spoke through the snake in **the garden** in order to **deceive Eve**. Then she and **Adam sinned** against **God**. Because they sinned, everyone on earth gets sick and everyone **dies**.
-===== Important Terms: =====
+**ਸ਼ੈਤਾਨ** **ਬਾਗ** ਵਿਚ ਸੱਪ ਦੁਆਰਾ ਹਵਾ ਨਾਲ ਬੋਲਿਆ ਕਿ **ਹਵਾ ਨੂੰ ਧੋਖਾ** ਦੇਵੇ | ਤੱਦ ਉਸ ਨੇ ਅਤੇ **ਆਦਮ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਵਿਰੁਧ ਪਾਪ ਕੀਤਾ** | ਕਿਉਂਕਿ ਉਹਨਾਂ ਨੇ ਪਾਪ ਕੀਤਾ, ਇਸ ਲਈ ਧਰਤੀ ਉੱਤੇ ਹਰ ਇਕ ਬੀਮਾਰ ਹੁੰਦਾ ਅਤੇ **ਮਰਦਾ** ਹੈ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:other:eve]]**
-  * **[[:pa:obe:other:adam]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:death]]**
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:eve|ਹਵਾ]]**
+  * **[[:pa:obs:notes:key-terms:adam|ਆਦਮ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ ਕੀਤਾ]] **
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮਰਦੇ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the garden** - This refers to the garden created by God where he placed the first man and woman.
-  * **deceive Eve** - That is, "lie to Eve." Satan lied by leading Eve to doubt what God had said. By doing this, he tricked her into disobeying God.
-
-
+  * **ਬਾਗ **– ਉਹ ਉਸ ਬਾਗ ਬਾਰੇ ਗੱਲ ਕਰਦਾ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਰੱਚਿਆ ਸੀ ਜਿੱਥੇ ਉਸਨੇ ਪਹਿਲੇ ਮਰਦ ਅਤੇ ਔਰਤ ਨੂੰ ਰੱਖਿਆ ਸੀ |
+  * **ਹਵਾ ਨੂੰ ਧੋਖਾ ਦੇਵੇ**  – ਮਤਲਬ, “ਹਵਾ ਨਾਲ ਝੂਠ ਬੋਲੇ”| ਜੋ ਕੁੱਝ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਕਿਹਾ ਸੀ ਉਸ ਬਾਰੇ ਹਵਾ ਨੂੰ ਸ਼ੱਕ ਵਿਚ ਪਾਉਂਦੇ ਹੋਏ ਸ਼ੈਤਾਨ ਨੇ ਝੂਠ ਬੋਲਿਆ | ਇਸ ਤਰਾਂ ਕਰਦੇ ਹੋਏ ਉਸ ਨੇ ਹਵਾ ਨੂੰ ਧੋਖਾ ਦਿੱਤਾ ਕਿ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਅਣ-ਆਗਿਆਕਾਰੀ ਕਰੇ |
 **[[:pa:obs:notes:frames:48-01|<<]] | [[:pa:obs:notes:48|Up]] | [[:pa:obs:notes:frames:48-03|>>]]**
