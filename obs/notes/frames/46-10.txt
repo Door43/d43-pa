@@ -1,31 +1,27 @@
-===== Barnabas and Saul [46-10] =====
+===== **ਬਰਨਾਬਾਸ ਅਤੇ ਸੌਲੁਸ** **[46-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-10.jpg?nolink&}}
 
-**One day**, while the Christians at Antioch were **fasting** and **praying**, the **Holy Spirit** said to them, “**Set apart for me Barnabas and Saul to do the work I have called them to do**.” So **the church** in Antioch **prayed** for **Barnabas** and **Saul** and **placed their hands on them**. Then they **sent them out** to **preach** the **good news** about **Jesus** in many other places. Barnabas and Saul taught people from different people groups, and many people **believed** in Jesus.
-===== Important Terms: =====
+**ਇਕ** **ਦਿਨ** , ਜਦੋਂ ਅੰਤਾਕੀਆ ਵਿਚ ਮਸੀਹੀ ਲੋਕ **ਵਰਤ** ਅਤੇ **ਪ੍ਰਾਰਥਨਾਂ** ਕਰਦੇ ਸਨਾ ਤਾਂ **ਪਵਿੱਤਰ** **ਆਤਮਾ** ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, “**ਮੇਰੇ ਲਈ ਬਰਨਾਬਾਸ ਅਤੇ ਸੌਲੁਸ ਨੂੰ ਅੱਲਗ ਕਰੋ ਕਿ ਉਹ ਕੰਮ ਕਰਨ ਜਿਸ ਨੂੰ  ਕਰਨ ਲਈ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੈ |”** ਇਸ ਲਈ ਅੰਤਾਕੀਆ ਦੀ **ਕਲੀਸੀਆ** ਨੇ **ਬਰਨਾਬਾਸ** ਅਤੇ **ਸੌਲੁਸ** ਉੱਤੇ **ਹੱਥ ਰੱਖੇ ਅਤੇ ਉਹਨਾਂ ਲਈ ਪ੍ਰਾਰਥਨ ਕੀਤੀ |** ਤੱਦ ਉਹਨਾਂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਯਿਸੂ ਬਾਰੇ **ਖੁਸ਼** **ਖਬਰੀ** ਦਾ **ਪ੍ਰਚਾਰ** ਕਰਨ ਲਈ ਦੂਸਰੀਆਂ ਜਗ੍ਹਾਵਾਂ ਤੇ **ਭੇਜਿਆ** | ਬਰਨਾਬਾਸ ਅਤੇ ਸੌਲੁਸ ਨੇ ਅੱਲਗ ਅੱਲਗ ਲੋਕਾਂ ਦੇ ਝੁੰਡਾਂ ਨੂੰ ਸਿੱਖਾਇਆ ਅਤੇ ਬਹੁਤ ਲੋਕਾਂ ਨੇ ਯਿਸੂ ਵਿਚ **ਵਿਸ਼ਵਾਸ** **ਕੀਤਾ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:fast]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:holyspirit]]**
-  * **[[:pa:obe:kt:church]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:other:barnabas]]**
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:goodnews]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:believe]]**
+  * **[[:pa:obs:notes:key-terms:fast|ਵਰਤ]] **
+  * **[[:pa:obs:notes:key-terms:pray|ਪ੍ਰਾਰਥਨਾਂ]]**
+  * **[[:pa:obs:notes:key-terms:holyspirit|ਪਵਿੱਤਰ ਆਤਮਾ]]**
+  * **[[:pa:obs:notes:key-terms:church|ਕਲੀਸੀਆ]]**
+  * **[[:pa:obs:notes:key-terms:pray|ਪ੍ਰਾਰਥਨਾਂ ਕੀਤੀ]]**
+  * **[[:pa:obs:notes:key-terms:barnabas|ਬਰਨਾਬਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ]]**
+  * **[[:pa:obs:notes:key-terms:goodnews|ਖੁਸ਼ ਖਬਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Set apart for me …** - This sentence could also be translated as, "Appoint Paul and Barnabas to do the special work I have chosen them to do."
-  * **the church** - This could also be translated as, "the believers" or, "the Christians."
-  * **placed their hands on them** - This could also be translated as, "blessed them with the power and authority of the Holy Spirit by putting their hands on them" or, "put their hands on them as a sign of their unity in the Spirit." Some languages may have to say where they placed their hands. If so, you could say they placed their hands on their head, shoulder or back.
-  * **sent them out ** - That is, "sent them away" or, "sent them on their journey."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ਇਕ ਦਿਨ**  –ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਹੋਈ ਨਾ ਕਿ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਬਿਆਨ ਕਰਦਾ ਹੈ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਾਣੀ ਦੱਸਣ ਨੂੰ ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ |
+  * **ਮੇਰੇ ਲਈ ਅਲੱਗ ਕਰੋ**  – ਇਸ ਵਾਕ ਨੂੰ ਵੀ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਬਰਨਾਬਾਸ ਅਤੇ ਸੌਲੁਸ ਨੂੰ ਮੇਰੇ ਖਾਸ ਕੰਮ ਲਈ ਠਹਿਰਾਓ ਜੋ ਕਰਨ ਲਈ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਚੁਣਿਆ ਹੈ|”
+  * **ਕਲੀਸੀਆ**  –ਇਸ ਦਾ ਅਨੁਵਾਦ ਵੀ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਵਿਸ਼ਵਾਸੀ” ਜਾਂ “ਮਸੀਹੀ”|
+  * **ਉਹਨਾਂ ਉੱਤੇ ਹੱਥ ਰੱਖੇ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹਨਾਂ ਨੂੰ ਪਵਿੱਤਰ ਆਤਮਾ ਦੀ ਸ਼ਕਤੀ ਅਤੇ ਅਧਿਕਾਰ ਨਾਲ ਉਹਨਾਂ ਉੱਤੇ ਆਪਣੇ ਹੱਥ ਰੱਖਦੇ ਹੋਏ ਬਰਕਤ ਦਿੱਤੀ” ਜਾਂ “ਆਤਮਾ  ਵਿਚ ਏਕਤਾ ਦੀ ਨਿਸ਼ਾਨੀ ਵਜੋਂ ਉਹਨਾਂ ਉੱਤੇ ਹੱਥ ਰੱਖੇ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ ਕਿ ਜਿੱਥੇ ਉਹਨਾਂ ਉੱਤੇ ਹੱਥ ਰੱਖੇ | ਅਗਰ ਐਸਾ ਹੈ ਤਾਂ ਤੁਸੀਂ ਕਹਿ ਸਕਦੇ ਸੀ ਕਿ ਉਹਨਾਂ ਨੇ ਉਹਨਾਂ ਦੇ ਸਿਰਾਂ, ਮੋਢਿਆਂ ਜਾਂ ਪਿਠ ਉੱਤੇ ਹੱਥ ਰੱਖੇ |
+  * **ਉਹਨਾਂ ਨੂੰ ਭੇਜ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਨੂੰ ਦੂਰ ਭੇਜ ਦਿੱਤਾ’ ਜਾਂ “ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੀ ਯਾਤਰਾ ਤੇ ਭੇਜ ਦਿੱਤਾ|”
+  * //ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ//  – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:46-09|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:47-01|>>]]**
