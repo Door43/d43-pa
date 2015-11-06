@@ -1,18 +1,14 @@
-===== Here Is Water [45-11] =====
+===== **ਇੱਥੇ ਪਾਣੀ ਹੈ** **[45-11]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-11.jpg?nolink&}}
 
-As Philip and the Ethiopian traveled, they came to **some water**. The Ethiopian said, “Look! There is some water! **May I be baptized**?” And he told the driver to stop the **chariot**.
-===== Important Terms: =====
+ਜਿਵੇਂ ਹੀ ਫਿਲਿੱਪ ਅਤੇ ਇਥੋਪੀਆ ਦਾ ਬੰਦਾ ਯਾਤਰਾ ਕਰ ਰਹੇ ਸਨ ਉਹ **ਪਾਣੀ** ਦੇ ਨੇੜੇ ਪਹੁੰਚੇ| ਇਥੋਪੀਆ ਦੇ ਬੰਦੇ ਨੇ ਕਿਹਾ, “ਦੇਖ! ਉੱਥੇ ਕੁੱਝ ਪਾਣੀ ਹੈ! **ਕੀ ਮੈਂ ਬਪਤਿਸਮਾ ਲਿਆ ਸਕਦਾ ਹਾਂ ?”** ਅਤੇ ਉਸ ਨੇ ਚਾਲਕ ਨੂੰ **ਰਥ** ਰੋਕਣ ਲਈ ਕਿਹਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:baptize]]**
-  * **[[:pa:obe:other:chariot]]**
+  * **[[:pa:obs:notes:key-terms:baptize|ਬਪਤਿਸਮਾ ਲੈਣਾ]] **
+  * **[[:pa:obs:notes:key-terms:chariot|ਰਥ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **some water** - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **May I be baptized?** - This could also be translated as, "Is there any reason that I cannot be baptized?"
-
-
+  * **some water**  - Use a term that means a larger body of water such as a pond, lake, or stream.
+  * **May I be baptized?**  - This could also be translated as, "Is there any reason that I cannot be baptized?"
 **[[:pa:obs:notes:frames:45-10|<<]] | [[:pa:obs:notes:45|Up]] | [[:pa:obs:notes:frames:45-12|>>]]**
