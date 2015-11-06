@@ -1,24 +1,20 @@
-===== The Perfect Creation [48-01] =====
+===== ਸਿੱਧ ਰਚਨਾ **[48-01**] =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-01.jpg?nolink&}}
 
-When **God created the world**, everything was **perfect**. **There was no sin**. **Adam** and **Eve** loved each other, and they loved God. **There was no sickness or death**. This was the way God wanted the world to be.
-===== Important Terms: =====
+ਜਦੋਂ **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੰਸਾਰ ਦੀ ਰਚਨਾ ਕੀਤੀ**, ਹਰ ਇਕ ਵਸਤੂ ਸਿੱਧ ਸੀ | **ਕੋਈ ਵੀ ਪਾਪ ਨਹੀਂ ਸੀ |** **ਆਦਮ** ਅਤੇ **ਹਵਾ** ਇਕ ਦੂਸਰੇ ਨੂੰ ਪਿਆਰ ਕਰਦੇ ਸਨ ਅਤੇ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਨੂੰ ਵੀ ਪਿਆਰ ਕਰਦੇ ਸਨ | **ਉੱਥੇ ਕੋਈ ਵੀ ਬਿਮਾਰੀ ਜਾਂ ਮੌਤ ਨਹੀਂ ਸੀ |** ਪ੍ਰਮੇਸ਼ਵਰ ਸੰਸਾਰ ਨੂੰ ਇਸ ਪ੍ਰਕਾਰ ਦਾ ਦੇਖਣ ਚਹੁੰਦਾ ਸੀ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:other:adam]]**
-  * **[[:pa:obe:other:eve]]**
-  * **[[:pa:obe:kt:love]]**
-  * **[[:pa:obe:kt:death]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **[[:pa:obs:notes:key-terms:adam|ਆਦਮ]]**
+  * **[[:pa:obs:notes:key-terms:eve|ਹਵਾ]]**
+  * **[[:pa:obs:notes:key-terms:love|ਪਿਆਰ ਕੀਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮੌਤ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **God created the world** - That is, "God made the world out of nothing."
-  * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
-  * **There was no sin** - For some languages it is not possible to express "sin" as a thing, rather it is an action. In those cases this could be translated as, "No one ever sinned" or, "People did not sin" or, "Nothing evil had happened."
-  * **There was no sickness or death** - That is, "No one got sick and no one died" or, "They did not get sick or die."
-
-
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੰਸਾਰ ਨੂੰ ਬਣਾਇਆ**  – ਮਤਲਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੰਸਾਰ ਨੂੰ ਖਾਲੀਪਨ ਤੋਂ ਉਤਪਨ ਕੀਤਾ|”
+  * **ਸਿੱਧ**  – ਮਤਲਬ, “ਬਿਲਕੁਲ ਉਸੇ ਤਰਾਂ ਜਿਵੇਂ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ” ਕਿ ਉਸ ਪੂਰਾ ਕਰੇ ਜਿਵੇਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸ ਲਈ ਚਾਹਤ ਕੀਤੀ ਸੀ|
+  * **ਉੱਥੇ ਕੋਈ ਪਾਪ ਨਹੀਂ ਸੀ**  – ਕੁਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ “ਪਾਪ” ਨੂੰ ਕਿਸੇ ਵਸਤੂ ਦੀ ਤਰਾਂ ਪੇਸ਼ ਕਰਨਾ ਅਸੰਭਵ ਹੈ ਪਰ ਇਕ ਕਿਰਿਆ ਵਿਚ ਪੇਸ਼ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ | ਉਹਨਾਂ ਹਲਾਤਾਂ ਵਿਚ ਇਸ ਨੂੰ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਕਿਸੇ ਨੇ ਕਦੀ ਵੀ ਪਾਪ ਨਹੀਂ ਕੀਤਾ” ਜਾਂ “ਲੋਕਾਂ ਨੇ ਪਾਪ ਨਾ ਕੀਤਾ” ਜਾਂ “ਕੋਈ ਵੀ ਬੁਰਾਈ ਨਾ ਹੋਈ”|
+  * **ਉੱਥੇ ਕੋਈ ਬਿਮਾਰੀ ਜਾਂ ਮੌਤ ਨਹੀਂ ਸੀ**  – ਮਤਲਬ, “ਕੋਈ ਬੀਮਾਰ ਨਾ ਹੋਇਆ ਅਤੇ ਨਾ ਮਰਿਆ” ਜਾਂ “ ਉਹ ਬੀਮਾਰ ਨਾ ਹੋਏ ਅਤੇ ਨਾ ਮਰੇ|”
 **[[:pa:obs:notes:frames:47-14|<<]] | [[:pa:obs:notes:48|Up]] | [[:pa:obs:notes:frames:48-02|>>]]**
