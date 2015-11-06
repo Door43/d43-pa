@@ -1,22 +1,18 @@
-===== Saul Went to Jerusalem [46-08] =====
+===== **ਸੌਲੁਸ ਯਰੂਸ਼ਲਮ ਨੂੰ ਗਿਆ** **[46-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-46-08.jpg?nolink&}}
 
-**Saul went to Jerusalem** to meet with the **disciples**, but they were afraid of him. Then a **believer** named **Barnabas** took Saul to the **apostles** and told them how Saul had **preached** boldly in Damascus. After that, the disciples **accepted Saul**.
-===== Important Terms: =====
+**ਸੌਲੁਸ ਯਰੂਸ਼ਲਮ ** ਚੇਲਿਆਂ **ਨੂੰ** **ਮਿਲਣ** **ਲਈ** **ਗਿ** ਆ ਪਰ ਉਹ ਉਸ ਤੋਂ ਡਰਦੇ ਸਨ | ਤੱਦ ਬਰਨਾਬਾਸ ਨਾਮ ਦਾ ਇਕ ਵਿਸ਼ਵਾਸੀ ਉਸ ਨੂੰ ਰਸੂਲਾਂ ਕੋਲ ਲੈ ਕੇ ਗਿਆ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਦੱਸਿਆ ਕਿ ਕਿਵੇਂ ਸੌਲੁਸ ਨੇ ਦਮਾਸਕੁਸ ਵਿਚ ਦਲੇਰੀ ਨਾਲ ਯਿਸੂ ਦਾ ਪ੍ਰਚਾਰ ਕੀਤਾ | ਉਸ ਤੋਂ ਬਾਅਦ ਚੇਲਿਆਂ ਨੇ ਉਸ ਨੂੰ ਗ੍ਰਿਹਣ ਕੀਤਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:believer]]**
-  * **[[:pa:obe:other:barnabas]]**
-  * **[[:pa:obe:kt:apostle]]**
-  * **[[:pa:obe:other:preach]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਸੌਲੁਸ]]**
+  * **[[:pa:obs:notes:key-terms:jerusalem|ਯਰੂਸ਼ਲਮ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:believer|ਵਿਸ਼ਵਾਸੀ]] **
+  * **[[:pa:obs:notes:key-terms:barnabas|ਬਰਨਾਬਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:apostle|ਰਸੂਲ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕੀਤਾ ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **accepted Saul** - That is, "believed that Saul also was a believer in Jesus."
-
-
+  * **ਸੌਲੁਸ ਨੂੰ ਗ੍ਰਹਿਣ ਕੀਤਾ**  – ਮਤਲਬ, “ਵਿਸ਼ਵਾਸ ਕੀਤਾ ਕਿ ਸੌਲੁਸ ਵੀ ਯਿਸੂ ਵਿਚ ਇਕ ਵਿਸ਼ਵਾਸੀ ਹੈ|”
 **[[:pa:obs:notes:frames:46-07|<<]] | [[:pa:obs:notes:46|Up]] | [[:pa:obs:notes:frames:46-09|>>]]**
