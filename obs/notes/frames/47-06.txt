@@ -1,18 +1,14 @@
-===== The People Were Angry [47-06] =====
+===== **ਲੋਕ ਬਹੁਤ ਗੁੱਸੇ ਹੋਏ** **[47-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?nolink&}}
 
-The men who owned the **slave girl** became very angry! They realized that **without the demon**, the slave girl could not tell people **the future**. **This meant that** people would no longer pay her owners money so that she would tell them what would happen to them.
-===== Important Terms: =====
+ਉਹ ਲੋਕ ਜੋ ਉਸ **ਲੜਕੀ** ਦੇ ਮਾਲਕ ਸਨ ਬਹੁਤ ਗੁੱਸੇ ਹੋਏ ! ਉਹਨਾਂ ਨੂੰ ਸਮਝ ਆ ਗਈ ਕਿ **ਬਿਨਾ ਭੂਤਾਂ** ਦੇ ਗੁਲਾਮ ਲੜਕੀ ਲੋਕਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ **ਭਵਿੱਖ** ਬਾਰੇ ਨਹੀਂ ਦੱਸ ਸਕਦੀ ਸੀ | **ਇਸ ਦਾ ਮਤਲਬ** ਇਹ ਹੋਇਆ ਕਿ ਲੋਕ ਉਸ ਦੇ ਮਾਲਕ ਨੂੰ ਅੱਗੇ ਤੋਂ ਪੈਸੇ ਨਹੀਂ ਦੇਣਗੇ ਕਿ ਉਹ ਉਹਨਾਂ ਨੂੰ ਦੱਸੇ ਕਿ ਉਹਨਾਂ ਨਾਲ ਕੀ ਹੋਵੇਗਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:servant]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਗੁਲਾਮ ਕੁੜੀ]] **
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **without the demon** - That is, "without the power from the demon" or, "now that she did not have the demon."
-  * **the future** - That is, "what would happen to them in the future."
-  * **This meant that** - This could also be translated as, "Because of this" or, "Therefore."
-
-
+  * **ਭੂਤਾਂ ਤੋਂ ਬਿਨਾ**  -  ਮਤਲਬ, “ਭੂਤਾਂ ਦੀ ਸ਼ਕਤੀ ਤੋਂ ਬਿਨਾ” ਜਾਂ “ਹੁਣ,ਉਸ ਵਿਚ ਭੂਤ ਨਹੀਂ ਸਨ|”
+  * **ਭਵਿੱਖ**  – ਮਤਲਬ, “ਭਵਿੱਖ ਵਿਚ ਉਹਨਾਂ ਨਾਲ ਕੀ ਹੋਵੇਗਾ|”
+  * **ਇਸਦਾ ਮਤਲਬ ਇਹ ਹੋਇਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਕਾਰਨ” ਜਾਂ “ਇਸ ਲਈ”|
 **[[:pa:obs:notes:frames:47-05|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-07|>>]]**
