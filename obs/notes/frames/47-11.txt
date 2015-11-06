@@ -1,27 +1,25 @@
-===== What Must I Do? [47-11] =====
+===== **ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ?**** [47-11]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?nolink&}}
 
-The jailer trembled as he came to **Paul** and **Silas** and asked, “What must I do **to be saved**?” **Paul** answered, “**Believe in Jesus**, **the Master**, and **you and your family will be saved**.” Then the jailer took Paul and Silas into his home and washed their wounds. Paul **preached** the **good news** about Jesus to everyone in his house.
-===== Important Terms: =====
+ਦਰੋਗਾ ਜਿਵੇਂ ਹੀ **ਪੌਲੂਸ** ਅਤੇ **ਸਿਲਾਸ** ਕੋਲ ਪਹੁੰਚਿਆ ਕੰਬ ਗਿਆ ਅਤੇ ਪੁੱਛਿਆ, “**ਬਚਾਏ** **ਜਾਣ** **ਲਈ** ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?” **ਪੌਲੂਸ** ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “**ਸਵਾਮੀ ਯਿਸੂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕਰ ਅਤੇ ਤੂੰ ਅਤੇ ਤੇਰਾ ਪਰੀਵਾਰ ਬਚਾਇਆ ਜਾਵੇਗਾ|”** ਤੱਦ ਦਰੋਗੇ ਨੇ ਪੌਲੂਸ ਅਤੇ ਸਿਲਾਸ ਨੂੰ ਘਰ ਲਿਆਂਦਾ ਅਤੇ ਉਹਨਾਂ ਦੇ ਜਖਮਾਂ ਨੂੰ ਧੋਤਾ | ਪੌਲੂਸ ਨੇ ਘਰ ਵਿਚ ਸਾਰਿਆਂ ਨੂੰ ਯਿਸੂ ਬਾਰੇ **ਖੁਸ਼ ਖਬਰੀ** ਦਾ **ਪ੍ਰਚਾਰ** ਕੀਤਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:other:silas]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:other:paul]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:goodnews]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:silas|
 
+ਸੀਲਾਸ  ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਏ ਗਏ ]]**
+  * **[[:pa:obs:notes:key-terms:paul|ਪੌਲੂਸ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]] **
+  * **[[:pa:obs:notes:key-terms:lord|ਸਵਾਮੀ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਏ ਗਏ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ ਕੀਤਾ ]]**
+  * **[[:pa:obs:notes:key-terms:goodnews|ਖੁਸ਼ ਖਬਰੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-===== Translation Notes: =====
-
-  * **to be saved** - This could also be translated as, "in order to be saved from my sins" or "so that God will save me from my sins." The question refers to salvation from being punished by the God who caused the earthquake.
-  * **Believe in Jesus, the Master** - This is addressed to both the jailer and his family, who all then believed and were baptized. Some languages may use a form to indicate that Paul is speaking to the group.
-  * **you and your family will be saved** - This can also be translated as, "God will save you and your family from eternal punishment for your sins." Make sure it is clear that the salvation referred to here is spiritual, not physical.
-
-
+  * **ਬਚਾਏ ਜਾਣ ਲਈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਬਚਾਏ ਜਾਣ ਲਈ” ਜਾਂ “ਤਾਂ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਮੈਨੂੰ ਮੇਰੇ ਪਾਪਾਂ ਤੋਂ ਬਚਾਏ|” ਸਵਾਲ ਉਸ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਸਜਾ ਦੇਣ ਤੋਂ ਮੁਕਤੀ ਪਾਉਣ ਲਈ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਜਿਸ ਨੇ ਭੁੰਚਾਲ ਭੇਜਿਆ ਸੀ |
+  * **ਸਵਾਮੀ, ਯਿਸੂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕਰ**  – ਇਹ ਦੋਹਾਂ ਦੋਰਗਾ ਅਤੇ ਉਸ ਦੇ ਪਰੀਵਾਰ ਨੂੰ ਸੰਬੋਧਿਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਤੱਦ ਉਹਨਾਂ ਸਾਰੀਆਂ ਨੇ ਵਿਸ਼ਵਾਸ ਕੀਤਾ ਅਤੇ ਬਪਤਿਸਮਾ ਲਿਆ| ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਦੀ ਬਣਤਰ ਇਸਤੇਮਾਲ ਕਰਦੀਆਂ ਹਨ ਜਿਸ ਵਿਚ ਦਿਖਾਇਆ ਗਿਆ ਹੈ ਕਿ ਪੌਲੂਸ ਇਕ ਝੁੰਡ ਨਾਲ ਗੱਲ ਕਰ ਰਿਹਾ ਹੈ|
+  * **ਤੂੰ ਅਤੇ ਤੇਰਾ ਪਰੀਵਾਰ ਬਚਾਇਆ ਜਾਵੇਗਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਤੈਨੂੰ ਅਤੇ ਤੇਰੇ ਪਰੀਵਾਰ ਨੂੰ ਤੁਹਾਡੇ ਪਾਪਾਂ ਦੀ ਅਨੰਤ ਸਜਾ ਤੋਂ ਬਚਾਵੇਗਾ|” ਪੱਕਾ ਕਰੋ ਕਿ ਇਸ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਇੱਥੇ ਮੁਕਤੀ ਆਤਮਿਕ ਹੈ ਨਾ ਕਿ ਸਰੀਰਕ |
 **[[:pa:obs:notes:frames:47-10|<<]] | [[:pa:obs:notes:47|Up]] | [[:pa:obs:notes:frames:47-12|>>]]**
