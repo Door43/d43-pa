@@ -1,19 +1,16 @@
-===== The Virgin Birth [49-01] =====
+===== **ਕੁੰਵਾਰੀ ਤੋਂ ਜਨਮ** **[49-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-01.jpg?nolink&}}
 
-An angel told a **virgin** named **Mary** that she would give birth to **God's Son**. So while she was still a virgin, she gave birth to a son and named him **Jesus**. Therefore, Jesus is both God and human.
-===== Important Terms: =====
+ਇਕ ਦੂਤ ਨੇ ਇਕ **ਮਰੀਯਮ** ਨਾਮੇ **ਕੁੰਵਾਰੀ** ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ **ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪੁੱਤਰ** ਨੂੰ ਜਨਮ ਦੇਵੇਗੀ | ਇਸ ਲਈ ਜਦੋਂ ਉਹ ਕੁੰਵਾਰੀ ਹੀ ਸੀ ਉਸ ਨੇ ਇਕ ਪੁੱਤਰ ਨੂੰ ਜਨਮ ਦਿੱਤਾ ਅਤੇ ਉਸ ਦਾ ਨਾਮ ਯਿਸੂ ਰੱਖਿਆ | ਇਸ ਲਈ ਯਿਸੂ ਦੋਨੋਂ ਮਨੁੱਖ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਹੈ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:virgin]]**
-  * **[[:pa:obe:other:mary]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:jesus]]**
+  * **[[:pa:obs:notes:key-terms:virgin|ਕੁੰਵਾਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:mary|ਮਰੀਯਮ]]**
+  * **[[:pa:obs:notes:key-terms:sonofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ]] **
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:48-14|<<]] | [[:pa:obs:notes:49|Up]] | [[:pa:obs:notes:frames:49-02|>>]]**
