@@ -1,23 +1,19 @@
-===== King of the Universe [48-14] =====
+===== **ਸਾਰੇ ਜਗਤ ਦਾ** **ਰਾਜਾ** **[48-14]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-14.jpg?nolink&}}
 
-**David** was the **king** of **Israel**, but **Jesus** is **the king of the entire universe**! He will come again and rule his **kingdom** with **justice** and **peace**, forever.
-===== Important Terms: =====
+**ਦਾਉਦ** **ਇਸਰਾਏਲ** ਦਾ **ਰਾਜਾ** ਸੀ ਪਰ ਯਿਸੂ **ਸਾਰੀ ਦੁਨੀਆਂ ਦਾ ਰਾਜਾ ਹੈ**! ਉਹ ਦੁਬਾਰਾ ਆਵੇਗਾ ਅਤੇ **ਸ਼ਾਂਤੀ** ਅਤੇ **ਧਰਮ** ਨਾਲ ਸਦਾਂ ਲਈ ਆਪਣੇ **ਸਾਮਰਾਜ** ਉੱਤੇ ਰਾਜ ਕਰੇਗਾ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:david]]**
-  * **[[:pa:obe:other:king]]**
-  * **[[:pa:obe:other:israel]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
-  * **[[:pa:obe:kt:justice]]**
-  * **[[:pa:obe:other:peace]]**
+  * **[[:pa:obs:notes:key-terms:david|ਦਾਉਦ]]**
+  * **[[:pa:obs:notes:key-terms:king|ਰਾਜਾ]] **
+  * **[[:pa:obs:notes:key-terms:israel|ਇਸਰਾਏਲ]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਸਾਮਰਾਜ]]**
+  * **[[:pa:obs:notes:key-terms:justice|ਧਰਮ]]**
+  * **[[:pa:obs:notes:key-terms:peace|ਸ਼ਾਂਤੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the king of the entire universe** - That is, "the king over everyone and everything everywhere."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ਸਾਰੇ ਜਗਤ ਦਾ ਰਾਜਾ**  – ਮਤਲਬ, “ਹਰ ਜਗ੍ਹਾ ਹਰ ਚੀਜ ਅਤੇ ਹਰ ਇਕ ਵਿਅਕਤੀ ਉੱਤੇ ਰਾਜਾ |”
+  * //ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ//  – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:48-13|<<]] | [[:pa:obs:notes:48|Up]] | [[:pa:obs:notes:frames:49-01|>>]]**
