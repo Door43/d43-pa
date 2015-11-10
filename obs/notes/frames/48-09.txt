@@ -1,25 +1,21 @@
-===== The Passover [48-09] =====
+===== **ਪਸਹ** **[48-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-48-09.jpg?nolink&}}
 
-When **God sent the last plague on Egypt**, he told each **Israelite** family to kill **a perfect lamb** and spread **its blood** on the tops and sides of their **door frames**. When God saw the blood, he **passed over** their houses and did not kill their firstborn sons. This event is called the **Passover**.
-===== Important Terms: =====
+ਜਦੋਂ **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮਿਸਰ ਉੱਤੇ ਆਖਰੀ ਬਵਾ ਭੇਜੀ** ਤਾਂ ਉਸ ਨੇ ਹਰ ਇਕ **ਇਸਰਾਏਲੀ** ਪਰੀਵਾਰ ਨੂੰ ਇਕ ਸਿੱਧ ਲੇਲਾ ਮਾਰਨ ਲਈ ਕਿਹਾ ਅਤੇ **ਉਸ ਦਾ ਲਹੂ** ਉਹਨਾਂ ਦੇ **ਦਰਵਾਜਿਆਂ ਦੀਆਂ ਚੁਗਾਠਾਂ** ਉੱਤੇ ਲਾਉਣ ਲਈ ਕਿਹਾ | ਜਦੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਲਹੂ ਦੇਖਿਆ ਉਹ ਉਹਨਾਂ ਦੇ ਘਰਾਂ ਉੱਤੋਂ ਦੀ ਲੰਘ ਗਿਆ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਲੋਠੇ ਪੱਤਰਾਂ ਨੂੰ ਨਾ ਮਾਰਿਆ | ਇਸ ਘਟਨਾ ਪਸਹ ਕਹਾਉਂਦੀ ਹੈ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:egypt]]**
-  * **[[:pa:obe:other:israel]]**
-  * **[[:pa:obe:kt:lamb]]**
-  * **[[:pa:obe:kt:blood]]**
-  * **[[:pa:obe:kt:passover]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]] **
+  * **[[:pa:obs:notes:key-terms:egypt|ਮਿਸਰ]]**
+  * **[[:pa:obs:notes:key-terms:israel|ਇਸਰਾਏਲੀ]]**
+  * **[[:pa:obs:notes:key-terms:lamb|ਲੇਲਾ]]**
+  * **[[:pa:obs:notes:key-terms:blood|ਲਹੂ ]]**
+  * **[[:pa:obs:notes:key-terms:passover|ਪਸਹ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ**: =====
 
-
-===== Translation Notes: =====
-
-  * **sent the last plague on Egypt** - That is, "caused the final disaster to come on Egypt." This was the tenth plague when God caused the firstborn sons of the Egyptians to die.
-  * **a perfect lamb** - That is, "a lamb without any defect."
-  * **its blood** - That is, "the lamb's blood."
-  * **door frames** - If door frames are not known, this could be translated as, "doors."
-  * **passed over** - This could also be translated as, "passed by" or, "went by." You may want to connect how this is translated with how "Passover" is translated.
-
-
+  * **ਮਿਸਰ ਉੱਤੇ ਆਖਰੀ ਬਵਾ ਭੇਜੀ**  – ਮਤਲਬ, “ਮਿਸਰ ਉੱਤੇ ਅੰਤਿਮ ਤਬਾਹੀ ਭੇਜੀ|” ਇਹ ਦਸਵੀਂ ਬਵਾ ਸੀ ਜਦੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮਿਸਰੀਆਂ ਦੇ ਪਲੋਠੇ ਪੁੱਤਰਾਂ ਨੂੰ ਮਾਰਿਆ |
+  * **ਇਕ ਸਿੱਧ ਲੇਲੇ**  – ਮਤਲਬ, “ਇਕ ਲੇਲਾ ਜੋ ਬੱਜ ਰਹਿਤ ਹੈ|”
+  * **ਇਸ ਦਾ ਲਹੂ**  – ਮਤਲਬ, “ਲੇਲੇ ਦਾ ਲਹੂ|”
+  * **ਦਰਵਾਜਿਆਂ ਦੀਆਂ ਚੁਗਾਠਾਂ**  – ਅਗਰ ਦਰਵਾਜਿਆਂ ਦੀਆਂ ਚੁਗਾਠਾਂ ਜੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਤਾਂ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦ ਹੈ, “ਦਰਵਾਜੇ”|
+  * **ਪਸਹ – ** ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉੱਪਰੋਂ ਲੰਘ ਜਾਣਾ” ਜਾਂ ਕੋਲੋਂ ਦੀ ਲੰਘ ਜਾਣਾ|” ਸ਼ਾਇਦ ਤੁਸੀਂ ਇਸ ਨੂੰ ਜਾਨਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋਂਗੇ ਕਿ ਕਿਸ ਤਰਾਂ ਇਹ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ ਉਸ ਦੇ ਨਾਲ ਕਿ ਕਿਸ ਤਰਾਂ “ਪਸਹ” ਦਾ ਅਨੁਵਾਦ ਕੀਤਾ ਗਿਆ ਹੈ |
 **[[:pa:obs:notes:frames:48-08|<<]] | [[:pa:obs:notes:48|Up]] | [[:pa:obs:notes:frames:48-10|>>]]**
