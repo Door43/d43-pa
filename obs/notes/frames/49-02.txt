@@ -1,23 +1,19 @@
-===== The Miracles [49-02] =====
+===== ਚਮਤਕਾਰ **[49-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-02.jpg?nolink&}}
 
-**Jesus** did many **miracles** that prove he is **God**. He walked on water, calmed storms, **healed** many sick people, **drove out demons**, **raised the dead to life**, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
-===== Important Terms: =====
+**ਯਿਸੂ** ਨੇ ਬਹੁਤ **ਚਮਤਕਾਰ** ਕੀਤੇ ਜੋ ਸਬੂਤ ਦਿੰਦੇ ਹਨ ਕਿ ਉਹ **ਪ੍ਰਮੇਸ਼ਵਰ** ਹੈ | ਉਹ ਪਾਣੀ ਉੱਤੇ ਚੱਲਿਆ, ਤੁਫਾਨ ਨੂੰ ਸ਼ਾਂਤ ਕੀਤਾ, ਬਹੁਤ ਬੀਮਾਰ ਲੋਕਾਂ ਨੂੰ **ਚੰਗਾ** **ਕੀਤਾ**, **ਭੂਤਾਂ ਨੂੰ ਕਢਿਆ, ਮੁਰਦੇ ਜੀਵਤ ** ਕੀਤੇ ਅਤੇ ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਛੋਟੀਆਂ ਮੱਛੀਆਂ ਨਾਲ 5,000 ਲੋਕਾਂ ਲਈ ਪਰਯਾਪਤ ਭੋਜਨ ਬਣਾ ਦਿੱਤਾ|
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:miracle]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:heal]]**
-  * **[[:pa:obe:kt:demon]]**
-  * **[[:pa:obe:kt:raise]]**
-  * **[[:pa:obe:kt:death]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:miracle|ਚਮਤਕਾਰ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]] **
+  * **[[:pa:obs:notes:key-terms:heal|ਚੰਗਾ ਕੀਤਾ ]]**
+  * **[[:pa:obs:notes:key-terms:demon|ਭੂਤ]]**
+  * **[[:pa:obs:notes:key-terms:raise|ਜੀਵਤ ਕੀਤਾ]]**
+  * **[[:pa:obs:notes:key-terms:death|ਮੁਰਦਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **drove out demons** - That is, "made demons come out of people."
-  * **raised the dead to life** - This could also be translated as, "caused dead people to become alive again."
-
-
+  * **ਭੂਤ ਕੱਢੇ**  – ਮਤਲਬ, “ਲੋਕਾਂ ਵਿਚੋਂ ਭੂਤ ਨੂੰ ਬਾਹਰ ਕਢਿਆ|”
+  * **ਮੁਰਦਿਆਂ ਨੂੰ ਜੀਵਤ ਕੀਤਾ**  – ਇਸ ਦਾ  ਅਨੁਵਾਦ ਇਸ ਤਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਮੁਰਦਾ ਲੋਕਾਂ ਨੂੰ ਦੁਬਾਰਾ ਜੀਵਤ ਕਰਨਾ|”
 **[[:pa:obs:notes:frames:49-01|<<]] | [[:pa:obs:notes:49|Up]] | [[:pa:obs:notes:frames:49-03|>>]]**
