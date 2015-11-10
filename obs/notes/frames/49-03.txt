@@ -1,19 +1,15 @@
-===== Jesus the Teacher [49-03] =====
+===== **ਯਿਸੂ ਇਕ ਸਿਖਿਅਕ** **[49-03] **  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-03.jpg?nolink&}}
 
-**Jesus** was also **a great teacher**, and he spoke with authority because he is the **Son of God**. He taught that you need to **love** other people **the same way** you love yourself.
-===== Important Terms: =====
+**ਯਿਸੂ** ਇਕ **ਮਹਾਨ** **ਸਿਖਿਅਕ** ਵੀ ਸੀ, ਅਤੇ ਉਹ ਅਧਿਕਾਰ ਨਾਲ ਬੋਲਿਆ ਕਿਉਂਕਿ ਉਹ  **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ** ਹੈ| ਉਸ ਨੇ ਸਿਖਾਇਆ ਕਿ ਤੁਹਾਨੂੰ ਦੂਸਰਿਆਂ ਨੂੰ **ਪਿਆਰ** ਕਰਨ ਦੀ ਲੋੜ ਹੈ **ਜਿਵੇਂ** ਤੁਸੀਂ ਆਪਣੇ ਆਪ ਨੂੰ ਕਰਦੇ ਹੋ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:love]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]] **
+  * **[[:pa:obs:notes:key-terms:sonofgod|ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ]]**
+  * **[[:pa:obs:notes:key-terms:love|ਪਿਆਰ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **a great teacher** - That is, "a very important teacher" or, "an excellent teacher."
-  * **the same way ** - That is, "as much as" or, "the same amount that" or, "to the same degree that."
-
-
+  * **ਇਕ ਮਹਾਨ ਸਿਖਿਅਕ**  – ਮਤਲਬ, “ਇਕ ਬਹੁਤ ਹੀ ਮਹੱਤਵਪੂਰਨ ਸਿਖਿਅਕ” ਜਾਂ “ਇਕ ਬਹੁਤ ਹੀ ਨਿਪੁੰਨ ਸਿਖਿਅਕ|”
+  * **ਉਸੇ ਤਰਾਂ**  – ਮਤਲਬ, “ਜਿਨਾਂ” ਜਾਂ “ਉਸੇ ਮਿਣਤੀ ਅਨੁਸਾਰ” ਜਾਂ “ਉਸੇ ਪੱਧਰ ਤੇ |”
 **[[:pa:obs:notes:frames:49-02|<<]] | [[:pa:obs:notes:49|Up]] | [[:pa:obs:notes:frames:49-04|>>]]**
