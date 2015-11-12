@@ -1,27 +1,23 @@
-===== Remain Faithful [50-04] =====
+===== **ਵਿਸ਼ਵਾਸਯੋਗ ਰਹੋ** **[50-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?nolink&}}
 
-**Jesus** also said, “A **servant** is** not greater than his master**. Just as the authorities of this world have hated me, they will torture and kill you **because of me**. Although **in this world** you will **suffer**, be encouraged because I have defeated **Satan**, the one who rules this world. If you **remain faithful to me to the end**, then **God will save you**!”
-===== Important Terms: =====
+**ਯਿਸੂ** ਨੇ ਇਹ ਵੀ ਕਿਹਾ, “**ਨੌਕਰ ਮਾਲਕ ਨਾਲੋਂ ਉੱਤਮ ਨਹੀਂ ਹੈ|** ਜਿਵੇਂ ਇਸ ਸੰਸਾਰ ਦੇ ਅਧੀਕਾਰੀਆਂ ਨੇ ਮੈਨੂੰ ਨਫਰਤ ਕੀਤੀ ਉਹ ਤੁਹਾਨੂੰ ਵੀ ਸਤਾਉਣਗੇ ਅਤੇ **ਮੇਰੇ ਕਾਰਨ** ਮਾਰਨਗੇ| ਚਾਹੇ **ਤੁਸੀਂ ਇਸ ਸੰਸਾਰ** ਵਿਚ **ਦੁੱਖ** **ਉਠਾਉਗੇੰ**, ਪਰ ਉਤਸ਼ਾਹਿਤ ਹੋਵੇ ਕਿਉਂਕਿ ਮੈਂ ਸ਼ੈਤਾਨ ਨੂੰ ਹਰਾਇਆ ਹੈ ਜੋ ਇਸ ਸੰਸਾਰ ਉੱਤੇ ਰਾਜ ਕਰਦਾ ਹੈ| ਜੇ ਤੁਸੀਂ **ਅੰਤ ਤੱਕ ਮੇਰੇ ਨਾਲ ਵਫ਼ਾਦਾਰ** ਹੋ ਤੱਦ **ਪ੍ਰਮੇਸ਼ਵਰ ਤੁਹਾਨੂੰ ਬਚਾਵੇਗਾ**!”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:suffer]]**
-  * **[[:pa:obe:kt:satan]]**
-  * **[[:pa:obe:kt:faithful]]**
-  * **[[:pa:obe:kt:save]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਨੌਕਰ]]**
+  * **[[:pa:obs:notes:key-terms:lord|ਮਾਲਕ]] **
+  * **[[:pa:obs:notes:key-terms:suffer|ਦੁੱਖ ਉਠਾਉਣਾ]]**
+  * **[[:pa:obs:notes:key-terms:satan|ਸ਼ੈਤਾਨ]]**
+  * **[[:pa:obs:notes:key-terms:faithful|ਵਫ਼ਾਦਾਰ]]**
+  * **[[:pa:obs:notes:key-terms:save|ਬਚਾਉਣਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, "Keep obeying me."
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-
-
+  * **ਉਸ ਤੋਂ ਉੱਤਮ ਨਹੀਂ**  – ਮਤਲਬ, “ਉਸ ਨਾਲੋਂ ਮਹੱਤਵਪੂਰਨ ਨਹੀ” ਜਾਂ “ਇਸ ਹਲਾਤ ਵਿਚ, “ਉਸ ਨਾਲੋਂ ਜਿਆਦਾ ਚੰਗਾ ਵਰਤਾਵ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ|”
+  * **ਮੇਰੇ ਕਾਰਨ**  – ਮਤਲਬ, “ਕਿਉਂਕਿ ਤੁਸੀਂ ਮੇਰੀ ਮੰਨੀ ਹੈ” ਜਾਂ “ਕਿਉਂਕਿ ਤੁਸੀਂ ਲੋਕਾਂ ਨੂੰ ਮੇਰੇ ਬਾਰੇ ਸਿੱਖਾਉਂਦੇ ਹੋ” ਜਾਂ “ਕਿਉਂਕਿ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਸਬੰਧ ਰੱਖਦੇ ਹੋ|”
+  * **ਇਸ ਸੰਸਾਰ ਵਿਚ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਜੀਵਨਕਾਲ ਵਿਚ|”
+  * **ਮੇਰੇ ਨਾਲ ਵਫ਼ਾਦਾਰ ਰਹੋ**  – ਇਸ ਦਾ ਮਤਲਬ, “ਮੇਰੀ ਮੰਨਦੇ ਰਹੋ|”
+  * **ਅੰਤ ਤੱਕ**  – ਮਤਲਬ, “ਤੁਸੀਂ ਆਪਣੇ ਜੀਵਨ ਦੇ ਅੰਤ ਤੱਕ|”
+  * **ਤੁਹਾਨੂੰ ਬਚਾਵੇਗਾ**  – ਇਹ ਆਤਮਿਕ ਮੁਕਤੀ ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ ਨਾ ਕਿ ਕਿਸੇ ਦੁੱਖ ਤੋਂ ਸਰੀਰਕ ਛੁਟਕਾਰੇ ਤੋਂ|” ਇਹ ਪਹਿਲਾਂ ਹੀ ਕਿਹਾ ਗਿਆ ਹੈ ਕਿ ਬਹੁਤ ਸਾਰੇ ਵਿਸ਼ਵਾਸੀ ਮਾਰੇ ਜਾਣਗੇ ਜਾਂ ਦੁਖੀ ਕੀਤੇ ਜਾਣਗੇ|
 **[[:pa:obs:notes:frames:50-03|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-05|>>]]**
