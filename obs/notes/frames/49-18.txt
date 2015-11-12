@@ -1,21 +1,17 @@
-===== Grow as a Christian [49-18] =====
+===== **ਇਕ ਮਸੀਹੀ ਤਰਾਂ ਵਧੋ** **[49-18]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-49-18.jpg?nolink&}}
 
-**God** tells you to **pray**, to study **his word**, to **worship** him with other **Christians**, and to tell others what he has done for you. All of these things help you **to have a deeper relationship with him**.
-===== Important Terms: =====
+**ਪ੍ਰਮੇਸ਼ਵਰ** ਤੁਹਾਨੂੰ **ਪ੍ਰਾਰਥਨਾ** ਕਰਨ ਲਈ, ਉਸ ਦਾ **ਵਚਨ** **ਅਧਿਯੈਨ** ਕਰਨ, ਅਤੇ ਦੂਸਰੇ ਮਸੀਹੀਆਂ ਨਾਲ ਮਿਲਕੇ ਉਸ ਦੀ **ਅਰਾਧਨਾ** **ਕਰਨ** ਕਹਿੰਦਾ ਹੈ | ਇਹ ਸਾਰੀਆਂ ਗੱਲਾਂ ਉਸ ਨਾਲ **ਤੁਹਾਡੇ ਰਿਸ਼ਤੇ ਨੂੰ ਗਹਿਰਾ ਕਰਦੀਆਂ ਹਨ** |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:worship]]**
-  * **[[:pa:obe:kt:christian]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:pray|ਪ੍ਰਾਰਥਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:wordofgod|ਉਸ ਦਾ ਵਚਨ]] **
+  * **[[:pa:obs:notes:key-terms:worship|ਅਰਾਧਨਾ]]**
+  * **[[:pa:obs:notes:key-terms:christian|ਮਸੀਹੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **to have a deeper relationship with him** - This could also be translated as, "to love him more" or, "to know him more" or, "to become more faithful to him."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ਉਸ ਨਾਲ ਗਹਿਰਾ ਰਿਸ਼ਤਾ ਕਰਨ ਲਈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਸ ਨੂੰ ਹੋਰ ਪਿਆਰ ਕਰਨਾ” ਜਾਂ “ਉਸ ਨੂੰ ਹੋਰ ਵੀ ਜਾਨਣਾ” ਜਾਂ “ਉਸ ਨਾਲ ਹੋਰ ਵੀ ਵਫ਼ਾਦਾਰ ਹੋਣਾ|”
+  * //ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ//  – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:49-17|<<]] | [[:pa:obs:notes:49|Up]] | [[:pa:obs:notes:frames:50-01|>>]]**
