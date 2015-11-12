@@ -1,22 +1,18 @@
-===== The Good News [50-02] =====
+===== **ਖੁਸ਼ ਖਬਰੀ** **[50-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?nolink&}}
 
-As we wait for **Jesus** to return, **God** wants us to live in a way that is **holy** and that honors him. He also wants us to tell others about his **kingdom**. When Jesus was living on earth he said, “My **disciples** will **preach** the **good news** about the kingdom of God to people everywhere in the world, and then **the end will come**.”
-===== Important Terms: =====
+ਜਿੱਦਾਂ ਹੀ ਅਸੀਂ **ਯਿਸੂ** ਦੇ ਦੁਬਾਰਾ ਆਉਣ ਦੀ ਇੰਤਜਾਰ ਕਰਦੇ ਹਾਂ, **ਪ੍ਰਮੇਸ਼ਵਰ** ਚਹੁੰਦਾ ਹੈ ਕਿ ਅਸੀਂ **ਪਵਿੱਤਰ** ਅਤੇ ਯੋਗ ਜੀਵਨ ਜੀਓ | ਉਹ ਚਹੁੰਦਾ ਹੈ ਕਿ ਅਸੀਂ ਦੂਸਰਿਆਂ ਨੂੰ ਉਸ ਦੇ ਰਾਜ ਬਾਰੇ ਦੱਸੀਏ | ਜਦੋਂ ਯਿਸੂ ਇਸ ਧਰਤੀ ਉੱਤੇ ਰਹਿੰਦਾ ਸੀ ਉਸ ਨੇ ਕਿਹਾ, “**ਮੇਰੇ** **ਚੇਲੇ** ਸੰਸਾਰ ਦੀ ਹਰ ਕੋਨੇ ਵਿਚ ਲੋਕਾਂ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਦੀ **ਖੁਸ਼** **ਖਬਰੀ** ਦਾ ਪ੍ਰਚਾਰ ਕਰਨਗੇ ਅਤੇ ਤੱਦ ਅੰਤ ਆਵੇਗਾ|”
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:holy]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:goodnews]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:holy|ਪਵਿੱਤਰ]] **
+  * **[[:pa:obs:notes:key-terms:kingdomofgod|ਰਾਜ]]**
+  * **[[:pa:obs:notes:key-terms:disciple|ਚੇਲੇ]]**
+  * **[[:pa:obs:notes:key-terms:preach|ਪ੍ਰਚਾਰ]]**
+  * **[[:pa:obs:notes:key-terms:goodnews|ਖੁਸ਼ ਖਬਰੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **the end will come** - This could be translated as, "the end of this world will come" or, "the end of this world will happen" or, "this present world will end."
-
-
+  * **ਅੰਤ ਆਵੇਗਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਸੰਸਾਰ ਅੰਤ ਆਵੇਗਾ” ਜਾਂ “ਇਸ ਸੰਸਾਰ ਦਾ ਅੰਤ ਹੋਵੇਗਾ” ਜਾਂ “ਇਹ ਵਰਤਮਾਨ ਸੰਸਾਰ ਦਾ ਅੰਤ ਹੋ ਜਾਵੇਗਾ|”
 **[[:pa:obs:notes:frames:50-01|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-03|>>]]**
