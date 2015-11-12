@@ -1,20 +1,16 @@
-===== The Fire of Hell [50-14] =====
+===== **ਨਰਕ ਦੀ ਅੱਗ [****50-14]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?nolink&}}
 
-But **God** will **judge** everyone who does not **believe** in **Jesus**. He will throw them into **hell**, where they will **weep and grind their teeth in anguish** forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
-===== Important Terms: =====
+ਪਰ **ਪ੍ਰਮੇਸ਼ਵਰ** ਹਰ ਇਕ ਦਾ **ਨਿਆਂ** **ਕਰੇਗਾ** ਜੋ **ਯਿਸੂ** ਉੱਤੇ **ਵਿਸ਼ਵਾਸ** ਨਹੀਂ ਕਰਦਾ | ਉਹ ਉਹਨਾਂ ਨੂੰ ਨਰਕ ਵਿਚ ਪਵੇਗਾ ਜਿੱਥੇ ਉਹ **ਪੀੜਾ** ਵਿਚ ਹਮੇਸ਼ਾਂ ਲਈ **ਰੋਣਗੇ ਅਤੇ ਦੰਦ ਪੀਸਣਗੇ ** | ਉਹ ਜੋ ਕਦੀ ਨਹੀਂ ਬੁੱਝਦੀ ਉਹਨਾਂ ਨੂੰ ਲਗਾਤਾਰ ਸਾੜੇਗੀ ਅਤੇ ਕੀੜੇ ਉਹਨਾਂ ਨੂੰ ਖਾਣਾ ਬੰਦ ਨਾ ਕਰਨਗੇ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:judge]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:hell]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:judge|ਨਿਆਂ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ਕਰਦਾ]] **
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:hell|ਨਰਕ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **weep and grind their teeth in anguish** - See note on **[[:pa:obs:notes:frames:50-10|[50-10]]]**.
-
-
+  * **ਪੀੜਾ ਵਿਚ ਹਮੇਸ਼ਾਂ ਲਈ ਰੋਣਗੇ ਅਤੇ ਦੰਦ ਪੀਸਣਗੇ**  - **[50-10]**  ਉੱਤੇ ਨੋਟ ਦੇਖੋ
 **[[:pa:obs:notes:frames:50-13|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-15|>>]]**
