@@ -1,22 +1,18 @@
-===== Our Crown [50-13] =====
+===== **ਸਾਡਾ ਮੁਕਟ** **[50-13]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?nolink&}}
 
-**Jesus promised** to give a **crown** to everyone who **believes** in him. They will **live** and reign with **God** in **perfect peace** forever.
-===== Important Terms: =====
+**ਯਿਸੂ ਨੇ ਵਾਇਦਾ ਕੀਤਾ** ਹੈ ਕਿ ਹਰ ਇਕ ਜੋ ਉਸ ਉੱਤੇ **ਵਿਸ਼ਵਾਸ** **ਕਰਦਾ** ਹੈ ਉਸ ਨੂੰ ਉਹ ਇਕ **ਮੁਕਟ** ਦੇਵੇਗਾ | ਉਹ **ਪ੍ਰਮੇਸ਼ਵਰ** ਨਾਲ ਹਮੇਸ਼ਾਂ **ਜੀਣਗੇ** ਅਤੇ ਲਈ **ਸਿੱਧ** **ਸ਼ਾਂਤੀ** ਵਿਚ ਰਾਜ ਕਰਨਗੇ |
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:promise]]**
-  * **[[:pa:obe:kt:believe]]**
-  * **[[:pa:obe:kt:life]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:peace]]**
+  * **[[:pa:obs:notes:key-terms:jesus|ਯਿਸੂ]]**
+  * **[[:pa:obs:notes:key-terms:promise|ਵਾਇਦਾ ਕੀਤਾ ]]**
+  * **[[:pa:obs:notes:key-terms:believe|ਵਿਸ਼ਵਾਸ ਕਰਦਾ]] **
+  * **[[:pa:obs:notes:key-terms:life|ਜਿਉਂਦਾ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:peace|ਸ਼ਾਂਤੀ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
-
+  * **ਮੁਕਟ**  – ਇਹ ਮੁਕਟ ਯਿਸੂ ਮਸੀਹ ਵਿਚ ਸਾਡੇ ਵਿਸ਼ਵਾਸ ਅਤੇ ਆਪਣੇ ਜੀਵਨ ਵਿਚ ਉਸ ਦੀ ਸੇਵਾ ਦੇ ਇਨਾਮ ਵਜੋਂ ਪ੍ਰਤੀਨਿਧ ਕਰਦਾ ਹੈ |
+  * **ਸਿੱਧ**  – ਮਤਲਬ, “ਪੂਰਨ” ਜਾਂ “ਕੁੱਲ”
 **[[:pa:obs:notes:frames:50-12|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-14|>>]]**
