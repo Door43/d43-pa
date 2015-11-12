@@ -1,19 +1,15 @@
-===== The Weeds [50-06] =====
+===== **ਜੰਗਲੀ ਬੂਟੀ** **[50-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?nolink&}}
 
-“When the plants sprouted, the **servants** of the man said, ‘**Master**, you planted **good** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
-===== Important Terms: =====
+“ਜਦੋਂ ਬੂਤੇ ਉੱਗੇ ਤਾਂ ਉਸ ਮਾਲਕ ਦੇ **ਨੌਕਰਾਂ** ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “**ਸਵਾਮੀ**, ਤੂੰ ਤਾਂ ਖੇਤ ਵਿਚ **ਚੰਗਾ ਬੀਜ** ਬੀਜਿਆ ਸੀ| ਕਿਉਂ, ਫਿਰ ਇਸ ਜੰਗਲੀ ਬੂਟੀ ਕਿਉਂ ਹੈ ?ਸਵਾਮੀ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, **ਜਰੁਰ ਹੈ** **ਕਿ ਦੁਸ਼ਮਣ ਨੇ ਬੀਜਿਆ ਹੋਵੇਗਾ|**
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:good]]**
+  * **[[:pa:obs:notes:key-terms:servant|ਨੌਕਰ]] **
+  * **[[:pa:obs:notes:key-terms:lord|ਮਾਲਕ]]**
+  * **[[:pa:obs:notes:key-terms:good|ਚੰਗਾ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
-
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਦੱਸਣੀ ਜਾਰੀ ਰੱਖਦਾ ਹੈ)
+  * **ਜਰੁਰ ਇਕ ਦੁਸ਼ਮਣ ਨੇ ਬੀਜਿਆ ਹੋਵੇਗਾ**  – ਜੇ ਸੰਭਵ ਹੈ, ਤਾਂ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕਰੋ ਜੋ  ਇਸ ਪ੍ਰਕਾਰ ਪ੍ਰਗਟ ਕਰੇ ਕਿ ਬੁਲਾਰਾ ਇਸ ਨੂੰ ਹੁੰਦਾ ਹੋਈਆਂ ਨਾ ਦੇਖੇ |
 **[[:pa:obs:notes:frames:50-05|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-07|>>]]**
