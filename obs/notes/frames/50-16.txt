@@ -1,24 +1,20 @@
-===== The New Heaven and Earth [50-16] =====
+===== **ਨਵਾਂ ਸਵਰਗ ਅਤੇ ਨਵੀ ਧਰਤੀ** **[50-16]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?nolink&}}
 
-Because **Adam** and **Eve disobeyed God** and **brought sin into** this world, God **cursed** it and decided to destroy it. But some day God will create **a new heaven** and **a new earth** that will be perfect.
-===== Important Terms: =====
+ਕਿਉਂਕਿ **ਆਦਮ** ਅਤੇ **ਹਵਾ** ਨੇ **ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਅਣ-ਆਗਿਆਕਾਰੀ ਕੀਤੀ** ਅਤੇ ਇਸ **ਜਗਤ ਵਿਚ ਪਾਪ ਨੂੰ ਲਿਆਂਦਾ**, ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸ ਨੂੰ **ਸਰਾਪ** **ਦਿੱਤਾ** ਅਤੇ ਇਸ ਨੂੰ ਤਬਾਹ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ| ਪਰ ਇਕ ਦਿਨ ਪ੍ਰਮੇਸ਼ਵਰ **ਨਵਾਂ** **ਸਵਰਗ** ਅਤੇ **ਨਵੀਂ** **ਧਰਤੀ** ਬਣਾਏਗਾ ਜੋ ਸਿੱਧ ਹੋਣਗੇ|
+===== **ਮਹੱਤਵਪੂਰਨ ਵਾਕ **: =====
 
-  * **[[:pa:obe:other:adam]]**
-  * **[[:pa:obe:other:eve]]**
-  * **[[:pa:obe:other:disobey]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:curse]]**
-  * **[[:pa:obe:kt:heaven]]**
+  * **[[:pa:obs:notes:key-terms:adam|ਆਦਮ]]**
+  * **[[:pa:obs:notes:key-terms:eve|ਹਵਾ]]**
+  * **[[:pa:obs:notes:key-terms:disobey|ਅਣ-ਆਗਿਆਕਾਰੀ]]**
+  * **[[:pa:obs:notes:key-terms:god|ਪ੍ਰਮੇਸ਼ਵਰ]]**
+  * **[[:pa:obs:notes:key-terms:sin|ਪਾਪ]]**
+  * **[[:pa:obs:notes:key-terms:curse|ਸਰਾਪ ਦਿੱਤਾ]] **
+  * **[[:pa:obs:notes:key-terms:heaven|ਸਵਰਗ]]**
+===== **ਅਨੁਵਾਦ ਦੇ ਨੋਟ **: =====
 
-
-===== Translation Notes: =====
-
-  * **brought sin into** - This could be translated as, "caused sin to enter."
-  * **a new heaven** - This could also be translated as, "a new sky" or, "a new universe". It refers to a new set of stars and everything else in the sky.
-  * **a new earth** - This current earth on which we live will be replaced by a new and improved one.
-
-
+  * **ਵਿਚ ਪਾਪ ਲਿਆਂਦਾ**  – ਇਸ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪਾਪ ਨੂੰ ਆਉਣ ਦਿੱਤਾ”|
+  * **ਇਕ ਨਵਾਂ ਸਵਰਗ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਨਵਾਂ ਆਕਾਸ਼” ਜਾਂ “ਨਵਾਂ ਸੰਸਾਰ”| ਇਹ ਨਵੇਂ ਤਾਰਿਆਂ ਅਤੇ ਆਕਾਸ਼ ਵਿਚ ਹਰ ਇਕ ਚੀਜ ਬਾਰੇ ਗੱਲ ਕਰਦਾ ਹੈ |
+  * **ਇਕ ਨਵੀਂ ਧਰਤੀ**  – ਇਹ ਵਰਤਮਾਨ ਧਰਤੀ ਜਿਸ ਉੱਤੇ ਅਸੀਂ ਰਹਿੰਦੇ ਹਾਂ ਨਵੀਂ ਅਤੇ ਉੱਤਮ ਦੇ ਨਾਲ ਬਦਲੀ ਜਾਵੇਗੀ |
 **[[:pa:obs:notes:frames:50-15|<<]] | [[:pa:obs:notes:50|Up]] | [[:pa:obs:notes:frames:50-17|>>]]**
