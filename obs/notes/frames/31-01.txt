@@ -1,15 +1,16 @@
-===== ਯਿਸੂ ਨੇ ਇੱਕਲੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ **\[31-01]**  =====
+===== ਯਿਸੂ ਨੇ ਇੱਕਲੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ [31-01] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&}}
 
-Then **Jesus** told the **disciples** to get into the boat and sail to the other side of the lake while **he dismissed the crowd**. After Jesus had sent the crowd away, he went up on a **mountainside** to **pray**. Jesus was there all alone, and he prayed until late at night.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਭੀੜ ਨੂੰ ਵਿਦਿਆ ਕੀਤਾ ਅਤੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਬੇੜੀ ਵਿਚ ਬੈਠ ਕੇ ਝੀਲ ਦੇ ਪਾਰ ਜਾਣ ਲਈ ਕਿਹਾ| ਭੀੜ ਨੂੰ ਭੇਜਣ ਤੋਂ ਬਾਅਦ ਯਿਸੂ ਪਹਾੜ ਵੱਲ ਉੱਪਰ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਲਈ ਗਿਆ | ਯਿਸੂ ਉੱਥੇ ਇੱਕਲਾ ਹੀ ਸੀ ਅਤੇ ਦੇਰ ਰਾਤ ਤੱਕ ਪ੍ਰਾਰਥਨਾ ਕਰਦਾ ਰਿਹਾ |
 
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:kt:disciple|disciple]]**
-  * **[[:pa:obe:other:pray|pray, prayer]]**
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ: =====
 
-  * **he dismissed the crowd**  - This is another way of saying, "he sent the crowd on their way" or, "he told the crowd of people to go back to their homes."
-  * **mountainside**  - That is, "the side of a mountain."
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
+
+  * **ਉਸ ਨੇ ਭੀੜ ਨੂੰ ਭੇਜਿਆ**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਉਸ ਨੇ ਭੀੜ ਨੂੰ ਉਹਨਾਂ ਦੇ ਰਾਹ ਭੇਜਿਆ” ਜਾਂ “ਉਸ ਨੇ ਭੀੜ ਦੇ ਲੋਕਾਂ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਆਪਣੇ ਘਰ ਜਾਣ|”
+  * **ਪਹਾੜ ਵੱਲ**  – ਮਤਲਬ, “ਪਹਾੜੀ ਖੇਤਰ|”
 **[[:pa:obs:notes:frames:30-09|<<]] | [[:pa:obs:notes:31|Up]] | [[:pa:obs:notes:frames:31-02|>>]]**
