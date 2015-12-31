@@ -1,24 +1,18 @@
-====== Peter Sank [31-07] ======
+====== ਪਤਰਸ ਡੁੱਬ ਗਿਆ **[31-07]**  ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&}}
 
-Then **Peter** became afraid and began to sink in the water. He cried out, “**Master**, **save** me!” **Jesus** reached out right away and grabbed him. Then he said to Peter, “**You man of little faith**, **why did you doubt**?”
+ਤੱਦ ਪਤਰਸ ਡਰ ਗਿਆ ਅਤੇ ਪਾਣੀ ਵਿਚ ਡੁੱਬਣ ਲੱਗਾ | ਉਹ ਚਿਲਾਇਆ, “ਸਵਾਮੀ, ਮੈਨੂ ਬਚਾ!” ਯਿਸੂ ਇਕ ਦਮ ਪਹੁੰਚਿਆ ਅਤੇ ਉਸ ਨੂੰ ਦਬੋਚ ਲਿਆ | ਤਸ ਪਤਰਸ ਨੂੰ ਕਿਹਾ, “ਤੂੰ ਥੋੜੇ  ਵਿਸ਼ਵਾਸ ਵਾਲੇ ਵਿਅਕਤੀ, ਕਿਉਂ ਭਰਮ ਕੀਤਾ?
 
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-===== Important Terms: =====
+  * **ਪਤਰਸ**
+  * **ਸਵਾਮੀ**
+  * **ਬਚਾਇਆ**
+  * **ਯਿਸੂ**
+  * **ਵਿਸ਼ਵਾਸ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:faith]]**
-
-
-===== Translation Notes: =====
-
-  * **You man of little faith** - This may also be translated as, "You have so little faith in me!" or, "You do not trust me very much!"
-  * **why did you doubt?** - That is, "You should not have doubted me!" or, "You should have trusted me completely." This isn't a real question, but a way in this language to make a strong point. In many languages, it works better to express this as a statement.
-
-  
-
+  * **ਥੋੜੇ  ਵਿਸ਼ਵਾਸ ਵਾਲੇ ਵਿਅਕਤੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਮੇਰੇ ਵਿਚ ਤੇਰਾ ਬਹੁਤ ਥੋੜਾ ਵਿਸ਼ਵਾਸ ਹੈ!” ਜਾਂ “ਤੂੰ ਮੇਰੇ ਉੱਤੇ ਬਹੁਤ ਜਿਆਦਾ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ!”
+  * **ਕਿਉਂ ਤੂੰ ਸ਼ੱਕ ਕੀਤੀ?**  – ਮਤਲਬ, “ਤੈਨੂੰ ਮੇਰੇ ਉੱਤੇ ਸ਼ੱਕ ਨਹੀਂ ਕਰਨਾ ਚਾਹੀਦਾ ਸੀ!” ਜਾਂ “ਤੂੰ ਮੇਰੇ ਉੱਤੇ ਪੂਰੀ ਤਰਾਂ ਨਾਲ ਭਰੋਸਾ ਕਰਦਾ|” ਇਹ ਅਸਲੀ ਸਵਾਲ ਨਹੀਂ ਹੈ, ਪਰ ਇਸ ਭਾਸ਼ਾ ਵਿਚ ਮੁੱਦੇ ਨੂੰ ਤਕੜਾ ਕਰਨ ਦਾ ਤਰੀਕਾ ਹੈ| ਬਹੁਤ ਭਾਸ਼ਾਵਾਂ ਵਿਚ, ਕਥਨ ਨੂੰ ਪ੍ਰਗਟ ਕਰਨ ਲਈ ਇਹ ਤਰੀਕਾ ਬਹੁਤ ਵਧੀਆ ਕੰਮ ਕਰਦਾ ਹੈ|
 **[[:pa:obs:notes:frames:31-06|<<]] | [[:pa:obs:notes:31|Up]] | [[:pa:obs:notes:frames:31-08|>>]]**
