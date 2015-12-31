@@ -1,4 +1,4 @@
-===== ਮੇਰਾ ਨਾਲ ਲਸ਼ਕਰ ਹੈ **[32-06]**  =====
+===== ਮੇਰਾ ਨਾਲ ਲਸ਼ਕਰ ਹੈ [32-06] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
@@ -6,15 +6,15 @@
 
 ===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **[[:pa:obe:kt:demonpossessed|demon-possessed]]**
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:kt:sonofgod|Son of God, the Son]]**
-  * **[[:pa:obe:kt:god|God]]**
-===== Translation Notes: =====
+  * **ਬਦਰੂਹਾਂ ਵਾਲਾ ਵਿਅਕਤੀ**
+  * **ਯਿਸੂ**
+  * **ਪੁੱਤਰ**
+  * **ਅੱਤ ਮਹਾਨ ਪ੍ਰਮੇਸ਼ਵਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **cried out**  - That is, "shouted" or, "exclaimed."
-  * **What do you want with me**  - This expression means, "What are you going to do to me?"
-  * **the Most High God**  - That is, "the Supreme God" or, "the Most Sovereign God" or, "the Most Powerful God." The meaning of "high" here refers to God's greatness. It does not refer to altitude or being tall.
-  * **Legion**  - This was the name of the group of demons, but it also describes that the evil spirits were very numerous. Use the name if the note that follows will make the meaning clear in your language. If not, you may need to translate the word as something like, "Army" or, "Crowd" or, "Thousands."
-  * **we are many**  - we are many - That is, "there are many of us" or, "we are many demons."
+  * ਚਿਲਾਇਆ – ਮਤਲਬ, “ਚੀਕਿਆ” ਜਾਂ “ਚਿਲਾਇਆ”
+  * **ਤੇਰਾ ਮੇਰੇ ਨਾਲ ਕਿ ਵਾਸਤਾ**  – ਇਸ ਪ੍ਰਗਟੀਕਰਨ ਦਾ ਮਤਲਬ ਹੈ, “ਕੀ ਤੂੰ ਮੇਰੇ ਨਾਲ ਕਰਨ ਜਾ ਰਿਹਾਂ ਹੈ?”
+  * **ਅੱਤ ਮਹਾਨ ਪ੍ਰਮੇਸ਼ਵਰ**  – ਮਤਲਬ, “ਸੱਭ ਤੋਂ ਵੱਡਾ ਪ੍ਰਮੇਸ਼ਵਰ” ਜਾਂ “ਸੱਭ ਤੋਂ ਸ਼ਕਤੀਸ਼ਾਲੀ ਪ੍ਰਮੇਸ਼ਵਰ|” “ਮਹਾਨ” ਦਾ ਮਤਲਬ ਇੱਥੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਾਨਤਾ ਲਈ ਵਰਤਿਆ ਗਿਆ ਹੈ| ਇਹ ਕਿਸੇ ਉਚਾਈ ਜਾਂ ਉੱਚਾ ਹੋਣ ਬਾਰੇ ਗਲ ਨਹੀਂ ਕੀਤੀ ਗਈ |
+  * **ਲਸ਼ਕਰ**  – ਇਹ ਭੂਤਾਂ ਦੇ ਝੁੰਡ ਦਾ ਨਾਮ ਸੀ, ਪਰ ਇਹ ਇਸ ਗੱਲ ਨੂੰ ਵੀ ਬਿਆਨ ਕਰਦਾ ਹੈ ਕਿ ਭੂਤਾਂ ਦੀ ਗਿਣਤੀ ਕਿੰਨੀ ਸੀ | ਇਸ ਨਾਮ ਦਾ ਇਸੇਮਾਲ ਕਰੋ ਜੇ ਇਹ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿਚ ਮਤਲਬ ਪੈਦਾ ਕਰਦਾ ਹੈ | ਅਗਰ ਨਹੀਂ, ਤਾਂ ਤੁਹਾਨੂੰ ਕੁੱਝ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰਨਾ ਪਵੇਗਾ, “ਸੈਨਾ” ਜਾਂ “ਭੀੜ” ਜਾਂ “ਹਜਾਰ”|
+  * **ਅਸੀਂ ਬਹੁਤ ਹਾਂ**  – ਮਤਲਬ, “ਇੱਥੇ ਅਸੀਂ ਬਹੁਤ ਜਣੇ ਹਾਂ” ਜਾਂ “ਅਸੀਂ ਬਹੁਤ ਬਦਰੂਹਾਂ ਹਾਂ|”
 **[[:pa:obs:notes:frames:32-05|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-07|>>]]**
