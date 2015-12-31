@@ -1,18 +1,16 @@
-===== Jesus Walked on the Water [31-03] =====
+===== ਯਿਸੂ ਪਾਣੀ ਉੱਤੇ ਚੱਲਿਆ **[31-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&}}
 
-Then **Jesus** finished praying and went to the disciples. He walked on top of the water across the lake toward their boat!
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਪ੍ਰਾਰਥਨਾ ਖਤਮ ਕੀਤੀ ਅਤੇ ਚੇਲਿਆਂ ਕੋਲ ਗਿਆ | ਉਹ ਝੀਲ ਦੇ ਪਾਰੋਂ  ਉਹਨਾਂ ਦੀ ਬੇੜੀ ਵੱਲ ਪਾਣੀ ਉੱਤੇ ਚੱਲਿਆ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:pray]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ :  =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:31-02|<<]] | [[:pa:obs:notes:31|Up]] | [[:pa:obs:notes:frames:31-04|>>]]**
