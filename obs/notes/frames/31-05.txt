@@ -1,19 +1,16 @@
-===== Jesus Called Peter [31-05] =====
+===== ਯਿਸੂ ਨੇ ਪਤਰਸ ਨੂੰ ਬੁਲਾਇਆ **[31-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&}}
 
-Then **Peter** said to **Jesus**, “**Master****Bold Text**, **if it is you**, command me to come to you on the water.” Jesus told Peter, “**Come**!”
-===== Important Terms: =====
+ਤੱਦ ਪਤਰਸ ਨੇ ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “ਸਵਾਮੀ, ਜੇ ਤੂੰ ਹੈਂ, ਮੈਨੂੰ ਹੁਕਮ ਦੇਹ ਕਿ ਮੈਂ ਤੇਰੇ ਕੋਲ ਪਾਣੀ ਉੱਤੇ ਚੱਲ ਕੇ ਆਵਾਂ|” ਯਿਸੂ ਨੇ ਪਤਰਸ ਨੂੰ ਕਿਹਾ, “ਆ ਜਾਹ!”
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:lord]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪਤਰਸ**
+  * **ਯਿਸੂ**
+  * **ਸਵਾਮੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **if it is you** - That is, "if it is really you, and not a ghost."
-  * **Come!** - That is, "Come here" or, "Come to me" or, "Come, walk to me."
-
-
+  * **ਜੇ ਤੂੰ ਹੈਂ**  – ਮਤਲਬ, ਜੇ ਸੱਚਮੁਚ ਤੂੰ ਹੈਂ, ਅਤੇ ਕੋਈ ਭੂਤ ਨਹੀਂ|”
+  * **ਆ ਜਾਹ**  – ਮਤਲਬ, “ਇੱਥੇ ਆ” ਜਾਂ “ਮੇਰੇ ਕੋਲ ਆ” ਜਾਂ “ਆ ਮੇਰੇ ਵੱਲ ਤੁਰ|”
 **[[:pa:obs:notes:frames:31-04|<<]] | [[:pa:obs:notes:31|Up]] | [[:pa:obs:notes:frames:31-06|>>]]**
