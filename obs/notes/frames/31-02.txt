@@ -1,21 +1,17 @@
-===== The Storm [31-02] =====
+===== ਤੁਫਾਨ **[31-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&}}
 
-**Meanwhile**, the **disciples** were **rowing their boat**, but by late in the night they had only traveled as far as the middle of the lake. They were rowing with **great difficulty** because the wind was blowing hard against them.
-===== Important Terms: =====
+ਉਸ ਸਮੇਂ ਜਦੋਂ ਚੇਲੇ ਬੇੜੀ ਚਲਾ ਰਹੇ ਸਨ ਅਤੇ ਅੱਧੀਕੁ ਰਾਤ ਨੂੰ ਉਹ ਅਜੇ ਝੀਲ ਦੇ ਵਿਚਕਾਰ ਹੀ ਪਹੁੰਚੇ ਸਨ | ਉਹ ਆਪਣੇ ਵਿਰੁੱਧ ਚਲ ਰਹੀ ਭਾਰੀ ਹਵਾ ਦੇ ਕਾਰਨ ਬਹੁਤ ਮੁਸ਼ਕਲ ਨਾਲ ਬੇੜੀ ਨੂੰ ਚਲਾ ਰਹੇ ਸਨ |
 
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:pray]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਚੇਲੇ**
+  * **ਚੇਲੇ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
-  * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-
-
+  * **ਉਸ ਸਮੇਂ**  – ਮਤਲਬ, “ਜਦੋਂ ਯਿਸੂ ਪਹਾੜੀ ਖੇਤਰ ਵਿਚ ਪ੍ਰਾਰਥਨਾ ਕਰਦਾ ਸੀ|”
+  * **ਆਪਣੀ ਬੇੜੀ ਨੂੰ ਚਲਾ ਰਹੇ ਸਨ**  – ਮਤਲਬ, “ਬੇੜੀ ਦੀ ਯਾਤਰਾ ਸ਼ੁਰੂ ਹੋ ਚੁੱਕੀ ਸੀ ਪਰ ਉਹਨਾਂ ਦੇ ਵਿਰੁੱਧ ਹਵਾ ਦੇ ਕਾਰਨ ਉਹ ਚੱਲ ਨਹੀਂ ਰਹੀ ਸੀ |
+  * **ਬੜੀ ਮੁਸ਼ਕਲ**  – ਮਤਲਬ, “ਬਹੁਤ ਮੁਸ਼ਕਲ” ਜਾਂ “ਇਕ ਬਹੁਤ ਵੱਡੀ ਮੁਸ਼ਕਲ”|
 **[[:pa:obs:notes:frames:31-01|<<]] | [[:pa:obs:notes:31|Up]] | [[:pa:obs:notes:frames:31-03|>>]]**
-
