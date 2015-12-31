@@ -1,18 +1,15 @@
-===== Preparation for the Meal [30-06] =====
+===== ਖਾਣੇ ਦੀ ਤਿਆਰੀ **[30-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?nolink&}}
 
+ਯਿਸੂ ਨੇ ਚੇਲਿਆ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਭੀੜ ਵਿਚ ਲੋਕਾਂ ਨੂੰ ਘਾਹ ਉੱਤੇ ਪੰਜਾਹ ਪੰਜਾਹ ਦੇ ਝੁੰਡ ਵਿਚ ਬੈਠਣ ਲਈ ਕਹਿਣ |
 
-**Jesus** told his **disciples** to tell the people in the crowd to sit down on the grass, in groups of fifty people each.
-===== Important Terms: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:30-05|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-07|>>]]**
