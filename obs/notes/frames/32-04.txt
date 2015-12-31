@@ -1,16 +1,13 @@
-===== Living among the Tombs [32-04] =====
+===== ਕਬਰਾਂ ਵਿਚ ਰਹਿੰਦਾ **[32-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-04.jpg?nolink&}}
 
-The man lived **among the tombs** in the area. This man would scream all day and all night. He did not wear clothes and cut himself repeatedly with stones.
-===== Important Terms: =====
+ਵਿਅਕਤੀ ਉਸ ਇਲਕੇ ਵਿਚ ਕਬਰਾਂ ਵਿਚ ਸੀ | ਇਹ ਵਿਅਕਤੀ ਰਾਤ ਦਿਨ ਚੀਕਾਂ ਮਾਰਦਾ ਰਹਿੰਦਾ ਸੀ | ਉਹ ਕਪੜੇ ਨਹੀ ਪਹਿਨਦਾ ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਪੱਥਰਾਂ ਨਾਲ ਕੱਟਦਾ |
 
-  * **[[:pa:obe:other:tomb]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਕਬਰਾਂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **among the tombs** - That is "near the tombs" or, "around the tombs."
-
-
+  * **ਕਬਰਾਂ ਵਿਚ**  – ਮਤਲਬ, “ਕਬਰਾਂ ਦੇ ਨੇੜੇ” ਜਾਂ “ਕਬਰਾਂ ਦੇ ਚੁਫੇਰੇ|”
 **[[:pa:obs:notes:frames:32-03|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-05|>>]]**
