@@ -1,23 +1,20 @@
-===== My Name Is Legion [32-06] =====
+===== ਮੇਰਾ ਨਾਲ ਲਸ਼ਕਰ ਹੈ **[32-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-06.jpg?nolink&}}
 
-The **man with the demon cried out** in a loud voice, “**What do you want with me**, **Jesus**, **Son** of **the Most High God**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is **Legion**, because **we are many**.” (A “legion” was a group of several thousand soldiers in the Roman army.)
-===== Important Terms: =====
+ਬਦਰੂਹਾਂ ਵਾਲਾ ਵਿਅਕਤੀ ਉੱਚੀ ਨਾਲ ਚਿਲਾਇਆ, “ਯਿਸੂ, ਅੱਤ ਮਹਾਨ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪੁੱਤਰ, ਤੇਰਾ ਮੇਰੇ ਨਾਲ ਕਿ ਵਾਸਤਾ? ਮੈਨੂੰ ਤੰਗ ਨਾ ਕਰ!” ਤੱਦ ਯਿਸੂ ਨੇ ਬਦਰੂਹ ਨੂੰ ਪੁੱਛਿਆ, “ਤੇਰਾ ਨਾਮ ਕਿ ਹੈ?” ਉਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਮੇਰਾ ਨਾਮ ਲਸ਼ਕਰ ਹੈ ਕਿਉਕਿ ਅਸੀਂ ਬਹੁਤ ਹਾਂ|” (“ਲਸ਼ਕਰ” ਰੋਮੀ ਫੌਜ ਵਿਚ ਬਹੁਤ ਹਜਾਰਾਂ ਦੇ ਝੁੰਡ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ )
 
-  * **[[:pa:obe:kt:demonpossessed]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:god]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-
+  * **[[:pa:obe:kt:demonpossessed|demon-possessed]]**
+  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:pa:obe:kt:sonofgod|Son of God, the Son]]**
+  * **[[:pa:obe:kt:god|God]]**
 ===== Translation Notes: =====
 
-  * **cried out** - That is, "shouted" or, "exclaimed."
-  * **What do you want with me** - This expression means, "What are you going to do to me?"
-  * **the Most High God** - That is, "the Supreme God" or, "the Most Sovereign God" or, "the Most Powerful God." The meaning of "high" here refers to God's greatness. It does not refer to altitude or being tall.
-  * **Legion** - This was the name of the group of demons, but it also describes that the evil spirits were very numerous. Use the name if the note that follows will make the meaning clear in your language. If not, you may need to translate the word as something like, "Army" or, "Crowd" or, "Thousands."
-  * **we are many** - we are many - That is, "there are many of us" or, "we are many demons."
-
-
+  * **cried out**  - That is, "shouted" or, "exclaimed."
+  * **What do you want with me**  - This expression means, "What are you going to do to me?"
+  * **the Most High God**  - That is, "the Supreme God" or, "the Most Sovereign God" or, "the Most Powerful God." The meaning of "high" here refers to God's greatness. It does not refer to altitude or being tall.
+  * **Legion**  - This was the name of the group of demons, but it also describes that the evil spirits were very numerous. Use the name if the note that follows will make the meaning clear in your language. If not, you may need to translate the word as something like, "Army" or, "Crowd" or, "Thousands."
+  * **we are many**  - we are many - That is, "there are many of us" or, "we are many demons."
 **[[:pa:obs:notes:frames:32-05|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-07|>>]]**
