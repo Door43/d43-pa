@@ -1,17 +1,14 @@
-===== Five Loaves and Two Fish [30-05] =====
+===== ਦੋ ਰੋਟੀਆਂ ਅਤੇ ਪੰਜ ਮੱਛੀਆਂ **[30-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?nolink&}}
 
-But **Jesus** said to the **disciples**, “You give them something to eat!” They responded, “**How can we do that**? We only have five loaves of bread and two small fish.”
-===== Important Terms: =====
+ਪਰ ਯਿਸੂ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਕਿਹਾ, “ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਕੁੱਝ ਖਾਣ ਲਈ ਦੇਵੋ!” ਉਹਨਾਂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਅਸੀਂ ਕਿਸ ਤਰਾਂ ਕਰ ਸਕਦੇ ਹਾਂ? ਸਾਡੇ ਕੋਲ ਸਿਰਫ ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਮੱਛੀਆਂ ਹੀ ਹਨ |”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **How can we do that?** - This could be translated as, "We cannot do that!" or, "It is impossible to do that!" The disciples were not asking an actual question. Rather, they were strongly expressing that they did not think this was possible.
-
-
+  * **ਅਸੀਂ ਕਿਸ ਤਰਾਂ ਕਰ ਸਕਦੇ ਹਾਂ ?**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਅਸੀਂ ਇਹ ਨਹੀਂ ਕਰ ਸਕਦੇ!” ਜਾਂ “ਇਸ ਤਰਾਂ ਕਰਨਾ ਅਸੰਭਵ ਹੈ!” ਚੇਲੇ ਕੋਈ ਅਸਲ ਸਵਾਲ ਨਹੀਂ ਪੁੱਛ ਰਹੇ ਸਨ | ਇਸ ਦੀ ਬਜਾਏ ਉਹ ਜੋਰ ਨਾਲ ਪ੍ਰਗਟ ਕਰ ਰਹੇ ਸਨ ਕਿ ਉਹ ਨਹੀ ਸੋਚਦੇ ਕਿ ਇਹ ਸੰਭਵ ਹੈ|
 **[[:pa:obs:notes:frames:30-04|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-06|>>]]**
