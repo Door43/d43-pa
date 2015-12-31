@@ -1,18 +1,15 @@
-===== A Man with Evil Spirits [32-02] =====
+===== ਬਦਰੂਹਾਂ ਵਾਲਾ ਇਕ ਵਿਅਕਤੀ **[32-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-02.jpg?nolink&}}
 
-When they reached the other side of the lake, **a demon-possessed man came running up to Jesus**.
-===== Important Terms: =====
+ਜਦੋਂ ਉਹ ਝੀਲ ਦੇ ਦੂਸਰੇ ਕਿਨਾਰੇ ਪਹੁੰਚੇ ਇਕ ਬਦਰੂਹਾਂ ਨਾਲ ਭੱਰਿਆ ਹੋਇਆ ਵਿਅਕਤੀ ਯਿਸੂ ਵੱਲ ਦੌੜ ਕੇ ਆਇਆ|
 
-  * **[[:pa:obe:kt:demonpossessed]]**
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਬਦਰੂਹਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਵਿਅਕਤੀ**
+  * **ਯਿਸੂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **a demon-possessed man** - That is, "a man who had demons in him" or, "a man who was controlled by evil spirits."
-  * **came running up to** - That is, "ran to" or, "ran and stopped in front of."
-
-
+  * **ਬਦਰੂਹਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਇਕ ਵਿਅਕਤੀ**  – ਮਤਲਬ, “ਇਕ ਵਿਅਕਤੀ ਜਿਸ ਵਿਚ ਬਦਰੂਹਾਂ ਸਨ” ਜਾਂ “ਇਕ ਵਿਅਕਤੀ ਜੋ ਬਦਰੂਹਾਂ ਦੁਰਾਰਾ ਜਕੜਿਆ ਹੋਇਆ ਸੀ|”
+  * **ਵੱਲ ਦੌੜ ਕੇ ਆਇਆ**  – ਮਤਲਬ, “ਵੱਲ ਦੌੜਿਆ” ਜਾਂ “ਦੌੜਿਆ ਅਤੇ ਸਾਹਮਣੇ ਆ ਕੇ ਰੁੱਕ ਗਿਆ|”
 **[[:pa:obs:notes:frames:32-01|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-03|>>]]**
