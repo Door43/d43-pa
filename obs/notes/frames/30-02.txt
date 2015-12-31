@@ -1,17 +1,14 @@
-===== The Crowd Followed Jesus [30-02] =====
+===== ਭੀੜ ਯਿਸੂ ਦੇ ਪਿੱਛੇ ਹੋ ਚੱਲੀ **[30-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?nolink&}}
 
-But there were many people who saw **Jesus** and the **disciples** leave in the boat to cross the lake. These people ran along the shore of the lake to get to the other side ahead of them. So when Jesus and the disciples **arrived**, a large group of people was already there, waiting for them.
-===== Important Terms: =====
+ਪਰ ਉੱਥੇ ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਸਨ ਜਿਹਨਾਂ ਨੇ ਯਿਸੂ ਅਤੇ ਚੇਲਿਆਂ ਨੂੰ ਬੇੜੀ ਵਿਚ ਬਹਿ ਕੇ ਝੀਲ ਦੇ ਪਾਰ ਜਾਂਦਿਆਂ ਦੇਖਿਆ | ਇਹ ਲੋਕ ਝੀਲ ਦੇ ਕਿਨਾਰੇ ਕਿਨਾਰੇ ਭੱਜੇ  ਕੇ ਉਹਨਾਂ ਤੋਂ ਪਹਿਲਾਂ ਝੀਲ ਦੇ ਦੂਸਰੇ ਪਾਰ ਪਹੁੰਚਣ | ਇਸ ਲਈ ਜਦੋਂ ਯਿਸੂ ਅਤੇ ਚੇਲੇ ਪਹੁੰਚੇ ਇਕ ਵੱਡੀ ਭੀੜ ਪਹਿਲਾਂ ਹੀ ਉੱਥੇ ਉਹਨਾਂ ਦਾ ਇੰਤਜਾਰ ਕਰ ਰਹੀ ਸੀ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ **
+  * **ਰਸੂਲ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **arrived** - That is, "got to the other side of the lake" or, "got there."
-
-
+  * **ਪਹੁੰਚੇ**  – ਮਤਲਬ, “ਝੀਲ ਦੇ ਦੂਸਰੇ ਪਾਰ ਪਹੁਚੇ” ਜਾਂ “ਉੱਥੇ ਪਹੁੰਚੇ|”
 **[[:pa:obs:notes:frames:30-01|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-03|>>]]**
