@@ -1,21 +1,18 @@
-===== Jesus Taught and Healed People [30-03] =====
+===== ਯਿਸੂ ਨੇ ਲੋਕਾਂ ਨੂੰ ਸਿੱਖਾਇਆ ਅਤੇ ਚੰਗਾ ਕੀਤਾ **[30-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?nolink&}}
 
-The crowd had over 5,000 men in it, **not counting the women and children**. **Jesus** felt great compassion towards the people. **To Jesus**, these people were **like sheep without a shepherd**. So he taught them and **healed** the people among them who were sick.
-===== Important Terms: =====
+ਭੀੜ ਵਿਚ ਮਰਦਾਂ ਦੀ ਗਿਣਤੀ 5000 ਤੋਂ ਵੱਧ ਸੀ ਜਿਸ ਵਿਚ ਬੱਚੇ ਅਤੇ ਔਰਤਾਂ ਨਹੀਂ ਗਿਣੀਆਂ ਗਈਆਂ ਸਨ | ਯਿਸੂ ਲੋਕਾਂ ਪ੍ਰਤੀ ਬਹੁਤ ਤਰਸ ਨਾਲ ਭਰ ਗਿਆ | ਯਿਸੂ ਲਈ ਇਹ ਲੋਕਾਂ ਉਹਨਾਂ ਭੇਡਾਂ ਵਰਗੇ ਸਨ ਜਿਹਨਾਂ ਦਾ ਅਯਾਲੀ ਨਹੀਂ ਹੈ | ਇਸ ਲਈ ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਸਿੱਖਿਆ ਅਤੇ ਉਹਨਾਂ ਵਿਚ ਜਿਹੜੇ ਬੀਮਾਰ ਸਨ ਚੰਗਾ ਕੀਤਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:sheep]]**
-  * **[[:pa:obe:other:shepherd]]**
-  * **[[:pa:obe:other:heal]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਭੇਡਾਂ**
+  * **ਅਯਾਲੀ**
+  * **ਚੰਗਾ ਕੀਤਾ **
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **not counting the women and children** - That is, "not counting the women and children who were with them" or, "and there were also women and children in addition to the men." Another way to translate this could also be, "in addition, there were many women and children."
-  * **To Jesus** - That is, "Jesus knew that" or, "Jesus understood that."
-  * **like sheep without a shepherd** - This could be translated as, "vulnerable and lost, just like sheep are when they have no shepherd to take care of them."
-
-
+  * **ਔਰਤਾਂ ਅਤੇ ਬੱਚਿਆਂ ਨੂੰ ਨਹੀਂ ਗਿਣਿਆ ਗਿਆ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਨਾਲ ਜਿਹੜੇ ਬੱਚੇ ਅਤੇ ਔਰਤਾਂ ਸਨ ਉਹਨਾਂ ਨੂੰ ਨਹੀਂ ਗਿਣਿਆ” ਜਾਂ “ਮਰਦਾਂ ਦੇ ਨਾਲ ਔਰਤਾਂ ਅਤੇ ਬੱਚੇ ਵੀ ਸਨ|” ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਵੀ ਅਨੁਵਾਦ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਦੇ ਨਾਲ ਨਾਲ, ਉੱਥੇ ਬਹੁਤ ਸਾਰੇ ਬੱਚੇ ਅਤੇ ਔਰਤਾਂ ਵੀ ਸਨ|”
+  * **ਯਿਸੂ ਲਈ,**  ਮਤਲਬ, “ਯਿਸੂ ਨੂੰ ਇਸ ਦਾ ਪਤਾ ਸੀ” ਜਾਂ “ਯਿਸੂ ਸਮਝ ਗਏ ਸਨ|”
+  * **ਬਿਨਾ ਅਯਾਲੀ ਦੇ ਭੇਡਾਂ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਸੱਟ ਖਾਣ ਯੋਗ ਅਤੇ ਗੁਆਚੇ ਹੋਏ, ਜਿਵੇਂ ਭੇਡਾਂ ਅਯਾਲੀ ਦੀ ਦੇਖ ਭਾਲ ਤੋਂ ਬਿਨਾ ਹੋਣ|”
 **[[:pa:obs:notes:frames:30-02|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-04|>>]]**
