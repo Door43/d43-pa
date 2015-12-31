@@ -1,20 +1,16 @@
-===== Jesus Blessed the Food [30-07] =====
+===== ਯਿਸੂ ਨੇ ਭੋਜਨ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ **[30-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?nolink&}}
 
-Then **Jesus** took the five loaves of bread and the two fish, looked up to **heaven**, and thanked **God** for the food.
+ਤੱਦ ਯਿਸੂ ਨੇ ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਮੱਛੀਆਂ ਲਈਆਂ, ਸਵਰਗ ਵੱਲ ਦੇਖਿਆ ਅਤੇ ਭੋਜਨ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਧਨਵਾਦ ਕੀਤਾ |
 
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-===== Important Terms: =====
+  * **ਯਿਸੂ**
+  * **ਸਵਰਗ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:heaven]]**
-  * **[[:pa:obe:kt:god]]**
-
-
-===== Translation Notes: =====
-
-  * //(There are no notes for this frame.)// 
-
+  * (ਇਸ ਢਾਂਚੇ ਲਈ ਕੋਈ ਨੋਟ ਨਹੀਂ ਹੈ)
 
 **[[:pa:obs:notes:frames:30-06|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-08|>>]]**
