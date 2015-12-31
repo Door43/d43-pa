@@ -1,14 +1,13 @@
-===== Breaking the Chains [32-03] =====
+===== ਸੰਗਲਾ ਨੂੰ ਤੋੜਦਾ **[32-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
-This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
-===== Important Terms: =====
+ਇਹ ਵਿਅਕਤੀ ਬਹੁਤ ਤਕੜਾ ਸੀ ਕਿ ਕੋਈ ਵੀ ਉਸ ਨੂੰ ਕਾਬੂ ਨਹੀ ਕਰ ਸਕਦਾ ਸੀ | ਲੋਕਾਂ ਨੇ ਉਸ ਦੇ ਹੱਥ ਪੈਰ ਵੀ ਸੰਗਲਾਂ ਨਾਲ ਬੰਨੇ ਪਰ ਉਹ ਉਹਨਾਂ ਨੂੰ ਤੋੜ ਦਿੰਦਾ |
 
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **fastened his arms and legs** - That is, "restrained" or, "bound."
-  * **kept breaking them** - Some languages may need to say, "kept breaking the chains."
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
+  * **ਉਸ ਦੇ ਹੱਥਾਂ ਅਤੇ ਪੈਰਾਂ ਨੂੰ ਬੰਨਿਆ**  – ਮਤਲਬ, “ਕਾਬੂ ਕੀਤਾ” ਜਾਂ “ਬੰਨਿਆ”|
+  * **ਤੋੜ ਦਿੰਦਾ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਇਸ ਤਰਾਂ ਕਹਿਣ ਦੀ ਜਰੂਰਤ ਹੈ, “ਲਗਾਤਾਰ ਸੰਗਲਾਂ ਨੂੰ ਤੋੜਦਾ|”
 **[[:pa:obs:notes:frames:32-02|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-04|>>]]**
