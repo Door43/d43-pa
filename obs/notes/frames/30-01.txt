@@ -1,20 +1,15 @@
-===== A Quiet Place [30-01] =====
+===== ਇਕ ਇਕਾਂਤ ਜਗ੍ਹਾ **[30-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?nolink&}}
 
-**Jesus** sent his **apostles** to **preach** and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a **quiet place** across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
+ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਬਹੁਤ ਭਿੰਨ ਭਿੰਨ ਪਿੰਡਾਂ ਵਿਚ ਲੋਕਾਂ ਨੂੰ ਸਿੱਖਾਉਣ ਅਤੇ ਪ੍ਰਚਾਰ ਕਰਨ ਲਈ ਭੇਜਿਆ | ਜਦੋਂ ਉਹ ਉੱਥੇ ਵਾਪਸ ਆਏ ਜਿੱਥੇ ਯਿਸੂ ਸੀ ਤਾਂ ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ ਸੱਭ ਦੱਸਿਆ ਜੋ ਕੀਤਾ ਸੀ | ਤੱਦ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਥੋੜਾ ਅਰਾਮ ਕਰਨ ਲਈ ਝੀਲ ਦੇ ਪਾਰ ਇਕ ਇਕਾਂਤ ਜਗ੍ਹਾ ਤੇ ਜਾਣ ਲਈ ਸੱਦਿਆ | ਇਸ ਲਈ ਉਹ ਬੇੜੀ ਵਿਚ ਚੜ੍ਹ ਗਏ ਅਤੇ ਝੀਲ ਦੇ ਦੂਸਰੇ ਪਾਰ ਚਲੇ ਗਏ |
 
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-===== Important Terms: =====
+  * **ਯਿਸੂ**
+  * **ਰਸੂਲ**
+  * **ਪ੍ਰਚਾਰ ਕਰੋ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:apostle]]**
-  * **[[:pa:obe:other:preach]]**
-
-
-===== Translation Notes: =====
-
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
-
+  * **ਇਕਾਂਤ ਜਗ੍ਹਾ**  – ਇਹ ਇਕ ਐਸੀ ਜਗ੍ਹਾ ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ ਜਿੱਥੇ ਬਹੁਤ ਘੱਟ ਲੋਕ ਜੋ ਆਪਣੇ ਆਪ ਵਿਚ ਹੀ ਰਹਿੰਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:29-09|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-02|>>]]**
