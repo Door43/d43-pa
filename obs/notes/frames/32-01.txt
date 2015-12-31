@@ -1,18 +1,15 @@
-===== The Country of the Gerasenes [32-01] =====
+===== ਗ੍ਰ੍ਨੇਸੀਅਤ ਦਾ ਦੇਸ  **[32-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-01.jpg?nolink&}}
 
-**One day**, **Jesus** and his **disciples** went in a boat across the lake to the region where **the Gerasene people** lived.
-===== Important Terms: =====
+ਇਕ ਦਿਨ ਯਿਸੂ ਅਤੇ ਉਸਦੇ ਚੇਲੇ ਬੇੜੀ ਵਿਚ ਚੜ੍ਹ ਕੇ ਝੀਲ ਦੇ ਪਾਰ ਉਸ ਇਲਾਕੇ ਵਿਚ ਗਏ ਜਿੱਥੇ ਗਿਰ੍ਸੇਨੀ ਲੋਕ ਰਹਿੰਦੇ ਸਨ|
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **the Gerasene people** - The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They are descendants of the Jews, but we know few details about them.
-
-
+  * **ਇਕ ਦਿਨ**  – ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਘਟੀ, ਪਰ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਨਹੀਂ ਤਸਦੀਕ ਕਰਦੀ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਹੈ |
+  * **ਗਿਰਸੇਨੀ ਲੋਕ**  – ਗਿਰਸੇਨੀ ਲੋਕ ਇਕ ਇਲਾਕੇ ਵਿਚ ਰਹਿੰਦੇ ਸਨ ਜੋ ਗਲੀਲ ਦੇ ਸਮੁੰਦਰ ਦੇ ਪੂਰਬੀ ਤੱਟ ਨਾਲ ਲੱਗਦਾ ਸੀ | ਉਹ ਯਹੂਦੀਆਂ ਦੀ ਸੰਤਾਨ ਸਨ ਪਰ ਅਸੀਂ ਉਹਨਾਂ ਬਾਰੇ ਬਹੁਤ ਘੱਟ ਜਾਣਦੇ ਹਾਂ |
 **[[:pa:obs:notes:frames:31-08|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-02|>>]]**
