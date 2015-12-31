@@ -1,16 +1,13 @@
-===== More than Enough [30-09] =====
+===== ਜਰੂਰਤ ਤੋਂ ਜਿਆਦਾ **[30-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?nolink&}}
 
-After that, the **disciples** collected the food that had not been eaten and it was enough to fill twelve baskets! All the food came from the five loaves of bread and two fish.
-===== Important Terms: =====
+ਉਸ ਤੋਂ ਬਾਅਦ, ਚੇਲਿਆਂ ਨੇ ਨਾ ਵਰਤਿਆ ਭੋਜਨ ਇੱਕਠਾ ਕੀਤਾ ਅਤੇ ਇਹ ਬਾਰਾਂ ਟੋਕਰੀਆਂ ਨੂੰ ਭਰਨ ਲਈ ਕਾਫੀ ਸੀ ! ਸਾਰਾ ਭੋਜਨ ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਮੱਛੀਆਂ ਤੋਂ ਆਇਆ ਸੀ |
 
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
+  * **ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ **– ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:30-08|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:31-01|>>]]**
