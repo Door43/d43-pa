@@ -1,18 +1,15 @@
-===== The People Were Hungry [30-04] =====
+===== ਲੋਕ ਭੁੱਖੇ ਸਨ **[30-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?nolink&}}
 
-**Late in the day**, the **disciples** told **Jesus**, “It is late and there are no towns nearby. **Send the people away** so they can go get something to eat.”
-===== Important Terms: =====
+ਦਿਨ ਦੇ ਆਖਰ ਵਿਚ ਚੇਲਿਆਂ ਨੇ  ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “ਸ਼ਾਮ ਹੋ ਰਹੀ ਹੈ ਅਤੇ ਨੇੜੇ  ਕੋਈ ਨਗਰ ਨਹੀਂ ਹੈ | ਇਹਨਾਂ ਨੂੰ ਭੇਜ ਕਿ ਇਹ ਜਾਣ ਅਤੇ ਖਾਣ ਲਈ ਕੁੱਝ ਲੈਣ|”
 
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਚੇਲੇ**
+  * **ਯਿਸੂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Late in the day** - This could also be translated as, "When it was almost evening."
-  * **Send the people away** - This could be translated as, "Please tell the people to go to a town" or, "Shouldn't you tell the people to go somewhere?" or, "Let the people go to a town." Make sure it sounds like a polite request, not an order.
-
-
+  * **ਦਿਨ ਦੇ ਅੰਤ ਵਿਚ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਜਦੋਂ ਲੱਗ ਭੱਗ ਸ਼ਾਮ ਹੋ ਗਈ ਸੀ|”
+  * **ਲੋਕਾਂ ਨੂੰ ਭੇਜ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਕਿਰਪਾ ਕਰਕੇ ਲੋਕਾਂ ਨੂੰ ਕਹਿ ਕਿ ਲੋਕ ਨਗਰ ਨੂੰ ਜਾਣ” ਜਾਂ “ਕੀ ਨਹੀਂ ਚਾਹੀਦਾ ਕਿ ਤੂੰ ਲੋਕਾਂ ਨੂੰ ਕਹੇ ਕਿ ਉਹ ਕਿਤੇ ਜਾਣ?” ਜਾਂ “ਲੋਕਾਂ ਨੂੰ ਨਗਰ ਵਿਚ ਜਾਣ ਦੇਹ|” ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਕ ਨਮਰ ਬੇਨਤੀ ਦਿਖਾਈ ਦੇਵੇ ਨਾ ਕਿ ਹੁਕਮ|
 **[[:pa:obs:notes:frames:30-03|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-05|>>]]**
