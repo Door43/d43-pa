@@ -1,19 +1,16 @@
-===== Everyone Ate [30-08] =====
+===== ਸੱਭ ਨੇ ਖਾਧਾ  **[30-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?nolink&}}
 
-Then **Jesus broke the bread and the fish** into pieces. He gave the pieces to his **disciples** to give to the people. The disciples kept passing out the food, and **it never ran out**! All the people ate and were satisfied.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਰੋਟੀ ਅਤੇ ਮੱਛੀ ਟੁੱਕੜਿਆਂ ਵਿਚ ਤੋੜੀ | ਉਸ ਨੇ ਟੁੱਕੜੇ ਚੇਲਿਆਂ ਨੂੰ ਦਿੱਤੇ ਕਿ ਲੋਕਾਂ ਨੂੰ ਦੇਣ | ਚੇਲੇ ਭੋਜਨ ਵੰਡਦੇ ਰਹੇ ਅਤੇ ਇਹ ਨਾ ਮੁੱਕਿਆ | ਸੱਭ ਲੋਕਾਂ ਨੇ ਪੇਟ ਭਰ ਕੇ ਖਾਧਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **broke the bread and the fish** - That is, "tore the bread and the fish."
-  * **it never ran out** - Another way to say this would be, "there was always more left."
-  * **were satisfied** - That is, "were no longer hungry" or, "were not hungry any more."
-
-
+  * **ਰੋਟੀ ਅਤੇ ਮੱਛੀ ਤੋੜੀ**  – ਮਤਲਬ, “ਰੋਟੀ ਅਤੇ ਮੱਛੀ ਦੇ ਟੁੱਕੜੇ ਕੀਤੇ|”
+  * **ਇਹ ਕਦੀ ਖਤਮ ਨਹੀਂ ਹੋਇਆ**  – ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਵੀ ਕਹਿ ਸਕਦੇ ਹਾਂ, “ਉੱਥੇ ਹਮੇਸ਼ਾਂ ਜਿਆਦਾ ਹੀ ਬਚਿਆ|”
+  * **ਰੱਜ ਗਏ**  – ਮਤਲਬ, “ਅੱਗੇ ਤੋਂ ਭੁੱਖੇ ਨਹੀਂ ਸਨ” ਜਾਂ “ਹੋਰ ਭੁੱਖੇ ਨਹੀਂ ਸਨ |”
 **[[:pa:obs:notes:frames:30-07|<<]] | [[:pa:obs:notes:30|Up]] | [[:pa:obs:notes:frames:30-09|>>]]**
