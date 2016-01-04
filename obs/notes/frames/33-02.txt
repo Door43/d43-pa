@@ -1,16 +1,14 @@
-===== The Seed on the Path [33-02] =====
+===== ਰਾਹ ਵਿਚ ਬੀਜ **[33-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink}}
-**
-Jesus** told this story. “A farmer went out to plant **some seed**. As he was **spreading the seeds by hand**, some seeds happened to fall on the path, and the birds came and ate all of those seeds.”
-===== Important Terms: =====
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-02.jpg?nolink&}}** **
 
-  * **[[:pa:obe:kt:jesus]]**
+ਯਿਸੂ ਨੇ ਇਹ ਕਹਾਣੀ ਦੱਸੀ | “ਇਕ ਕਿਸਾਨ ਕੁੱਝ ਬੀਜ ਬੀਜਣ ਲਈ ਗਿਆ|  ਜਿਵੇਂ ਹੀ ਉਹ ਹੱਥ ਨਾਲ ਬੀਜ ਖਿਲਾਰ ਰਿਹਾ ਸੀ ਤਾਂ ਕੁੱਝ ਰਸਤੇ ਵਿਚ ਡਿੱਗਿਆ ਅਤੇ ਪੰਛੀ ਆਏ ਆਏ ਸਾਰਾ ਬੀਜ ਚੁਗ ਗਏ|”
 
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
 ===== Translation Notes: =====
 
-  * **spreading the seeds by hand** - That is, "throwing the seeds on the soil" or, "covering all of his crop soil with seeds." This is the way that farmers in the ancient Middle East typically planted grain-bearing crops.
-
+  * ਹੱਥ ਨਾਲ ਬੀਜ ਖਿਲਾਰ ਰਿਹਾ ਸੀ – ਮਤਲਬ, “ਜਮੀਨ ਉੱਤੇ ਬੀਜ ਖਿਲਾਰ ਰਿਹਾ ਸੀ” ਜਾਂ “ਆਪਣੀ ਸਾਰੀ ਉਪਜਾਊ ਜਮੀਨ ਨੂੰ ਬੀਜ ਨਾਲ ਢੱਕ ਰਿਹਾ ਸੀ|” ਇਸ ਤਰੀਕੇ ਨਾਲ ਮੱਧ ਏਸ਼ੀਆ ਦੇ ਕਿਸਾਨ ਕਣਕ ਦੀ ਫਸਲ ਨੂੰ ਬੀਜਦੇ ਸਨ |
 
 **[[:pa:obs:notes:frames:33-01|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-03|>>]]**
