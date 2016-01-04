@@ -1,21 +1,21 @@
-===== The Herd of Pigs [32-07] =====
+===== ਸੂਰਾਂ  ਦਾ ਝੁੰਡ **[32-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-07.jpg?nolink&}}
 
-The **demons begged Jesus**, “Please **do not send us** out of this region!” There was a herd of pigs feeding on a nearby hill. So, the demons begged Jesus, “**Please send us** into the pigs **instead**!” Jesus said, “**Go**!”
-===== Important Terms: =====
+ਬਦਰੂਹਾਂ ਨੇ ਯਿਸੂ ਅੱਗੇ ਬੇਨਤੀ ਕੀਤੀ, “ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਇਸ ਖੇਤਰ ਵਿਚੋਂ ਬਾਹਰ ਨਾ ਕੱਢ!” ਉੱਥੇ ਪਹਾੜੀ ਦੇ ਲਾਗੇ ਇਕ ਸੂਰਾਂ ਦਾ ਝੁੰਡ ਚਰਦਾ ਸੀ | ਇਸ ਲਈ, ਬਦਰੂਹਾਂ ਨੇ ਯਿਸੂ ਦੀ ਬੇਨਤੀ ਕੀਤੀ, “ਕਿਰਪਾ ਕਰਕੇ, ਇਸ ਦੀ ਬਜਾਏ ਸਾਨੂੰ ਇਹਨਾਂ ਸੂਰਾਂ ਵਿਚ ਭੇਜ ਦੇਹ!’ ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਜਾਓ!”
 
-  * **[[:pa:obe:kt:demon]]**
-  * **[[:pa:obe:other:beg]]**
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * ਬਦਰੂਹਾਂ
+  * ਬੇਨਤੀ ਕੀਤੀ
+  * ਯਿਸੂ
 
-===== Translation Notes: =====
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **do not send us** - That is, "do not make us go."
-  * **Please send us** - That is, "Please let us go."
-  * **instead** - That is, "instead of making us go away."
-  * **Go!** - This could be translated as, "Go into the pigs!" or, "You may go into the pigs!"
-
+  * **ਸਾਨੂੰ ਨਾ ਭੇਜ**  – ਮਤਲਬ, “ਸਾਨੂੰ ਜਾਣ ਲਈ ਮਜਬੂਰ ਨਾ ਕਰ|”
+  * **ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਭੇਜ**  – ਮਤਲਬ, “ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਜਾਣ ਦੇਹ|”
+  * **ਇਸ ਦੀ ਬਜਾਏ**  – ਮਤਲਬ, “ਇਸ ਦੀ ਬਜਾਏ ਸਾਨੂੰ ਜਾਣ ਦੇਹ|”
+  * **ਜਾਓ!**
+  - ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਸੂਰਾਂ ਵਿਚ ਜਾਓ!” ਜਾਂ “ਤੁਸੀਂ ਸੂਰਾਂ ਵਿਚ ਜਾ ਸਕਦੇ ਹੋ!”
 
 **[[:pa:obs:notes:frames:32-06|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-08|>>]]**
