@@ -1,16 +1,13 @@
-===== Jesus Taught the Crowds [33-01] =====
+===== ਯਿਸੂ ਭੀੜ ਨੂੰ ਸਿਖਾਉਂਦਾ **[33-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-01.jpg?nolink&}}
 
-**One day**, **Jesus** was teaching a very large crowd of people near the shore of the lake. So many people came to hear him that Jesus got into a boat at the edge of the water in order to have enough space to speak to them. He sat in the boat and taught the people.
-===== Important Terms: =====
+ਇਕ ਦਿਨ ਝੀਲ ਦੇ ਕਿਨਾਰੇ ਲੋਕਾਂ ਦੀ ਇਕ ਵੱਡੀ ਭੀੜ ਨੂੰ ਸਿਖਾ ਰਿਹਾ ਸੀ | ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਯਿਸੂ ਨੂੰ ਸੁਣਨ ਲਈ ਆਏ ਕਿ ਯਿਸੂ ਪਾਣੀ ਦੇ ਕਿਨਾਰੇ ਖੜ੍ਹੀ ਇਕ ਕਿਸ਼ਤੀ ਵਿਚ ਚੜ੍ਹ ਗਿਆ ਕਿ ਲੋਕਾਂ ਨੂੰ ਪ੍ਰਚਾਰ ਕਰਨ ਲਈ ਪਰਯਾਪਤ ਜਗ੍ਹਾ ਹੋ ਸਕੇ | ਉਹ ਕਿਸ਼ਤੀ ਵਿਚ ਬੈਠ ਗਿਆ ਅਤੇ ਲੋਕਾਂ ਨੂੰ ਸਿਖਾਉਣ ਲੱਗਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
-
+  * **ਇਕ ਦਿਨ**  – ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਘਟੀ, ਪਰ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਨਹੀਂ ਤਸਦੀਕ ਕਰਦੀ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਹੈ |
 **[[:pa:obs:notes:frames:32-16|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-02|>>]]**
