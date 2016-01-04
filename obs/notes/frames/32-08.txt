@@ -1,16 +1,13 @@
-===== The Pigs Drowned [32-08] =====
+===== ਸੂਰ ਡੁੱਬ ਗਏ **[32-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-08.jpg?nolink&}}
 
-The **demons** came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the **herd**.
-===== Important Terms: =====
+ਭੂਤ ਉਸ ਵਿਅਕਤੀ ਵਿਚੋਂ ਬਾਹਰ ਆਏ ਅਤੇ ਸੂਰਾਂ ਵਿਚ ਵੜ ਗਏ | ਸੂਰ ਚੜਾਹੀ ਤੋਂ ਭੱਜ ਕੇ ਝੀਲ ਵਿਚ ਵਡੇ ਅਤੇ ਡੁੱਬ ਗਏ | ਝੁੰਡ ਵਿਚ ਲੱਗ ਭੱਗ 2,000 ਸੂਰ ਸਨ |
 
-  * **[[:pa:obe:kt:demon]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਬਦਰੂਹਾਂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **herd** - That is, "herd of pigs" or, "group of pigs." Many languages have specific names for groups of animals, such as "flock of sheep," "herd of cattle," "pack of dogs," and "school of fish." Use a word that can appropriately be used for a large group of pigs.
-
-
+  * **ਵੱਗ**  – ਮਤਲਬ, “ਸੂਰਾਂ ਦਾ ਵੱਗ” ਜਾਂ “ਸੂਰਾਂ ਦਾ ਝੁੰਡ|” ਬਹੁਤ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਜਾਨਵਰਾਂ ਦੇ ਝੁੰਡਾਂ ਲਈ ਖਾਸ ਨਾਮ ਹਨ ਜਿਵੇਂ ਕਿ, “ਭੇਡਾਂ ਦਾ ਇੱਜੜ”, “ਗਾਵਾਂ ਦਾ ਵੱਗ”, “ਕੁੱਤੇਆਂ ਦਾ ਟੋਲਾ” ਅਤੇ “ਮੱਛੀਆਂ ਦਾ ਝੁੰਡ|” ਉਹ ਸ਼ਬਦ ਇਸਤੇਮਾਲ ਕਰੋ ਜੋ ਸੂਰਾਂ ਦੇ ਇਕ ਵੱਡੇ ਝੁੰਡ ਲਈ ਸਹੀ ਹੋਵੇ |
 **[[:pa:obs:notes:frames:32-07|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-09|>>]]**
