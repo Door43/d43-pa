@@ -1,18 +1,14 @@
-===== The Man Was Healed [32-09] =====
+===== ਮਨੁੱਖ ਚੰਗਾ ਕੀਤਾ ਗਿਆ **[32-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
 When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
 ===== Important Terms: =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:demon]]**
-
-
+  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:pa:obe:kt:demon|demon, evil spirit, unclean spirit]]**
 ===== Translation Notes: =====
 
-  * **what happened** - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons** - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
-
-
+  * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
+  * **who used to have the demons**  - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
 **[[:pa:obs:notes:frames:32-08|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-10|>>]]**
