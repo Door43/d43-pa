@@ -1,18 +1,15 @@
-===== The Sick Woman [32-13] =====
+===== ਇਕ ਬੀਮਾਰ ਔਰਤ **[32-13]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-13.jpg?nolink&}}
 
-**Jesus** returned to the other side of the lake. After he arrived there, a large crowd gathered around him and **pressed in on him**. In the crowd was a woman who had suffered from a bleeding problem for twelve years. She had paid all of her money to doctors so they would **heal** her, but **she only got worse**.
-===== Important Terms: =====
+ਯਿਸੂ ਝੀਲ ਦੇ ਦੂਸਰੇ ਕਿਨਾਰੇ ਮੁੜਿਆ | ਉਸਦੇ ਉੱਥੇ ਪਹੁੰਚਣ ਤੋਂ ਬਾਅਦ, ਇਕ ਵੱਡੀ ਭੀੜ ਉਸ ਦੇ ਦੁਆਲੇ ਇੱਕਠੀ ਹੋਈ ਅਤੇ ਉਸ ਉੱਤੇ ਡਿੱਗਦੀ ਜਾਂਦੀ ਸੀ | ਭੀੜ ਵਿਚ ਇਕ ਔਰਤ ਸੀ ਜੋ ਬਾਰਾਂ ਵਰ੍ਹਿਆਂ ਤੋਂ ਲਹੂ ਵਹਿਣ ਦੀ ਬਿਮਾਰੀ ਤੋਂ ਪੀੜਤ ਸੀ | ਉਸ ਨੇ ਆਪਣਾ ਸਾਰਾ ਪੈਸਾ ਡਾਕਟਰਾਂ ਨੂੰ ਦੇ ਦਿੱਤਾ ਸੀ ਕਿ ਉਹ ਉਸ ਨੂੰ ਚੰਗਾ ਕਰਨ ਪਰ ਉਸ ਦੀ ਹਾਲਤ ਪਹਿਲਾਂ ਨਾਲੋ ਵੀ ਵਿਗੜ ਗਈ ਸੀ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:heal]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੰਗਾ ਕਰਨਾ **
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **pressed in on him** - That is, "pushed tightly against him" or, "crowded in tightly around him."
-  * **she only got worse** - That is, "her condition only got worse" or, " her health got worse instead of better" or, "instead she became more sick."
-
-
+  * **ਉਸ ਉੱਤੇ ਡਿੱਗਦੇ**  – ਮਤਲਬ, “ਉਸ ਦੇ ਵਿਰੁੱਧ ਜੋਰ ਨਾਲ ਧੱਕਾ ਮਾਰਦੇ ਸਨ” ਜਾਂ “ਭੀੜ ਨੇ ਉਸ ਨੂੰ ਚਾਰੋਂ ਤਰਫ਼ ਤੋਂ ਕੱਸਿਆ ਹੋਇਆ ਸੀ|”
+  * **ਉਸ ਦੀ ਹਾਲਤ ਸਿਰਫ ਵਿਗੜਦੀ ਗਈ **– ਮਤਲਬ, “ਉਸ ਦੀ ਹਾਲਤ ਹੋਰ ਖਰਾਬ ਹੁੰਦੀ ਗਈ” ਜਾਂ “ਉਸ ਦੀ ਸਿਹਤ ਚੰਗਾ ਹੋਣ ਦੀ ਬਜਾਏ ਖਰਾਬ ਹੋ ਗਈ” ਜਾਂ “ਇਸ ਦੀ ਬਜਾਏ ਉਹ ਹੋਰ ਬੀਮਾਰ ਹੋ ਗਈ|”
 **[[:pa:obs:notes:frames:32-12|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-14|>>]]**
