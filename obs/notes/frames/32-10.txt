@@ -1,20 +1,17 @@
-===== Jesus Left [32-10] =====
+===== ਯਿਸੂ ਚਲਾ ਗਿਆ **[32-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-10.jpg?nolink&}}
 
-The **people** were very **afraid** and asked **Jesus** to leave. So Jesus got into the boat and **prepared** to leave. The man who used to have the demons **begged to go along with Jesus**.
-===== Important Terms: =====
+ਲੋਕ ਬਹੁਤ ਡਰ ਗਏ ਸਨ ਅਤੇ ਯਿਸੂ ਨੂੰ ਜਾਣ ਲਈ ਕਿਹਾ | ਇਸ ਲਈ ਯਿਸੂ ਬੇੜੀ ਵਿਚ ਚੜ੍ਹ ਗਿਆ ਆਏ ਜਾਣ ਲਈ ਤਿਆਰ ਹੋ ਗਿਆ | ਉਹ ਵਿਅਕਤੀ ਜਿਸ ਵਿਚ ਭੂਤ ਸਨ ਯਿਸੂ ਦੇ ਨਾਲ ਜਾਣ ਲਈ ਮਿਨਤਾਂ ਕਰਨ ਲੱਗਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:beg]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਮਿਨਤਾਂ ਕੀਤੀਆਂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **people** - Some languages may prefer to say, "people from that region" or, "the Gerasene people."
-  * **afraid** - It may be better to say, "afraid because of what Jesus had done."
-  * **prepared** - That is, "was getting ready."
-  * **begged to go along with Jesus** - That is, "begged Jesus to let him go with him" or, "earnestly asked Jesus if he could go with him."
-
-
+  * **ਲੋਕ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਪਸੰਦ ਕਰਦੀਆਂ ਹਨ, “ਉਸ ਇਲਾਕੇ ਦੇ ਲੋਕ” ਜਾਂ “ਗਿਰਸੇਨੀਆਂ ਦੇ ਲੋਕ|”
+  * **ਡਰਨਾ **– ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚੰਗਾ ਹੋਵੇਗਾ, “ਜੋ ਕੁੱਝ ਯਿਸੂ ਨੇ ਕੀਤਾ ਸੀ ਉਸ ਤੋਂ ਡਰ ਗਏ|”
+  * **ਤਿਆਰ ਹੋ ਗਿਆ**  – ਮਤਲਬ, “ਜਾਣ ਲਈ ਤਿਆਰ ਸੀ|”
+  * **ਯਿਸੂ ਦੇ ਨਾਲ ਜਾਣ ਲਈ ਮਿਨਤਾਂ ਕੀਤੀਆਂ**  – ਮਤਲਬ, “ਯਿਸੂ ਦੀਆਂ ਮਿਨਤਾਂ ਕੀਤੀਆਂ ਕਿ ਉਹ ਉਸ ਨੂੰ ਆਪਣੇ ਨਾਲ ਜਾਣ ਦੇਵੇ|” ਜਾਂ “ਦੀਨਤਾ ਨਾਲ ਪੁੱਛਿਆ ਜੇ ਉਹ ਉਸ ਦੇ ਨਾਲ ਜਾ ਸਕੇ|”
 **[[:pa:obs:notes:frames:32-09|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-11|>>]]**
