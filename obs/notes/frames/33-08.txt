@@ -1,25 +1,22 @@
-===== The Desire for Riches [33-08] =====
+===== ਧੰਨ ਦੀ ਲਾਲਸਾ **[33-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-08.jpg?nolink&}}
 
-“The **thorny ground is a person** who hears **God’s word**, but as time passes, the **cares**, **riches**, and **pleasures of life choke out** his **love** for **God**. As a result, the teaching he heard **does not produce fruit**.”
-===== Important Terms: =====
+“ਕੰਡਿਆਲੀ ਜਮੀਨ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਸੁਣਦਾ ਹੈ ਪਰ ਜਿਵੇਂ ਸਮਾਂ ਗੁਜਰਦਾ ਹੈ ਜੀਵਨ ਦੀ ਚਿੰਤਾ ਧੰਨ, ਅਤੇ ਮੌਜ ਮਸਤੀ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪਿਆਰ ਨੂੰ ਦਬਾ ਲੈਂਦੇ ਹਨ | ਨਤੀਜੇ ਵਜੋਂ, ਜੋ ਸਿੱਖਿਆ ਉਸ ਨੇ ਸੁਣੀ ਹੁੰਦੀ ਹੈ ਕੋਈ ਫਲ ਨਹੀਂ ਪੈਦਾ ਕਰਦੀ |”
 
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:love]]**
-  * **[[:pa:obe:kt:god]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ**
+  * **ਪਿਆਰ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ  **
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:pa:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:pa:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਸਮਝਾਉਣਾ ਜਾਰੀ ਰੱਖਦੇ ਹਨ)
+  * **ਕੰਡਿਆਲੀ ਜਮੀਨ**  – ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਵਾਕ ਨੂੰ **[[:pa:obs:notes:frames:33-04|[33-04]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਇਕ ਵਿਅਕਤੀ**  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਤੁਲਨਾ ਨੂੰ **[[:pa:obs:notes:frames:33-06|[33-06]]]** ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਚਿੰਤਾ**  – ਮਤਲਬ, “ਫਿਕਰ” ਜਾਂ “ਜਰੂਰਤਾਂ” ਜਾਂ “ਸਮੱਸਿਆਵਾਂ”
+  * **ਧੰਨ**  – ਮਤਲਬ, “ਧੰਨ ਦੀ ਲਾਲਸਾ|”
+  * **ਜਿੰਦਗੀ ਦੀ ਮੌਜ ਮਸਤੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਵਿਕ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਅਨੰਦ ਉਠਾਉਣ ਲਈ ਕੰਮ ਕਰਨੇ” ਜਾਂ “ਉਹਨਾਂ ਗੱਲਾਂ ਉੱਤੇ ਚਿੱਤ ਲਾਉਣਾ ਜੋ ਅਨੰਦ ਦਿਂਦੀਆਂ ਹਨ |”
+  * **ਦਬਾ ਲੈਣਾ**  – ਮਤਲਬ, “ਕੁਚਲਣਾ” ਜਾਂ “ਤਬਾਹ ਕਰਨਾ” ਜਾਂ “ਨੱਪ ਲੈਣਾ|” ਇਸ ਵਾਕ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਨੂੰ ਪਿਆਰ ਕਰਨ ਤੋਂ ਉਸ ਬੰਦੇ ਨੂੰ ਰੋਕ ਦੇਣਾ|”
+  * **ਫਲ ਪੈਦਾ ਨਹੀਂ ਕਰਦਾ **– ਮਤਲਬ, “ਆਤਮਿਕ ਫਲ ਪੈਦਾ ਨਹੀਂ ਕਰਦਾ” ਜਾਂ “ਉਸ ਤਰਾਂ ਵਰਤਾਉ ਨਹੀਂ ਕਰਦਾ ਜੋ ਦਿਖਾਉਂਦਾ ਹੈ ਕਿ ਉਸ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਆਤਮਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ|”
 **[[:pa:obs:notes:frames:33-07|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-09|>>]]**
