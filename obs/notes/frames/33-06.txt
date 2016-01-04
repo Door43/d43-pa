@@ -1,22 +1,18 @@
-===== The Seed Is the Word [33-06] =====
+===== ਬੀਜ ਵਚਨ ਹੈ **[33-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-06.jpg?nolink&}}
 
+ਇਸ ਕਹਾਣੀ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਦੁਬਿਧਾ ਵਿਚ ਪਾ ਦਿੱਤਾ | ਇਸ ਲਈ ਯਿਸੂ ਨੇ ਸਮਝਾਇਆ, “ਬੀਜ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਹੈ| ਰਸਤਾ ਇਕ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਸੁਣਦਾ ਹੈ, ਪਰ ਸਮਝਦਾ ਨਹੀਂ ਹੈ, ਅਤੇ ਸ਼ੈਤਾਨ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਉਸ ਕੋਲੋਂ ਦੂਰ ਲੈ ਜਾਂਦਾ ਹੈ|”
 
-**This story confused the disciples**. So **Jesus** explained, “The seed is the **word of God**. The path **is a person** who hears God’s word, but does not understand it, and the **devil takes the word away from him**.”
-===== Important Terms: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:satan]]**
+  * **ਚੇਲੇ**
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ**
+  * **ਸ਼ੈਤਾਨ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
-===== Translation Notes: =====
-
-  * **This story confused the disciples.** - That is, "The disciples did not understand this story."
-  * **is a person** - This comparison can also be translated as, "is like a person" or, "represents a person" or, "refers to a person" or, "is speaking about a person."
-  * **takes the word away from him** - This may also be translated as, "takes God's word away, causing him to forget it" or, "steals the word from his heart so he won't believe it and be saved." You may also add the following: "just as birds eat up the seeds that fall on a path."
-
-
+  * **ਇਸ ਕਹਾਣੀ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਦੁਬਿਧਾ ਵਿਚ ਪਾ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਚੇਲੇ ਇਸ ਕਹਾਣੀ ਨੂੰ ਸਮਝ ਨਾ ਸਕੇ |”
+  * **ਇਕ ਵਿਅਕਤੀ ਹੈ**  – ਇਸ ਤੁਲਨਾ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਵਿਅਕਤੀ ਦੀ ਤਰਾਂ” ਜਾਂ “ਇਕ ਵਿਅਕਤੀ ਨੂੰ ਪ੍ਰਤੀਨਿਧ ਕਰਦਾ ਹੈ” ਜਾਂ “ਇਕ ਵਿਅਕਤੀ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ” ਜਾਂ “ਇਕ ਵਿਅਕਤੀ ਬਾਰੇ ਗੱਲ ਕਰਦਾ ਹੈ|”
+  * **ਵਚਨ ਨੂੰ ਉਸ ਕੋਲੋਂ ਦੂਰ ਲੈ ਜਾਂਦਾ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਨੂੰ ਦੂਰ ਲੈ ਜਾਂਦਾ, ਅਤੇ ਉਸ ਨੂੰ ਭੁਲਾ ਦਿੰਦਾ” ਜਾਂ “ਉਸ ਦੇ ਦਿਲ ਵਿਚੋਂ ਵਚਨ  ਨੂੰ ਚੁਰਾ ਲੈਂਦਾ ਕਿ ਉਹ ਵਿਸ਼ਵਾਸ ਨਾ ਕਰੇ ਅਤੇ ਬਚਾਇਆ ਨਾ ਜਾਵੇ|” ਤੁਸੀਂ ਅੱਗੇ ਦਿੱਤੇ ਵਿਚ ਹੋਰ ਵੀ ਜੋੜ ਸਕਦੇ ਹੋ, ਜਿਵੇਂ ਕਿ, “ਜਿਵੇਂ ਇਕ ਰਸਤੇ ਵਿਚ ਡਿੱਗੇ ਬੀਜ ਨੂੰ ਪੰਛੀ ਚੁਗ ਲੈਂਦਾ ਹੈ|”
 **[[:pa:obs:notes:frames:33-05|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-07|>>]]**
