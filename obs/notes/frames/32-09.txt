@@ -1,14 +1,15 @@
-===== ਮਨੁੱਖ ਚੰਗਾ ਕੀਤਾ ਗਿਆ **[32-09]**  =====
+===== ਮਨੁੱਖ ਚੰਗਾ ਕੀਤਾ ਗਿਆ [32-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-09.jpg?nolink&}}
 
-When the people who took care of the pigs saw **what happened**, they ran into the town and told everyone that they met what **Jesus** had done. The people from the town came and saw the man **who used to have the demons**. He was sitting calmly, wearing clothes, and acting like a normal person.
-===== Important Terms: =====
+ਜਦੋਂ ਸੂਰਾਂ ਨੂੰ ਚਾਰਨ ਵਾਲਿਆਂ ਲੋਕਾਂ ਨੇ ਦੇਖਿਆ ਜੋ ਕੁੱਝ ਹੋਇਆ ਸੀ ਤਾਂ ਉਹ ਭੱਜ ਕੇ ਨਗਰ ਵਿਚ ਗਏ ਅਤੇ ਜੋ ਕੁੱਝ ਯਿਸੂ ਨੇ ਕੀਤਾ ਸੀ ਉਸ ਬਾਰੇ ਸੱਭ ਮਿਲਣ ਵਾਲਿਆਂ ਨੂੰ ਦੱਸਿਆ | ਨਗਰ ਤੋਂ ਲੋਕ ਅਤੇ ਅਤੇ ਉਸ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ ਜਿਸ ਵਿਚ ਭੂਤ ਸਨ | ਉਹ ਚੁੱਪ ਚਾਪ ਕਪੜੇ ਪਹਿਨੇ  ਬੈਠਾ ਸੀ ਅਤੇ ਇਕ ਸਧਾਰਨ ਵਿਅਕਤੀ ਦੀ ਤਰਾਂ ਵਿਵਹਾਰ ਕਰ ਰਿਹਾ ਸੀ |
 
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:kt:demon|demon, evil spirit, unclean spirit]]**
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **what happened**  - That is, "how Jesus sent the demons out of the man and into the pigs."
-  * **who used to have the demons**  - That is, "in whom the demons had lived" or, "who had been controlled by the evil spirits."
+  * **ਯਿਸੂ**
+  * **ਬਦਰੂਹਾਂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
+
+  * **ਕੀ ਹੋਇਆ**  – ਮਤਲਬ, “ਕਿਵੇਂ ਯਿਸੂ ਨੇ ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ ਭੂਤ ਬਾਹਰ ਕੱਢੇ ਅਤੇ ਸੂਰਾਂ ਵਿਚ ਵਾੜੇ|”
+  * **ਜਿਸ ਵਿਚ ਭੂਤ ਸਨ**  – ਮਤਲਬ, “ਜਿਸ ਵਿਚ ਭੂਤ ਰਹਿੰਦੇ ਸਨ” ਜਾਂ “ਜੋ ਬੁਰੀਆਂ ਆਤਮਾਂ ਦੁਆਰਾ  ਕਾਬੂ ਵਿਚ ਸੀ|”
 **[[:pa:obs:notes:frames:32-08|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-10|>>]]**
