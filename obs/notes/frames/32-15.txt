@@ -1,19 +1,16 @@
-===== Who Touched Me? [32-15] =====
+===== ਕਿਸ ਨੇ ਮੈਨੂੰ ਛੁਹਿਆ ਹੈ ? **[32-15]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-15.jpg?nolink&}}
 
-Immediately, **Jesus** realized that **power had gone out from him**. So he turned around and asked, “Who touched me?” The **disciples** replied, “There are many people crowding around you and bumping into you. **Why did you ask, ‘Who touched me?’**”
-===== Important Terms: =====
+ਇਕ ਦਮ ਯਿਸੂ ਨੂੰ ਪਤਾ ਲੱਗ ਗਿਆ ਸੀ ਕਿ ਉਸ ਵਿਚੋਂ ਸ਼ਕਤੀ ਨਿੱਕਲ ਚੁੱਕੀ ਸੀ | ਇਸ ਲਈ ਉਹ ਮੁੜਿਆ ਅਤੇ ਪੁੱਛਿਆ, “ਕਿਸ ਨੇ ਮੈਨੂੰ ਛੁਹਿਆ ਹੈ?” ਚੇਲਿਆਂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਤੇਰੇ ਦੁਆਲੇ ਬਹੁਤ ਲੋਕ ਹਨ ਅਤੇ ਤੇਰੇ ਉੱਤੇ ਡਿੱਗਦੇ ਜਾਂਦੇ ਹਨ | ਕਿਉਂ ਤੂੰ ਪੁੱਛਦਾ ਹੈਂ ਕਿ ਕਿਸ ਨੇ ਮੈਨੂੰ ਛੂਹਿਆ ਹੈ?”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:power]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਸ਼ਕਤੀ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **power had gone out from him** - This may be translated as, "healing power had flowed from him into someone else" or, "his power had healed someone." Jesus did not lose any power because of this.
-  * **Why did you ask, 'Who touched me?'** - In some languages it may be better to use an indirect quote here such as, "Why did you ask who was touching you?" or, "Why you are wondering who touched you?"
-
-
+  * **ਉਸ ਸ਼ਕਤੀ ਨਿੱਕਲ ਚੁੱਕੀ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਚੰਗਾ ਕਰਨ ਵਾਲੀ ਸ਼ਕਤੀ ਉਸ ਵਿਚੋਂ ਨਿੱਕਲ ਕੇ ਕਿਸੇ ਹੋਰ ਵਿਚ ਜਾ ਚੁੱਕੀ ਸੀ” ਜਾਂ “ਉਸ ਦੀ ਸ਼ਕਤੀ ਨੇ ਕਿਸੇ ਨੂੰ ਚੰਗਾ ਕਰ ਦਿੱਤਾ ਸੀ|” ਇਸ ਕਾਰਨ ਯਿਸੂ ਨੇ ਕੋਈ ਸ਼ਕਤੀ ਗਵਾਈ ਨਹੀਂ ਸੀ |
+  * **ਕਿਉਂ ਤੂੰ ਪੁੱਛਦਾ ਹੈਂ, “ਕਿਸ ਨੇ ਮੈਨੂੰ ਛੂਹਿਆ?**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਅਸਿਧੇ ਤੌਰ ਤੇ ਇਸ ਕਥਨ ਦਾ ਇਸਤੇਮਾਲ ਕਰਨਾ ਚੰਗਾ ਹੁੰਦਾ ਹੈ ਜਿਵੇਂ ਕਿ, “ਕਿਉਂ ਤੂੰ ਪੁੱਛਦਾ ਹੈ ਕਿ ਕਿਸ ਨੇ ਤੈਨੂੰ ਛੂਹਿਆ?” ਜਾਂ “ਕਿਉਂ ਤੂੰ ਹੈਰਾਨ ਹੋ ਰਿਹਾਂ ਹੈ ਕਿ ਕਿਸ ਨੇ ਤੈਨੂੰ ਛੂਹਿਆ ਹੈ?”
 **[[:pa:obs:notes:frames:32-14|<<]] | [[:pa:obs:notes:32|Up]] | [[:pa:obs:notes:frames:32-16|>>]]**
