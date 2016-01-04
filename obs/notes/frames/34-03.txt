@@ -1,20 +1,18 @@
-===== The Yeast [34-03] =====
+===== ਖਮੀਰ **[34-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-03.jpg?nolink&}}
 
-**Jesus** told another **story**, “The **kingdom of God** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਇਕ ਹੋਰ ਕਹਾਣੀ ਦੱਸੀ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਖਮੀਰ ਵਰਗਾ ਹੈ ਜੋ ਇਕ ਔਰਤ ਆਟੇ ਦੀ ਤੌਣ ਵਿਚ ਮਿਲਾਉਂਦੀ ਜਦ ਤੱਕ ਇਹ ਸਾਰੀ ਤੌਣ ਵਿਚ ਫੈਲ ਨਾ ਜਾਵੇ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:kingdomofgod]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:pa:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
-
+  * **ਕਹਾਣੀ**
+  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਤੁਲਨਾ ਨੂੰ **[[:pa:obs:notes:frames:34-01|[34-01]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਖਮੀਰ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਖਮੀਰ” ਜਾਂ “ਖਮੀਰ ਦਾ ਥੋੜਾ ਜਿਹਾ ਭਾਗ|” ਇਹ ਰੋਟੀ ਲਈ ਆਟੇ ਦੀ ਤੌਣ ਵਿਚ ਫੁੱਲਣ ਲਈ ਮਿਲਾਇਆ ਜਾਂਦਾ ਹੈ | ਖਮੀਰ ਦਾ ਥੋੜਾ ਜਿਹਾ ਭਾਗ ਵੀ ਆਟੇ ਦੀ ਵੱਡੀ ਤੌਣ ਵਿਚ ਮਿਲਾਇਆ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਸਾਰੀ ਤੌਣ ਨੂੰ ਫੁਲਾ ਦਿੰਦਾ ਹੈ |
+  * **ਰੋਟੀ ਦੇ ਆਟੇ ਦੀ ਤੌਣ**  – ਇਹ ਆਟੇ ਦਾ ਮਿਸ਼ਰਨ ਅਤੇ ਤਰਲ ਹੈ ਜਿਸਨੂੰ ਅਕਾਰ ਦਿੱਤਾ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਉਸ ਦੀ ਰੋਟੀ ਬਣਾਈ ਜਾ ਸਕਦੀ ਹੈ | ਅਗਰ ਤੁਹਾਡੇ ਕੋਲ ਤੌਣ ਜਾਂ ਆਟੇ ਲਈ ਸ਼ਬਦ ਨਹੀਂ ਹਨ ਤਾਂ ਤੁਸੀਂ ਤੌਣ ਲਈ ਸ਼ਬਦ ਉਦਾਹਰੇ ਲੈ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸ ਨੂੰ ਕਹਿ ਸਕਦੇ ਹੋ, “ਪੀਸੇ ਹੋਏ ਦਾਣੇ|”
+  * **ਇਹ ਸਾਰੀ ਤੌਣ ਵਿਚ ਫੈਲ ਜਾਂਦਾ ਹੈ**  – ਮਤਲਬ, “ਤੌਣ ਦੇ ਹਰ ਭਾਗ ਵਿਚ ਖਮੀਰ ਹੋ ਜਾਂਦਾ ਹੈ” ਜਾਂ “ਸਾਰੀ ਤੌਣ ਖਮੀਰ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ|”
 **[[:pa:obs:notes:frames:34-02|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-04|>>]]**
