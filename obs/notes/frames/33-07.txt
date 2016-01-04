@@ -1,22 +1,19 @@
-===== Persecution and Hardship [33-07] =====
+===== ਸਤਾਵੱਟ ਅਤੇ ਤੰਗੀਆਂ **[33-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-07.jpg?nolink&}}
 
-“The **rocky ground is a person** who hears **God’s word** and **accepts it with joy**. But when he experiences hardship or **persecution**, he **falls away**.”
-===== Important Terms: =====
+“ਪਥਰੀਲੀ ਜਮੀਨ ਉਹ ਵਿਅਕਤੀ ਹੈ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ ਸੁਣਦਾ ਅਤੇ ਅਨੰਦ ਨਾਲ ਗ੍ਰਹਿਣ ਕਰਦਾ ਹੈ| ਪਰ ਜਦੋਂ ਉਹ ਮੁਸ਼ਕਲ ਜਾਂ ਸਤਾਵੱਟ ਅਨੁਭਵ ਕਰਦਾ ਹੈ, ਉਹ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ |”
 
-  * **[[:pa:obe:kt:wordofgod]]**
-  * **[[:pa:obe:kt:joy]]**
-  * **[[:pa:obe:other:persecute]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਵਚਨ**
+  * **ਅਨੰਦ**
+  * **ਸਤਾਵੱਟ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:pa:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:pa:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਜਾਰੀ ਰੱਖਦੇ ਹਨ)
+  * **ਪਥਰੀਲੀ ਜਮੀਨ**  – ਦੇਖੋ ਤੁਸੀਂ ਇਸ ਵਾਕ ਨੂੰ ਵਿਚ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ | **[[:pa:obs:notes:frames:33-03|[33-03]]]**.
+  * **ਇਕ ਵਿਅਕਤੀ ਹੈ**  – ਦੇਖੋ ਤੁਸੀਂ ਇਸ ਤੁਲਨਾ ਨੂੰ ਵਿਚ ਕਿਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ | **[[:pa:obs:notes:frames:33-06|[33-06]]]**.
+  * **ਅਨੰਦ ਨਾਲ ਗ੍ਰਿਹਣ ਕਰਦਾ**  – ਮਤਲਬ, “ਅਨੰਦ ਨਾਲ ਵਿਸ਼ਵਾਸ ਕਰਦਾ” ਜਾਂ “ਅਨੰਦ ਨਾਲ ਸਹਿਮਤ ਹੁੰਦਾ ਕਿ ਇਹ ਸਚਾਈ ਹੈ|”
+  * **ਦੂਰ ਹੋ ਜਾਂਦਾ**  – ਮਤਲਬ, “ਅੱਗੇ ਤੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪਿੱਛੇ ਨਹੀਂ ਚੱਲਦਾ ਜਾਂ ਉਸ ਦੀ ਆਗਿਆਕਾਰੀ ਨਾ ਕਰਦਾ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪਿੱਛੇ ਚੱਲਣਾ ਜਾਂ ਉਸ ਦੀ ਆਗਿਆਕਾਰੀ ਕਰਨੀ ਬੰਦ ਕਰਨਾ|”
 **[[:pa:obs:notes:frames:33-06|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-08|>>]]**
