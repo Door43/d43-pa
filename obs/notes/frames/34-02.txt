@@ -1,17 +1,17 @@
-===== The Large Tree [34-02] =====
+===== ਇਕ ਵੱਡਾ ਪੌਦਾ **[34-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-02.jpg?nolink&}}
 
-“But when the **mustard seed grows**, it becomes the largest of all of the **garden plants**, big enough that even the birds come and **rest in** its branches.”
-===== Important Terms: =====
+“ਪਰ ਜਦੋਂ ਰਾਈ ਦਾ ਦਾਣਾ ਉੱਗਦਾ ਹੈ ਤਾਂ ਇਹ ਇਹ ਖੇਤੀ ਦੇ ਸਾਰੇ ਦਰੱਖਤਾ ਤੋਂ ਵੱਡਾ ਹੁੰਦਾ ਹੈ, ਏਨਾ ਵੱਡਾ ਕਿ ਪੰਛੀ ਆਉਣ ਅਤੇ ਉਸ ਦੀਆਂ ਟਹਿਣੀਆਂ ਵਿਚ ਅਰਾਮ ਕਰਨ |”
 
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * (Jesus continues the story.)
-  * **mustard seed** - See how you translated this term in **[[:pa:obs:notes:frames:34-01|[34-01]]]**.
-  * **grows** - You may want to add, "into a mature plant."
-  * **garden plants** - This can also be translated as, "plants that would be planted in a garden."
-  * **rest in** - This may also be translated as, "sit on" or, "perch on."
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਸਮਝਾਉਣਾ ਜਾਰੀ ਰੱਖਦੇ ਹਨ)
+  * **ਰਾਈ ਦਾ ਦਾਣਾ**
+  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਤੁਲਨਾ ਨੂੰ **[[:pa:obs:notes:frames:34-01|[34-01]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **ਵੱਧਦਾ**  – ਤੁਸੀਂ ਵਿਚ ਜੋੜਨਾ ਚਾਹੋਗੇ, “ਇਕ ਪ੍ਰਪੱਕ ਪੌਦੇ ਦੇ ਰੂਪ ਵਿਚ”|
+  * **ਖੇਤੀ ਦੇ ਪੌਦੇ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹ ਪੌਦੇ ਜੋ ਖੇਤੀ ਵਿਚ ਬੀਜੇ ਜਾਂਦੇ ਹਨ|”
+  * **ਵਿਚ ਅਰਾਮ ਕਰਦੇ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉੱਤੇ ਬੈਠਦੇ” ਜਾਂ “ਉੱਤੇ ਆਲ੍ਹਣੇ ਪਾਉਦੇ|”
 **[[:pa:obs:notes:frames:34-01|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-03|>>]]**
