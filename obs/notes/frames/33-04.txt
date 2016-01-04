@@ -1,16 +1,15 @@
-===== The Seed in the Thorns [33-04] =====
+===== ਕੰਡਆਲੀਆਂ ਵਿਚ ਬੀਜ **[33-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-33-04.jpg?nolink&}}
 
-“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns choked them out**. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
-===== Important Terms: =====
+“ਫਿਰ ਹੋਰ ਬੀਜ ਕੰਡਆਲੀਆਂ ਵਿਚ ਡਿੱਗਿਆ | ਉਹ ਬੀਜ ਵਧਣਾ ਸ਼ੁਰੂ ਹੋਏ ਪਰ ਪਰ ਝਾੜੀਆਂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਦਬਾ ਲਿਆ| ਇਸ ਲਈ ਉਹ ਪੌਦੇ ਜੋ ਝਾੜੀਆਂ ਵਿਚਲੇ ਬੀਜ ਤੋਂ ਵਧੇ ਕੋਈ ਵੀ ਕਣਕ ਪੈਦਾ ਨਾ ਕਰ ਸਕੇ|”
 
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * (Jesus continues the story.)
-  * **the thorns** - That is, "the thorn plants" or, "the thorn bushes."
-  * **choked them out** - This can also be translated as, "overshadowed them" or, "crowded them out."
-  * **thorny ground** - That is, "ground that was covered with thorny bushes."
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
+  * (ਯਿਸੂ ਕਹਾਣੀ ਨੂੰ ਜਾਰੀ ਰੱਖਦੇ ਹਨ)
+  * **ਕੰਡੇ**  – ਮਤਲਬ, “ਕੰਡੇਦਾਰ ਪੌਦੇ” ਜਾਂ “ਕੰਡੇਦਾਰ ਝਾੜੀਆਂ|”
+  * **ਉਹਨਾਂ ਨੂੰ ਦਬਾ ਲਿਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹਨਾਂ ਉੱਤੇ ਝੁਰਮਟ ਪਾ ਲਿਆ” ਜਾਂ “ਉਹਨਾਂ ਨੂੰ ਘੇਰ ਲਿਆ|”
+  * **ਕੰਡੇਦਾਰ ਜਮੀਨ**  – ਮਤਲਬ, “ਜਮੀਨ ਜੋ ਕੰਡੇਦਾਰ ਝਾੜੀਆਂ ਨਾਲ ਢਕੀ ਹੋਈ ਹੈ|”
 **[[:pa:obs:notes:frames:33-03|<<]] | [[:pa:obs:notes:33|Up]] | [[:pa:obs:notes:frames:33-05|>>]]**
