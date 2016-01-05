@@ -1,22 +1,19 @@
-===== Working for Nothing [35-12] =====
+===== ਮੁਫਤ ਕੰਮ ਕਰਨਾ **[35-12]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?nolink&}}
 
-“The older son said to his father, ‘All these years I have worked **faithfully** for you! I never **disobeyed** you, and still you did not even give me **one small goat** so I could celebrate with my friends. But when **this son of yours** who **consumed your money** in **sinful** behavior came home, you **killed the best calf** for him!’”
-===== Important Terms: =====
+“ਵੱਡੇ ਮੁੰਡੇ ਨਾ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਕਿਹਾ, “ਇਹਨਾਂ ਸਾਰੇ ਸਾਲਾਂ ਵਿਚ ਮੈ ਤੇਰੇ ਲਈ ਵਫਾਦਾਰੀ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ! ਮੈਂ ਕਦੀ ਵੀ ਕਹਿਣਾ ਨਹੀਂ ਮੋੜਿਆ ਅਤੇ ਤੂੰ ਫਿਰ ਵੀ ਮੈਨੂੰ ਕਦੀ ਇਕ ਛੋਟੀ ਬੱਕਰੀ ਨਾ ਦਿੱਤੀ ਕਿ ਮੈਂ ਆਪਣੇ ਮਿੱਤਰਾਂ ਨਾਲ ਜਸ਼ਨ ਮਨਾ ਸਕਾਂ| ਪਰ ਜਦੋਂ ਹੁਣ ਇਹ ਤੇਰਾ ਪੁੱਤਰ ਜਿਸ ਨੇ ਤੇਰੇ ਸਾਰੇ ਪੈਸੇ ਨੂੰ ਭੈੜੇ ਕੰਮਾਂ ਵਿਚ ਤਬਾਹ ਕਰ ਦਿੱਤਾ ਘਰ ਆਇਆ ਤਾਂ ਤੂੰ ਉਸ ਲਈ ਵੱਧੀਆ ਵੱਛਾ ਵੱਡਿਆ !”
 
-  * **[[:pa:obe:kt:faithful]]**
-  * **[[:pa:obe:other:disobey]]**
-  * **[[:pa:obe:kt:sin]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਵਫਾਦਾਰੀ ਨਾਲ**
+  * **ਕਹਿਣਾ ਮੋੜਿਆ  **
+  * **ਭੈੜੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **one small goat** - A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him.
-  * **this son of yours** - This expression shows that the older son was angry. It shows his rejection of his younger brother and his disapproval of his father for welcoming back this wayward son. Other languages may also have an indirect way of communicating these things.
-  * **consumed your money** - That is, "squandered the money that you gave him" or, "devoured your wealth." If possible, use an expression that shows the brother's anger.
-  * **killed the best calf** - That is, "killed the best calf to eat at a feast."
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਇਕ ਛੋਟੀ ਬੱਕਰੀ**  – ਇਕ ਛੋਟੀ ਬੱਕਰੀ ਵੱਧੀਆ ਵੱਛੇ ਨਾਲੋਂ ਘੱਟ ਲੋਕਾਂ ਦਾ ਭੋਜਨ ਬਣਦੀ ਸੀ ਅਤੇ ਉਸ ਦੀ ਕੀਮਤ ਜਿਆਦਾ ਨਹੀਂ ਮੰਨੀ ਜਾਂਦੀ ਸੀ | ਵੱਡਾ ਭਰਾ ਇਤਰਾਜ਼ ਦਿਖਾ ਰਿਹਾ ਹੈ ਕਿ ਉਸ ਦਾ ਪਿਤਾ ਉਸਦੇ ਭੈੜੇ ਅਤੇ ਛੋਟੇ ਭਰਾ ਨੂੰ ਉਸ ਨਾਲੋਂ ਵੱਧੀਆ ਜਾਣ ਰਿਹਾ ਹੈ |
+  * **ਇਹ ਤੇਰਾ ਪੁੱਤਰ**  – ਇਹ ਪ੍ਰਗਟੀਕਰਨ ਦਿਖਾ ਰਿਹਾ ਰਿਹਾ ਹੈ ਕਿ ਵੱਡਾ ਪੁੱਤਰ ਗੁੱਸੇ ਵਿਚ ਸੀ | ਇਹ ਗੱਲ ਛੋਟੇ ਭਰਾ ਪ੍ਰਤੀ ਉਸ ਦੇ ਤ੍ਰਿਸਕਾਰ ਅਤੇ ਉਸ ਦੇ ਪਿਤਾ ਦੁਆਰਾ ਉਸਦੇ ਭਗੌੜੇ ਭਰਾ ਨੂੰ ਵਾਪਸ ਸਵਾਗਤ ਕਰਨ ਲਈ ਨਰਾਜਗੀ ਨੂੰ ਦਿਖਾ ਰਹੀ ਹੈ | ਦੂਸਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਸ਼ਾਇਦ ਇਹਨਾਂ ਗੱਲਾਂ ਦਾ ਵਾਰਤਾਲਾਪ ਅਸਿੱਧਾ ਹੋਵੇ |
+  * **ਤੇਰੇ ਪੈਸੇ ਤਬਾਹ ਕਰ ਦਿੱਤੇ**  – ਮਤਲਬ, “ਜੋ ਪੈਸੇ ਤੂੰ ਉਸ ਨੂੰ ਦਿੱਤੇ ਉਸ ਨੇ ਉਜਾੜ ਸਿੱਟੇ” ਜਾਂ “ਤੇਰਾ ਧਨ ਨਿਗਲ ਗਿਆ|” ਜੇ ਸੰਭਵ ਹੈ ਤਾਂ ਉਸ ਪ੍ਰਗਟੀਕਰਨ ਦਾ ਇਸਤੇਮਾਲ ਕਰੋ ਜੋ ਭਰਾ ਦੇ ਗੁੱਸੇ ਨੂੰ ਦਿਖਾਉਂਦਾ ਹੈ |
+  * **ਵੱਧੀਆ ਵੱਛਾ ਵੱਡਿਆ**  – ਮਤਲਬ, “ਜਸ਼ਨ ਵਿਚ ਖਾਣ ਲਈ ਚੰਗਾ ਵੱਛਾ ਵੱਡਿਆ|”
 **[[:pa:obs:notes:frames:35-11|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-13|>>]]**
