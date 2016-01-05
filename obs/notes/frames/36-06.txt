@@ -1,19 +1,16 @@
-===== Alone with Jesus [36-06] =====
+===== ਇੱਕਲੇ ਯਿਸੂ ਦੇ ਨਾਲ **[36-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?nolink&}}
 
-Then **Jesus touched them** and said, “**Do not be afraid**. **Get up**.” When they looked around, the **only one still there was Jesus**.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਛੂਹਿਆ ਅਤੇ ਕਿਹਾ, “ਨਾ ਡਰੋ| ਉਠੋ |” ਜਦੋਂ ਉਹਨਾਂ ਨੇ ਚੁਫੇਰੇ ਦੇਖਿਆ ਸਿਰਫ ਯਿਸੂ ਹੀ ਉੱਥੇ ਸੀ |
 
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **touched them** - That is, "put his hand on them." Some languages may prefer to specify where he touched them. If so, this could be translated as, "he touched them on the shoulder" or, "he put his hand on each one's shoulder."
-  * **Do not be afraid** - This could also be translated as, "Stop being afraid."
-  * **Get up** - This could also be translated as, "Stand up" or, "Please get up." Make sure that it sounds like Jesus spoke this with kindness.
-  * **the only one still there was Jesus** - It is also possible to add, "Moses and Elijah had left."
-
-
+  * **ਉਹਨਾਂ ਨੂੰ ਛੂਹਿਆ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਉੱਤੇ ਆਪਣਾ ਹੱਥ ਰੱਖਿਆ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਹ ਦੱਸਣਾ ਲਾਜਮੀ ਸਮਝ ਦੀਆਂ ਹਨ ਕਿ ਉਸ ਨੇ ਉਹਨਾਂ ਦੇ ਕਿੱਥੇ ਹੱਥ ਲਾਇਆ| ਅਗਰ ਐਸਾ ਹੈ, ਤਾਂ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਸੀ, “ਉਸ ਨੇ ਉਹਨਾਂ ਦੇ ਕੰਧਿਆਂ ਤੇ ਹੱਥ ਲਾਇਆ” ਜਾਂ “ਉਸ ਨੇ ਹਰ ਇਕ ਦੇ ਕੰਧੇ ਉੱਤੇ ਆਪਣਾ ਹੱਥ ਰੱਖਿਆ|”
+  * **ਨਾ ਡਰੋ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਡਰਨਾ ਬੰਦ ਕਰੋ|”
+  * **ਉੱਠੋ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਠ ਖੜ੍ਹੇ ਹੋਵੇ” ਜਾਂ “ਕਿਰਪਾ ਕਰਕੇ ਉਠੋ|” ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਸ ਤਰਾਂ ਦਿਖਾਈ ਦੇਵੇ ਕਿ ਯਿਸੂ ਸਹਿਜ ਨਾਲ ਬੋਲਦਾ ਸੀ |
+  * **ਸਿਰਫ ਯਿਸੂ ਹੀ ਉਥੇ ਸੀ**  – ਇਸ ਜੋੜਨਾ ਵੀ ਸੰਭਵ ਹੈ, “ਮੂਸਾ ਅਤੇ ਏਲੀਆਹ ਜਾ ਚੁੱਕੇ ਸਨ|”
 **[[:pa:obs:notes:frames:36-05|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:36-07|>>]]**
