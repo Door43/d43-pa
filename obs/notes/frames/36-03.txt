@@ -1,4 +1,4 @@
-===== ਮੂਸਾ ਅਤੇ ਏਲੀਆਹ **[36-03]**  =====
+===== ਮੂਸਾ ਅਤੇ ਏਲੀਆਹ [36-03] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-03.jpg?nolink&}}
 
@@ -12,9 +12,9 @@
   * **ਯਿਸੂ**
   * **ਮੌਤ**
   * **ਯਰੂਸ਼ਲਮ**
-===== Translation Notes: =====
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **appeared**  - It is also possible to say, "appeared out of nowhere." They suddenly were there.
-  * **his death, which would soon happen**  - This could be translated as, "how he would soon die" or, "how he would soon be killed."
-  * **in Jerusalem**  - Some languages may prefer to say, "in the city of Jerusalem."
+  * **ਪ੍ਰਗਟ ਹੋਏ**  – ਇਹ ਕਹਿਣਾ ਵੀ ਸੰਭਵ ਹੈ, “ਹਵਾ ਵਿਚ ਪ੍ਰਗਟ ਹੋ ਗਏ”| ਅਚਾਨਕ ਉਹ ਉੱਥੇ ਆ ਗਏ |
+  * **ਉਸ ਦੀ ਮੌਤ, ਜੋ ਜਲਦੀ ਹੋਣ ਵਾਲੀ ਸੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਕਿਸ ਤਰਾਂ ਉਹ ਜਲਦੀ ਮੇਰੇਗਾ” ਜਾਂ “ਕਿਸ ਤਰਾਂ ਉਹ ਜਲਦੀ ਮਾਰਿਆ ਜਾਵੇਗਾ|”
+  * **ਯਰੁਸ਼ਲਮ ਵਿਚ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਤਰਾਂ ਕਹਿਣ ਨੂੰ ਤਰਜੀਹ ਦਿੱਤੀ ਜਾਵੇਗੀ, “ਯਰੂਸ਼ਲਮ ਦੇ ਸ਼ਹਿਰ ਵਿਚ|”
 **[[:pa:obs:notes:frames:36-02|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:36-04|>>]]**
