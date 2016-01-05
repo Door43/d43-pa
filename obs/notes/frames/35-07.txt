@@ -1,20 +1,15 @@
-===== The Father's Welcome [35-07] =====
+===== ਪਿਤਾ ਦੁਆਰਾ ਸਵਾਗਤ **[35-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?nolink&}}
 
-“So the younger **son** started back towards his father's home. When he was **still far away**, his father saw him and **felt compassion** for him. He ran to his son and hugged him and kissed him.”
+“ਇਸ ਲਈ ਛੋਟਾ ਪੁੱਤਰ ਆਪਣੇ ਪਿਤਾ ਦੇ ਘਰ ਵੱਲ ਤੁਰ ਪਿਆ| ਜਦੋਂ ਅਜੇ ਉਹ ਦੂਰ ਹੀ ਸੀ ਉਸ ਦੇ ਪਿਤਾ ਨੇ ਉਸ ਨੂੰ ਦੇਖਿਆ ਅਤੇ ਉਸ ਪ੍ਰਤੀ ਤਰਸ ਨਾਲ ਭਰ ਗਿਆ | ਉਹ ਆਪਣੇ ਪੁੱਤਰ ਵੱਲ ਭੱਜਾ ਅਤੇ ਉਸਨੂੰ ਜੱਫੀ ਪਾਈ ਅਤੇ ਚੁੰਮਿਆ |
 
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-===== Important Terms: =====
+  * **ਪੁੱਤਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-  * **[[:pa:obe:kt:son]]**
-
-
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **still far away** - This can also be translated as, "within sight of his father's home, but still a distance away." The son was getting close to his father's house but was still far enough away that most people in the house would not have seen him. Make sure it does not sound like he was still in a different country.
-  * **felt compassion** - That is, "felt deep love and pity."
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਅੱਜੇ ਦੂਰ ਹੀ ਸੀ **– ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਸ ਦੇ ਪਿਤਾ ਦੇ ਘਰ ਨਜ਼ਰ ਆਉਣ ਦੀ ਹੱਦ ਵਿਚ, ਪਰ ਅੱਜੇ ਵੀ ਦੂਰ|” ਪੁੱਤਰ ਆਪਣੇ ਪਿਤਾ ਦੇ ਘਰ ਦੇ ਨਜਦੀਕ ਆ ਰਿਹਾ ਸੀ ਪਰ ਅਜੇ ਵੀ ਕਾਫੀ ਦੂਰ ਸੀ ਕਿ ਜਿਆਦਾਤਰ ਘਰ ਦੇ ਬਾਕੀ ਲੋਕ ਉਸ ਨੂੰ ਦੇਖਿਆ ਨਹੀਂ ਹੋਵੇਗਾ | ਪੱਕਾ ਕਰੋ ਕਿ ਇਹ ਇਸ ਤਰਾਂ ਨਹੀਂ ਦਿਖਾਈ ਦੇਣਾ ਚਾਹੀਦਾ ਕਿ ਉਹ ਕਿਸੇ ਦੂਸਰੇ ਦੇਸ ਵਿਚ ਸੀ |
+  * **ਤਰਸ ਭਰ ਗਿਆ**  – ਮਤਲਬ, “ਗਹਿਰਾ ਪਿਆਰ ਅਤੇ ਤਰਸ ਮਹਿਸੂਸ ਕੀਤਾ|”
 **[[:pa:obs:notes:frames:35-06|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-08|>>]]**
