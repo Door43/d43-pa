@@ -1,18 +1,15 @@
-===== I Am Good [34-08] =====
+===== ਮੈਂ ਚੰਗਾ ਹਾਂ **[34-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-08.jpg?nolink&}}
 
-“‘For example, I **fast** two times every week and I give you **ten percent** of all the money and goods that I receive.’”
-===== Important Terms: =====
+“ਉਦਾਹਰਨ ਲਈ, ਮੈਂ ਹਫਤੇ ਵਿਚ ਦੋ ਵਾਰੀ ਵਰਤ ਰੱਖਦਾ ਹਾਂ ਅਤੇ ਜੋ ਪੈਸਾ ਅਤੇ ਵਸਤਾਂ ਮੈਨੂੰ ਮਿਲਦੀਆਂ ਹਨ ਉਹਨਾਂ ਦਾ ਦਸਵਾਂ ਹਿੱਸਾ ਦਿੰਦਾ ਹਾਂ|”
 
-  * **[[:pa:obe:other:fast]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਵਰਤ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
-
+  * (ਯਿਸੂ ਨੇ ਧਾਰਮਿਕ ਆਗੂ ਦੀ ਪ੍ਰਾਰਥਨਾ ਬਾਰੇ ਕਹਾਣੀ ਨੂੰ ਜਾਰੀ ਰੱਖਿਆ)
+  * **ਮੈਂ ਵਰਤ ਰੱਖਦਾ ਹਾਂ**  – ਧਾਰਮਿਕ ਆਗੂ ਸਮਝਦਾ ਸੀ ਕਿ ਇਸ ਕਰਨ ਨਾਲ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪੱਖ ਨੂੰ ਪਾਇਆ ਜਾ ਸਕਦਾ ਹੈ |
+  * **ਦਸ ਪ੍ਰਤੀਸ਼ਤ**  – ਮਤਲਬ, “ਇਕ ਦਾ ਦਸਵਾਂ ਭਾਗ”
 **[[:pa:obs:notes:frames:34-07|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-09|>>]]**
