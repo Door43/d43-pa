@@ -1,21 +1,18 @@
-===== To the Mountain [36-01] =====
+===== ਪਹਾੜ ਵੱਲ **[36-01]**  =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
-One day, **Jesus** took three of his **disciples**, **Peter**, **James**, and **John**, with him. (The disciple named John was not the same person who **baptized** Jesus.) They went up on a high mountain by themselves to pray.
+ਇਕ ਦਿਨ ਯਿਸੂ ਨੇ ਆਪਣੇ ਤਿੰਨ ਚੇਲਿਆਂ ਪਤਰਸ, ਯਕੂਬ ਅਤੇ ਯਹੁੰਨਾ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲਿਆ | (ਯਹੁੰਨਾ ਨਾਮ ਦਾ ਚੇਲਾ ਉਹ ਵਿਅਕਤੀ ਨਹੀਂ ਸੀ ਜਿਸ ਨੇ ਯਿਸੂ ਨੂੰ ਬਪਤਿਸਮਾ ਦਿੱਤਾ) ਉਹ ਉਸ ਉੱਚੇ ਪਹਾੜ ਉੱਤੇ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਲਈ ਗਏ |
 
-===== Important Terms: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:johntheapostle]]**
-  * **[[:pa:obe:kt:baptize]]**
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਪਤਰਸ**
+  * **ਯਹੁੰਨਾ**
+  * **ਬਪਤਿਸਮਾ ਦਿੱਤਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
-
-
+  * **ਇਕ ਦਿਨ**  – ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਘਟੀ, ਪਰ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਨਹੀਂ ਤਸਦੀਕ ਕਰਦੀ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਹੈ |
+  * **ਯਕੂਬ**  – ਇਹ ਯਕੂਬ ਉਸ ਯਕੂਬ ਨਾਲੋਂ ਅੱਲਗ ਹੈ ਜਿਸ ਨੇ ਬਾਈਬਲ ਵਿਚ ਇਕ ਕਿਤਾਬ ਲਿੱਖੀ ਹੈ | ਇਸ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਲਈ ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਥੋੜਾ ਜਿਹਾ ਅੱਲਗ ਵਰਤਣਾ ਪੈਂਦਾ ਹੈ ਜਾਂ ਅੱਲਗ ਤਰੀਕੇ ਨਾਲ ਵਿਚਰਿਆ ਜਾਂਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:35-13|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:36-02|>>]]**
