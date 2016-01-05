@@ -1,18 +1,15 @@
-===== The Younger Son [35-04] =====
+===== ਛੋਟਾ ਪੁੱਤਰ **[35-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?nolink&}}
 
-“Soon the younger son gathered all that he had and went far away and **wasted his money** in **sinful living**.”
-===== Important Terms: =====
+“ਜਲਦੀ ਨਾਲ ਛੋਟੇ ਲੜਕੇ ਨੇ ਆਪਣਾ ਸੱਭ ਕੁੱਝ ਸਮੇਟਿਆ ਜੋ ਉਸ ਕੋਲ ਸੀ ਅਤੇ ਪਾਪ ਵਾਲੀ ਜਿੰਦਗੀ ਵਿਚ ਆਪਣੇ ਪੈਸੇ ਨੂੰ ਗੁਆ ਦਿੱਤਾ |”
 
-  * **[[:pa:obe:kt:sin]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪਾਪ ਭਰੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **wasted his money** - That is, "spent all his money without getting anything of value in exchange." In some languages it can be translated as, "threw his money away" or, "ate all his money."
-  * **sinful living** - That is, "doing sinful things."
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਆਪਣਾ ਪੈਸੇ ਗੁਆ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਉਸ ਪੈਸੇ ਦੇ ਬਦਲੇ ਕਿਸੇ ਵੀ ਮੁੱਲ ਨੂੰ ਪ੍ਰਾਪਤ ਕੀਤੇ ਬਿਨਾ ਸਾਰਾ ਗੁਆ ਦਿੱਤਾ|” ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਆਪਣਾ ਪੈਸਾ ਖਲਾਰ ਦਿੱਤਾ” ਜਾਂ “ਆਪਣਾ  ਸਾਰਾ ਪੈਸਾ ਖਾ ਗਿਆ|”
+  * **ਪਾਪਾ ਭਰੀ ਜਿੰਦਗੀ**  – ਮਤਲਬ, “ਪਾਪੀ ਕੰਮ ਕਰਨੇ|”
 **[[:pa:obs:notes:frames:35-03|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-05|>>]]**
