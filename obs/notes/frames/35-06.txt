@@ -1,17 +1,14 @@
-===== The Son Repented [35-06] =====
+===== ਪੁੱਤਰ ਪਛਤਾਇਆ **[35-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?nolink&}}
 
-“Finally, the younger son said to himself, ‘**What am I doing**? All my father’s **servants** have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
-===== Important Terms: =====
+“ਆਖਰਕਾਰ, ਛੋਟੇ ਪੁੱਤਰ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਕਿਹਾ, “ਮੈਂ ਕੀ ਕਰ ਰਿਹਾਂ ਹਾਂ?” ਮੇਰੇ ਪਿਤਾ ਦੇ ਨੌਕਰਾਂ ਕੋਲ ਖਾਣ ਲਈ ਬਹੁਤਾ ਹੈ ਅਤੇ ਮੈ ਇੱਥੇ ਭੁੱਖਾ ਮਰ ਰਿਹਾਂ ਹਾਂ | ਮੈਂ ਵਾਪਸ ਆਪਣੇ  ਪਿਤਾ ਕੋਲ ਜਾਵਾਂਗਾ ਅਤੇ ਉਸਦਾ ਇਕ ਨੌਕਰ ਹੋਣ ਲਈ ਪੁੱਛਾਂਗਾ|”
 
-  * **[[:pa:obe:other:servant]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਨੌਕਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **What am I doing?** - That is, "Why am I living like this?" or, " I should not be living like this!" or, "It doesn't make sense for me to live like this." The son isn't really asking a question, so some languages will have to translate this as a statement.
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਮੈਂ ਕੀ ਕਰ ਰਿਹਾਂ ਹਾਂ ?**  - ਮਤਲਬ, “ਕਿਉਂ ਮੈਂ ਇਸ ਤਰਾਂ ਜੀਅ ਰਹਾਂ ਹਾਂ?” ਜਾਂ “ਮੈਨੂੰ ਇਸ ਤਰਾਂ ਜੀਣ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ!” ਜਾਂ “ਮੇਰੇ ਲਈ ਇਸ ਤਰਾਂ ਜੀਣਾ ਕੋਈ ਮਤਲਬ ਨਹੀਂ ਰੱਖਦਾ|” ਇਹ ਪੁੱਤਰ ਅਸਲ ਵਿਚ ਕੋਈ ਸਵਾਲ ਨਹੀਂ ਪੁੱਛਦਾ, ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਨੂੰ ਇਕ ਕਥਨ ਦੇ ਰੂਪ ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:35-05|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-07|>>]]**
