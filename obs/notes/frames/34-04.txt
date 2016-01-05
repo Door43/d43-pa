@@ -1,21 +1,18 @@
-===== The Treasure in the Field [34-04] =====
+===== ਖੇਤ ਵਿਚ ਧੰਨ **[34-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-04.jpg?nolink&}}
 
-“The **kingdom of God** is also like **treasure** that someone hid in a field. Another man found the treasure and then **buried it again**. He was so **filled with joy** that he went and sold everything he had and used the money to **buy that field**.”
-===== Important Terms: =====
+“ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਇਕ ਧੰਨ ਵਰਗਾ ਵੀ ਹੈ ਜੋ ਕਿਸੇ ਨੇ ਖੇਤ ਵਿਚ ਛੁਪਾਇਆ ਹੈ| ਦੂਸਰੇ ਆਦਮੀ ਨੇ ਉਹ ਧੰਨ ਲੱਭਿਆ ਅਤੇ ਦੁਬਾਰਾ ਫੇਰ ਦੱਬ ਦਿੱਤਾ | ਉਹ ਬਹੁਤ ਅਨੰਦ ਨਾਲ ਭਰਿਆ ਸੀ ਕਿ ਉਹ ਗਿਆ ਅਤੇ ਉਸ ਨੇ ਸੱਭ ਕੁੱਝ ਵੇਚ ਦਿੱਤਾ ਜੋ ਉਸ ਕੋਲ ਸੀ ਕਿ ਉਸ ਪੈਸੇ ਨਾਲ ਉਸ ਖੇਤ ਨੂੰ ਖਰੀਦੇ |
 
-  * **[[:pa:obe:kt:kingdomofgod]]**
-  * **[[:pa:obe:kt:joy]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ**
+  * **ਅਨੰਦ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus told another story.)
-  * **treasure** - That is, "something that is very valuable."
-  * **buried it again** - It is also possible to add, "so that no one else would find it."
-  * **filled with joy** - Another way to say this is, "very happy" or, "excited."
-  * **buy that field** - Some people may want to add, "so that the treasure would be his."
-
-
+  * (ਯਿਸੂ ਨੇ ਇਕ ਹੋਰ ਕਹਾਣੀ ਦੱਸੀ)
+  * **ਧੰਨ**  – ਮਤਲਬ, “ਕੁੱਝ ਜੋ ਬਹੁਤ ਹੀ ਬਹੁ-ਮੁੱਲਾ ਹੈ|”
+  * **ਦੁਬਾਰਾ ਫੇਰ ਦੱਬਿਆ**  – ਇਹ ਜੋੜਨਾ ਵੀ ਸੰਭਵ ਹੈ, “ਕਿ ਕੋਈ ਦੂਸਰਾ ਇਸ ਨੂੰ ਲੱਭ ਨਾ ਸਕੇ|”
+  * **ਖੁਸ਼ੀ ਨਾਲ ਭਰ ਗਿਆ**  – ਇਸ ਨੂੰ ਕਹਿਣ ਦਾ ਇਕ ਹੋਰ ਤਰੀਕਾ, “ਬਹੁਤ ਖੁਸ਼” ਜਾਂ “ਉਤਾਵਲਾ|”
+  * **ਉਸ ਖੇਤ ਨੂੰ ਖਰੀਦੇ**  – ਕੁੱਝ ਲੋਕ ਜੋੜਨਾ ਚਾਹੁਣਗੇ, “ਕਿ ਧੰਨ ਉਸ ਦਾ ਹੋ ਸਕੇ|”
 **[[:pa:obs:notes:frames:34-03|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-05|>>]]**
