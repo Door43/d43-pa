@@ -1,19 +1,16 @@
-===== Jesus Taught Sinners [35-01] =====
+===== ਯਿਸੂ ਨੇ ਪਾਪੀਆਂ ਨੂੰ ਸਿੱਖਾਇਆ **[35-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?nolink&}}
 
-**One day**, **Jesus** was teaching many **tax collectors** and other **sinners** who had gathered to hear him.
-===== Important Terms: =====
+ਇਕ ਦਿਨ ਯਿਸੂ ਬਹੁਤ ਸਾਰੇ ਮਸੂਲੀਆਂ ਅਤੇ ਦੂਸਰੇ ਪਾਪੀਆਂ ਨੂੰ ਸਿੱਖਾ ਰਿਹਾ ਸੀ ਜੋ ਉਸ ਨੂੰ ਸੁਣਨ ਲਈ ਇੱਕਠੇ ਹੋਏ ਸਨ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:taxcollector]]**
-  * **[[:pa:obe:kt:sin]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਮਸੂਲੀਏ ਦੀ **
+  * **ਪਾਪੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
-
+  * **ਇਕ ਦਿਨ**  – ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਘਟੀ, ਪਰ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਨਹੀਂ ਤਸਦੀਕ ਕਰਦੀ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਹੈ |
+  * **ਮਸੂਲੀਏ**  – ਮਸੂਲੀਆਂ ਨੂੰ ਸੱਭ ਤੋਂ ਵੱਡੇ ਪਾਪੀ ਮੰਨਿਆ ਜਾਂਦਾ ਸੀ ਕਿਉਂਕਿ ਆਮ ਤੌਰ ਤੇ ਉਹ ਸਰਕਾਰ ਦੀ ਮੰਗ ਤੋਂ ਜਿਆਦਾ ਮਸੂਲ ਲੈ ਕੇ ਲੋਕਾਂ ਨੂੰ ਠੱਗਦੇ ਸਨ |
 **[[:pa:obs:notes:frames:34-10|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-02|>>]]**
