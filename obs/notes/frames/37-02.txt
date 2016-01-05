@@ -1,20 +1,17 @@
-===== Back to Judea [37-02] =====
+===== ਵਾਪਸ ਯਹੂਦਾਹ  ਗਿਆ **[37-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-02.jpg?nolink&}}
 
-After the two days had passed, **Jesus** said to his **disciples**, “Let’s go back to **Judea**.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **Lazarus has fallen asleep**, **and I must wake him**.”
-===== Important Terms: =====
+ਦੋ ਦਿਨ ਬੀਤ ਜਾਣ ਮਗਰੋਂ, ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆ ਨੂੰ ਕਿਹਾ, “ਆਓ ਯਹੂਦਾਹ ਨੂੰ ਵਾਪਸ ਚੱਲੀਏ”| “ਪਰ ਗੁਰੂ”, ਚੇਲਿਆਂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਕੁੱਝ ਸਮਾਂ ਪਹਿਲਾਂ ਲੋਕ ਉੱਥੇ ਤੈਨੂੰ ਮਾਰਨਾ ਚਾਹੁੰਦੇ ਸਨ!” ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਸਾਡਾ ਮਿੱਤਰ ਲਾਜ਼ਰ ਸੌਂ ਗਿਆ ਹੈ ਅਤੇ ਮੇਰਾ ਉਸ ਨੂੰ ਜਗਾਉਣਾ ਬਹੁਤ ਜਰੂਰੀ ਹੈ|”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:teacher]]**
-  * **[[:pa:obe:other:lazarus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਗੁਰੂ**
+  * **ਲਾਜ਼ਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Judea** - This refers to the southern section of Israel, which was settled by the tribe of Judah. Some languages will prefer to say, "the region of Judea."
-  * **has fallen asleep, and I must wake him.** - Translate this phrase with the normal words for "asleep" and "wake" in your language. Although Jesus was using these words with a different meaning, the disciples did not understand that yet.
-
-
+  * **ਯਹੂਦਾਹ**  – ਇਹ ਇਸਰਾਏਲ ਦੇ ਦੱਖਣੀ ਭਾਗ ਦਾ ਜ਼ਿਕਰ ਕਰਦਾ ਹੈ ਜੋ ਯਹੂਦਾਹ ਦੇ ਗੋਤਰ ਦੁਆਰਾ ਬਸਾਇਆ ਗਿਆ ਸੀ | ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਪਸੰਦ ਕਰਦੀਆਂ ਹਨ, “ਯਹੂਦਾਹ ਦਾ ਇਲਾਕਾ|”
+  * **ਸੌਂ ਚੁੱਕਿਆ ਹੈ ਅਤੇ ਮੇਰਾ ਉਸ ਨੂੰ ਜਗਾਉਣਾ ਬਹੁਤ ਜਰੂਰੀ ਹੈ**  – “ਸੌਣਾ” ਅਤੇ “ਜਗਾਉਣ” ਸ਼ਬਦਾਂ ਨੂੰ ਸਧਾਰਨ ਸ਼ਬਦਾਂ ਨਾਲ ਅਨੁਵਾਦ ਕਰੋ | ਚਾਹੇ ਯਿਸੂ ਇਹਨਾਂ ਸ਼ਬਦਾਂ ਨੂੰ ਭਿੰਨ ਅਰਥਾਂ ਦੇ ਨਾਲ ਇਸਤੇਮਾਲ ਕਰ ਰਿਹਾ ਸੀ ਅਤੇ ਚੇਲੇ ਉੱਦੋਂ ਉਸ ਨੂੰ ਨਾ ਸਮਝ ਸਕੇ |
 **[[:pa:obs:notes:frames:37-01|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-03|>>]]**
