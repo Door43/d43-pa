@@ -1,23 +1,20 @@
-===== The Religious Leader's Prayer [34-07] =====
+===== ਧਰਮਿਕ ਆਗੂ ਦੀ ਪ੍ਰਾਰਥਨਾ **[34-07] **  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-07.jpg?nolink&}}
 
-“The **religious leader prayed like this**, ‘Thank you, **God**, that **I am not a sinner like** other men—such as robbers, **unjust men**, **adulterers**, or even like that **tax collector**.’”
-===== Important Terms: =====
+“ਧਰਮਿਕ ਆਗੂ ਨੇ ਇਸ ਤਰਾਂ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ, “ਪ੍ਰਮੇਸ਼ਵਰ ਤੇਰਾ ਧੰਨਵਾਦ, ਕਿ ਮੈਂ ਦੂਸਰੇ ਮਨੁੱਖਾਂ ਦੀ ਤਰਾਂ ਪਾਪੀ ਨਹੀਂ ਹਾਂ ਜਿਵੇਂ ਕਿ ਲੁਟੇਰੇ, ਕੁਧਰਮੀ ਮਨੁੱਖ, ਜਨਾਹਕਾਰ, ਜਾਂ ਉਸ ਮਸੂਲੀਏ ਵਾਂਗੂ |”
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:adultery]]**
-  * **[[:pa:obe:other:taxcollector]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਧਾਰਮਿਕ ਆਗੂ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਪਾਪੀ**
+  * **ਜਨਾਹਕਾਰ**
+  * **ਮਸੂਲੀਆ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **The religious leader prayed like this** - Another way to say this would be, "This is how the religious leader prayed" or, "The religious leader prayed in this way."
-  * **I am not a sinner like** - That is, "I am not sinful like" or, "I am righteous, not like."
-  * **unjust men** - That is, "men who are not righteous" or, "people who do evil things" or, "law breakers."
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਧਾਰਮਿਕ ਆਗੂ ਨੇ ਇਸ ਤਰਾਂ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ**  -  ਹੋਰ ਤਰੀਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਕਿਹਾ ਜਾ ਸਕਦਾ ਹੈ, “ਇਸ ਤਰੀਕੇ ਨਾਲ ਧਾਰਮਿਕ ਆਗੂ ਨੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ” ਜਾਂ “ਧਾਰਮਿਕ ਆਗੂ ਨੇ ਇਸ ਢੰਗ ਨਾਲ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ”|
+  * **ਮੈਂ ਉਸ ਵਰਗਾ ਪਾਪੀ ਨਹੀਂ ਹਾਂ**  – ਮਤਲਬ, “ਮੈਂ ਉਸ ਵਰਗਾ ਪਾਪ ਕਰਨ ਵਾਲਾ ਨਹੀ” ਜਾਂ “ਮੈਂ ਧਰਮੀ ਹਾਂ, ਉਸ ਵਰਗਾ ਨਹੀਂ|”
+  * **ਕੁਧਰਮੀ ਮਨੁੱਖ**  – ਮਤਲਬ, “ਮਨੁੱਖ ਜੋ ਧਰਮੀ ਨਹੀਂ ਹਨ” ਜਾਂ “ਲੋਕ ਜੋ ਬੁਰਾਈ ਕਰਦੇ ਹਨ” ਜਾਂ “ਬਿਵਸਥਾ ਦਾ ਉਲੰਘਣ ਕਰਨ ਵਾਲੇ|”
 **[[:pa:obs:notes:frames:34-06|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-08|>>]]**
