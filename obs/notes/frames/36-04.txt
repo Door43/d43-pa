@@ -1,22 +1,18 @@
-===== Peter's Comments [36-04] =====
+===== ਪਤਰਸ ਦਾ ਵਿਅੰਗ **[36-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-04.jpg?nolink&}}
 
-As **Moses** and **Elijah** were talking with **Jesus**, **Peter** said to Jesus, “It is **good** for us to be here. Let us make three **shelters**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
+ਜਿਵੇਂ ਹੀ ਮੂਸਾ ਅਤੇ ਏਲੀਆਹ ਯਿਸੂ ਨਾਲ ਗੱਲਾਂ ਕਰਦੇ ਸਨ, ਪਤਰਸ ਨੇ ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “ਸਾਡੇ ਲਈ ਇੱਥੇ ਰਹਿਣਾ ਚੰਗੀ ਗੱਲ ਹੋਵੇਗੀ| ਆਓ ਅਸੀਂ ਇੱਥੇ ਤਿੰਨ ਤੰਬੂ ਬਣਾਈਏ, ਇਕ ਤੇਰੇ ਲਈ, ਇਕ ਮੂਸਾ ਲਈ, ਅਤੇ ਇਕ ਏਲੀਆਹ ਲਈ|” ਪਤਰਸ ਜਾਣਦਾ ਨਹੀਂ ਸੀ ਕਿ ਉਹ ਕੀ ਕਹਿ ਰਿਹਾ ਹੈ|
 
-===== Important Terms: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **[[:pa:obe:other:moses]]**
-  * **[[:pa:obe:other:elijah]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:good]]**
+  * **ਮੂਸਾ**
+  * **ਏਲੀਆਹ **
+  * **ਯਿਸੂ**
+  * **ਪਤਰਸ**
+  * **ਚੰਗਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
-===== Translation Notes: =====
-
-  * **shelters** - This can also be translated as, "lean-tos" or, "garden huts" or, "tents." It refers to small, individual, temporary shelters, like the Jews made from tree branches during an annual Jewish holiday.
-  * **did not know what he was saying** - That is, "was speaking without understanding what was happening" or, "spoke without thinking clearly because he was so excited."
-
-
+  * **ਤੰਬੂ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪਤਲਾ ਪੜਦਾ” ਜਾਂ “ਬਾਗਬਾਨੀ ਤੰਬੂ” ਜਾਂ “ਸ਼ਮਿਆਨਾ|” ਇਹ ਇਕ ਛੋਟੇ ਵਿਅਕਤੀਗਤ,ਅਸਥਾਈ ਰਹਿਣ ਬਸੇਰੇ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਜਿਵੇਂ ਯਹੂਦੀ ਆਪਣੇ ਸਲਾਨਾ ਪਰਬਾ ਦੀਆਂ ਛੁੱਟੀਆਂ ਦੇ ਸਮੇਂ ਦਰਖਤਾਂ ਦੀਆਂ ਟਾਹਣੀਆਂ ਤੋਂ ਬਣਾਉਦੇ ਸਨ |
+  * **ਨਹੀਂ ਜਾਣਦਾ ਸੀ ਕਿ ਉਹ ਕੀ ਕਹਿ ਰਿਹਾ ਹੈ**  – ਮਤਲਬ, “ ਕੀ ਹੋ ਰਿਹਾ ਸੀ ਉਸ ਦੀ ਸਮਝ ਦੇ ਬਿਨਾ ਬੋਲ ਰਿਹਾ ਸੀ” ਜਾਂ “ਸਾਫ਼ ਸਾਫ਼ ਸੋਚੇ ਤੋਂ ਬਿਨਾ ਬੋਲ ਗਿਆ ਕਿਉਂਕਿ ਉਹ ਬਹੁਤ ਉਤੇਜਿਤ ਹੋ ਗਿਆ ਸੀ |”
 **[[:pa:obs:notes:frames:36-03|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:36-05|>>]]**
