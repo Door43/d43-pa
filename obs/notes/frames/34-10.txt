@@ -1,28 +1,26 @@
-===== The Proud Will Be Humbled [34-10] =====
+===== ਘੁਮੰਡੀ ਨੀਵੇਂ ਕੀਤੇ ਜਾਣਗੇ **[34-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-10.jpg?nolink&}}
 
-Then **Jesus** said, “I tell you the **truth**, **God** heard the **tax collector's prayer** and **declared him to be righteous**. But he did not like the **religious leader's** prayer. God **will humble** everyone who is **proud**, and he will lift up whoever **humbles himself**.”
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਮੈਂ ਤੁਹਾਨੂੰ ਸੱਚ ਦੱਸਦਾ ਹਾਂ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮਸੂਲੀਏ ਦੀ ਪ੍ਰਾਰਥਨਾ ਸੁਣੀ ਅਤੇ ਉਸ ਨੂੰ ਧਰਮੀ ਠਹਿਰਾਇਆ| ਪਰ ਉਸ ਨੇ ਧਾਰਮਿਕ ਆਗੂ ਦੀ ਪ੍ਰਾਰਥਨਾ ਨਹੀਂ ਸੁਣੀ| ਪ੍ਰਮੇਸ਼ਵਰ ਹਰ ਘੁਮੰਡੀ ਨੂੰ ਨੀਵਾਂ ਕਰੇਗੇ ਅਤੇ ਜੋ ਕੋਈ ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਕਰਦਾ ਹੈ ਉਸ ਉਸ ਨੂੰ ਉੱਚਾ ਕਰੇਗਾ|”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:true]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:other:taxcollector]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:righteous]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:other:humble]]**
-  * **[[:pa:obe:other:proud]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਸਚਾਈ  **
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਮਸੂਲੀਏ ਦੀ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+  * **ਧਰਮੀ**
+  * **ਧਾਰਮਿਕ ਆਗੂ ਦੀ**
+  * **ਨੀਵਾਂ**
+  * **ਘੁਮੰਡੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **declared him to be righteous** - That is, "considered him to be a righteous person." Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance.
-  * **will humble** - This could also be translated as, "will give a lower status to" or, "will cause to not be important." It could be translated figuratively as, "will bring down."
-  * **will lift up** - That is, "will give a higher position to" or, "will honor."
-  * **humbles himself** - That is, "chooses to behave in a humble way" or, "has a humble attitude about himself."
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * **ਉਸ ਨੂੰ ਧਰਮੀ ਘੋਸ਼ਿਤ ਕੀਤਾ**  – ਮਤਲਬ, “ਉਸ ਨੂੰ ਧਰਮੀ ਪੁਰਖ ਜਾਣਿਆ|” ਚਾਹੇ ਮਸੂਲੀਆ ਇਕ ਪਾਪੀ ਸੀ, ਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਉਸ ਦੀ ਦੀਨਤਾ ਅਤੇ ਪਛਤਾਵੇ ਦੇ ਕਾਰਨ ਉਸ ਉੱਤੇ ਦਯਾਲੂ ਸੀ |
+  * **ਨੀਵਾਂ ਕਰੇਗਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹਨਾਂ ਨੂੰ ਨੀਵੀਂ ਪੱਦਵੀ ਦੇਵੇਗਾ” ਜਾਂ “ਉਹਨਾਂ ਨੂੰ ਉੱਤਮ ਨਹੀਂ ਹੋਣ ਦੇਵੇਗਾ|” ਇਸ ਦਾ ਅਨੁਵਾਦ ਰੂਪਕ ਤੌਰ ਵੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਨੀਵਾਂ ਕਰੇਗਾ|”
+  * **ਉੱਚਾ ਕਰੇਗਾ**  – ਮਤਲਬ, “ਉੱਚੀ ਪੱਦਵੀ ਦੇਵੇਗਾ” ਜਾਂ “ਇੱਜਤ ਦੇਵੇਗਾ|”
+  * **ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਕਰਦਾ**  – ਮਤਲਬ, “ਦੀਨਤਾ ਨਾਲ ਵਰਤਾਵ ਕਰਨਾ ਪਸੰਦ ਕਰਦਾ ਹੈ” ਜਾਂ “ਆਪਣੇ ਆਪ ਬਾਰੇ ਦੀਨ ਸੁਭਾਉ ਰੱਖਦਾ ਹੈ|”
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:34-09|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:35-01|>>]]**
