@@ -1,18 +1,15 @@
-===== The Religious Leaders Grumbled [35-02] =====
+===== ਧਾਰਮਿਕ ਆਗੂ ਬੁੜ-ਬੁੜਾਏ **[35-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?nolink&}}
 
-Some **religious leaders** who were also there saw **Jesus** treating these **sinners** as friends, and they began to criticize him to each other. So Jesus told them this **story**.
-===== Important Terms: =====
+ਕੁੱਝ ਧਾਰਮਿਕ ਆਗੂ ਜੋ ਉੱਥੇ ਸਨ  ਉਹਨਾਂ ਨੇ ਦੇਖਿਆ ਕਿ ਯਿਸੂ ਇਹਨਾਂ ਪਾਪੀਆਂ ਨੂੰ ਮਿੱਤਰਾਂ ਦੀ ਤਰਾਂ ਸਿੱਖਾ ਰਿਹਾ ਹੈ ਤਾਂ ਉਹ ਇੱਕ ਦੂਸਰੇ ਨਾਲ ਉਸ ਦੀ ਆਲੋਚਨਾ ਕਰਨ ਲੱਗੇ | ਇਸ ਲਈ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਇਹ ਕਹਾਣੀ ਦਿੱਸੀ |
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:sin]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਧਾਰਮਿਕ ਆਗੂ**
+  * **ਯਿਸੂ**
+  * **ਪਾਪੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **story** - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
-
-
+  * **ਕਹਾਣੀ**  – ਯਿਸੂ ਨੇ ਇਹ ਕਹਾਣੀ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਦੀ ਸਚਾਈ ਦੱਸਣ ਲਈ ਸੁਣਾਈ | ਇਹ ਸਾਫ਼ ਜਾਹਰ ਨਹੀਂ ਹੈ ਕਿ ਕੀ ਇਹ ਘਟਨਾ ਹਕੀਕਤ ਵਿਚ ਸੀ ਜਾਂ ਨਹੀਂ | ਅਗਰ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿਚ ਕੋਈ ਐਸਾ ਵਾਕ ਹੈ ਜੋ ਦੋਨੋਂ ਸੱਚੀ ਕਹਾਣੀ ਅਤੇ ਮਨਘੜਤ ਦੋਨਾਂ ਨੂੰ ਦੱਸਦਾ ਹੈ ਤਾਂ ਉਸ ਦਾ ਇਸਤੇਮਾਲ ਕਰੋ|
 **[[:pa:obs:notes:frames:35-01|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-03|>>]]**
