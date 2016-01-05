@@ -1,25 +1,22 @@
-===== Lazarus Was Sick [37-01] =====
+===== ਲਾਜ਼ਰ ਬੀਮਾਰ ਸੀ **[37-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-01.jpg?nolink&}}
 
-One day, **Jesus** received a message that **Lazarus** was very sick. Lazarus and his two sisters, **Mary** and Martha, were close friends of Jesus. When Jesus heard this news, he said, “**This sickness will not end in death**, but **it is for the glory of God**.” Jesus **loved** his friends, **but he waited where he was for two days**.
-===== Important Terms: =====
+ਇਕ ਦਿਨ ਯਿਸੂ ਨੇ ਸੰਦੇਸ਼ ਪਾਇਆ ਕਿ ਲਾਜ਼ਰ ਬਹੁਤ ਬੀਮਾਰ ਸੀ | ਲਾਜ਼ਰ ਅਤੇ ਉਸ ਦੀਆਂ ਦੋ ਭੈਣਾ, ਮਰੀਯਮ ਅਤੇ ਮਾਰਥਾਂ ਯਿਸੂ ਦੇ ਨਜਦੀਕੀ ਮਿੱਤਰ ਸਨ | ਜਦੋਂ ਯਿਸੂ ਨੇ ਖਬਰ ਪਾਈ, ਉਸ ਨੇ ਕਿਹਾ, “ਇਹ ਬਿਮਾਰੀ ਮੌਤ ਵਿਚ ਸਮਾਪਿਤ ਨਹੀਂ ਹੋਵੇਗੀ, ਪਰ ਇਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਲਈ ਹੈ|” ਯਿਸੂ ਆਪਣੇ ਮਿੱਤਰਾਂ ਨੂੰ ਪਿਆਰ ਕਰਦਾ ਸੀ ਪਰ ਉਹ ਜਿੱਥੇ ਹੈ ਸੀ ਉੱਥੇ ਦੋ ਦਿਨ ਹੋਰ ਇੰਤਜਾਰ ਕੀਤਾ  |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:lazarus]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:glory]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:love]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਲਾਜ਼ਰ**
+  * **ਮੌਤ**
+  * **ਮਹਿੰਮਾ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਪਿਆਰ ਕੀਤਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **Mary** - Jesus' mother was also named Mary. This was a different woman.
-  * **this sickness will not end in death** - This can also be translated as, "the final result of this sickness will not be death" or, "Lazarus is sick, but death is not the final result of this sickness." Jesus' disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end.
-  * **it is for the glory of God** - That is, "this will cause people to praise God for how great he is."
-  * **but he waited where he was for two days** - This could be translated as, "but he stayed where he was for two days, even though they wanted him to go and heal Lazarus."
-
-
+  * **ਇਕ ਦਿਨ**  – ਇਹ ਵਾਕ ਇਕ ਘਟਨਾ ਦੀ ਜਾਣਕਾਰੀ ਦਿੰਦਾ ਹੈ ਜੋ ਅਤੀਤ ਵਿਚ ਘਟੀ, ਪਰ ਕਿਸੇ ਖਾਸ ਸਮੇਂ ਬਾਰੇ ਨਹੀਂ ਤਸਦੀਕ ਕਰਦੀ | ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਕਹਾਣੀ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਇਹ ਇਕ ਤਰੀਕਾ ਹੈ |
+  * **ਮਰੀਯਮ**  – ਯਿਸੂ ਦੀ ਮਾਤਾ ਦਾ ਨਾਮ ਵੀ ਮਰੀਯਮ ਸੀ | ਇਹ ਇਕ ਅਲੱਗ ਔਰਤ ਸੀ |
+  * **ਇਹ ਬਿਮਾਰੀ ਮੌਤ ਵਿਚ ਸਮਾਪਿਤ ਨਹੀਂ ਹੋਵੇਗੀ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਸ ਬਿਮਾਰੀ ਦਾ ਅੰਤਿਮ ਨਤੀਜਾ ਮੌਤ ਨਹੀਂ ਹੋਵੇਗਾ” ਜਾਂ “ਲਾਜ਼ਰ ਬੀਮਾਰ ਹੈ ਪਰ ਮੌਤ ਇਸ ਬਿਮਾਰੀ ਦਾ ਅੰਤਿਮ ਨਤੀਜਾ ਨਹੀਂ ਹੈ|” ਯਿਸੂ ਦੇ ਚੇਲਿਆਂ ਨੇ ਸੋਚਿਆ ਸ਼ਾਇਦ ਲਾਜ਼ਰ ਇਸ ਬਿਮਾਰੀ ਤੋਂ ਨਹੀਂ ਮਰੇਗਾ | ਪਰ ਯਿਸੂ ਇਹ ਜਾਣਦਾ ਸੀ, ਚਾਹੇ ਲਾਜ਼ਰ ਇਸ ਬਿਮਾਰੀ ਤੋਂ  ਮਰ ਵੀ ਜਾਵੇਗਾ ਪਰ ਉਹ ਅੰਤ ਵਿਚ ਜੀਵੇਗਾ |
+  * **ਇਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਲਈ ਹੈ**  – ਮਤਲਬ, “ਇਹ ਲੋਕਾਂ ਤੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਕਰਾਵੇਗਾ ਕਿ ਉਹ ਕਿੰਨਾ ਮਹਾਂ ਹੈ |”
+  * **ਪਰ ਉਹ ਜਿੱਥੇ ਹੈ ਸੀ ਉੱਥੇ ਦੋ ਦਿਨ ਹੋਰ ਇੰਤਜਾਰ ਕੀਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪਰ ਉਹ ਜਿੱਥੇ ਹੈ ਸੀ ਉੱਥੇ ਦੋ ਦਿਨ ਹੋਰ ਰੁੱਕਿਆ, ਚਾਹੇ ਉਹ ਚਹੁੰਦੇ ਸੀ ਕਿ ਉਹ ਜਾਵੇ ਅਤੇ ਲਾਜ਼ਰ ਨੂੰ ਚੰਗਾ ਕਰਾ|”
 **[[:pa:obs:notes:frames:36-07|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-02|>>]]**
