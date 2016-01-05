@@ -1,17 +1,14 @@
-===== Jesus Was Changed [36-02] =====
+===== ਯਿਸੂ ਬਦਲ ਗਿਆ ਸੀ **[36-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?nolink&}}
 
-As **Jesus** was praying, his face became as bright as the sun and his clothes became as white as light, **whiter** than anyone on earth could make them.
-===== Important Terms: =====
+ਜਦੋਂ ਯਿਸੂ ਪ੍ਰਾਰਥਨਾ ਕਰ ਰਿਹਾ ਸੀ ਉਸ ਦਾ ਚਮਕਣ ਲੱਗਾ ਜਿਵੇਂ ਸੂਰਜ ਹੋਵੇ ਅਤੇ ਉਸਦੇ ਬਸਤਰ ਰੋਸ਼ਨੀ ਜਿਹੇ ਸਫੇਦ ਹੋ ਗਏ, ਇੰਨੇ ਸਾਫ਼ ਕਿ ਇਸ ਧਰਤੀ ਉੱਤੇ ਕੋਈ ਵੀ ਉਨੇ ਸਾਫ਼ ਨਹੀਂ ਕਰ ਸਕਦਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:pray]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਾਰਥਨਾ ਕਰਨਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **whiter ** - That is, "more white."
-
-
+  * **ਬਹੁਤ ਸਾਫ਼**  – ਮਤਲਬ, “ਹੋਰ ਵੀ ਸਫੇਦ|”
 **[[:pa:obs:notes:frames:36-01|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:36-03|>>]]**
