@@ -1,22 +1,20 @@
-===== Lazarus Was Dead [37-03] =====
+===== ਲਾਜ਼ਰ ਮਰ ਚੁੱਕਿਆ ਸੀ **[37-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-03.jpg?nolink&}}
 
-**Jesus' disciples** replied, “**Master**, if **Lazarus** is sleeping, then **he will get better**.” Then Jesus told them plainly, “**Lazarus is dead**. **I am glad** that I was not there, so that you may **believe** in me.”
-===== Important Terms: =====
+ਯਿਸੂ ਦੇ ਚੇਲਿਆ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਸਵਾਮੀ, ਜੇ ਲਾਜ਼ਰ ਸੌਂ ਰਿਹਾ ਹੈ ਤਾਂ ਉਹ ਚੰਗਾ ਹੋ  ਜਾਵੇਗਾ|” ਤੱਦ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਸਾਫ਼ ਸਾਫ਼ ਦੱਸ ਦਿੱਤਾ, “ਲਾਜ਼ਰ ਮਰ ਗਿਆ ਹੈ| ਮੈਂ ਖੁਸ਼ ਹਾਂ ਕਿ ਮੈਂ ਉੱਥੇ ਨਹੀਂ ਸੀ ਤਾਂ ਜੋ ਤੁਸੀਂ ਮੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰੋਂ |”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:lord]]**
-  * **[[:pa:obe:other:lazarus]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:believe]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ ਦੇ**
+  * **ਚੇਲੇ**
+  * **ਗੁਰੂ**
+  * **ਲਾਜ਼ਰ**
+  * **ਮਰ ਗਿਆ**
+  * **ਵਿਸ਼ਵਾਸ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **he will get better** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he will get well."
-  * **I am glad** - This could be translated as, "I am happy" or, "It is good that." It does not mean he was happy that Lazarus died, but rather that he was happy that God was going to show how great he is.
-
-
+  * **ਉਹ ਚੰਗਾ ਹੋ ਜਾਵੇਗਾ**
+  - ਚੇਲੇ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚਹੁੰਦੇ ਸਨ, “ਸਾਨੂੰ ਹੁਣ ਉੱਥੇ ਜਾਣ ਦੀ ਲੋੜ ਨਹੀਂ ਕਿਉਂਕਿ ਉਹ ਚੰਗਾ ਹੋ ਜਾਵੇਗਾ |”
+  * **ਮੈਂ ਖੁਸ਼ ਹਾਂ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਮੈਂ ਖੁਸ਼ ਹਾਂ” ਜਾਂ “ਇਹ ਚੰਗਾ ਹੈ ਕਿ|” ਇਸ ਦਾ ਇਹ ਮਤਲਬ ਨਹੀਂ ਹੈ ਕਿ ਉਹ ਖੁਸ ਹੋ ਰਿਹਾ ਸੀ ਕਿ ਲਾਜ਼ਰ ਮਰ ਗਿਆ ਹੈ ਪਰ ਇਸ ਦੀ ਬਜਾਏ ਉਹ ਖੁਸ਼ ਸੀ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਦਿਖਾਉਣ ਜਾ ਰਿਹਾ ਹੈ ਕਿ ਉਹ ਕਿੰਨਾ ਮਹਾਨ ਹੈ|”
 **[[:pa:obs:notes:frames:37-02|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-04|>>]]**
