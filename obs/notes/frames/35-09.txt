@@ -1,22 +1,19 @@
-===== Prepare the Feast [35-09] =====
+===== ਭੋਜ ਤਿਆਰ ਕੀਤਾ **[35-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?nolink&}}
 
-“But his father told one of his **servants**, ‘Go quickly and bring the best clothes and put them on my **son**! Put a ring on his finger and put sandals on his feet. Then kill the **best calf** so we can have a feast and celebrate, because **my son was dead**, **but now he is alive**! **He was lost**, **but now he is found**!’”
-===== Important Terms: =====
+“ਪਰ ਉਸ ਦੇ ਪਿਤਾ ਨੇ ਆਪਣੇ ਨੌਕਰਾਂ ਨੂੰ ਕਿਹਾ, “ਛੇਤੀ ਨਾਲ ਜਾਓ ਅਤੇ ਵਧੀਆ ਕਪੜੇ ਲਿਆਓ ਅਤੇ ਮੇਰੇ ਪੁੱਤਰ ਨੂੰ ਪਹਿਨਾਓ! ਉਸ ਦੀ ਉਂਗਲ ਵਿਚ ਅੰਗੂਠੀ ਪਾਓ ਅਤੇ ਉਸ ਦੇ ਪੈਰਾਂ ਵਿਚ ਜੁੱਤੀ ਵੀ ਪਾਓ | ਤੱਦ ਵਧੀਆ ਵੱਛਾ ਕੱਟੋ ਤਾਂ ਕਿ ਅਸੀਂ ਭੋਜ ਕਰ ਸਕੀਏ ਅਤੇ ਜਸ਼ਨ ਮਨਾਈਏ ਕਿਉਂਕਿ ਮੇਰਾ ਪੁੱਤਰ ਮਰ ਗਿਆ ਸੀ ਅਤੇ ਹੁਣ ਉਹ ਜੀਵਤ ਹੈ ! ਉਹ ਗੁਆਚ ਗਿਆ ਸੀ ਪਰ ਹੁਣ ਉਹ ਲੱਭ ਪਿਆ ਹੈ!
 
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:son]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:life]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਨੌਕਰ**
+  * **ਪੁੱਤਰ**
+  * **ਮਰ ਗਿਆ ਸੀ**
+  * **ਜੀਵਤ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **the best calf** - This could also be translated as, "the fattest calf." This was the calf that had been fattened so that when cooked it would taste the best.
-  * **My son was dead, but now he is alive!** - That is, "This is like my son was dead and is alive again!" or, "I grieved as if my son had died, but now I rejoice because it is as if he has come back to life!" The father is using this expression to show how happy he is that his son has come home.
-  * **He was lost, but now he is is found!** - That is, "This is like I had lost him but now I have found him." This expression also shows how happy the father is about having his son at home again.
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਵਧੀਆ ਵੱਛਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਤਕੜਾ ਵੱਛਾ|” ਇਹ ਉਹ ਵੱਛਾ ਸੀ ਜੋ ਬਹੁਤ ਤਕੜਾ ਸੀ ਕਿ ਉਹ ਰਿੰਨਣ ਤੇ ਬਹੁਤ ਸਵਾਦੀ ਹੋਵੇ |
+  * **ਮੇਰਾ ਪੁੱਤਰ ਮਰ ਗਿਆ ਸੀ, ਪਰ ਹੁਣ, ਇਹ ਜੀਵਤ ਹੈ !**  – ਮਤਲਬ, “ਇਹ ਇਸ ਤਰਾਂ ਹੈ ਕਿ ਮੇਰਾ ਪੁੱਤਰ ਮਰ ਗਿਆ ਸੀ ਅਤੇ ਹੁਣ ਉਹ ਦੁਬਾਰਾ ਜੀਵਤ ਹੋ ਗਿਆ!” ਪਿਤਾ ਇਸ ਪ੍ਰਗਟੀਕਰਨ ਨੂੰ ਇਸ ਲਈ  ਇਸਤੇਮਾਲ ਕਰ ਰਿਹਾ ਕਿ ਉਹ ਦਿਖਾ ਸਕੇ ਕਿ ਉਹ ਆਪਣੇ ਪੁੱਤਰ ਦੇ ਦੁਬਾਰਾ ਘਰ ਆਉਣ ਤੇ ਕਿੰਨਾ ਖੁਸ਼ ਹੈ |
+  * **ਉਹ ਗੁਆਚ ਚੁੱਕਾ ਸੀ ਪਰ ਹੁਣ ਲੱਭ ਪਿਆ ਹੈ**  – ਮਤਲਬ, “ਇਹ ਇਸ ਤਰਾਂ ਹੈ ਕਿ ਮੈਂ ਆਪਣਾ ਪੁੱਤਰ ਗੁਆ ਚੁੱਕਾ ਸੀ ਪਰ ਹੁਣ ਮੈਂ ਉਸ ਨੂੰ ਪਾ ਲਿਆ ਹੈ|” ਪਿਤਾ ਇਸ ਪ੍ਰਗਟੀਕਰਨ ਨੂੰ ਵੀ ਇਸ ਲਈ  ਇਸਤੇਮਾਲ ਕਰ ਰਿਹਾ ਕਿ ਉਹ ਦਿਖਾ ਸਕੇ ਕਿ ਉਹ ਆਪਣੇ ਪੁੱਤਰ ਦੇ ਦੁਬਾਰਾ ਘਰ ਆਉਣ ਤੇ ਕਿੰਨਾ ਖੁਸ਼ ਹੈ |
 **[[:pa:obs:notes:frames:35-08|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-10|>>]]**
