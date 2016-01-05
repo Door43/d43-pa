@@ -1,14 +1,13 @@
-===== The Older Brother [35-10] =====
+===== ਵੱਡਾ ਪੁੱਤਰ **[35-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?nolink&}}
 
-“So the people began to celebrate. **Before long**, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
-===== Important Terms: =====
+“ਇਸ ਲਈ ਲੋਕ ਜਸ਼ਨ ਮਨਾਉਣ ਲੱਗੇ | ਥੋੜੇ ਸਮੇਂ ਬਾਅਦ ਵੱਡਾ ਪੁੱਤਰ ਖੇਤਾਂ ਵਿਚੋਂ ਕੰਮ ਕਰਨ ਤੋਂ ਬਾਅਦ ਘਰ ਆਇਆ | ਉਸ ਨੇ ਸੰਗੀਤ ਅਤੇ ਨੱਚਣ ਦੀ ਅਵਾਜ ਸੁਣੀ ਅਤੇ ਹੈਰਾਨ ਹੋਇਆ ਕਿ ਕੀ ਹੋ ਰਿਹਾ ਹੈ |”
 
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * (Jesus continues the story.)
-  * **Before long** - This can also be translated as, "Soon" or, "After a little while."
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਥੋੜੇ ਸਮੇਂ ਬਾਅਦ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਜਲਦੀ” ਜਾਂ “ਕੁੱਝ ਸਮੇਂ ਬਾਅਦ|”
 **[[:pa:obs:notes:frames:35-09|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-11|>>]]**
