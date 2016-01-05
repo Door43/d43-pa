@@ -1,19 +1,17 @@
-===== Keep the Secret [36-07] =====
+===== ਭੇੱਡ ਰੱਖਣਾ **[36-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
-**Jesus** and the three **disciples** went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon **die** and then come back to **life**. After that, you may tell people.”
-===== Important Terms: =====
+ਯਿਸੂ ਅਤੇ ਉਸਦੇ ਤਿੰਨ ਚੇਲੇ ਪਹਾੜ ਤੋਂ ਹੇਠਾਂ ਉੱਤਰੇ | ਤੱਦ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, “ਜੋ ਕੁੱਝ ਇੱਥੇ ਹੋਇਆ ਹੈ ਉਸ ਬਾਰੇ ਕਿਸੇ ਨੂੰ ਵੀ ਨਹੀਂ ਦੱਸਣਾ| I ਮੈਂ ਛੇਤੀ ਮਰ ਜਾਵਾਂਗਾ ਅਤੇ ਫਿਰ ਦੁਬਾਰਾ ਜੀਵਤ ਹੋ ਜਾਵਾਂਗਾ | ਉਸ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਲੋਕਾਂ ਨੂੰ ਇਹ ਦੱਸ ਸਕਦੇ ਹੋ |”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:life]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਮਰਨਾ**
+  * **ਜਿੰਦਗੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:36-06|<<]] | [[:pa:obs:notes:36|Up]] | [[:pa:obs:notes:frames:37-01|>>]]**
