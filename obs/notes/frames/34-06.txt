@@ -1,23 +1,20 @@
-===== Two Men at the Temple [34-06] =====
+===== ਮੰਦਰ ਵਿਚ ਦੋ ਵਿਅਕਤੀ  **[34-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-06.jpg?nolink&}}
 
-Then **Jesus** told a **story** to some people who **trusted in their own good deeds** and **despised other people**. He said, “Two men went to the **Temple** to **pray**. One of them was a **tax collector**, and the other was a **religious leader**.”
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਕੁੱਝ ਲੋਕਾਂ ਨੂੰ ਇਕ ਕਹਾਣੀ ਦੱਸੀ ਜੋ ਆਪਣੇ ਚੰਗੇ ਕਰਮਾ ਵਿਚ ਭਰੋਸਾ ਕਰਦੇ ਸਨ ਅਤੇ ਦੂਸਰੇ ਲੋਕਾਂ ਦੇ ਕਰਮਾਂ ਨੂੰ ਨਕਾਰਦੇ ਸਨ | ਉਸ ਨੇ ਕਿਹਾ, “ਦੋ ਵਿਅਕਤੀ ਮੰਦਰ ਵਿਚ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਲਈ ਗਏ| ਉਹਨਾਂ ਵਿਚੋਂ ਇਕ ਮਸੂਲ ਲੈਣ ਵਾਲਾ ਸੀ ਅਤੇ ਦੂਸਰਾ ਧਰਮਿਕ ਆਗੂ ਸੀ |”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:trust]]**
-  * **[[:pa:obe:kt:temple]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:other:taxcollector]]**
-  * **[[:pa:obe:other:jewishleaders]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਭਰੋਸਾ ਕੀਤਾ **
+  * **ਮੰਦਰ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+  * **ਮਸੂਲੀਆ**
+  * **ਧਾਰਮਿਕ ਆਗੂ  **
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **story** - See how you translated this term in **[[:pa:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
-  * **despised other people** - That is, "considered other people to be inferior to them" or, "looked down on other people."
-
-
+  * ਕਹਾਣੀ  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਵਾਕ ਨੂੰ **[[:pa:obs:notes:frames:34-01|[34-01]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ |
+  * **trusted in their own good deeds**  - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
+  * **despised other people**  - That is, "considered other people to be inferior to them" or, "looked down on other people."
 **[[:pa:obs:notes:frames:34-05|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-07|>>]]**
