@@ -1,20 +1,18 @@
-===== The Perfect Pearl [34-05] =====
+===== ਸ਼ੁੱਧ  ਹੀਰਾ **[34-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-34-05.jpg?nolink&}}
 
-“The **kingdom of God** is also like a **perfect pearl of great value**. When a **pearl merchant** found it, he sold all that he had and used the money to buy it.”
-===== Important Terms: =====
+“ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ ਇਕ ਸ਼ੁੱਧ ਹੀਰੇ ਵਰਗਾ ਹੈ ਜੋ ਬਹੁਤ ਕੀਮਤੀ ਹੈ| ਜਦੋਂ ਹੀਰੇ ਦਾ ਵਪਾਰੀ ਨੂੰ ਇਹ ਲੱਭਦਾ ਹੈ ਤਾਂ ਉਹ ਆਪਣਾ ਸੱਭ ਕੁੱਝ ਵੇਚ ਦਿੰਦਾ ਹੈ ਕਿ ਇਸ ਨੂੰ ਖਰੀਦਣ ਲਈ ਉਸ ਪੈਸੇ ਨੂੰ ਵਰਤੇ |
 
-  * **[[:pa:obe:kt:kingdomofgod]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਰਾਜ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues with another story about the kingdom of God.)
-  * **perfect pearl** - That is, "a pearl without any defects."
-  * **pearl** - If pearls are unknown, this can be translated as, "beautiful stone" or, "beautiful stone-like thing."
-  * **of great value** - That is, "that was very valuable" or, "that was worth a lot of money."
-  * **pearl merchant** - That is, "pearl dealer" or, "pearl trader." This refers to a person whose business is buying and selling pearls.
-
-
+  * (ਯਿਸੂ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਰਾਜ ਬਾਰੇ ਇਕ ਹੋਰ ਕਹਾਣੀ ਦੇ ਨਾਲ ਜਾਰੀ ਰੱਖਿਆ)
+  * **ਸ਼ੁੱਧ ਹੀਰਾ**  – ਮਤਲਬ, “ਬਿਨਾ ਕਿਸੇ ਨੁਕਸ ਦੇ ਇਕ ਹੀਰਾ|”
+  * **ਹੀਰਾ**  – ਜੇ ਹੀਰੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ ਤਾਂ ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਕ ਬਹੁਤ “ਖੂਬਸੂਰਤ ਪੱਥਰ” ਦੇ ਨਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜਾਂ “ਖੂਬਸੂਰਤ ਪੱਥਰ ਵਰਗੀ ਕਿਸੇ ਚੀਜ” ਨਾਲ |
+  * **ਵੱਡੀ ਕੀਮਤ ਦਾ**
+  -ਮਤਲਬ, “ਉਹ ਬਹੁਤ ਕੀਮਤੀ ਸੀ” ਜਾਂ “ਉਹ ਬਹੁਤ ਪੈਸੇ ਦੀ ਕੀਮਤ ਦਾ ਸੀ |”
+  * **ਹੀਰੇ ਦਾ ਵਪਾਰੀ**  – ਮਤਲਬ, “ਯੋਹਰੀ” ਜਾਂ “ਹੀਰੇ ਦੁਕਾਨਦਾਰ” ਇਹ ਉਸ ਵਿਅਕਤੀ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਜੋ ਹੀਰੇ ਨੂੰ ਖਰੀਦਣ ਅਤੇ ਵੇਚਣ ਦਾ ਧੰਦਾ ਕਰਦਾ ਹੈ |
 **[[:pa:obs:notes:frames:34-04|<<]] | [[:pa:obs:notes:34|Up]] | [[:pa:obs:notes:frames:34-06|>>]]**
