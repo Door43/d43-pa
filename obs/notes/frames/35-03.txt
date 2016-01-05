@@ -1,19 +1,16 @@
-===== The Two Sons [35-03] =====
+===== ਦੋ ਪੁੱਤਰ **[35-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?nolink&}}
 
-“There was a man who had two **sons**. The younger son told his father, ‘Father, I want **my inheritance** now!’ So the father divided his **property** between his two sons.”
-===== Important Terms: =====
+“ਇਕ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਦੇ ਦੋ ਪੁੱਤਰ ਸਨ | ਛੋਟੇ ਲੜਕੇ ਨੇ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਕਿਹਾ, ਪਿਤਾ, ਮੈਂ ਆਪਣਾ ਹਿੱਸਾ ਹੁਣੇ ਚਾਹੁੰਦਾ ਹਾਂ ਇਸ ਲਈ ਪਿਤਾ ਨੇ ਆਪਣੀ ਜਾਇਦਾਦ ਨੂੰ ਦੋ ਪੁੱਤਰਾਂ ਵਿਚ ਵੰਡ ਦਿੱਤਾ |”
 
-  * **[[:pa:obe:kt:son]]**
-  * **[[:pa:obe:kt:inherit]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪੁੱਤਰ**
+  * **ਜਾਇਦਾਦ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus tells the story.)
-  * **my inheritance** - This could be translated as, "the part of your wealth that will be rightfully mine when you die."
-  * **property** - That is, "wealth" or, "possessions." This property would probably have included land, animals, and money.
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਮੇਰਾ ਹਿੱਸਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਜਦੋਂ ਤੂੰ ਮਰੇਂਗਾ ਤਾਂ ਤੇਰੀ ਜਾਇਦਾਦ ਦਾ ਅੱਧਾ ਹਿੱਸਾ ਕਨੂੰਨਨ ਮੇਰਾ ਹੋਵੇਗਾ|”
+  * **ਜਾਇਦਾਦ**  – ਮਤਲਬ, “ਧੰਨ ਸਮੰਪਤੀ” ਜਾਂ “ਵਿਰਾਸਤ|” ਸ਼ਾਇਦ ਇਸ ਜਾਇਦਾਦ ਵਿਚ ਜਮੀਨ, ਪਸ਼ੁ ਅਤੇ ਪੈਸਾ ਸ਼ਾਮਲ ਸੀ |
 **[[:pa:obs:notes:frames:35-02|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-04|>>]]**
