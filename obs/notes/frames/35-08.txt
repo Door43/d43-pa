@@ -1,20 +1,17 @@
-===== I Have Sinned [35-08] =====
+===== ਮੈਂ ਪਾਪ ਕੀਤਾ ਹੈ **[35-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?nolink&}}
 
-“The **son** said, ‘Father, I have **sinned against God and against you**. **I am not worthy** to be your son.’”
-===== Important Terms: =====
+ਪੁੱਤਰ ਨੇ ਕਿਹਾ, “ਮੈਂ ਤੇਰੇ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਿਰੁਧ ਪਾਪ ਕੀਤਾ ਹੈ| ਮੈਂ ਤੇਰਾ ਪੁੱਤਰ ਕਹਾਉਣ ਦੇ ਯੋਗ ਨਹੀਂ ਹਾਂ |”
 
-  * **[[:pa:obe:kt:son]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:god]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪੁੱਤਰ**
+  * **ਪਾਪ ਕੀਤਾ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
-
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਤੇਰੇ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਿਰੁਧ ਪਾਪ ਕੀਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ,, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਿਰੁਧ ਪਾਪ ਕੀਤਾ ਅਤੇ ਤੇਰੇ ਵਿਰੁਧ ਵੀ ਪਾਪ ਕੀਤਾ ਹੈ|”
+  * **ਮੈਂ ਯੋਗ ਨਹੀਂ ਹਾਂ**  – ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਵੀ ਸੰਭਵ ਹੈ, “ਇਸ ਲਈ ਮੈਂ ਯੋਗ ਨਹੀਂ ਹਾਂ” ਜਾਂ “ਨਤੀਜੇ ਵਜੋਂ, ਮੈਂ ਯੋਗ ਨਹੀਂ ਹੈਂ|”
 **[[:pa:obs:notes:frames:35-07|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:35-09|>>]]**
