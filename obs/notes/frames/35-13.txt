@@ -1,23 +1,22 @@
-===== We Must Celebrate [35-13] =====
+===== ਅਸੀਂ ਜਰੁਰ ਜਸ਼ਨ ਮਨਾਈਏ **[35-13]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?nolink&}}
 
-“The father answered, ‘My **son**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was dead**, **but now is alive**. **He was lost**, **but now is found**!’”
-===== Important Terms: =====
+“ਪਿਤਾ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, ਮੇਰੇ ਪੁੱਤਰ, ਤੂੰ ਤਾਂ ਹਮੇਸ਼ਾਂ ਮੇਰੇ ਨਾਲ ਸੀ ਅਤੇ ਜੋ ਕੁੱਝ ਮੇਰਾ ਹੈ ਸੱਭ ਤੇਰਾ ਹੈ| ਪਰ ਸਾਡੇ ਲਈ ਠੀਕ ਹੈ ਕਿ ਅਸੀਂ ਜਸ਼ਨ ਮਨਾਈਏ ਕਿਉਂਕਿ ਤੇਰਾ ਭਰਾ ਮਰ ਚੁੱਕਿਆ ਸੀ ਅਤੇ ਹੁਣ ਜੀਵਤ ਹੈ| ਉਹ ਗੁਆਚ ਗਿਆ ਸੀ ਪਰ ਹੁਣ ਲੱਭ ਪਿਆ ਹੈ|”
 
-  * **[[:pa:obe:kt:son]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:life]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪੁੱਤਰ**
+  * **ਮਰਿਆ ਹੋਇਆ  **
+  * **ਜੀਵਤ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * (Jesus continues the story.)
-  * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
-  * **your brother** - The father refers to his younger son as, "your brother" to remind the older son of his relationship to the younger son and of how he should love his younger brother.
-  * **was dead, but now is alive** - See how you translated this in **[[:pa:obs:notes:frames:35-09|[35-09]]]**.
-  * **He was lost, but now is found!** - See how you translated this in **[[:pa:obs:notes:frames:35-09|[35-09]]]**.
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
+  * (ਯਿਸੂ ਨੇ ਕਹਾਣੀ ਜਾਰੀ ਰੱਖੀ)
+  * **ਸਾਡੇ ਲਈ ਠੀਕ ਹੈ**  – ਮਤਲਬ, “ਸਾਡੇ ਲਈ ਇਹ ਠੀਕ ਗੱਲ ਹੈ ਕਿ ਅਸੀਂ ਇਸ ਤਰਾਂ ਕਰੀਏ” ਜਾਂ “ਸਾਡੇ ਲਈ ਇਹੋ ਸਹੀ ਹੈ”|
+  * **ਤੇਰਾ ਭਰਾ **– ਪਿਤਾ ਵੱਡੇ ਪੁੱਤਰ ਨੂੰ ਛੋਟੇ ਪੁੱਤਰ ਨਾਲ ਉਸਦੇ ਰਿਸ਼ਤੇ ਨੂੰ ਯਾਦ ਦਿਲਾਉਂਣ ਲਈ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਕਿ “ਤੇਰਾ ਭਰਾ” ਅਤੇ ਕਿਸ ਤਰਾਂ ਉਸ ਨੂੰ ਛੋਟੇ ਭਰਾ ਨਾਲ ਪਿਆਰ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ|
+  * **ਮਰ ਗਿਆ ਸੀ ਪਰ ਹੁਣ ਜੀਵਤ ਹੈ**
+  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਦਾ **[[:pa:obs:notes:frames:35-09|[35-09]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ  |
+  * **ਉਹ ਗੁਆਚ ਗਿਆ ਸੀ ਪਰ ਹੁਣ ਲੱਭ ਪਿਆ ਹੈ!**  - ਦੇਖੋ ਤੁਸੀਂ ਕਿਸ ਤਰਾਂ ਇਸ ਦਾ **[[:pa:obs:notes:frames:35-09|[35-09]]]** ਵਿਚ ਅਨੁਵਾਦ ਕੀਤਾ ਹੈ  |
+  * ਇਕ ਬਾਈਬਲ ਕਹਾਣੀ, ਵਿਚੋਂ – ਇਹ ਹਵਾਲੇ ਕੁੱਝ ਬਾਈਬਲਾਂ ਥੋੜਾ ਭਿੰਨ ਹੋ ਸਕਦੇ ਹਨ |
 
 **[[:pa:obs:notes:frames:35-12|<<]] | [[:pa:obs:notes:35|Up]] | [[:pa:obs:notes:frames:36-01|>>]]**
