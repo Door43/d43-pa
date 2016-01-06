@@ -1,19 +1,16 @@
-===== The Disciples Slept [38-13] =====
+===== ਚੇਲੇ ਸੌਂ ਗਏ **[38-13]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?nolink&}}
 
-**After each time of prayer**, **Jesus** came back to his **disciples**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **betrayer** is here.”
-===== Important Terms: =====
+ਹਰ ਵਾਰ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਦੇ ਬਾਅਦ, ਯਿਸੂ ਆਪਣੇ ਚੇਲਿਆਂ ਕੋਲ ਆਇਆ ਪਰ ਉਹ ਸੌਂ ਰਹੇ ਸਨ | ਜਦੋਂ ਉਹ ਤੀਸਰੀ ਵਾਰ ਆਇਆ, ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਜਾਗੋ! ਮੇਰਾ ਧੋਖਾ ਦੇਣ ਵਾਲਾ ਇੱਥੇ ਹੈ |
 
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:betray]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪ੍ਰਾਰਥਨਾ**
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਧੋਖੇਬਾਜ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:pa:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **ਹਰ ਵਾਰ ਪ੍ਰਾਰਥਨਾਂ ਦੇ ਬਾਅਦ**  – ਮਤਲਬ, “ਹਰ ਵਾਰ ਜਦੋਂ ਯਿਸੂ ਨੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ|” ਇਹ ਉਸ ਦੀ ਤਿੰਨ ਵਾਰ ਕੀਤੀ ਗਈ ਪ੍ਰਾਰਥਨਾ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਜਿਸ ਦਾ ਜਿਕਰ **[[:pa:obs:notes:frames:38-12|[38-12]]]** ਵਿਚ ਕੀਤਾ ਗਿਆ ਹੈ | \\  \\
 **[[:pa:obs:notes:frames:38-12|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-14|>>]]**
