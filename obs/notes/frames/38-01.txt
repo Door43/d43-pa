@@ -1,25 +1,22 @@
-===== The Passover [38-01] =====
+===== ਪਸਹ **[38-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?nolink&}}
 
-Every year, the **Jews** celebrated the **Passover**. This was a celebration of how **God** had **saved** their ancestors from **slavery** in **Egypt many centuries earlier**. About three years after **Jesus** first began **preaching** and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in **Jerusalem**, and that he would be killed there.
-===== Important Terms: =====
+ਹਰ ਸਾਲ ਯਹੂਦੀ ਲੋਕਾ ਪਸਹ ਦਾ ਤਿਉਹਾਰ ਮਨਾਉਂਦੇ ਸਨ | ਇਹ ਉਸ ਗੱਲ ਦਾ ਪਰਬ ਸੀ ਕਿ ਕਿਵੇਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸਦੀਆਂ ਪਹਿਲਾਂ ਉਹਨਾਂ ਦੇ ਪੁਰਖਿਆਂ ਨੂੰ ਮਿਸਰ ਵਿਚ ਗੁਲਾਮੀ ਤੋਂ ਬਚਾਇਆ ਸੀ | ਯਿਸੂ ਦੁਆਰਾ ਜਨਤਕ ਤੌਰ ਤੇ ਪ੍ਰਚਾਰ ਕਰਨ ਅਤੇ ਸਿਖਾਉਣ ਤੋਂ ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਉਹਨਾਂ ਨਾਲ ਯਰੂਸ਼ਲਮ ਵਿਚ ਪਸਹ ਦਾ ਪਰਬ ਮਨਾਉਣਾ ਚਹੁੰਦਾ ਸੀ ਕਿ ਉਹ ਉੱਥੇ ਮਾਰਿਆ ਜਾਵੇ|
 
-  * **[[:pa:obe:other:jew]]**
-  * **[[:pa:obe:kt:passover]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:save]]**
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:other:egypt]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:preach]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:jerusalem]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਹੂਦੀ**
+  * **ਪਸਹ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਬਚਾਇਆ**
+  * **ਗੁਲਾਮੀ**
+  * **ਮਿਸਰ**
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਚਾਰ ਕਰਨਾ**
+  * **ਚੇਲੇ**
+  * **ਯਰੂਸ਼ਲਮ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **many centuries earlier** - That is, "hundreds of years earlier" or, "a very long time before."
-
-
+  * **ਬਹੁਤ ਸਦੀਆਂ ਪਹਿਲਾਂ**  – ਮਤਲਬ, “ਸੈਕੜੇ ਸਾਲ ਪਹਿਲਾਂ” ਜਾਂ “ਬਹੁਤ ਸਾਲ ਪਹਿਲਾਂ|”
 **[[:pa:obs:notes:frames:37-11|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-02|>>]]**
