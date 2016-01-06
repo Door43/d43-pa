@@ -1,24 +1,21 @@
-===== This Is My Body [38-04] =====
+===== ਇਹ ਮੇਰੀ ਦੇਹ ਹੈ **[38-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?nolink&}}
 
-In Jerusalem, **Jesus celebrated** the **Passover** with his **disciples**. During the Passover meal, Jesus **took some bread** and **broke it**. He said, “Take and eat this. This is my body, which is **given for you**. **Do this to remember me**.” In this way, Jesus said that his body would be **sacrificed** for them.
-===== Important Terms: =====
+ਯਰੂਸ਼ਲਮ ਵਿਚ, ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨਾਲ ਪਸਹ ਦਾ ਤਿਉਹਾਰ ਮਨਾਇਆ | ਪਸਹ ਦੇ ਖਾਣੇ ਦੇ ਸਮੇਂ, ਯਿਸੂ ਨੇ ਰੋਟੀ ਲਈ ਅਤੇ ਇਸ ਨੂੰ ਤੋੜਿਆ| ਉਸ ਨੇ ਕਿਹਾ, “ਇਸ ਨੂੰ ਲਵੋ ਅਤੇ ਖਾਵੋ| ਇਹ ਮੇਰਾ ਸਰੀਰ ਹੈ, ਜੋ ਤੁਹਾਡੇ ਲਈ ਦਿੱਤਾ ਗਿਆ ਹੈ | ਮੇਰੀ ਯਾਦ ਵਿਚ ਇਸ ਤਰਾਂ ਕਰਿਆ ਕਰੋ |” ਇਸ ਤਰੀਕੇ ਨਾਲ, ਯਿਸੂ ਨੇ ਕਿਹਾ ਕਿ ਉਸ ਦਾ ਸਰੀਰ ਉਹਨਾਂ ਦੇ ਲਈ ਬਲੀਦਾਨ ਕੀਤਾ ਜਾਵੇਗਾ |
 
-  * **[[:pa:obe:other:jerusalem]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:passover]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:sacrifice]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਰੂਸ਼ਲਮ**
+  * **ਯਿਸੂ**
+  * **ਪਸਹ**
+  * **ਚੇਲੇ**
+  * **ਬਲੀਦਾਨ ਹੋ ਗਿਆ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **celebrated** - That is, "was celebrating."
-  * **took some bread** - This could be translated as, "picked up a piece of bread" or, "picked up a flat loaf of bread."
-  * **broke it** - Some languages should say, "tore it in pieces" or, "tore it in half" or, "tore off part of it."
-  * **given for you** - This can also be translated as, "which I give for you."
-  * **Do this to remember me** - That is, "Do this as a way to remind yourselves of what I am doing for you." Jesus was referring to his death, which would happen soon.
-
-
+  * ਮਨਾਇਆ – ਮਤਲਬ, “ਮਨਾ ਰਹੇ ਸਨ |”
+  * **ਕੁੱਝ ਰੋਟੀ ਲਈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਰੋਟੀ ਦਾ ਟੁੱਕੜਾ ਲਿਆ” ਜਾਂ “ਇਕ ਰੋਟੀ ਲਈ|”
+  * **ਇਸ ਨੂੰ ਤੋੜਿਆ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚਾਹੀਦਾ ਹੈ, “ਇਸ ਨੂੰ ਟੁੱਕੜਿਆ ਵਿਚ ਤੋੜਿਆ” ਜਾਂ “ਇਸ ਨੂੰ ਅੱਧੀ ਕਰ ਦਿੱਤਾ” ਜਾਂ “ਇਸ ਦੇ ਇੱਕ ਭਾਗ ਨੂੰ ਤੋੜਿਆ|”
+  * **ਤੁਹਾਡੇ ਲਈ ਦਿੱਤਾ ਗਿਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਜੋ ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਦੇ ਦਿੱਤਾ ਹੈ|”
+  * **ਮੇਰੀ ਯਾਦ ਵਿਚ ਇਸ ਤਰਾਂ ਕਰਿਆ ਕਰੋ**  – ਮਤਲਬ, “ਇਸ ਨੂੰ ਆਪਣੇ ਆਪ ਨੂੰ ਯਾਦ ਦਿਲਾਉਣ ਲਈ ਕਰੋ ਜੋ ਮੈਂ ਤੁਹਾਡੇ ਲਈ ਕੀ ਕੀਤਾ ਹੈ|” ਯਿਸੂ ਆਪਣੀ ਮੌਤ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਸੀ ਜੋ ਜਲਦੀ ਹੋਣ ਵਾਲੀ ਸੀ |
 **[[:pa:obs:notes:frames:38-03|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-05|>>]]**
