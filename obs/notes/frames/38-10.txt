@@ -1,19 +1,16 @@
-===== Peter's Promise [38-10] =====
+===== ਪਤਰਸ ਦਾ ਵਾਇਦਾ **[38-10]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?nolink&}}
 
-**Peter** then said to **Jesus**, “Even if I must **die**, I will never **deny you**!” All the other **disciples** said the same thing.
-===== Important Terms: =====
+ਤੱਦ ਪਤਰਸ ਨੇ ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “ਚਾਹੇ ਮੈਂ ਮਰ ਵੀ ਜਾਵਾਂ, ਮੈਂ ਕਦੀ ਵੀ ਤੇਰਾ ਇਨਕਾਰ ਨਹੀਂ ਕਰਾਂਗਾ!” ਦੂਸਰੇ ਚੇਲਿਆਂ ਨੇ ਵੀ ਉਹੀ ਗੱਲ ਕੀਤੀ |
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:disciple]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪਤਰਸ**
+  * **ਯਿਸੂ**
+  * **ਮਰਨਾ**
+  * **ਚੇਲੇ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **deny you** - That is, "deny that I know you" or, "deny that I am your disciple" or, "disown you."
-
-
+  * **ਤੇਰਾ ਇਨਕਾਰ**  – ਮਤਲਬ, “ਇਨਕਾਰ ਕਰਨਾ ਕਿ ਮੈਂ ਤੈਨੂੰ ਜਾਣਦਾ ਹਾਂ” ਜਾਂ “ਇਨਕਾਰ ਕਰਨਾ ਕਿ ਮੈਂ ਤੇਰਾ ਚੇਲਾ ਹਾਂ” ਜਾਂ “ਤੇਰਾ ਨਿਰਾਦਰ ਕਰਨਾ|”
 **[[:pa:obs:notes:frames:38-09|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-11|>>]]**
