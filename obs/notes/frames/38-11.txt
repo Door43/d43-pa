@@ -1,21 +1,18 @@
-===== At Gethsemane [38-11] =====
+===== ਗਤਸਮਨੀ ਵਿਚ **[38-11]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?nolink&}}
 
-Then **Jesus** went with his **disciples** to **a place called Gethsemane**. Jesus told his disciples to **pray** that they would not **enter into temptation**. Then Jesus went to pray **by himself**.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਆਪਣੇ ਚੇਲਿਆਂ ਨਾਲ ਗਤਸਮਨੀ ਨਾਮੇ ਜਗ੍ਹਾ ਤੇ ਗਿਆ | ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆ ਨੂੰ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਲਈ ਕਿਹਾ ਕਿ ਉਹ ਅਜਮਾਇਸ਼ ਵਿਚ ਨਾ ਪੈਣ| ਤੱਦ ਯਿਸੂ ਖੁੱਦ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਲਈ ਗਿਆ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:tempt]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+  * **ਅਜਮਾਇਸ਼**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **a place called Gethsemane** - This could be translated as, "a nearby place called Gethsemane" or, "a place called Gethsemane at the foot of the Mount of Olives."
-  * **enter into temptation** - That is, "would not sin when they were tempted" or, "would not give in to the temptation they were about to experience."
-  * **by himself** - This could be translated as, "alone."
-
-
+  * **ਇਕ ਜਗ੍ਹਾ ਜੋ ਗਤਸਮਨੀ ਕਹਾਉਂਦੀ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇਕ ਲਾਗਲੀ ਜਗ੍ਹਾ ਗਤਸਮਨੀ ਕਹਾਉਂਦੀ ਹੈ” ਜਾਂ “ਇਕ ਜਗ੍ਹਾ ਗਤਸਮਨੀ ਕਹਾਉਂਦੀ ਹੈ ਜੋ ਜੈਤੂਨ ਪਹਾੜ ਦੇ ਪੈਰਾਂ ਵਿਚ ਹੈ|”
+  * **ਅਜਮਾਇਸ਼ ਵਿਚ ਨਾ ਪਵੋ**  – ਮਤਲਬ, “ਜਦੋਂ ਅਜਮਾਇਸ਼ ਵਿਚ ਪਵੋ ਤਾਂ ਪਾਪ ਨਾ ਕਰਨਾ”  ਜਾਂ “ਅਜਮਾਇਸ਼ ਵਿਚ ਨਾ ਪਵੋ ਜਿਸ ਦਾ ਅਨੁਭਵ ਉਹ ਕਰਨ ਜਾ ਰਹੇ ਸਨ|”
+  * **ਆਪ ਖੁੱਦ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਇੱਕਲਾ”|
 **[[:pa:obs:notes:frames:38-10|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-12|>>]]**
