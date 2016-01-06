@@ -1,25 +1,22 @@
-===== This Is My Blood [38-05] =====
+===== ਇਹ ਮੇਰਾ ਖੂਨ ਹੈ **[38-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?nolink&}}
 
-Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of the New Covenant** that **is poured out for the forgiveness of sins**. Do this to **remember me** every time you drink it.”
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਇਕ ਪਿਆਲਾ ਲਿਆ ਅਤੇ ਕਿਹਾ, “ਇਸ ਨੂੰ ਪੀਵੋ| ਇਹ ਨਵੀਂ ਵਾਚਾ ਲਈ ਮੇਰਾ ਖੂਨ ਹੈ ਜੋ ਤੁਹਾਡੇ ਪਾਪਾਂ ਦੀ ਮਾਫ਼ੀ ਲਈ ਡੋਲਿਆ ਜਾਂਦਾ ਹੈ | ਜਦੋ ਵੀ ਤੁਸੀਂ ਇਸ ਵਿਚੋਂ ਪਿਵੋ ਮੇਰੀ ਯਾਦ ਲਈ ਕਰਨਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:blood]]**
-  * **[[:pa:obe:kt:newcovenant]]**
-  * **[[:pa:obe:kt:forgive]]**
-  * **[[:pa:obe:kt:sin]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਖੂਨ**
+  * **ਨਵੀਂ ਵਾਚਾ**
+  * **ਮਾਫ਼ੀ**
+  * **ਪਾਪ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **a cup** - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
-  * **Drink this** - That is, "Drink what is in this cup" or, "Drink from this cup." The drink in the cup was made from grapes so that it had a deep red color.
-  * **blood of the New Covenant** - This could be translated as, "blood that makes the New Covenant possible" or, "blood that is the basis for the New Covenant."
-  * **is poured out** - This could be translated as, "will run out of my body" or, "I will bleed out."
-  * **for the forgiveness of sins** - That is, "so that God can completely forgive people for all of their sins."
-  * **remember me** - That is, "celebrate me" or, "commemorate me." It could also be translated as, "especially focus on me" or, "remind you of me."
-
-
+  * **ਇਕ ਪਿਆਲਾ**  – ਮਤਲਬ, “ਮੈ ਦਾ ਇਕ ਕੱਪ” ਜਾਂ “ਇਕ ਕੱਪ ਜੋ ਅੰਗੂਰਾਂ ਦੇ ਰਸ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਸੀ|”
+  * **ਇਸ ਨੂੰ ਪੀਵੋ**  – ਮਤਲਬ, “ਇਸ ਨੂੰ ਪੀਵੋ ਜੋ ਪਿਆਲੇ ਵਿਚ ਹੈ” ਜਾਂ “ਇਸ ਪਿਆਲੇ ਵਿਚੋਂ ਪੀਵੋ|” ਪਿਆਲੇ ਵਿਚ ਭਰਿਆ ਹੋਇਆ ਜੂਸ ਅੰਗੂਰਾਂ ਦਾ ਸੀ ਇਸ ਲਈ ਦਾ ਰੰਗ ਗੂੜਾ ਲਾਲ ਸੀ |
+  * **ਨਵੀਂ ਵਾਚਾ ਦਾ ਖੂਨ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਖੂਨ ਜੋ ਨਵੀਂ ਵਾਚਾ ਨੂੰ ਸੰਭਵ ਬਣਾ ਸਕਦਾ ਹੈ” ਜਾਂ “ਖੂਨ ਜੋ ਨਵੀਂ ਵਾਚਾ ਦਾ ਮੂਲ ਹੈ|”
+  * **ਇਹ ਵਹਾਇਆ ਜਾਂਦਾ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਮੇਰੇ ਸ਼ਰੀਰ ਵਿਚੋਂ ਵਹਿ ਨਿੱਕਲੇਗਾ” ਜਾਂ “ਮੈਂ ਆਪਣਾ ਖੂਨ ਬਹਾ ਦੇਵਾਂਗਾ|”
+  * **ਪਾਪਾਂ ਦੀ ਮਾਫ਼ੀ ਲਈ**  – ਮਤਲਬ, “ਤਾਂ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਪੂਰੀ ਤਰਾਂ ਨਾਲ ਲੋਕਾਂ ਦੇ ਸਾਰੇ ਪਾਪਾਂ ਨੂੰ ਮਾਫ਼ ਕਰੇ|”
+  * **ਮੈਨੂੰ ਯਾਦ ਕਰਨਾ**  – ਮਤਲਬ, “ਮੈਨੂੰ ਯਾਦ ਕਰਨਾ” ਜਾਂ “ਮੇਰੇ ਲਈ ਪਰਬ ਮਨਾਉਣ”| ਇਸ ਨੂੰ ਇਸ ਤਰਾਂ ਵੀ ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, “ਖਾਸ ਤੌਰ ਤੇ ਮੇਰੇ ਉੱਤੇ ਧਿਆਨ ਕਰੋ” ਜਾਂ “ਮੇਰੇ ਬਾਰੇ ਆਪਣੇ ਆਪ ਨੂੰ ਯਾਦ ਦਿਲਾਉਣ|”
 **[[:pa:obs:notes:frames:38-04|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-06|>>]]**
