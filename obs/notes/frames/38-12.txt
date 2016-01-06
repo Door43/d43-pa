@@ -1,25 +1,22 @@
-===== Your Will Be Done [38-12] =====
+===== ਤੇਰੀ ਇੱਛਾ ਪੂਰੀ ਹੋਵੇ **[38-12]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?nolink&}}
 
-**Jesus prayed** three times, “**My Father**, if it is possible, please let me not have to **drink this cup of suffering**. But if there is no other way for people’s **sins** to be **forgiven**, then **let your will be done**.” Jesus was very troubled and **his sweat was like drops of blood**. **God** sent an **angel** to strengthen him.
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਤਿੰਨ ਵਾਰ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ, ਮੇਰੇ ਪਿਤਾ, ਜੇ ਇਹ ਸੰਭਵ ਹੈ ਤਾਂ ਮੈਂ ਇਹ ਦੁੱਖਾਂ ਦਾ ਪਿਆਲਾ ਨਾਂ ਪੀਵਾਂ| ਪਰ ਜੇ ਲੋਕਾਂ ਦੇ ਪਾਪਾਂ ਦੀ ਮਾਫ਼ੀ ਲਈ ਕੋਈ ਦੂਸਰਾ ਰਾਹ ਨਹੀਂ ਹੈ ਤਾਂ ਹੋਣ ਦੇ ਤੇਰੀ ਮਰਜੀ ਪੂਰੀ ਹੋਵੇ|” ਯਿਸੂ ਬਹੁਤ ਬੇਚੈਨ ਸੀ ਅਤੇ ਉਸ ਦਾ ਪਸੀਨਾ ਲਹੂ ਦੇ ਤੁਪਕਿਆਂ ਦੇ ਰੂਪ ਵਿਚ ਡਿੱਗਦਾ ਸੀ | ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਦੀ ਸਹਾਇਤਾ ਲਈ ਇਕ ਦੂਤ ਭੇਜਿਆ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:pray]]**
-  * **[[:pa:obe:kt:godthefather]]**
-  * **[[:pa:obe:kt:suffer]]**
-  * **[[:pa:obe:kt:sin]]**
-  * **[[:pa:obe:kt:forgive]]**
-  * **[[:pa:obe:kt:blood]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:angel]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਾਰਥਨਾ**
+  * **ਮੇਰੇ ਪਿਤਾ**
+  * **ਦੁੱਖ**
+  * **ਪਾਪ**
+  * **ਮਾਫ਼ੀ ਹੋ ਗਏ**
+  * **ਖੂਨ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਦੂਤ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **drink this cup of suffering** - That is, "go through this suffering" or, "suffer what is about to happen" or, "endure this suffering."
-  * **let your will be done** - This expression means, "do what you have planned" or, "do what needs to be done."
-
-
+  * **ਦੁੱਖਾਂ ਦਾ ਇਹ ਪਿਆਲਾ ਪੀਵਾਂ**  – ਮਤਲਬ, “ਇਹਨਾਂ ਦੁੱਖਾਂ ਵਿਚ ਦੀ ਗੁਜਰਾਂ” ਜਾਂ “ਦੁੱਖ ਜੋ ਹੋਣ ਜਾ ਰਹੇ ਹਨ” ਜਾਂ “ਇਹਨਾਂ ਦੁੱਖਾਂ ਨੂੰ ਸਹਾਂ |”
+  * **ਤੇਰੀ ਇੱਛਾ ਪੂਰੀ ਹੋਵੇ**  – ਇਸ ਪ੍ਰਗਟੀਕਰਨ ਦਾ ਮਤਲਬ ਹੈ, “ਉਹੀ ਕਰ ਜਿਸ ਦੀ ਤੈ ਯੋਜਨਾ ਬਣਾਈ ਹੈ” ਜਾਂ “ਉਹੀ ਕਰ ਜੋ ਕਰਨਾ ਜਰੂਰੀ ਹੈ|”
 **[[:pa:obs:notes:frames:38-11|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-13|>>]]**
