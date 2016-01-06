@@ -1,21 +1,18 @@
-===== Open the Tomb [37-07] =====
+===== ਕਬਰ ਨੂੰ ਖੋਲੋ **[37-07]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-07.jpg?nolink&}}
 
-The **tomb** was a cave with a stone rolled in front of its opening. When **Jesus** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **Martha** said, “**He has been dead for four days**. There will be a bad smell.”
-===== Important Terms: =====
+ਇਹ ਕਬਰ ਇਕ ਗੁਫਾ ਸੀ ਜਿਸ ਦੇ ਮੂੰਹ ਉੱਤੇ ਪੱਥਰ ਰੇੜਿਆ ਹੋਇਆ ਸੀ | ਜਦੋ ਯਿਸੂ ਕਬਰ ਤੇ ਆਇਆ ਉਸ ਨੂੰ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, “ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜ੍ਹ ਦਿਓ|” ਪਰ ਮਾਰਥਾਂ ਨੇ ਕਿਹਾ, “ਉਸ ਨੂੰ ਮਰੇ ਚਾਰ ਦਿਨ ਹੋ ਗਏ ਸੀ| ਉੱਥੇ ਤਾਂ ਬੁਦਬੂ ਹੋਵੇਗੀ |”
 
-  * **[[:pa:obe:other:tomb]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:death]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਕਬਰ**
+  * **ਯਿਸੂ**
+  * **ਮਰ ਗਿਆ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **he told them** - That is, "he told the men there." He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, "Roll the stone away from the opening of the tomb."
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:pa:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, "He died four days ago and his body is lying there."
-
-
+  * **ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਦੱਸਿਆ**  – ਮਤਲਬ, “ਉਸ ਨੇ ਉੱਥੇ ਉਹਨਾਂ ਮਰਦਾਂ ਨੂੰ ਕਿਹਾ|” ਸੰਭਵਤਾ ਉਹ ਮਰੀਯਮ ਅਤੇ ਮਾਰਥਾਂ ਨੂੰ ਪੱਥਰ ਹਟਾਉਣ ਲਈ ਨਹੀਂ ਕਹਿ ਰਿਹਾ ਸੀ|
+  * **ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜ੍ਹ ਦਿਓ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਪਸੰਦ ਕਰਦੀਆਂ ਹਨ, “ਕਬਰ ਦੇ ਮੂੰਹ ਤੋਂ ਪੱਥਰ ਪਰ੍ਹੇ ਹਟਾਓ ਦਿਓ|”
+  * **ਮਾਰਥਾਂ**  – ਮਾਰਥਾਂ ਲਾਜ਼ਰ ਅਤੇ ਮਰੀਯਮ ਦੀ ਭੈਣ ਸੀ | **[[:pa:obs:notes:frames:37-01|[37-01]]]** ਨੂੰ ਦੇਖੋ
+  * **ਉਸ ਨੂੰ ਮਰੇ ਚਾਰ ਦਿਨ ਹੋ ਚੁੱਕੇ ਹਨ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਉਹ ਚਾਰ ਦਿਨ ਪਹਿਲਾਂ ਮਰ ਗਿਆ ਸੀ ਅਤੇ ਉਸ ਦੀ ਲਾਸ਼ ਉੱਥੇ ਪਈ ਸੀ|”
 **[[:pa:obs:notes:frames:37-06|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-08|>>]]**
