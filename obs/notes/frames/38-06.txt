@@ -1,20 +1,19 @@
-===== The Betrayer [38-06] =====
+===== ਧੋਖਾ ਦੇਣ ਵਾਲਾ **[38-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?nolink&}}
 
-Then **Jesus** said to the **disciples**, “One of you will **betray** me.” The disciples were shocked, and asked who would do such a thing. Jesus said, “The person to whom I give this piece of bread **is the betrayer**.” Then he gave the bread to **Judas**.
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਕਿਹਾ, “ਤੁਹਾਡੇ ਵਿਚੋਂ ਇਕ ਮੈਨੂੰ ਧੋਖਾ ਦੇਵੇਗਾ|” ਚੇਲੇ ਹੈਰਾਨ ਹੋ ਗਏ ਅਤੇ ਪੁੱਛਿਆ ਕੌਣ ਐਸਾ ਕੰਮ ਕਰੇਗਾ | ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਉਹ ਵਿਅਕਤੀ ਜਿਸ ਨੂੰ ਮੈਂ ਇਹ ਰੋਟੀ ਦਾ ਟੁੱਕੜਾ ਦੇਵਾਂਗਾ ਉਹ ਧੋਖੇਬਾਜ ਹੈ|” ਤੱਦ ਉਸ ਨੇ ਯਹੂਦਾ ਨੂੰ ਰੋਟੀ ਦਿੱਤੀ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:kt:betray]]**
-  * **[[:pa:obe:other:judasiscariot]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਧੋਖਾ ਦੇਣਾ **
+  * **ਯਹੂਦਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **give this piece of bread** - That is, "hand this piece of bread."
-  * **is the betrayer** - This could also be translated as, "will betray me" or, "is the one who will betray me."
-
-
+  * **ਰੋਟੀ ਦਾ ਇਹ ਟੁੱਕੜਾ ਦੇਣਾ**  – ਮਤਲਬ, “ਰੋਟੀ ਦਾ ਟੁੱਕੜਾ ਹੱਥ ਵਿਚ ਦੇਣਾ|”
+  * **ਉਹ ਧੋਖੇਬਾਜ ਹੈ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਮੈਨੂੰ ਧੋਖਾ ਦੇਵੇਗਾ” ਜਾਂ “ਉਹ ਇਕ ਹੈ ਜੋ ਮੈਨੂੰ ਧੋਖਾ ਦੇਵੇਗਾ|”
 **[[:pa:obs:notes:frames:38-05|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-07|>>]]**
+
+~~COMPLEX_TABLES~~
