@@ -1,17 +1,18 @@
-===== ਯਿਸੂ ਦੀ ਪ੍ਰਾਰਥਨਾ **[37-09]**  =====
+===== ਯਿਸੂ ਦੀ ਪ੍ਰਾਰਥਨਾ [37-09] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?nolink&}}
 
-Then **Jesus** looked up to **heaven** and said, “**Father**, thank you for **hearing me**. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will **believe** you sent me.” Then Jesus shouted, “**Lazarus**, **come out**!”
-===== Important Terms: =====
+ਤੱਦ ਯਿਸੂ ਨੇ ਸਵਰਗ ਵੱਲ ਦੇਖਿਆ ਅਤੇ ਕਿਹਾ, “ਪਿਤਾ, ਮੇਰੀ ਸੁਣਨ ਲਈ ਧੰਨਵਾਦ| I ਮੈਂ ਜਾਣਦਾ ਹਾਂ ਕਿ ਤੂੰ ਹਮੇਸ਼ਾਂ ਮੇਰੀ ਸੁਣਦਾ ਹੈ ਪਰ ਮੈਂ ਇਹ ਇੱਥੇ ਖੜ੍ਹੇ ਲੋਕਾਂ ਦੀ ਖਾਤਰ ਕਹਿ ਰਿਹਾਂ ਹਾਂ, ਤਾਂ ਕਿ ਇਹ ਵਿਸ਼ਵਾਸ ਕਰਨ ਕਿ ਤੂੰ ਮੈਨੂੰ ਭੇਜਿਆ ਹੈ|” ਤੱਦ ਯਿਸੂ ਜੋਰ ਨਾਲ ਬੋਲਿਆ, “ਲਾਜ਼ਰ, ਬਾਹਰ ਆ!”
 
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:kt:heaven|heaven, sky, heavens, heavenly]]**
-  * **[[:pa:obe:kt:godthefather|God the Father, Heavenly Father]]**
-  * **[[:pa:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:pa:obe:other:lazarus|Lazarus]]**
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **hearing me**  - That is, "listening to me." It may be helpful to add, "as I pray to you" or, "when I talk to you."
-  * **come out**  - Some languages may prefer to say, "come out of the tomb."
+  * **ਯਿਸੂ**
+  * **ਸਵਰਗ**
+  * **ਪਿਤਾ**
+  * **ਵਿਸ਼ਵਾਸ**
+  * **ਲਾਜ਼ਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
+
+  * **ਮੈਨੂੰ ਸੁਣਦਾ**  –ਮਤਲਬ, “ਮੇਰੀ ਸੁਣਦਾ ਹੈ” ਇਸ ਵਿਚ ਜੋੜਨਾ ਮਦਦਗਾਰ ਹੋਵੇਗਾ, “ਜਦੋਂ ਮੈਂ ਤੇਰੇ ਅੱਗੇ ਪ੍ਰਾਰਥਨਾ ਕਰਦਾ ਹਾਂ” ਜਾਂ “ਜਦੋਂ ਮੈਂ ਤੇਰੇ ਨਾਲ ਗੱਲ ਕਰਦਾ ਹਾਂ|”
+  * **ਬਾਹਰ ਆ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਪਸੰਦ ਕਰਦੀਆਂ ਹਨ, “ਕਬਰ ਤੋਂ ਬਾਹਰ ਆ ਜਾਹ|”
 **[[:pa:obs:notes:frames:37-08|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-10|>>]]**
