@@ -1,21 +1,17 @@
-===== Thirty Pieces of Silver [38-03] =====
+===== ਚਾਂਦੀ ਦੇ ਤੀਹ ਸਿੱਕੇ **[38-03]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
 The **Jewish leaders**, led by the **high priest**, paid **Judas thirty silver coins** to **betray Jesus**. This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
 ===== Important Terms: =====
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:other:judasiscariot]]**
-  * **[[:pa:obe:kt:betray]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:prophet]]**
-
-
+  * **[[:pa:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
+  * **[[:pa:obe:kt:highpriest|high priest]]**
+  * **[[:pa:obe:other:judasiscariot|Judas Iscariot]]**
+  * **[[:pa:obe:kt:betray|betray, betrayer]]**
+  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
+  * **[[:pa:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
 ===== Translation Notes: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
-
-
+  * **thirty silver coins**  - Each of these coins were worth about four days' wages.
 **[[:pa:obs:notes:frames:38-02|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-04|>>]]**
