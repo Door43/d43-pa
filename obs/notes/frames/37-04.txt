@@ -1,20 +1,21 @@
-===== ਮਾਰਥਾਂ ਯਿਸੂ ਨੂੰ ਮਿਲਦੀ **[37-04]**  =====
+===== ਮਾਰਥਾਂ ਯਿਸੂ ਨੂੰ ਮਿਲਦੀ [37-04] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-04.jpg?nolink&}}
 
-ਜਦੋਂ ਯਿਸੂ ਲਾਜ਼ਰ ਦੇ ਪਿੰਡ ਆਇਆ, ਲਾਜ਼ਰ ਪਹਿਲਾਂ ਹੀ ਚਾਰ ਦਿਨਾਂ ਤੋਂ ਮਰ ਚੁੱਕਿਆ ਸੀ **Martha went out to meet Jesus** and said, “**Master**, if only you had been here, **my brother would not have died**. But I **believe God will give you whatever you ask from him**.”
-===== Important Terms: =====
+ਜਦੋਂ ਯਿਸੂ ਲਾਜ਼ਰ ਦੇ ਪਿੰਡ ਆਇਆ, ਲਾਜ਼ਰ ਪਹਿਲਾਂ ਹੀ ਚਾਰ ਦਿਨਾਂ ਤੋਂ ਮਰ ਚੁੱਕਿਆ ਸੀ ਮਾਰਥਾਂ ਯਿਸੂ ਨੂੰ ਮਿਲਣ ਲਈ ਬਾਹਰ ਗਈ ਅਤੇ ਕਿਹਾ, “ਗੁਰੂ, ਜੇ ਤੂੰ ਇੱਥੇ ਹੁੰਦਾ ਤਾਂ ਮੇਰਾ ਭਰਾ ਕਦੀ ਨਾ ਮਰਦਾ| ਪਰ ਮੈਂ ਵਿਸ਼ਵਾਸ ਕਰਦੀ ਹਾਂ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਤੈਨੂੰ ਸ਼ੱਭ ਕੁੱਝ ਦੇਵੇਗਾ ਜੋ ਵੀ ਤੂੰ ਉਸ ਕੋਲੋਂ ਮੰਗੇ |”
 
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:other:lazarus|Lazarus]]**
-  * **[[:pa:obe:kt:death|death, die, dead]]**
-  * **[[:pa:obe:kt:lord|lord, master, sir]]**
-  * **[[:pa:obe:kt:believe|believe, believe in, belief]]**
-  * **[[:pa:obe:kt:god|God]]**
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:pa:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus**  - That is, "went to meet Jesus as he was coming into the town."
-  * **my brother would not have died.**  - That is, "you would have healed my brother and he would not have died" or, "you could have prevented my brother from dying."
-  * **will give you whatever you ask from him**  - That is, "will do whatever you ask him to do."
+  * **ਯਿਸੂ ਦੇ**
+  * **ਲਾਜ਼ਰ**
+  * **ਮਰ ਗਿਆ**
+  * **ਗੁਰੂ**
+  * **ਵਿਸ਼ਵਾਸ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
+
+  * **ਮਾਰਥਾਂ**  – ਮਾਰਥਾਂ ਲਾਜ਼ਰ ਅਤੇ ਮਰੀਯਮ ਦੀ ਭੈਣ ਸੀ | **[[:pa:obs:notes:frames:37-01|[37-01]]]** ਵਿਚ ਦੇਖੋ
+  * **ਯਿਸੂ ਨੂੰ ਮਿਲਣ ਲਈ ਬਾਹਰ ਗਈ**  – ਮਤਲਬ, “ਯਿਸੂ ਨੂੰ ਮਿਲਣ ਲਈ ਗਈ ਜਦੋਂ ਉਹ ਨਗਰ ਦੀ ਵਿਚ ਆ ਰਿਹਾ ਸੀ|”
+  * **ਮੇਰਾ ਭਰਾ ਨਾ ਮਰਦਾ**  – ਮਤਲਬ, “ਤੂੰ ਮੇਰੇ ਭਰਾ ਨੂੰ ਚੰਗਾ ਕਰ ਦਿੱਤਾ ਹੁੰਦਾ ਅਤੇ ਉਹ ਨਾ ਮਰਦਾ” ਜਾਂ “ਤੂੰ ਮੇਰੇ ਭਰਾ ਨੂੰ ਮਰਨ ਤੋਂ ਬਚਾ ਲੈਂਦਾ|”
+  * **ਤੈਨੂੰ ਸੱਭ ਕੁੱਝ ਦੇਵੇਗਾ ਜੋ ਵੀ ਉਸ ਕੋਲੋਂ ਮੰਗੇਗਾ**  – ਮਤਲਬ, “ਉਹ ਕਰੇਗਾ ਜੋ ਕੁੱਝ ਉਸ ਨੂੰ ਕਰਨ ਲਈ ਕਹੇਂਗਾ |”
 **[[:pa:obs:notes:frames:37-03|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-05|>>]]**
