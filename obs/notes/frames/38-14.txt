@@ -1,23 +1,20 @@
-===== Judas Betrayed Jesus [38-14] =====
+===== ਯਹੂਦਾ ਨੇ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦਿੱਤਾ **[38-14]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?nolink&}}
 
-**Judas** came with the **Jewish leaders**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to Jesus** and said, “**Greetings**, **Teacher**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, **do you betray me with a kiss**?”
-===== Important Terms: =====
+ਯਹੂਦਾ ਯਹੂਦੀ ਆਗੂਆਂ, ਸਿਪਾਹੀਆਂ ਅਤੇ ਇਕ ਵੱਡੀ ਭੀੜ ਦੇ ਨਾਲ ਆਇਆ | ਉਹਨਾਂ ਕੋਲ ਤਲਵਾਰਾਂ ਅਤੇ ਭਾਲੇ ਸਨ | ਯਹੂਦਾ ਯਿਸੂ ਕੋਲ ਆਇਆ ਅਤੇ ਕਿਹਾ, “ਗੁਰੂ ਜੀ ਸਲਾਮ” ਅਤੇ ਉਸ ਨੂੰ ਚੁੰਮਿਆ| ਯਹੂਦੀ ਆਗੂਆਂ ਲਈ ਇਹ ਇਕ ਚਿੰਨ ਸੀ ਕਿ ਕਿਸ ਨੂੰ ਫੜਨਾ ਹੈ| ਤੱਦ ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਯਹੂਦਾ, ਕੀ ਤੂੰ ਮੈਨੂੰ ਚੁੰਮੇ ਨਾਲ ਧੋਖਾ ਦਿੰਦਾ ਹੈਂ?”
 
-  * **[[:pa:obe:other:judasiscariot]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:teacher]]**
-  * **[[:pa:obe:kt:betray]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਹੂਦਾ**
+  * **ਯਹੂਦੀ ਆਗੂ**
+  * **ਯਿਸੂ**
+  * **ਗੁਰੂ**
+  * **ਧੋਖਾ ਦੇਣਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **came to** - Some languages may prefer to say, "went to."
-  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening."
-  * **the sign** - That is, "the signal."
-  * **do you betray me with a kiss?** - That is, "are you really going to betray me with a kiss?" Jesus is not looking for an answer to this question. So some languages would translate it as a statement, such as, "you are betraying me by kissing me!" or, "you make your betrayal even worse by kissing me!"
-
-
+  * **ਲਈ ਆਇਆ**  – ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਪਸੰਦ ਕਰਦੀਆਂ ਹਨ, “ਲਈ ਗਿਆ|”
+  * **ਸਲਾਮ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਹੈਲੋ” ਜਾਂ “ਸ਼ਾਂਤੀ” ਜਾਂ “ਸ਼ੁਭ ਭਰਬਾਤ|”
+  * **ਇਕ ਚਿੰਨ**  – ਮਤਲਬ, “ਇਕ ਇਸ਼ਾਰਾ”|
+  * **ਕੀ ਤੂੰ ਮੈਨੂੰ ਚੁੰਮੇ ਨਾਲ ਧੋਖਾ ਦਿੰਦਾ ਹੈ?**  – ਮਤਲਬ, “ਕੀ ਸਚ ਮੁਚ ਤੂੰ ਮੈਨੂੰ ਚੁੰਮੇ ਨਾਲ ਧੋਖਾ ਦੇਣ ਜਾ ਰਿਹਾ ਹੈਂ?” ਯਿਸੂ ਇਸ ਸਵਾਲ ਦਾ ਜਵਾਬ ਨਹੀਂ ਲੱਭ ਰਿਹਾ | ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਕਥਨ ਨੂੰ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰਦੀਆਂ ਹਨ, ਜਿਵੇਂ ਕਿ, “ਤੂੰ ਮੈਨੂੰ ਚੁੰਮਦਾ ਹੋਇਆ ਧੋਖਾ ਦੇ ਰਿਹਾਂ ਹੈਂ!” ਜਾਂ “ਤੂੰ ਆਪਣੇ ਧੋਖੇ ਨੂੰ ਹੋਰ ਵੀ ਬੁਰਾ ਬਣਾ ਰਿਹਾ ਹੈਂ ਇਸ ਚੁੰਮਣ ਨਾਲ!”
 **[[:pa:obs:notes:frames:38-13|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-15|>>]]**
