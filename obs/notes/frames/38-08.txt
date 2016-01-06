@@ -1,24 +1,21 @@
-===== You Will Be Scattered [38-08] =====
+===== ਤੁਸੀਂ ਖਿਲਾਰ ਦਿੱਤੇ ਜਾਵੋਂਗੇ **[38-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?nolink&}}
 
-After the meal, **Jesus** and his **disciples** walked to the **Mount of Olives**. Jesus said, “You will all **abandon me** tonight. **It is written**, ‘**I will strike the shepherd and all the sheep will be scattered**.’”
-===== Important Terms: =====
+ਭੋਜਨ ਤੋਂ ਬਾਅਦ ਯਿਸੂ ਅਤੇ ਉਸਦੇ ਚੇਲੇ ਜੈਤੂਨ ਦੇ ਪਹਾੜ ਉੱਤੇ ਗਏ | ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਅੱਜ ਰਾਤ ਤੁਸੀਂ ਮੈਨੂੰ ਛੱਡ ਦੇਵੋਂਗੇ| ਇਹ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ, ਮੈਂ ਅਯਾਲੀ ਨੂੰ ਮਰਾਂਗਾ ਅਤੇ ਸਾਰੀਆਂ ਭੇਡਾਂ ਖਿੱਲਰ ਜਾਣਗੀਆਂ|”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:disciple]]**
-  * **[[:pa:obe:other:shepherd]]**
-  * **[[:pa:obe:other:sheep]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਚੇਲੇ**
+  * **ਅਯਾਲੀ**
+  * **ਭੇਡ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Mount of Olives** - This is the name of a hill covered with olive trees, just outside the walls of the city of Jerusalem. It can also be translated as, "Olive Tree Hill."
-  * **abandon me** - That is, "desert me" or, "leave me."
-  * **It is written** - That is, "It is written in God's word" or, "It is written in the scriptures" or, "One of God's prophets wrote." It is also possible to say, "What is written will happen" or, "It will be like what is written." This prophecy refers to Jesus' death and his followers running away.
-  * **I will strike** - That is, "I will kill."
-  * **the shepherd and all the sheep** - Do not use Jesus' name in this quote because the prophet who first wrote it would not have known the shepherd's name. Also, do not refer to the sheep being the disciples. It is best to use words that mean "shepherd" and "sheep" in your translation.
-  * **will be scattered** - That is, "will go away in different directions."
-
-
+  * **ਜੈਤੂਨ ਦਾ ਪਹਾੜ**  – ਇਹ ਉਸ ਪਹਾੜ ਦਾ ਨਾਮ ਹੈ ਜੋ ਜੈਤੂਨ ਦੇ ਦਰਖਤਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਹੈ ਜੋ ਬਿਲਕੁੱਲ ਯਰੂਸ਼ਲਮ ਦੀ ਦੀਵਾਰ ਦੇ ਬਾਹਰ ਹੈ| ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਜੈਤੂਨ ਦੇ ਦਰਖਤਾਂ ਦਾ ਪਹਾੜ|”
+  * **ਮੈਨੂੰ ਛੱਡਣਾ**  – ਮਤਲਬ, “ਮੈਨੂੰ ਤ੍ਰਿਸ੍ਕਾਰਨਾ” ਜਾਂ “ਮੈਨੂੰ ਛੱਡ ਦੇਣਾ|”
+  * **ਇਹ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ**  – ਮਤਲਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਚਨ ਵਿਚ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ” ਜਾਂ “ਇਹ ਵਚਨ ਵਿਚ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ” ਜਾਂ “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਇਕ ਨਬੀ ਨੇ ਲਿੱਖਿਆ ਹੈ|” ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਵੀ ਸੰਭਵ ਹੈ, “ਜੋ ਕੁੱਝ ਲਿੱਖਿਆ ਹੈ ਪੂਰਾ ਹੋਵੇਗਾ” ਜਾਂ “ਉਸੇ ਤਰਾਂ ਹੋਵੇਗਾ ਜਿਵੇਂ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ|” ਇਹ ਭਵਿੱਖ ਬਾਣੀ ਯਿਸੂ ਦੀ ਮੌਤ ਅਤੇ ਉਸ ਦੇ ਅਨੁਆਈਆਂ ਦੇ ਛੱਡ ਕੇ ਜਾਣ ਬਾਰੇ ਹਵਾਲਾ ਦਿੰਦੀ ਹੈ|
+  * **ਮੈਂ ਮਰਾਂਗਾ**  – ਮਤਲਬ, “ਮੈਂ ਜਾਂ ਤੋਂ ਮਰਾਂਗਾ|”
+  * **ਅਯਾਲੀ ਅਤੇ ਸਾਰੀਆਂ ਭੇਡਾਂ**  – ਇਸ ਕਥਨ ਵਿਚ ਯਿਸੂ ਦਾ ਨਾਮ ਇਸਤੇਮਾਲ ਨਾ ਕਰੋ ਕਿਉਂਕਿ ਜਿਸ ਪਹਿਲੇ ਨਬੀ ਲਿੱਖਿਆ ਉਹ ਅਯਾਲੀ ਦਾ ਨਾਮ ਨਹੀਂ ਜਾਣਦਾ ਸੀ | ਭੇਡਾਂ ਲਈ ਵੀ ਚੇਲਿਆਂ ਦਾ ਨਾਮ ਨਾ ਇਸਤੇਮਾਲ ਕਰੋ | ਆਪਨੇ ਅਨੁਵਾਦ ਵਿਚ ਉਹ ਸ਼ਬਦ ਇਸਤੇਮਾਲ ਕਰਨਾ ਚੰਗਾ ਹੈ ਜਿਸ ਦਾ ਮਤਲਬ “ਅਯਾਲੀ” ਅਤੇ ਭੇਡ” ਹੈ |
+  * **ਖਿੱਲਰ ਜਾਵੋਂਗੇ**  – ਮਤਲਬ, “ਅੱਲਗ ਅੱਲਗ ਦਿਸ਼ਾਵਾਂ ਵਿਚ ਚਲੇ ਜਾਵੋਂਗੇ|”
 **[[:pa:obs:notes:frames:38-07|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-09|>>]]**
