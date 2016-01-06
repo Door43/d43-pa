@@ -1,21 +1,18 @@
-===== Rolling the Stone Away [37-08] =====
+===== ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜਨਾ **[37-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?nolink&}}
 
-**Jesus** responded, “**Did I not tell you** that you would **see God's glory** if you **believe** in me?” So **they rolled the stone away**.
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਕੀ ਮੈਂ ਤੁਹਾਨੂੰ ਨਹੀਂ ਕਿਹਾ ਸੀ ਕਿ ਜੇ ਤੁਸੀਂ ਮੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰੋਂਗੇ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਦੇਖੋਂਗੇ?” ਇਸ ਲਈ ਉਹਨਾਂ ਨੇ ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜ੍ਹ ਦਿੱਤਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:glory]]**
-  * **[[:pa:obe:kt:believe]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ**
+  * **ਮਹਿੰਮਾ**
+  * **ਵਿਸ਼ਵਾਸ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Did I not tell you?** - That is, "Remember that I told you." Jesus is not asking this question in order to get an answer, so some languages should translate this as a command.
-  * **see God's glory** - That is, "see the glory of God displayed" or, "see God show how great he is."
-  * **rolled the stone away** - Some languages should say, "rolled the stone away from the opening of the tomb."
-
-
+  * **ਕੀ ਮੈਂ ਤੁਹਾਨੂੰ ਨਹੀਂ ਦੱਸਿਆ ਸੀ?**  – ਮਤਲਬ, “ਯਾਦ ਕਰੋ ਕਿ ਮੈਂ ਤੁਹਾਨੂੰ ਦੱਸਿਆ ਸੀ|” ਯਿਸੂ ਜਵਾਬ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸਵਾਲ ਨਹੀਂ ਪੁੱਛ ਰਿਹਾ, ਇਸ ਲਈ ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਇਸ ਨੂੰ ਇਕ ਹੁੱਕਮ ਦੀ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ |
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਦੇਖੋ**  – ਮਤਲਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਨੂੰ ਪ੍ਰਤੱਖ ਦੇਖੋ” ਜਾਂ “ਦੇਖੋ ਪ੍ਰਮੇਸ਼ਵਰ ਦਿਖਾ ਰਿਹਾ ਹੈ ਕਿ ਉਹ ਕਿੰਨਾ ਮਹਾਨ ਹੈ|”
+  * **ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜ੍ਹ ਦਿਓ**  –ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਇਸ ਤਰਾਂ ਕਹਿਣਾ ਚਾਹੀਦਾ ਹੈ, “ਕਬਰ ਦੀ ਮੂੰਹ ਤੋਂ ਪੱਥਰ ਨੂੰ ਪਰ੍ਹੇ ਰੇੜ੍ਹ ਦਿਓ|”
 **[[:pa:obs:notes:frames:37-07|<<]] | [[:pa:obs:notes:37|Up]] | [[:pa:obs:notes:frames:37-09|>>]]**
