@@ -2,16 +2,17 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?nolink&}}
 
-ਯਹੂਦੀ ਆਗੂ ਜਿਹਨਾਂ ਦੀ ਅਗੁਵਾਈ ਮਹਾਂ ਜਾਜਕ ਦੁਆਰਾ ਹੁੰਦੀ ਸੀ ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦੇਣ ਲਈ ਯਹੂਦਾ ਨੂੰ ਤੀਹ ਸਿੱਕੇ ਦਿੱਤੇ | This happened just as the **prophets** had predicted. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
-===== Important Terms: =====
+ਯਹੂਦੀ ਆਗੂ ਜਿਹਨਾਂ ਦੀ ਅਗੁਵਾਈ ਮਹਾਂ ਜਾਜਕ ਦੁਆਰਾ ਹੁੰਦੀ ਸੀ ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦੇਣ ਲਈ ਯਹੂਦਾ ਨੂੰ ਤੀਹ ਸਿੱਕੇ ਦਿੱਤੇ | ਇਹ ਉਸੇ ਤਰਾਂ ਹੋਇਆ ਜਿਵੇਂ ਨਬੀਆਂ ਨੇ ਭਵਿੱਖ ਬਾਣੀ ਕੀਤੀ ਸੀ | ਯਹੂਦਾ ਸਹਿਮਤ ਹੋਇਆ ਅਤੇ ਪੈਸਾ ਲਿਆ ਅਤੇ ਦੂਰ ਚਲਾ ਗਿਆ | ਉਹ ਮੌਕੇ ਦੀ ਤਲਾਸ਼ ਕਰਨ ਲੱਗਾ ਕਿ ਯਿਸੂ ਨੂੰ ਫੜਨ ਲਈ ਉਹਨਾਂ ਦੀ ਮੱਦਦ ਕਰੇ |
 
-  * **[[:pa:obe:other:jewishleaders|Jewish leaders, religious leaders]]**
-  * **[[:pa:obe:kt:highpriest|high priest]]**
-  * **[[:pa:obe:other:judasiscariot|Judas Iscariot]]**
-  * **[[:pa:obe:kt:betray|betray, betrayer]]**
-  * **[[:pa:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]]**
-  * **[[:pa:obe:kt:prophet|prophet, prophecy, prophesy, seer]]**
-===== Translation Notes: =====
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
-  * **thirty silver coins**  - Each of these coins were worth about four days' wages.
+  * **ਯਹੂਦੀ ਆਗੂ**
+  * **ਮਹਾਂ ਜਾਜਕ**
+  * **ਯਹੂਦਾ**
+  * **ਧੋਖਾ ਦੇਣਾ**
+  * **ਯਿਸੂ**
+  * **ਨਬੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
+
+  * **ਚਾਂਦੀ ਦੇ ਤੀਹ ਸਿੱਕੇ**  – ਹਰ ਇਕ ਸਿੱਕਾ ਦਾ ਮੁੱਲ ਚਾਰ ਦਿਨਾਂ ਦੀ ਕਮਾਈ ਦੇ ਬਰਾਬਰ ਸੀ |
 **[[:pa:obs:notes:frames:38-02|<<]] | [[:pa:obs:notes:38|Up]] | [[:pa:obs:notes:frames:38-04|>>]]**
