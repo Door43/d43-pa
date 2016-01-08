@@ -1,21 +1,18 @@
-===== They Mocked Jesus [39-05] =====
+===== ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਦਾ ਮਜਾਕ ਉਡਾਇਆ **[39-05]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-05.jpg?nolink&}}
 
-The **Jewish leaders** all answered the **high priest**, “He deserves to **die**!” Then **they blindfolded Jesus**, **spit on him**, hit him, and **mocked** him.
-===== Important Terms: =====
+ਸਾਰੇ ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਮਹਾਂ ਜਾਜਕ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਇਹ ਮੌਤ ਦਾ ਹੱਕਦਾਰ ਹੈ!” ਤੱਦ ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਦੀਆਂ ਅੱਖਾਂ ਬੰਨੀਆਂ, ਉਸ ਉੱਤੇ ਥੁੱਕਿਆ, ਅਤੇ ਉਸਦਾ ਮਜਾਕ ਉਡਾਇਆ|
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:kt:death]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:mock]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਹੂਦੀ ਆਗੂ  **
+  * **ਮਹਾਂ ਜਾਜਕ**
+  * **ਮਰਨਾ**
+  * **ਯਿਸੂ**
+  * **ਮਜਾਕ ਉਡਾਇਆ **
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **they blindfolded Jesus** - That is. "they covered Jesus' eyes so that he could not see."
-  * **spit on him** - This could also be translated as, "spit on him to insult him" or, "spit on him in order to say that he was worthless." This was a way of showing contempt for someone.
-
-
+  * **ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਦੀਆ ਅੱਖਾ ਬੰਨੀਆਂ**  – ਮਤਲਬ, “ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਦੀਆਂ ਅੱਖਾਂ ਢੱਕ ਦਿੱਤੀਆਂ ਤਾਂ ਕਿ ਉਹ ਦੇਖ ਨਾ ਸਕੇ|”
+  * **ਉਸ ਉੱਤੇ ਥੁੱਕਿਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਉਸ ਉੱਤੇ ਥੁੱਕਿਆ ਕਿ ਉਸ ਦੀ ਬੇਇਜਤੀ ਕਰਨ” ਜਾਂ “ਉਸ ਉੱਤੇ ਥੁੱਕਿਆ ਕਿ ਕਹਿ ਸਕਣ ਕਿ ਉਹ ਨਿੱਕਮਾ ਹੈ|” ਇਹ ਕਿਸੇ ਵਿਅਕਤੀ ਲਈ ਨਫਰਤ ਦਿਖਾਉਣ ਦਾ ਇਕ ਤਰੀਕਾ ਸੀ |
 **[[:pa:obs:notes:frames:39-04|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-06|>>]]**
