@@ -1,19 +1,16 @@
-===== The House of the High Priest [39-01] =====
+===== ਮਹਾਂ ਜਾਜਕ ਦਾ ਘਰ **[39-01]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-01.jpg?nolink&}}
 
-It was now **the middle of the night**. The soldiers led **Jesus** to the house of the **high priest** in order for the high priest **to question him**. **Peter** followed far behind them. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-===== Important Terms: =====
+ਹੁਣ ਇਹ ਅੱਧੀ ਰਾਤ ਦਾ ਸਮਾਂ ਸੀ | ਸਿਪਾਹੀ ਯਿਸੂ ਨੂੰ ਮਹਾਂ ਜਾਜਕ ਦੇ ਘਰ ਲੈ ਗਏ ਤਾਂ ਕਿ ਉਹ ਉਸ ਨੂੰ ਸਵਾਲ ਕਰੇ | ਪਤਰਸ ਉਹਨਾਂ ਦੇ ਮਗਰ ਗਿਆ | ਜਦੋਂ ਯਿਸੂ ਨੂੰ ਘਰ ਦੇ ਅੰਦਰ ਲਿਜਾਇਆ ਗਿਆ ਪਤਰਸ ਬਾਹਰ ਰਿਹਾ ਅਤੇ ਅੱਗ ਸੇਕਣ ਲੱਗਾ |
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:other:peter]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਮਹਾਂ ਜਾਜਕ**
+  * **ਪਤਰਸ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **the middle of the night** - This expression means, "halfway through the night" or, "very late at night."
-  * **to question him** - That is, "to ask Jesus questions to try to find something they could accuse Jesus of doing wrong."
-
-
+  * **ਅੱਧੀ ਰਾਤ ਦੇ ਸਮੇਂ**  – ਇਸ ਪ੍ਰਗਟੀਕਰਨ ਦਾ ਮਤਲਬ ਹੈ, “ਰਾਤ ਦੇ ਅੱਧ ਵਿਚ” ਜਾਂ “ਬਹੁਤ ਦੇਰ ਰਾਤ”|
+  * **ਉਸ ਨੂੰ ਸਵਾਲ ਕਰੇ **– ਮਤਲਬ,”ਯਿਸੂ ਵਿਚ ਗਲਤੀ ਲੱਭਣ ਲਈ ਉਸ ਨੂੰ ਸਵਾਲ ਪੁੱਛਣ|”
 **[[:pa:obs:notes:frames:38-15|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-02|>>]]**
