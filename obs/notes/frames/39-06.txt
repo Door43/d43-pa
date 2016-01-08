@@ -1,21 +1,18 @@
-===== Peter and the Servant Girl [39-06] =====
+===== ਪਤਰਸ ਅਤੇ ਨੌਕਰ ਕੁੜੀ **[39-06]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-06.jpg?nolink&}}
 
-As **Peter** was waiting outside the house, a **servant girl** saw him and said to him, “You also were with **Jesus**!” Peter **denied it**. Later, another girl said the same thing, and **Peter denied it again**. Finally, the people said, “We know that you were with Jesus because you both **are from Galilee**.”
-===== Important Terms: =====
+ਜਦੋਂ ਪਤਰਸ ਘਰ ਦੇ ਬਾਹਰ ਇੰਤਜਾਰ ਕਰਦਾ ਸੀ ਤਾਂ ਇਕ ਨੌਕਰ ਕੁੜੀ ਨੇ ਉਸ ਨੂੰ ਦੇਖਿਆ ਅਤੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਤੂੰ ਵੀ ਯਿਸੂ ਦੇ ਨਾਲ ਸੀ!” ਪਤਰਸ ਨੇ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ | ਬਾਅਦ ਵਿਚ ਇਕ ਹੋਰ ਕੁੜੀ ਨੇ ਉਹੀ ਗੱਲ ਕਹਿ, ਅਤੇ ਪਤਰਸ ਨੇ ਦੁਬਾਰਾ ਫੇਰ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ | ਆਖਰਕਾਰ, ਲੋਕਾਂ ਨੇ ਕਿਹਾ, “ਅਸੀਂ ਜਾਣਦੇ ਹਾਂ ਕਿ ਤੂੰ ਯਿਸੂ ਦੇ ਨਾਲ ਸੀ ਕਿਉਂਕਿ ਤੁਸੀਂ ਦੋਨੋਂ ਗਲੀਲੀ ਹੋ|”
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:servant]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:galilee]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪਤਰਸ**
+  * **ਨੌਕਰ ਕੁੜੀ**
+  * **ਯਿਸੂ**
+  * **ਗਲੀਲੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **denied it** - This can be translated as, "said that it was not true" or, "said that he was not with Jesus" or, "said, 'No. That is not true.'"
-  * **Peter denied it again** - This could be translated as, "Peter denied knowing Jesus a second time" or, "again Peter said he had not been with Jesus."
-  * **are from Galilee** - This could also be translated as, "are Galileans." The people could tell from the way Jesus and Peter talked that they came from the region of Galilee.
-
-
+  * **ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਕਿਹਾ ਕਿ ਇਹ ਸੱਚ ਨਹੀਂ ਹੈ” ਜਾਂ “ਕਿਹਾ ਕਿ ਉਹ ਯਿਸੂ ਦੇ ਨਾਲ ਨਹੀਂ ਸੀ” ਜਾਂ “ਕਿਹਾ, ਨਹੀਂ|” ਇਹ ਸੱਚ ਨਹੀਂ ਹੈ|”
+  * **ਪਤਰਸ ਨੇ ਦੁਬਾਰਾ ਫੇਰ ਇਨਕਾਰ ਕੀਤਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦ ਹੈ, “ਪਤਰਸ ਨੇ ਦੂਸਰੀ ਵਾਰ ਯਿਸੂ ਨੂੰ ਜਾਨਣ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ” ਜਾਂ “ਦੁਬਾਰਾ ਫੇਰ ਪਤਰਸ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਯਿਸੂ ਦੇ ਨਾਲ ਨਹੀ ਰਿਹਾ|”
+  * **ਗਲੀਲ ਤੋਂ ਹੋ**  –ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਗਲੀਲੀ ਹੋਣ|” ਲੋਕਾਂ ਯਿਸੂ ਅਤੇ ਪਤਰਸ ਦੇ ਬੋਲਣ ਤੋਂ ਦੱਸ ਸਕਦੇ ਸਨ ਕਿ ਉਹ ਦੋਨੋਂ ਗਲੀਲ ਦੇ ਹਨ |
 **[[:pa:obs:notes:frames:39-05|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-07|>>]]**
