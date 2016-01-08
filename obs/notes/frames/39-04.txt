@@ -1,27 +1,24 @@
-===== I Am the Son of God [39-04] =====
+===== ਮੈਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹਾਂ **[39-04]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-04.jpg?nolink&}}
 
-Jesus said, “**I am**, and you will see me **seated with God and coming from heaven**.” The **high priest tore his clothes in anger** and shouted to the other **religious leaders**, “We do not need any more **witnesses**! You have heard him say that he is the **Son of God**. **What is your judgment**?”
-===== Important Terms: =====
+ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਮੈਂ ਹਾਂ, ਅਤੇ ਤੁਸੀਂ ਮੈਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਨਾਲ ਬੈਠਾ ਅਤੇ ਸਵਰਗ ਤੋਂ ਆਉਂਦਾ ਹੋਇਆ ਦੇਖੋਂਗੇ|” ਮਹਾਂ ਜਾਜਕ ਨੇ ਗੁੱਸੇ ਵਿਚ ਆਪਣੇ ਕਪੜੇ ਪਾੜੇ ਅਤੇ ਦੂਸਰੇ ਧਾਰਮਿਕ ਆਗੂਆਂ ਤੇ ਚਿਲਾਇਆ, “ਸਾਨੂੰ ਹੋਰ ਗਵਾਹਾਂ ਦੋ ਕੋਈ ਲੋੜ ਨਹੀਂ ਹੈ! ਤੁਸੀਂ ਉਸ ਨੂੰ ਕਹਿੰਦੇ ਸੁਣਿਆ ਹੈ ਕਿ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈ | ਕੀ ਨਿਆਂ ਹੈ ਤੁਹਾਡਾ?”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:god]]**
-  * **[[:pa:obe:kt:heaven]]**
-  * **[[:pa:obe:kt:highpriest]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:witness]]**
-  * **[[:pa:obe:kt:sonofgod]]**
-  * **[[:pa:obe:kt:judge]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ**
+  * **ਸਵਰਗ**
+  * **ਮਹਾਂ ਜਾਜਕ **
+  * **ਧਾਰਮਿਕ ਆਗੂ**
+  * **ਗਵਾਹ**
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ**
+  * **ਨਿਆਂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **I am** - That is, "I am as you said" or, "I am the Messiah and the Son of God." "I am" is also the name of God (See **[[:pa:obs:notes:frames:09-14|[09-14]]]**). By saying simply, "I am" Jesus was also saying that he is God. If possible, translate this so that people will see a similarity between Jesus' answer and the name of God.
-  * **seated with God** - This could be translated as, "reigning with God." Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be seated with God, Jesus claimed that he had authority to rule with the Father.
-  * **seated with God and coming from heaven** - This could be translated as, "sitting beside God and then coming from heaven."
-  * **tore his clothes in anger** - The Jews would tear their clothes to show grief or anger. If tearing the clothes means something else in your language, you may want to substitute a phrase such as, "he was extremely angry."
-  * **What is your judgment?** - That is, "What is your decision?" or, "Tell us what have you decided: Is he innocent or guilty?" The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God.
-
-
+  * **ਮੈਂ ਹਾਂ**  – ਮਤਲਬ, “ਮੈਂ ਹਾਂ ਜਿਵੇਂ ਤੁਸੀਂ ਕਿਹਾ ਹੈ” ਜਾਂ “ਮੈਂ ਮਸੀਹਾ ਹਾਂ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹਾਂ|” “ਮੈਂ ਹਾਂ” ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਨਾਮ ਵੀ ਹੈ (ਦੇਖੋ **[[:pa:obs:notes:frames:09-14|[09-14]]]**)  ਵਿਚ **)** | ਸਧਾਰਨ ਤੌਰ ਤੇ ਕਹਿਣਾ, “ਮੈਂ ਹਾਂ” ਯਿਸੂ ਕਹਿ ਰਿਹਾ ਸੀ ਕਿ ਮੈਂ ਪ੍ਰਮੇਸ਼ਵਰ ਹਾਂ | ਜੇ ਸੰਭਵ ਹੈ, ਇਸ ਦਾ ਅਨੁਵਾਦ ਕਰੋ ਕਿ ਲੋਕ ਯਿਸੂ ਦੇ ਜਵਾਬ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਨਾਮ ਵਿਚ ਸਮਰੂਪਤਾ ਦੇਖ ਸਕਣ|
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਬੈਠਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਵੀ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਰਾਜ ਕਰਦਾ|” ਕਿਉਂਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਸਭਨਾਂ ਉੱਤੇ ਹਾਕਮ ਹੈ ਲੋਕ ਉਸ ਬਾਰੇ ਗੱਲਾਂ ਕਰਦੇ ਹਨ ਜਿਵੇਂ ਉਹ ਸਵਰਗ ਵਿਚ ਸਿਘਸਨ ਤੇ ਬੈਠਾ ਹੈ| ਇਸ ਤਰਾਂ ਕਹਿਣ ਦੁਆਰਾ ਕਿ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਨਾਲ ਬੈਠਾ ਹੈ, ਯਿਸੂ ਨੇ ਘੋਸ਼ਣਾ ਕੀਤਾ ਸੀ ਕਿ ਪਿਤਾ ਦੇ ਨਾਲ ਰਾਜ ਕਰਨ ਦਾ ਅਧਿਕਾਰ ਉਸ ਕੋਲ ਵੀ ਹੈ|
+  * **ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਬੈਠਾ ਅਤੇ ਸਵਰਗ ਤੋਂ ਆਉਂਦਾ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਬਰਾਬਰ ਬੈਠਾ ਅਤੇ ਫਿਰ ਸਵਰਗ ਤੋਂ ਆਉਂਦਾ|”
+  * **ਗੁੱਸੇ ਵਿਚ ਆਪਣੇ ਕਪੜੇ ਪਾੜ ਦਿੱਤੇ**  – ਯਹੂਦੀ ਲੋਕ ਆਪਣਾ ਗੁਸਾ ਜਾ ਗਮੀ ਦਿਖਾਉਣ ਲਈ ਕਪੜੇ ਪਾਦ੍ਦੇਸ ਨ | ਜੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਵਿਚ ਕਪੜੇ ਪਾੜਨ ਦਾ ਕੁੱਝ ਹੋਰ ਮਤਲਬ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸ ਵਾਕ ਨੂੰ ਇਸ ਤਰਾਂ ਬਦਲ ਸਕਦੇ ਹੋ, “ਉਹ ਬਹੁਤ ਗੁੱਸੇ ਵਿਚ ਸੀ|”
+  * **ਤੁਹਾਡਾ ਨਿਆਂ ਕੀ ਹੈ?**  – ਮਤਲਬ, “ਤੁਹਾਡਾ ਫੈਸਲਾ ਕੀ ਹੈ?” ਜਾਂ “ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕਿ ਫੈਸਲਾ ਕੀਤਾ ਹੈ:ਕੀ ਉਹ ਦੋਸ਼ੀ ਜਾਂ ਬੇਗੁਨਾਹ ਹੈ?” ਮਹਾਂ ਜਾਜਕ ਚਹੁੰਦਾ ਸੀ ਕਿ ਧਾਰਮਿਕ ਆਗੂ ਯਿਸੂ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਤੁੱਲ ਹੋਣ ਦੀ ਘੋਸ਼ਣਾ ਲਈ ਦੋਸ਼ੀ ਠਹਿਰਾਉਣ |
 **[[:pa:obs:notes:frames:39-03|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-05|>>]]**
