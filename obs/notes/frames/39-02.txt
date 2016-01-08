@@ -1,22 +1,19 @@
-===== The False Witnesses [39-02] =====
+===== ਝੂਠੀ ਗਵਾਹੀ **[39-02]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-02.jpg?nolink&}}
 
-Inside the house, the **Jewish leaders put Jesus on trial**. They brought many false **witnesses** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was guilty of anything**. Jesus did not say anything.
-===== Important Terms: =====
+ਘਰ ਦੇ ਅੰਦਰ ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਯਿਸੂ ਤੇ ਮੁੱਕਦਮਾ ਚਲਾਇਆ | ਉਹਨਾਂ ਨੇ ਬਹੁਤ ਸਾਰੇ ਝੂਠੇ ਗਵਾਹ ਲਿਆਂਦੇ ਜਿਹਨਾਂ ਨੇ ਉਸ ਬਾਰੇ ਝੂਠ ਬੋਲਿਆ | ਫਿਰ ਵੀ, ਉਹਨਾਂ ਦੇ ਬਿਆਨ ਇਕ ਦੂਸਰੇ ਨਾਲ ਨਾ ਮਿਲੇ, ਇਸ ਲਈ ਯਹੂਦੀ ਆਗੂ ਸਾਬਤ ਨਾ ਕਰ ਸਕੇ ਕਿ ਉਹ ਕਿਸੇ ਗੱਲ ਵਿਚ ਦੋਸ਼ੀ ਹੈ | ਯਿਸੂ ਨੇ ਕੋਈ ਵੀ ਗੱਲ ਨਾ ਕਹਿ|
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:kt:witness]]**
-  * **[[:pa:obe:kt:guilt]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਹੂਦੀ ਆਗੂ**
+  * **ਯਿਸੂ**
+  * **ਗਵਾਹ**
+  * **ਦੋਸ਼ੀ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **put Jesus on trial** - This could be translated as, "had a formal meeting to accuse Jesus of doing something wrong." Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty.
-  * **lied about him** - That is, "told lies about him" or, "falsely accused him of doing something wrong."
-  * **their statements did not agree with each other** - This could be translated as, "they said things about Jesus that were very different from each other" or, "the witnesses said things about Jesus that contradicted each other."
-  * **he was guilty of anything** - That is, "that he had done anything wrong."
-
-
+  * **ਯਿਸੂ ਉੱਤੇ ਮੁੱਕਦਮਾ ਚਲਾਇਆ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਯਿਸੂ ਉੱਤੇ ਗਲਤ ਕਰਨ ਦਾ ਦੋਸ਼ ਲਾਉਣ ਲਈ ਇਕ ਰਸਮੀ ਸਭਾ ਇੱਕਠੀ ਕੀਤੀ|” ਆਮ ਮੁੱਕਦਮਾ ਇਸ ਲਈ ਚਲਾਇਆ ਜਾਂਦਾ ਹੈ ਕਿ ਪਤਾ ਕੀਤਾ ਜਾਵੇ ਕਿ ਕੀ ਕੋਈ ਬੇਗੁਨਾਹ ਹੈਂ ਜਾਂ ਕਿਸੇ ਅਪਰਾਧ ਲਈ ਦੋਸ਼ੀ ਹੈ| ਇਸ ਕੇਸ ਵਿਚ ਆਗੂਆਂ ਨੇ ਨਿਸ਼ਚਾ ਕੀਤਾ ਹੋਇਆ ਸੀ ਕਿ ਯਿਸੂ ਨੂੰ ਦੋਸ਼ੀ ਸਾਬਤ ਕਰਨ|
+  * **ਉਸ ਬਾਰੇ ਝੂਠ ਬੋਲਿਆ**  – ਮਤਲਬ, “ਉਸ ਬਾਰੇ ਝੂਠ ਬੋਲਿਆ” ਜਾਂ “ਕੁਝ ਗਲਤ ਕੰਮ ਲਈ ਉਸ ਉੱਤੇ ਦੋਸ਼ ਲਾਇਆ|”
+  * **ਉਹਨਾਂ ਦੇ ਬਿਆਨ ਇਕ ਦੂਸਰੇ ਨਾਲ ਨਾ ਮਿਲੇ**  – ਇਸ ਦਾ ਅਨੁਵਾਦ ਇਸ ਤਰਾਂ ਹੋ ਸਕਦਾ ਹੈ, “ਜੋ ਗੱਲਾਂ ਉਹਨਾਂ ਨੇ ਯਿਸੂ ਬਾਰੇ ਕਹੀਆਂ ਇਕ ਦੂਸਰੇ ਤੋਂ ਭਿੰਨ ਸਨ” ਜਾਂ “ਗਵਾਹਾਂ ਜੋ ਗੱਲਾਂ ਯਿਸੂ ਬਾਰੇ ਕਹੀਆਂ ਇਕ ਦੂਸਰੇ ਦੇ ਵਿਰੁਧ ਸਨ|”
+  * **ਉਹ ਕਿਸੇ ਗੱਲ ਦਾ ਦੋਸ਼ੀ ਸੀ**  – ਮਤਲਬ, “ਕਿ ਉs ਨੇ ਕੋਈ ਗਲਤ ਕੰਮ ਕੀਤਾ ਹੋਇਆ ਸੀ|”
 **[[:pa:obs:notes:frames:39-01|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-03|>>]]**
