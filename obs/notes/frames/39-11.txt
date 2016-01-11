@@ -1,21 +1,18 @@
-===== He Is Not Guilty [39-11] =====
+===== ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ **[39-11]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-11.jpg?nolink&}}
 
-After speaking with **Jesus**, **Pilate** went out to the crowd and said, “**I find no guilt in this man**.” But the **Jewish leaders** and the crowd shouted, “**Crucify** him!” Pilate replied, “**He is not guilty**.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
-===== Important Terms: =====
+ਯਿਸੂ ਨਾਲ ਗੱਲ ਕਰਨ ਤੋਂ ਬਾਅਦ ਪਿਲਾਤੂਸ ਬਾਹਰ ਭੀੜ ਕੋਲ ਗਿਆ ਅਤੇ ਕਿਹਾ, “ਮੈਂ ਉਸ ਵਿਚ ਕੋਈ ਦੋਸ਼ ਨਹੀਂ ਪਾਇਆ|” ਪਰ ਯਹੂਦੀ ਆਗੂ ਅਤੇ ਭੀੜ ਨੇ ਰੌਲਾ ਪਾਇਆ, “ਉਸ ਨੂੰ ਸਲੀਬ ਦਿਓ!’ ਪਿਲਾਤੂਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ|” ਪਰ ਉਹਨਾਂ ਨੇ ਹੋਰ ਜੋਰ ਨਾਲ ਰੌਲਾ ਪਾਇਆ| ਤੱਦ ਪਿਲਾਤੂਸ ਨੇ ਤੀਸਰੀ ਵਾਰ ਕਿਹਾ, “ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ!”
 
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:pilate]]**
-  * **[[:pa:obe:kt:guilt]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:crucify]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਿਸੂ**
+  * **ਪਿਲਾਤੂਸ**
+  * **ਦੋਸ਼**
+  * **ਯਹੂਦੀ ਆਗੂ  **
+  * **ਸਲੀਬ ਦਿਓ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **I find no guilt in this man** - That is, "I do not find this man to be guilty" or, "I have examined this man, and I do not see that he has done anything wrong."
-  * **He is not guilty** - That is, "He has done nothing wrong!"
-
-
+  * **ਮੈਂ ਇਸ ਵਿਅਕਤੀ ਵਿਚ ਕੋਈ ਦੋਸ਼ ਨਹੀ ਪਾਇਆ**  – ਮਤਲਬ, “ਮੈਂ ਇਸ ਵਿਅਕਤੀ ਵਿਚ ਕੁੱਝ ਨਹੀਂ ਪਾਇਆ ਕਿ ਉਸ ਨੂੰ ਦੋਸ਼ੀ ਠਹਿਰਾਵਾਂ” ਜਾਂ “ਮੈ ਉਸ ਬੰਦੇ ਨੂੰ ਪਰਖ ਲਿਆ ਹੈ ਅਤੇ ਨਹੀਂ ਦੇਖਦਾ ਕਿ ਉਸ ਨੇ ਕੁੱਝ ਗਲਤ ਕੀਤਾ ਹੈ|”
+  * **ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ**, ਮਤਲਬ, “ਉਸ ਨੇ ਕੁੱਝ ਵੀ ਗਲਤ ਨਹੀਂ ਕੀਤਾ ਹੈ!”
 **[[:pa:obs:notes:frames:39-10|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-12|>>]]**
