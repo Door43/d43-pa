@@ -1,21 +1,18 @@
-===== Jesus and Pilate [39-09] =====
+===== ਯਿਸੂ ਅਤੇ ਪਿਲਾਤੂਸ **[39-09]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-09.jpg?nolink&}}
 
-Early the next morning, the **Jewish leaders** brought **Jesus** to **Pilate**, the **Roman governor**. They hoped that Pilate would condemn Jesus as guilty and **sentence him to be killed**. Pilate asked Jesus, “Are you the **king of the Jews**?”
-===== Important Terms: =====
+ਅਗਲੇ ਦਿਨ ਤੜਕਸਾਰ ਯਹੂਦੀ ਆਗੂ ਯਿਸੂ ਨੂੰ ਰੋਮੀ ਗਵਰਨਰ ਪਿਲਾਤੂਸ ਦੇ ਸਾਹਮਣੇ ਲੈ ਕੇ ਆਏ | ਉਹਨਾਂ ਨੇ ਆਸ਼ਾ ਕੀਤੀ ਕਿ ਉਹ ਯਿਸੂ ਨੂੰ ਦੋਸ਼ੀ ਕਰਾਰ ਦੇਵੇਗਾ ਅਤੇ ਉਸ ਨੂੰ ਮਾਰਨ ਦਾ ਹੁੱਕਮ ਦੇਵੇਗਾ | ਪਿਲਾਤੂਸ ਨੇ ਯਿਸੂ ਕੋਲੋਂ ਪੁੱਛਿਆਂ, “ਕੀ ਤੂੰ ਯਹੂਦੀਆਂ ਦਾ ਰਾਜਾ ਹੈਂ?”
 
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:jesus]]**
-  * **[[:pa:obe:other:pilate]]**
-  * **[[:pa:obe:other:rome]]**
-  * **[[:pa:obe:kt:kingofthejews]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਯਹੂਦੀ ਆਗੂ **
+  * **ਯਿਸੂ**
+  * **ਪਿਲਾਤੂਸ**
+  * **ਰੋਮੀ**
+  * **ਯਹੂਦੀਆਂ ਦਾ ਰਾਜਾ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **Roman governor** - That is, "Roman government official." The Roman government had appointed Pilate to govern the region of Judea in Israel.
-  * **sentence him to be killed** - As governor, Pilate had the authority to condemn Jesus to death and to give approval for his crucifixion, or to set him free. The Jewish religious leaders did not have the authority to have someone killed.
-
-
+  * **ਰੋਮੀ ਗਵਰਨਰ**  – ਮਤਲਬ, “ਰੋਮੀ ਸਰਕਾਰ ਦਾ ਅਫਸਰ”| ਰੋਮੀ ਸਰਕਾਰ ਨੇ ਪਿਲਾਤੂਸ ਨੂੰ ਇਸਰਾਏਲ ਦੇ ਯਹੁਦਿਆ ਦੇ ਸੂਬੇ ਉੱਤੇ ਰਾਜ ਕਰਨ ਲਈ ਠਹਿਰਾਇਆ ਹੋਇਆ ਸੀ |
+  * **ਉਸ ਨੂੰ ਮਾਰਨ ਲਈ ਹੁੱਕਮ ਦੇਵੇ**  – ਇਕ ਗਵਰਨਰ ਹੋਣ ਦੇ ਨਾਤੇ, ਪਿਲਾਤੂਸ ਕੋ ਅਧਿਕਾਰ ਸੀ ਕਿ ਉਹ ਯਿਸੂ ਨੂੰ ਮਾਰਨ ਲਈ ਦੋਸ਼ੀ ਥ੍ਹਿਰਾਵੇ ਅਤੇ ਉਸ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਚੜਾਉਣ ਲਈ ਇਜ਼ਾਜਤ ਦੇਵੇ ਜਾਂ ਉਸ ਨੂੰ ਬਹਾਲ ਕਰ ਦੇਵੇ| ਯਹੂਦੀ ਆਗੂਆਂ ਕੋਲ ਅਧਿਕਾਰ ਨਹੀਂ ਸੀ ਕਿ ਉਹ ਕਿਸੇ ਨੂੰ ਮੌਤ ਦੀ ਸਜਾ ਦੇਣ |
 **[[:pa:obs:notes:frames:39-08|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-10|>>]]**
