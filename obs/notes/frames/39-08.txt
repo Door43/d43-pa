@@ -1,22 +1,19 @@
-===== Judas Killed Himself [39-08] =====
+===== ਯਹੂਦਾ ਨੇ ਆਪਣੇ ਆਪ ਨੂੰ ਮਾਰ ਲਿਆ **[39-08]**  =====
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-08.jpg?nolink&}}
 
-**Peter** went away and **cried bitterly**. Meanwhile, **Judas**, **the betrayer**, saw that the **Jewish leaders had condemned Jesus to die**. Judas became full of sorrow and went away and killed himself.
-===== Important Terms: =====
+ਪਤਰਸ ਦੂਰ ਗਿਆ ਅਤੇ ਬਹੁਤ ਰੋਇਆ | ਉਸੇ ਦਰਮਿਆਨ ਯਹੂਦਾ ਧੋਖੇਬਾਜ ਨੇ ਦੇਖਿਆ ਕਿ ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਯਿਸੂ ਨੂੰ ਮੋਤ ਲਈ ਦੋਸ਼ੀ ਠਹਿਰਾ ਦਿੱਤਾ ਹੈ| ਯਹੂਦਾ ਬਹੁਤ ਨਿਰਾਸ਼ ਹੋਇਆ ਅਤੇ ਚਲਾ ਗਿਆ ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਮਾਰ ਲਿਆ |
 
-  * **[[:pa:obe:other:peter]]**
-  * **[[:pa:obe:other:judasiscariot]]**
-  * **[[:pa:obe:kt:betray]]**
-  * **[[:pa:obe:other:jewishleaders]]**
-  * **[[:pa:obe:kt:jesus]]**
+===== ਮਹੱਤਵਪੂਰਨ ਵਾਕ : =====
 
+  * **ਪਤਰਸ**
+  * **ਯਹੂਦਾ**
+  * **ਧੋਖਾ ਦਿੱਤਾ**
+  * **ਯਹੂਦੀ ਆਗੂ **
+  * **ਯਿਸੂ**
+===== ਅਨੁਵਾਦ ਦੇ ਨੋਟ: =====
 
-===== Translation Notes: =====
-
-  * **cried bitterly** - That is, "cried, feeling deep sorrow" or, "cried, feeling deep regret."
-  * **the betrayer** - That is, "who had betrayed Jesus" or, "who had helped the leaders arrest Jesus."
-  * **had condemned Jesus to die** - That is, "had said that Jesus was guilty and must die."
-
-
+  * **ਬਹੁਤ ਰੋਇਆ**  – ਮਤਲਬ, “ਬਹੁਤ ਗਮ ਮਹਿਸੂਸ ਕਰਦਾ ਹੋਇਆ ਰੋਇਆ” ਜਾਂ “ਚਿਲਾਇਆ, ਬਹੁਤ ਪਛਤਾਵਾ ਮਹਿਸੂਸ ਕਰਦਾ ਹੋਇਆ|”
+  * **ਧੋਖੇਬਾਜ**  – ਮਤਲਬ, “ਜਿਸ ਨੇ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦਿੱਤਾ’ ਜਾਂ “ਜਿਸ ਨੇ ਆਗੂਆਂ ਦੀ ਮੱਦਦ ਕੀਤੀ ਕਿ ਉਹ ਯਿਸੂ ਨੂੰ ਫੜ੍ਹਨ|”
+  * **ਯਿਸੂ ਨੂੰ ਮੌਤ ਲਈ ਦੋਸ਼ੀ ਠਹਿਰਾ ਦਿੱਤਾ**  – ਮਤਲਬ, “ਕਹਿ ਦਿੱਤਾ ਕਿ ਯਿਸੂ ਦੋਸ਼ੀ ਅਤੇ ਜਰੁਰ ਮੇਰੇਗਾ|”
 **[[:pa:obs:notes:frames:39-07|<<]] | [[:pa:obs:notes:39|Up]] | [[:pa:obs:notes:frames:39-09|>>]]**
