@@ -1,29 +1,35 @@
-====== Aaron ======
+====== **ਹਰੂਨ**  ======
 
-===== Facts: =====
+===== **ਸੱਚਿਆਈਆਂ **: =====
 
-God chose Aaron to be the first high priest for the people of Israel.
+ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸੇਰਾਏਲ ਦੇ ਲੋਕਾਂ ਲਈ ਹਰੂਨ ਨੂੰ ਪਹਿਲਾ ਜਾਜਕ ਹੋਣ ਲਈ ਚੁਣਿਆਂ|
 
-  * Aaron was Moses' older brother.
-  * Aaron helped Moses speak to Pharaoh about letting the Israelites go free.
-  * While the Israelites were traveling through the desert, Aaron sinned by making an idol for the people to worship.
-  * God also appointed Aaron and his descendants to be the priests for the people of Israel.
+  * ਹਰੂਨ ਮੂਸਾ ਦਾ ਵੱਡਾ ਭਰਾ ਸੀ |
+  * ਹਰੂਨ ਇਸਰੇਲੀਆਂ ਨੂੰ ਅਜਾਦ ਕਰਨ ਲਈ ਫਰਾਉਨ ਨਾਲ ਗੱਲ ਬਾਤ ਕਰਨ ਵਿਚ ਮੂਸਾ ਦੀ ਮੱਦਦ ਕਰਦਾ ਸੀ |
+  * ਜਦੋਂ ਇਸਰਾਏਲੀ ਜੰਗਲ ਵਿਚੋਂ ਦੀ ਗੁਜਰ ਰਹੇ ਸਨ, ਹਰੂਨ ਨੇ ਲੋਕਾਂ ਲਈ ਪੂਜਾ ਕਰਨ ਲਈ ਬੁੱਤ ਬਣਾ ਕੇ ਪਾਪ ਕੀਤਾ |
+  * ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਹਰੂਨ ਦੀ ਸੰਤਾਨ ਨੂੰ ਵੀ ਇਸਰਾਏਲ ਦੇ ਲੋਕਾਂ ਦੇ ਜਾਜਕ ਸਥਾਪਿਤ ਕੀਤਾ |
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]]) 
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[en:obe:kt:priest]], [[moses]], [[israel]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਜਾਜਕ** [[:en:obe:kt:priest|, ]]**
+
+ਜਾਜਕ  **, **ਮੂਸਾ**, **ਇਸਰਾਏਲ** [[:pa:obe:other:israel|, ]]**
+
+ਇਸਰਾਏਲੀ  ** [[:pa:obe:other:israel|, ]]**
+
+ਇਸਰਾਏਲ ਦੀ ਕੌਮ  **)
+
 ===== Bible References: =====
 
 {{topic>:en:bible?aaron&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:09-15|[09-15]]]** God warned Moses and **Aaron**  that Pharaoh would be stubborn.
-  * **[[:pa:obs:notes:frames:10-05|[10-05]]]** Pharaoh called Moses and **Aaron**  and told them that if they stopped the plague, the Israelites could leave Egypt.
-  * **[[:pa:obs:notes:frames:13-09|[13-09]]]** God chose Moses' brother, **Aaron**, and Aaron's descendants to be his priests.
-  * **[[:pa:obs:notes:frames:13-11|[13-11]]]** So they (the Israelites) brought gold to **Aaron**  and asked him to form it into an idol for them!
-  * **[[:pa:obs:notes:frames:14-07|[14-07]]]** They (the Israelites) became angry with Moses and **Aaron**  and said, "Oh, why did you bring us to this horrible place?"
-
+  * **[09-15]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮੂਸਾ ਅਤੇ **ਹਰੂਨ ** ਨੂੰ ਚਿਤਾਵਨੀ ਦਿੱਤੀ ਕਿ ਫਰਾਉਨ ਕਠੋਰ ਹੋ ਜਾਵੇਗਾ |
+  * **[10-05]**  ਫਰਾਉਨ ਨੇ ਮੂਸਾ ਅਤੇ **ਹਰੂਨ**  ਨੂੰ ਬੁਲਾਇਆ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ ਕਿ ਜੇ ਉਹ ਬਵਾਵਾਂ ਨੂੰ ਰੋਕ ਦੇਣਗੇ ਤਾਂ ਇਸਰਾਏਲੀ ਮਿਸਰ ਵਿਚੋਂ ਜਾ ਸਕਦੇ ਹਨ |
+  * **[13-09] ** ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮੂਸਾ ਦੇ ਭਰਾ ਹਰੂਨ ਅਤੇ ਉਸੇ ਦੀ ਸੰਤਾਨ ਨੂੰ ਜਾਜਕ ਹੋਣ ਲਈ ਚੁਣਿਆ** |**
+  * **[13-11]**  ਇਸ ਲਈ ਉਹ (ਇਸਰਾਏਲੀ) **ਹਰੂਨ**  ਕੋਲ ਸੋਨਾ ਲੈ ਕੇ ਆਏ ਅਤੇ ਉਸ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਉਹਨਾਂ ਲਈ ਇਕ ਬੁੱਤ ਬਣਾਵੇ !
+  * **[14-07]**  ਉਹ (ਇਸਰਾਏਲੀ) ਮੂਸਾ ਅਤੇ **ਹਰੂਨ**  ਨਾਲ ਗੁੱਸੇ ਹੋਏ ਅਤੇ ਕਿਹਾ, ਓ ਹੋ, ਕਿਉਂ ਤੁਸੀਂ ਸਾਨੂੰ ਇਸ ਭਿਆਨਕ ਜਗ੍ਹਾ ਤੇ ਲੈ ਕੇ ਆਏ ?
 ~~DISCUSSION~~
 
 ~~NOCACHE~~
