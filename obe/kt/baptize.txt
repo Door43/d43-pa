@@ -1,6 +1,6 @@
-====== baptize, baptism ======
+====== **ਬਪਤਿਸਮਾ ਦਿੱਤਾ **, **ਬਪਤਿਸਮਾ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ **: =====
 
 In the New Testament, the terms “baptize” and “baptism” usually refer to putting water on a believer in Jesus to show he has been cleansed from his sins and that he is now united with Christ.
 
@@ -15,23 +15,31 @@ In the New Testament, the terms “baptize” and “baptism” usually refer to
   * When it refers to suffering, "baptism" could also be translated as "an overwhelming time of suffering" or "a pouring out of terrible suffering."
   * Also consider how this term is translated in a Bible translation in a local or national language.
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:pa:obe:other:johnthebaptist|John (the Baptist)]], [[:pa:obe:kt:repent|repent, repentance]], [[:pa:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]])
+(ਇਹ ਵੀ ਦੇਖੋ:: **ਯਹੁੰਨਾ ਬਪਤਿਸਮਾ ਦੇਣ ਵਾਲਾ**, **ਤੌਬਾ** [[:pa:obe:kt:repent|, ]]
+
+ਨੂੰ ਤੋਬਾ  ,
+
+ਪਵਿੱਤਰ ਆਤਮਾ  [[:pa:obe:kt:holyspirit|, ]]
+
+ਪਰਮੇਸ਼ੁਰ ਦਾ ਆਤਮਾ  [[:pa:obe:kt:holyspirit|, ]]
+
+ਪ੍ਰਭੂ ਦਾ ਆਤਮਾ  )
 
 ===== Bible References: =====
 
 {{topic>:en:bible?baptize&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:24-03|[24-03]]]** When people heard John's message, many of them repented from their sins, and John **baptized**  them. Many religious leaders also came to be **baptized**  by John, but they did not repent or confess their sins.
-  * **[[:pa:obs:notes:frames:24-06|[24-06]]]** The next day, Jesus came to be **baptized**  by John.
-  * **[[:pa:obs:notes:frames:24-07|[24-07]]]** John said to Jesus, "I am not worthy to **baptize**  you. You should **baptize**  me instead."
-  * **[[:pa:obs:notes:frames:42-10|[42-10]]]** So go, make disciples of all people groups by **baptizing**  them in the name of the Father, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you."
-  * **[[:pa:obs:notes:frames:43-11|[43-11]]]** Peter answered them, "Every one of you should repent and be **baptized**  in the name of Jesus Christ so that God will forgive your sins."
-  * **[[:pa:obs:notes:frames:43-12|[43-12]]]** About 3,000 people believed what Peter said and became disciples of Jesus. They were **baptized**  and became part of the church at Jerusalem.
-  * **[[:pa:obs:notes:frames:45-11|[45-11]]]** As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, "Look! There is some water! May I be **baptized**?"
-  * **[[:pa:obs:notes:frames:46-05|[46-05]]]** Saul immediately was able to see again, and Ananias **baptized**  him.
-  * **[[:pa:obs:notes:frames:49-14|[49-14]]]** Jesus invites you to believe in him and be **baptized**.
+  * **[24-03]**  ਜਦੋਂ ਲੋਕਾਂ ਨੇ ਯਹੁੰਨਾ ਦਾ ਸੰਦੇਸ਼ ਸੁਣਿਆ ਉਹਨਾਂ ਵਿਚੋਂ ਬਹੁਤਿਆਂ ਨੇ ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ ਕੀਤੀ ਅਤੇ ਯਹੁੰਨਾ ਨੇ ਉਹਨਾਂ ਨੂੰ **ਬਪਤਿਸਮਾ**  ਦਿੱਤਾ | ਬਹੁਤ ਸਾਰੇ ਧਾਰਮਿਕ ਆਗੂ ਵੀ ਯਹੁੰਨਾ ਕੋਲੋਂ **ਬਪਤਿਸਮਾ**  ਲੈਣ ਲਈ ਆਏ ਪਰ ਉਹਨਾਂ ਨੇ ਆਪਣੇ ਪਾਪਾਂ ਨੂੰ ਨਾ ਮੰਨਿਆ ਅਤੇ ਤੌਬਾ ਨਾ ਕੀਤੀ |
+  * **[24-06]**  ਅਗਲੇ ਦਿਨ ਯਿਸੂ ਯਹੁੰਨਾ ਕੋਲੋਂ **ਬਪਤਿਸਮਾ**  ਲੈਣ ਲਈ ਆਇਆ |
+  * **[24-06]**  ਯਹੁੰਨਾ ਨੇ ਯਿਸੂ ਨੂੰ ਕਿਹਾ, “ਮੈਂ ਤੌਨੂੰ **ਬਪਤਿਸਮਾ**  ਦੇਣ ਦੇ ਯੋਗ ਨਹੀਂ ਹਾਂ | ਇਸ ਦੀ ਬਜਾਏ ਤੂੰ ਮੈਨੂੰ ਬਪਤਿਸਮਾ ਦੇਹ |”
+  * **[42-10]**  ਇਸ ਲਈ ਜਾਓ, ਸਾਰੀਆਂ ਜਾਤੀਆਂ ਵਿਚੋਂ ਚੇਲੇ ਬਣਾਓ ਉਹਨਾਂ ਨੂੰ ਪਿਤਾ ਪੁੱਤਰ, ਅਤੇ ਪਵਿੱਤਰ ਆਤਮਾ ਦੇ ਨਾਮ ਵਿਚ **ਬਪਤਿਸਮਾ**  ਦਿੰਦੇ ਹੋਏ ਅਤੇ ਜੋ ਮੈਂ ਤੁਹਾਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਹੈ ਉਹਨਾਂ ਸਾਰੀਆਂ ਗੱਲਾਂ ਨੂੰ ਮੰਨਣਾ ਸਿਖਾਓ |”
+  * **[43-12]**  ਪਤਰਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਤੁਹਾਡੇ ਵਿਚੋਂ ਹਰ ਇਕ ਜਨ ਤੌਬਾ ਕਰੇ ਅਤੇ ਯਿਸੂ ਮਸੀਹ ਦੇ ਨਾਮ ਵਿਚ **ਬਪਤਿਸਮਾ**  ਲਵੇ ਤਾਂ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਪਾਪਾਂ ਤੋਂ ਮਾਫ਼ ਕਰੇ |
+  * **[43-12]**  ਲੱਗ ਭੱਗ 3000 ਲੋਕਾਂ ਨੇ ਵਿਸ਼ਵਾਸ ਕੀਤਾ ਜੋ ਪਤਰਸ ਨੇ ਕਿਹਾ ਸੀ ਅਤੇ ਯਿਸੂ ਦੇ ਚੇਲੇ ਬਣ ਗਏ | ਉਹਨਾਂ ਨੂੰ **ਬਪਤਿਸਮਾ**  ਦਿੱਤਾ ਗਿਆ ਅਤੇ ਉਹ ਯਰੂਸ਼ਲਮ ਦੀ ਕਲੀਸੀਆ ਦੇ ਭਾਗ ਬਣ ਗਏ |
+  * **[45-11]**  ਜਿਵੇਂ ਹੀ ਇਥੋਪੀਅਨ ਜਾ ਰਹੇ ਸਨ ਉਹ ਕੁੱਝ ਪਾਣੀ ਦੇ ਕੋਲ  ਪਹੁੰਚੇ | ਇਥੋਪੀਅਨ ਨੇ ਕਿਹਾ, “ਦੇਖ! ਉੱਥੇ ਕੁੱਝ ਪਾਣੀ ਹੈ! ਕਿ ਮੈਂ **ਬਪਤਿਸਮਾ**  ਲੈ ਸਕਦਾ ਹਾਂ?”
+  * **[46-05]**  ਸੌਲੁਸ ਇਕ ਦਮ ਦੁਬਾਰਾ ਫੇਰ ਦੇਖਣ ਲੱਗਾ ਅਤੇ ਹਨਾਨਿਯਾਹ ਨੇ ਉਸ ਨੂੰ **ਬਪਤਿਸਮਾ**  ਦਿੱਤਾ |
+  * **[49-14]**  ਯਿਸੂ ਤੁਹਾਨੂੰ ਸੱਦਾ ਦਿੰਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਵਿਸ਼ਵਾਸ ਕਰੋ ਅਤੇ **ਬਪਤਿਸਮਾ**  ਲਵੋ|
 ~~DISCUSSION~~{{tag>publish ktobs}}
