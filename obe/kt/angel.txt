@@ -1,8 +1,8 @@
-====== angel ======
+====== **ਦੂਤ **  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-An angel is a powerful spirit being whom God created. These spirit beings exist to serve God by doing whatever he tells them to do.
+ਇਕ ਦੂਤ ਇਕ ਤਾਕਤਵਰ ਆਤਮਾ ਹੈ ਜਿਸ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਬਣਾਇਆ ਹੈ | ਇਹ ਆਤਮੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਸੇਵਾ ਕਰਨ ਲਈ ਹਨ ਜੋ ਕੁੱਝ ਵੀ ਉਹ ਉਹਨਾਂ ਕਰਨ ਲਈ ਕਹਿੰਦਾ ਹੈ |
 
   * The word for "angel" means "messenger."
   * In the Bible, angels gave messages to people from God about things he wanted them to do. Angels also told people about events that were going to happen in the future or events that had already happened.
@@ -12,21 +12,21 @@ An angel is a powerful spirit being whom God created. These spirit beings exist 
 ===== Translation Suggestions: =====
 
   * Ways to translate "angel" could include, "messenger from God" or " God's heavenly servant" or "God's spirit messenger."
-  * Also consider how this term is translated in a national language or another local language. (See:[[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Also consider how this term is translated in a national language or another local language. (See:[[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?angel&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:02-12|[02-12]]]** God placed large, powerful **angels**  at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
-  * **[[:pa:obs:notes:frames:22-03|[22-03]]]** The **angel**  responded to Zechariah,"I was sent by God to bring you this good news."
-  * **[[:pa:obs:notes:frames:23-06|[23-06]]]** Suddenly, a shining **angel**  appeared to them (the shepherds), and they were terrified. The **angel**  said, "Do not be afraid, because I have some good news for you."
-  * **[[:pa:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with **angels**  praising God…
-  * **[[:pa:obs:notes:frames:25-08|[25-08]]]** Then **angels**  came and took care of Jesus.
-  * **[[:pa:obs:notes:frames:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
-  * **[[:pa:obs:notes:frames:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
+  * **[02-12]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਬਗੀਚੇ ਦੇ ਮਾਰਗ ਉੱਤੇ ਤਾਕਤਵਰ **ਦੂਤ**  ਲਗਾਏ ਸਨ ਜੋ ਕਿਸੇ ਨੂੰ ਜਿੰਦਗੀ ਦੇ ਦਰਖਤ ਦੇ ਫਲ ਖਾਣ ਤੋਂ ਰੋਕਣ |
+  * **[22-03]****ਦੂਤ**  ਨੇ ਯਕਰੀਯਾਹ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ, “ਮੈਂ ਪ੍ਰਮੇਸ਼ਵਰ ਵਲੋਂ ਤੈਨੂੰ ਇਹ ਖੁਸ਼ ਖਬਰੀ ਦੇਣ ਲਈ ਭੇਜਿਆ ਗਿਆ ਹਾਂ”|
+  * **[23-06]**  ਅਚਾਨਕ, ਇਕ ਚਮਕਦਾਰ **ਦੂਤ**  ਉਹਨਾਂ(ਅਯਾਲੀਆਂ)  ਉੱਤੇ ਪ੍ਰਗਟ ਹੋਇਆ ਅਤੇ ਉਹ ਭੈ ਭੀਤ ਹੋ ਗਏ | **ਦੂਤ**  ਨੂੰ ਕਿਹਾ, “ਨਾ ਡਰੋ ਕਿਉਂਕਿ ਮੇਰੇ ਕੋਲ ਤੁਹਾਡੇ ਲਈ ਇਕ ਖੁਸ਼ੀ ਦੀ ਖਬਰ ਹੈ|”
+  * **[23-07]**  ਅਚਾਨਕ, ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਕਰਦੇ ਹੋਏ **ਦੂਤਾਂ**  ਨਾਲ ਆਕਾਸ਼ ਭਰ ਗਿਆ!
+  * **[25-08] ਦੂਤ**  ਆਇਆ ਅਤੇ ਯਿਸੂ ਦੀ ਦੇਖ ਭਾਲ ਕੀਤੀ |
+  * **[38-12]** ਯਿਸੂ ਬਹੁਤ ਬੇਚੈਨ ਸੀ ਅਤੇ ਉਸਦਾ ਪਸੀਨਾ ਖੂਨ ਦੀਆਂ ਬੂੰਦਾਂ ਦੀ ਤਰਾਂ ਟਪਕਦਾ ਸੀ | ਉਸ ਉਨ ਤਕੜਾ ਕਰਨ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਕ **ਦੂਤ**  ਨੂੰ ਭੇਜਿਆ |
+  * **[38-15]**  “ਮੈਂ ਆਪਣੇ ਬਚਾਓ ਲੀ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਇਕ **ਦੂਤਾਂ**  ਦੀ ਸੈਨਾ ਦੇ ਲਈ ਕਹਿ ਸਕਦਾ ਸੀ”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
