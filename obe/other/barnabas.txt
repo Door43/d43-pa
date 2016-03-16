@@ -1,6 +1,6 @@
-====== **ਬਰਨਾਬਾਸ**  ======
+====== ਬਰਨਾਬਾਸ ======
 
-===== **ਸੱਚਿਆਈਆਂ**: =====
+===== ਸੱਚਿਆਈਆਂ: =====
 
 ਬਰਨਾਬਾਸ ਇਕ ਪਹਿਲੀ ਕਲੀਸੀਆ ਦਾ ਵਿਸ਼ਵਾਸੀ ਜੋ ਰਸੂਲਾਂ ਦੇ ਸਮੇ ਵਿਚ ਰਹਿੰਦਾ ਸੀ | His name means "son of encouragement".
 
@@ -10,15 +10,15 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:other:paul|Paul, Saul]], [[:en:obe:kt:christian|Christian]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਪੌਲੁਸ** [[:pa:obe:other:paul|, ]]**ਸੌਲੁਸ**, **ਮਸੀਹੀ**)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?barnabas&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas**  took Saul to the apostles and told them how Saul had preached boldly in Damascus.
-  * **[[:pa:obs:notes:frames:46-09|[46-09]]]****Barnabas**  and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
-  * **[[:pa:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas**  and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas**  and Saul and placed their hands on them.
+  * **[46-08]**  ਤੱਦ ਇਕ ਵਿਸ਼ਵਾਸੀ ਜਿਸ ਦਾ ਨਾਮ **ਬਰਨਾਬਾਸ**  ਸੀ ਉਹ ਸੌਲੁਸ ਨੂੰ ਰਸੂਲਾਂ ਦੇ ਕੋਲ ਲੈ ਕੇ ਗਿਆ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਦੱਸਿਆ ਕਿਵੇਂ ਸੌਲੁਸ ਨੇ ਦਲੇਰੀ ਨਾਲ ਦਮਾਸਕਸ ਵਿਚ ਪ੍ਰਚਾਰ ਕੀਤਾ |
+  * **[46-09]****ਬਰਨਾਬਾਸ**  ਅਤੇ ਸੌਲੁਸ ਉੱਥੇ ਨਵੇਂ ਵਿਸ਼ਵਾਸੀਆਂ ਨੂੰ ਯਿਸੂ ਬਾਰੇ ਹੋਰ ਸਿਖਾਉਣ ਅਤੇ ਕਲੀਸੀਆ ਨੂੰ ਤਕੜਾ ਕਰਨ ਲਈ ਗਏ |
+  * **[46-10]**  ਇਕ ਦਿਨ, ਜਦੋਂ ਅੰਤਾਕਿਆਂ ਵਿਚ ਮਸੀਹੀ ਵਰਤ ਅਤੇ ਪ੍ਰਾਰਥਨਾ ਕਰਦੇ ਸਨ ਪਵਿੱਤਰ ਆਤਮਾ ਨੇ ਉਹਨਾਂ ਨੂੰ ਕਿਹਾ, “ਮੇਰੇ ਲਈ **ਬਰਨਾਬਾਸ**  ਅਤੇ ਸੌਲੁਸ ਨੂੰ ਅੱਲਗ ਕਰੋ ਉਸ ਕੰਮ ਲਈ ਜਿਸ ਲਈ ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਬੁਲਾਇਆ ਹੈ|” ਇਸ ਲਈ ਅੰਤਾਕਿਆ ਦੀ ਕਲੀਸੀਆ ਨੇ **ਬਰਨਾਬਾਸ**  ਅਤੇ ਸੌਲੁਸ ਉੱਤੇ ਹੱਥ ਰੱਖੇ ਅਤੇ ਉਹਨਾਂ ਲਈ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
