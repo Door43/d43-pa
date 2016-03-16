@@ -1,6 +1,6 @@
-====== bless, blessed, blessing ======
+====== **ਆਸ਼ਿਸ਼**, **ਆਸ਼ਿਸ਼ਤ ਹੋਇਆ**, **ਬਰਕਤਾਂ**  ======
 
-===== Definition: =====
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 To "bless" someone or something means to cause good and beneficial things to happen to the person or thing that is being blessed.
 
@@ -16,19 +16,21 @@ To "bless" someone or something means to cause good and beneficial things to hap
   * "Blessed is the person who" could be translated as "How good it is for the person who."
   * Expressions like, "blessed be the Lord" could be translated as, "May the Lord be praised" or "Praise the Lord" or "I praise the Lord."
 
-(See also: [[:pa:obe:other:praise|praise]])
+(ਇਹ ਵੀ ਦੇਖੋ: **
+
+ਉਸਤਤ  **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
-  * **[[:pa:obs:notes:frames:01-15|[01-15]]]** God made Adam and Eve in his own image. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth."
-  * **[[:pa:obs:notes:frames:01-16|[01-16]]]** So God rested from all he had been doing. He **blessed**  the seventh day and made it holy, because on this day he rested from his work.
-  * **[[:pa:obs:notes:frames:04-04|[04-04]]]**"I will make your name great. I will **bless**  those who **bless**  you and curse those who curse you. All families on earth will be **blessed**  because of you."
-  * **[[:pa:obs:notes:frames:04-07|[04-07]]]** Melchizedek **blessed**  Abram and said, "May God Most High who owns heaven and earth **bless**  Abram."
-  * **[[:pa:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his **blessing**  to Esau.
-  * **[[:pa:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained faithful to God, and God **blessed**  him.
+  * **[01-07]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਦੇਖਿਆ ਕਿ ਇਹ ਚੰਗਾ ਹੈ ਅਤੇ ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ **ਬਰਕਤ**  ਦਿੱਤੀ |
+  * **[01-15]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਦਮ ਅਤੇ ਹਵਾ ਨੂੰ ਆਪਣੇ ਸਵਰੂਪ ਉੱਤੇ ਬਣਾਇਆ | ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ **ਬਰਕ** ਤ ਦਿੱਤੀ ਅਤੇ ਕਿਹਾ, “ਬਹੁਤ ਪੁੱਤ ਪੜੌਤੇ ਪੈਦਾ ਕਰੋ ਅਤੇ ਇਸ ਧਰਤੀ ਨੂੰ ਭਰ ਦਿਓ”
+  * **[01-16]**  ਇਸ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਜੋ ਕੁੱਝ ਵੀ ਉਹ ਕਰ ਰਿਹਾ ਉਸ ਤੋਂ ਅਰਾਮ ਕੀਤਾ | ਉਸ ਨੇ ਸੱਤਵੇਂ ਦਿਨ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ ਉਸ ਨੂੰ ਪਵਿੱਤਰ ਠਹਰਾਇਆ, ਕਿਉਂਕਿ ਉਸ ਦਿਨ ਉਸ ਨੇ ਆਪਣੇ ਸਾਰੇ ਕੰਮ ਤੋਂ ਅਰਾਮ ਲਿਆ ਸੀ |
+  * **[04-04]**  “ਮੈਂ ਤੇਰਾ ਨਾਮ ਮਹਾਨ ਬਣਾਵਾਂਗਾ | ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਬਰਕਤ ਦੇਵਾਂਗਾ ਜੋ ਤੈਨੂੰ ਬਰਕਤ ਦੇਣਗੇ ਅਤੇ ਉਸ ਨੂੰ ਸਰਾਪ ਜੋ ਤੈਨੂੰ ਸਰਾਪ ਦੇਵੇਗਾ | ਤੇਰੇ ਕਾਰਨ ਧਰਤੀ ਦੇ ਸਾਰੇ ਘਰਾਣੇ ਬਰਕਤ ਪਾਉਣਗੇ |
+  * **[04-07]**  ਮਲਕਿਸਦਕ ਨੇ ਅਬਰਾਹਾਮ ਨੂੰ ਬਕਤ ਦਿੱਤੀ ਅਤੇ ਕਿਹਾ, “ਹੋਵੇ ਕਿ ਅੱਤ ਮਹਾਨ ਪ੍ਰਮੇਸ਼ਵਰ ਜੋ ਸਵਰਗ ਅਤੇ ਧਰਤੀ ਦਾ ਮਾਲਕ ਹੈ ਅਬਰਾਹਾਮ ਨੂੰ ਬਰਕਤ ਦੇਵੇ|”
+  * **[07-03]**  ਇਸਹਾਕ ਇਸਾਓ ਨੂੰ ਬਰਕਤ ਦੇਣੀ ਚਹੁੰਦਾ ਸੀ |
+  * **[08-05]**  ਇਥੋ ਤੱਕ ਕਿ ਯੂਸਫ ਜੇਲ ਵਿਚ ਵੀ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪ੍ਰਤੀ ਵਫ਼ਾਦਾਰ ਰਿਹਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
