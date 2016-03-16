@@ -1,25 +1,24 @@
-====== Bethlehem ======
+====== **ਬੈਤਲਹਮ **  ======
 
-===== Facts: =====
+===== **ਸੱਚਿਆਈਆਂ**: =====
 
-Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It still exists to the present day.
+ਇਸਰਾਏਲ ਦੇ ਦੇਸ ਵਿਚ ਬੈਤਲਹਮ ਇਕ ਛੋਟਾ ਨਗਰ ਸੀ ਜੋ ਯਰੂਸ਼ਲਮ ਦੇ ਨੇੜੇ ਸੀ | ਇਹ ਅੱਜ ਦੇ ਦਿਨ ਮੌਜੂਦ ਹੈ |
 
-  * King David was born in Bethlehem; for this reason it has been called the "city of David."
-  * The prophet Micah said that the Messiah would come from Bethlehem.
-  * Bethlehem is the city where Jesus was born.
+  * ਰਾਜਾ ਦਾਉਦ ਬੈਤਲਹਮ ਵਿਚ ਪੈਦਾ ਹੋਇਆ ਸੀ ਇਸ ਕਾਰਨ ਕਰਕੇ ਇਸ ਨੂੰ “ਦਾਉਦ ਦਾ ਨਗਰ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ|”
+  * ਮੀਕਾਹ ਨਬੀ ਨੇ ਕਿਹਾ ਹੈ ਕਿ ਮਸੀਹ ਬੈਤਲਹਮ ਤੋਂ ਹੋਵੇਗਾ |
+  * ਬੈਤਲਹਮ ਉਹ ਨਗਰ ਹੈ ਜਿੱਥੇ ਯਿਸੂ ਪੈਦਾ ਹੋਇਆ ਸੀ |
   * The name means "house of bread" or "house of food."
 
-(See also: [[david]])
+(ਇਹ ਵੀ ਦੇਖੋ:: **ਦਾਉਦ**)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?bethlehem&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  ***[[:pa:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of **Bethlehem**.
-  ***[[:pa:obs:notes:frames:21-09|[21-09]]]** The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of **Bethlehem**.
-  ***[[:pa:obs:notes:frames:23-04|[23-04]]]** Joseph and Mary had to make a long journey from where they lived in Nazareth to **Bethlehem** because their ancestor was David whose hometown was **Bethlehem**.
-  ***[[:pa:obs:notes:frames:23-06|[23-06]]]** "The Messiah, the Master, has been born in **Bethlehem**!"
-
+  * **[17-02]**  ਦਾਉਦ ਬੈਤਲਹਮ ਨਗਰ ਦਾ ਇਕ ਚਰਵਾਹਾ ਸੀ |
+  * **[21-09]**  ਨਬੀ ਯਸਾਯਾਹ ਨੇ ਭਵਿੱਖਬਾਣੀ ਕੀਤੀ ਕਿ ਮਸੀਹ ਕਵਾਰੀ ਤੋਂ ਪੈਦਾ ਹੋਵੇਗਾ | ਨਬੀ ਮੀਕਾਹ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਬੈਤਲਹਮ ਨਗਰ ਵਿਚ ਪੈਦਾ ਹੋਵੇਗਾ |
+  * **[23-04]**  ਯੂਸਫ ਅਤੇ ਮਰੀਯਮ ਨੂੰ ਜਿੱਥੇ ਉਹ ਨਾਸਰਤ ਵਿਚ ਰਹਿੰਦੇ ਸਨ ਉੱਥੋਂ ਬੈਤਲਹਮ ਤੱਕ ਜਾਣ ਲਈ ਲੰਬੀ ਯਾਤਰਾ ਕਰਨੀ ਪਈ ਕਿਉਂਕਿ ਦਾਉਦ ਬੈਤਲਹਮ ਸ਼ਹਿਰ ਤੋਂ ਸੀ |
+  * **[23-06]**  “ਮਸੀਹਾ, ਸਵਾਮੀ, **ਬੈਤਲਹਮ ** ਵਿਚ ਪੈਦਾ ਹੋਇਆ!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
