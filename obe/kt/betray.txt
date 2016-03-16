@@ -1,31 +1,35 @@
-====== betray, betrayer ======
+====== **ਧੋਖਾ ਦੇਣਾ**, **ਧੋਖਬਾਜ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term "betray" means to act in a way that deceives or harms someone who was trusting him. A "betrayer" is the one who betrays that friend.
 
-  * Judas was "the betrayer" because he told the Jewish leaders how to capture Jesus.
-  * The betrayal by Judas was especially evil because he was an apostle of Jesus who received money in exchange for giving the Jewish leaders information that would result in Jesus' unjust death,
+  * ਯਹੂਦਾਹਹ ਇਕ “ਧੋਖਾ ਦੇਣ ਵਾਲਾ ਸੀ” ਕਿਉਂਕਿ ਉਸ ਨੇ ਯਹੂਦੀ ਆਗੂਆਂ ਨੂੰ ਦੱਸੀਆ ਕਿ ਕਿਸ ਤਰਾਂ ਯਿਸੂ ਨੂੰ ਫੜ੍ਹਨਾ ਹੈ |
+  * ਯਹੂਦਾਹਹ ਦੁਆਰਾ ਧੋਖਾ ਖਾਸ ਕਰਕੇ ਬੁਰਾ ਸੀ ਕਿਉਂਕਿ ਯਹੂਦਾਹਹ ਯਿਸੂ ਦਾ ਇਕ ਰਸੂਲ ਸੀ, ਕਿਉਂਕਿ ਯਹੂਦਾਹਹ ਨੇ ਯਿਸੂ ਨੂੰ ਪੈਸੇ ਦੇ ਲਈ ਧੋਖਾ ਦਿੱਤਾ ਅਤੇ ਕਿਉਂਕਿ ਧੋਖੇ ਦੇ ਨਤੀਜੇ ਵਜੋਂ  ਯਿਸੂ ਦਾ ਝੂਠਾ ਨਿਆਂ ਕੀਤਾ ਗਿਆ |
 
 ===== Translation Suggestions: =====
 
   * Depending on the context, this could be translated as "deceive and cause harm to" or "turn over to the enemy" or "deal treacherously with."
 
-(See also: [[:pa:obe:other:judasiscariot|Judas Iscariot]], [[:pa:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:pa:obe:kt:apostle|apostle, the twelve, the eleven]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਯਹੂਦਾਹਹ**, **ਯਹੂਦੀ ਆਗੂ,** [[:pa:obe:other:jewishleaders|, ]]**
+
+ਧਾਰਮਿਕ ਆਗੂ  **, **ਰਸੂਲ** [[:pa:obe:kt:apostle|, ]]**
+
+ਬਾਰ੍ਹਾ  ** [[:pa:obe:kt:apostle|, the eleven]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?betray&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:21-11|[21-11]]]** Other prophets foretold that those who killed the Messiah would gamble for his clothes and he would be **betrayed**  by a friend. The prophet Zechariah foretold that the friend would be paid thirty silver coins as payment for **betraying**  the Messiah.
-  * **[[:pa:obs:notes:frames:38-02|[38-02]]]** After Jesus and the disciples arrived in Jerusalem, Judas went to the Jewish leaders and offered to **betray**  Jesus to them in exchange for money.
-  * **[[:pa:obs:notes:frames:38-03|[38-03]]]** The Jewish leaders, led by the high priest, paid Judas thirty silver coins to **betray**  Jesus.
-  * **[[:pa:obs:notes:frames:38-06|[38-06]]]** Then Jesus said to the disciples, "One of you will **betray**  me." … Jesus said, "The person to whom I give this piece of bread is the **betrayer**."
-  * **[[:pa:obs:notes:frames:38-13|[38-13]]]** When he returned the third time, Jesus said, "Wake up! My **betrayer**  is here."
-  * **[[:pa:obs:notes:frames:38-14|[38-14]]]** Then Jesus said, "Judas, do you **betray**  me with a kiss?"
-  * **[[:pa:obs:notes:frames:39-08|[39-08]]]** Meanwhile, Judas, the **betrayer**, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
+  * **[21-11]**  ਹੋਰ ਨਬੀਆਂ ਨੇ ਵੀ ਅਗੇਤਰਾ ਦੱਸਿਆ ਕਿ ਜਿਹਨਾਂ ਨੇ ਯਿਸੂ ਨੂੰ ਮਾਰਿਆ ਉਹ ਉਹ ਉਸ ਦੇ ਕਪੜਿਆਂ ਲਈ ਜੂਆ ਖੇਡਣਗੇ ਅਤੇ ਉਸ ਨੂੰ ਉਸ ਦੇ ਮਿੱਤਰ ਦੁਆਰਾ ਧੋਖਾ ਦਿੱਤਾ ਜਾਵੇਗਾ | ਜਕਰੀਯਾਹ ਨਬੀ ਨੇ ਵੀ ਪਹਿਲਾਂ ਦੱਸਿਆ ਸੀ ਕਿ ਮਸੀਹਾ ਨੂੰ ਧੋਖਾ ਦੇਣ ਵਾਲੇ ਉਸ ਦੇ ਮਿੱਤਰ ਨੂੰ ਤਿਹ ਸਿੱਕੇ ਮਜਦੂਰੀ ਦਿੱਤੀ ਜਾਵੇਗੀ
+  * **[38-02]**  ਯਿਸੂ ਅਤੇ ਉਸਦੇ ਰਸੂਲਾਂ ਦੇ ਯਰੂਸ਼ਲਮ ਪਹੁੰਚਣ ਦੇ ਬਾਅਦ ਯਹੂਦਾਹਹ ਯਹੂਦੀ ਆਗੂਆਂ ਕੋਲ ਗਿਆ ਅਤੇ ਪੈਸੇ ਦੇ ਬਦਲੇ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦੇਣ ਲਈ ਪਰਸਤਾਵ ਰੱਖਿਆ |
+  * **[38-03]**  ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਮਹਾਂ ਜਾਜਕ ਦੀ ਅਗੁਵਾਈ ਅਧੀਨ ਯਹੂਦਾਹਹ ਨੂੰ ਯਿਸੂ ਨੂੰ ਧੋਖਾ ਦੇਣ ਦੇ ਬਦਲੇ ਤੀਹ ਦਿੱਤੇ |
+  * **[38-06]**  ਤੱਦ ਯਿਸੂ ਨੇ ਚੇਲਿਆਂ ਨੂੰ ਕਿਹਾ, “ਤੁਹਾਡੇ ਵਿਚੋਂ ਇਕ ਮੈਨੂੰ ਦੇਖਾ ਦੇਵੇਗਾ|” ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਜਿਸ ਵਿਅਕਤੀ ਨੂੰ ਮੈਂ ਇਹ ਰੋਟੀ ਦਾ ਟੁਕੜਾ ਦੇਵਾਂ ਉਹ ਧੋਖੇਬਾਜ ਹੈ|”
+  * **[38-13]**  ਜਦੋਂ ਉਹ ਤੀਸਰੀ ਵਾਰ ਮੁੜਿਆ, ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਜਾਗੋ!” ਮੇਰਾ ਧੋਖੇਬਾਜ ਇੱਥੇ ਹੈ|”
+  * **[38-14]**  ਤੱਦ ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਯਹੂਦਾਹਹ ਕਿ ਤੂੰ ਮੈਨੂੰ ਚੁੰਮੇ ਨਾਲ ਧੋਖਾ ਦਿੰਦਾ ਹੈਂ?”
+  * **[39-08]**  ਉਸ ਦਰਮਿਆਨ ਜਦੋਂ ਯਹੂਦਾਹਹ ਧੋਖਾ ਦੇਣ ਵਾਲੇ ਨੇ ਦੇਖਿਆ ਕਿ ਯਹੂਦੀ ਆਗੂ ਖਤਮ ਕਰਨ ਲਈ ਦੋਸ਼ੀ ਠਹਿਰਾ ਦਿੱਤਾ ਹੈ| ਉਹ ਬਹੁਤ ਹੋਇਆ ਅਤੇ ਦੂਰ ਚਲਾ ਗਿਆ ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਮਾਰ ਲਿਆ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
