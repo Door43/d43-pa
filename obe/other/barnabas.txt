@@ -1,16 +1,16 @@
-====== Barnabas ======
+====== **ਬਰਨਾਬਾਸ**  ======
 
-===== Facts: =====
+===== **ਸੱਚਿਆਈਆਂ**: =====
 
-Barnabas was one of the early Christians who lived during the time of the apostles. His name means "son of encouragement".
+ਬਰਨਾਬਾਸ ਇਕ ਪਹਿਲੀ ਕਲੀਸੀਆ ਦਾ ਵਿਸ਼ਵਾਸੀ ਜੋ ਰਸੂਲਾਂ ਦੇ ਸਮੇ ਵਿਚ ਰਹਿੰਦਾ ਸੀ | His name means "son of encouragement".
 
   * Barnabas was from the Israelite tribe of Levi and was from the island of Cyprus.
-  * When Saul (Paul) became a Christian, Barnabas urged the other believers to accept him as a fellow believer.
-  * Barnabas and Paul traveled together to preach the good news about Jesus in different cities.
+  * ਜਦੋਂ ਸੌਲੁਸ (ਪੌਲੁਸ) ਮਸੀਹੀ ਬਣਿਆ, ਤਾਂ ਬਰਨਾਬਾਸ ਨੇ ਦੂਸਰੇ ਵਿਸ਼ਵਾਸੀਆਂ ਨੂੰ ਉਤਸ਼ਾਹਿਤ ਕੀਤਾ ਕਿ ਉਸ ਨੂੰ ਨਾਲ ਦਾ ਇਕ ਵਿਸ਼ਵਾਸੀ ਕਰਕੇ ਕਬੂਲ ਕਰਨ |
+  * ਬਰਨਾਬਾਸ ਅਤੇ ਪੌਲੁਸ ਦੋਨਾਂ ਨੇ ਮਿਲ ਕੇ ਯਿਸੂ ਦੀ ਖੁਸ਼ ਖਬਰੀ ਦਾ ਪ੍ਰਚਾਰ ਕਰਨ ਲੀ ਭਿੰਨ ਭਿੰਨ ਸ਼ਹਿਰਾਂ ਦੀ ਯਾਤਰਾ ਕੀਤੀ |
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[paul]], [[en:obe:kt:christian]])
+(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:other:paul|Paul, Saul]], [[:en:obe:kt:christian|Christian]])
 
 ===== Bible References: =====
 
@@ -18,8 +18,7 @@ Barnabas was one of the early Christians who lived during the time of the apostl
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:pa:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas** took Saul to the apostles and told them how Saul had preached boldly in Damascus. 
-  ***[[:pa:obs:notes:frames:46-09|[46-09]]]** **Barnabas** and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
-  ***[[:pa:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas** and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas** and Saul and placed their hands on them. 
-
+  * **[[:pa:obs:notes:frames:46-08|[46-08]]]** Then a believer named **Barnabas**  took Saul to the apostles and told them how Saul had preached boldly in Damascus.
+  * **[[:pa:obs:notes:frames:46-09|[46-09]]]****Barnabas**  and Saul went there to teach these new believers more about Jesus and to strengthen the church. I
+  * **[[:pa:obs:notes:frames:46-10|[46-10]]]** One day, while the Christians at Antioch were fasting and praying, the Holy Spirit said to them, "Set apart for me **Barnabas**  and Saul to do the work I have called them to do." So the church in Antioch prayed for **Barnabas**  and Saul and placed their hands on them.
 ~~DISCUSSION~~{{tag>publish ktobs}}
