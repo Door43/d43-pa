@@ -1,30 +1,23 @@
-====== Caleb ======
+====== **ਕਾਲਬ**  ======
 
+===== **ਸੱਚਿਆਈਆਂ **: =====
 
-===== Facts: =====
+ਕਾਲਬ ਉਹਨਾਂ ਬਾਰਾਂ ਇਸਰੇਲੀ ਸੁਹਿਆਂ ਵਿਚੋਂ ਇਕ ਸੀ ਜਿਹਨਾਂ ਨੂੰ ਮੂਸਾ ਨੇ ਕਨਾਨ ਦੇਸ ਦੀ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ ਭੇਜਿਆ ਸੀ |
 
-Caleb was one of the twelve Israelite spies whom Moses sent to explore the land of Canaan.
+  * ਉਹ ਅਤੇ ਯਹੋਸ਼ੁਆ ਕਨਾਨ ਦੀ ਜਾਣਕਾਰੀ ਲੈ ਕੇ ਵਾਪਸ ਆਏ ਲੋਕਾਂ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਉੱਤੇ ਭਰੋਸਾ ਕਰਨ ਲਈ ਕਿਹਾ ਕਿ ਉਹ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣ ਨੂੰ ਹਰਾਉਣ ਵਿਚ ਮੱਦਦ ਕਰੇਗਾ ਤਾਂ ਕਿ ਉਹ ਸ਼ਾਂਤੀ ਨਾਲ ਉਸ ਦੇਸ ਵਿਚ ਵੱਸ ਸਕਣ |
+  * ਯਹੋਸ਼ੁਆ ਅਤੇ ਕਾਲਬ ਹੀ ਦੋ ਵਿਅਕਤੀ ਸਨ ਜੋ ਆਪਣੀ ਪੀੜ੍ਹੀ ਵਿਚੋਂ ਵਾਇਦੇ ਦੇ ਕਨਾਨ ਦੇਸ ਵਿਚ ਜਾਣ ਲਈ ਮਨਜੂਰੀ ਪਾ ਸਕੇ |
 
-  * He and Joshua came back from exploring Canaan and told the people to trust God to help them defeat their enemies so that they could live at peace in that land.
-  * Joshua and Caleb were the only men of their generation who were allowed to enter the Promised Land of Canaan.
-
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?caleb&nocomments}}
 
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-===== Examples from the Bible stories: =====
-
-  ***[[:pa:obs:notes:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
-  ***[[:pa:obs:notes:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
-  ***[[:pa:obs:notes:frames:14-08|[14-08]]]** "Except for Joshua and **Caleb**, everyone who is twenty years old or older will die there and never enter the Promised Land."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[14-04]**  ਜਦੋਂ ਇਸਰਾਏਲੀ ਕਨਾਨ ਦੇ ਕੰਡੇ ਤੇ ਪਹੁੰਚੇ ਮੂਸਾ ਨੇ ਬਾਰਾਂ ਆਦਮੀ ਚੁਣੇ ਜੋ ਇਸਰਾਏਲ ਦੇ ਹਰ ਇਕ ਗੋਤਰ ਵਿਚੋਂ ਸਨ | ਉਸ ਨੇ ਇਹਨਾਂ ਆਦਮੀਆਂ ਨੂੰ ਜਾਣ ਲਈ ਨਸੀਹਤਾਂ ਦਿੱਤੀਆਂ ਕਿ ਉਹ ਦੇਖਣ ਦੇਸ ਕਿਹੋ ਜਿਹਾ ਲੱਗਦਾ ਹੈ |
+  * **[14-06]**  ਇਕਦਮ ਦੂਸਰੇ ਦੋ ਸੂਹੀਏ, ਕਾਲਬ ਅਤੇ ਯਹੋਸ਼ੂਆ ਬੋਲੇ, “ਇਹ ਸੱਚ ਹੈ ਕਿ ਕਨਾਨ ਦੇ ਲੋਕ ਲੰਬੇ ਅਤੇ ਤਕੜੇ ਹਨ ਪਰ ਅਸੀਂ ਜਰੂਰ ਉਹਨਾਂ ਨੂੰ  ਹਰਾ ਦੇਵਾਂਗੇ! ਪ੍ਰਮੇਸ਼ਵਰ ਸਾਡੇ ਲਈ ਲੜੇਗਾ !”
+  * **[14-08]**  “ਯਹੋਸ਼ੂਆ ਅਤੇ ਕਾਲਬ ਨੂੰ ਛੱਡ ਕੇ ਹਰ ਕੋਈ ਜੋ ਵੀਹ ਸਾਲ ਜਾਂ ਉਸ ਤੋਂ ਜਿਆਦਾ ਸੀ ਉੱਥੇ ਹੀ ਮਰੇਗਾ ਅਤੇ ਕਦੀ ਵੀ ਵਾਇਦੇ ਦੇ ਦੇਸ ਨਹੀਂ ਪਹੁੰਚੇਗਾ |”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
