@@ -1,12 +1,12 @@
-====== **ਕਲੀਸੀਆ**, **ਕਲੀਸੀਆ**  ======
+====== ਕਲੀਸੀਆ, ਕਲੀਸੀਆ ======
 
-===== **ਪਰਿਭਾਸ਼ਾ**: =====
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 In the Bible, the term "church" refers to a local group of believers in Jesus who regularly meet together to pray and hear God's word preached. It can also refer to all Christians.
 
   * When this term is used to refer to all believers everywhere in the whole body of Christ, some Bible translations capitalize it (Church) to distinguish it from the local church.
   * The original meaning of this term is "called out (to meet together)." It refers to an assembly or gathering of people for a special purpose.
-  * ਬਾਈਬਲ ਵਿਚ ਸ਼ਬਦ “ਕਲੀਸੀਆ”  ਹਮੇਸ਼ਾਂ ਮਸੀਹੀ ਵਿਸ਼ਵਾਸੀਆਂ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਅਤੇ ਕਦੀ ਵੀ ਇਮਾਰਤ ਦਾ ਨਹੀਂ |
+  * ਬਾਈਬਲ ਵਿਚ ਸ਼ਬਦ “ਕਲੀਸੀਆ” ਹਮੇਸ਼ਾਂ ਮਸੀਹੀ ਵਿਸ਼ਵਾਸੀਆਂ ਦਾ ਹਵਾਲਾ ਦਿੰਦਾ ਹੈ ਅਤੇ ਕਦੀ ਵੀ ਇਮਾਰਤ ਦਾ ਨਹੀਂ |
 
 ===== Translation Suggestions: =====
 
@@ -15,15 +15,13 @@ In the Bible, the term "church" refers to a local group of believers in Jesus wh
   * Make sure that the translation of "church" does not just refer to a building.
   * Also consider how it is translated in a local or national Bible translation. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]].)
 
-(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:kt:christian|ਮਸੀਹੀ]], [[:pa:obe:kt:believer|ਵਿਸ਼ਵਾਸੀ]], **
-
-ਵਿਧਾਨ ਸਭਾ  **)
+(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:kt:christian|ਮਸੀਹੀ]], [[:pa:obe:kt:believer|ਵਿਸ਼ਵਾਸੀ]], ** ਵਿਧਾਨ ਸਭਾ **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?church&nocomments}}
 
-===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
+===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
   * **[43-12]**  ਲੱਗ ਭੱਗ 3000 ਲੋਕਾਂ ਨੇ ਵਿਸ਼ਵਾਸ ਕੀਤਾ ਜੋ ਪਤਰਸ ਨੇ ਕਿਹਾ ਅਤੇ ਯਿਸੂ ਦੇ ਚੇਲੇ ਬਣ ਗਏ | ਉਹਨਾਂ ਨੇ ਬਪਤਿਸਮਾ ਲਿਆ ਅਤੇ ਯਰੂਸ਼ਲਮ ਦੀ ਕਲੀਸੀਆ ਦੇ ਭਾਗ ਬਣ ਗਏ |
   * **[46-09]**  ਅੰਤਾਕਿਆ ਦੇ ਜਿਆਦਾਤਰ ਲੋਕ ਯਹੂਦੀ ਨਹੀਂ ਸਨ ਪਰ ਪਹਿਲੀ ਵਾਰ ਉਹਨਾਂ ਵਿਚੋਂ ਬਹੁਤ ਸਾਰੇ ਵਿਸ਼ਵਾਸੀ ਬਣ ਗਏ | ਬਰਨਾਬਾਸ ਅਤੇ ਪੌਲੁਸ ਉੱਥੇ ਨਵੇਂ ਵਿਸ਼ਵਾਸੀਆਂ ਨੂੰ ਮਸੀਹ ਬਾਰੇ ਹੋਰ ਸਿਖਾਉਣ ਅਤੇ ਕਲੀਸੀਆ ਨੂੰ ਤਕੜਾ ਕਰਨ ਲਈ ਗਏ |
