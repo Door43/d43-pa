@@ -1,11 +1,13 @@
-====== circumcise, circumcision ======
+====== **ਖਤਨਾ**,
 
-===== Definition: =====
+ਸੁੰਨਤ   ======
 
-The term "circumcise" means to cut off the foreskin of a man or male child. A circumcision ceremony may be performed in connection with this.
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-  * God commanded Abraham to circumcise every male among his family and servants as a sign of God's covenant with them.
-  * God also commanded Abraham's descendants to continue to do this for every baby boy born into their households.
+ਕਿਸੇ ਦਾ ਖਤਨਾ ਕਰਨ ਲਈ ਮਰਦ ਜਾਂ ਛੋਟੇ ਲੜਕੇ ਦੀ ਇੰਦਰੀ ਦੀ ਅਗਲੀ ਚਮੜੀ  ਕੱਟ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ | A circumcision ceremony may be performed in connection with this.
+
+  * ਉਹਨਾਂ ਨਾਲ ਆਪਣੇ ਨੇਮ ਦੀ ਨਿਸ਼ਾਨੀ ਵਜੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਅਬਰਾਹਾਮ ਦੇ ਘਰਾਣੇ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਉਸ ਦੇ ਪਰੀਵਾਰ ਜਾਂ ਨੌਕਰਾਂ ਦੇ ਹਰ ਨਰ ਦਾ ਖਤਨਾ ਕਰਨ |
+  * ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਅਬਰਾਹਾਮ ਦੀ ਸੰਤਾਨ ਨੂੰ ਵੀ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਉਹ ਆਪਣੇ ਪਰਿਵਾਰ ਵਿਚ ਪੈਦਾ ਹੋਏ ਹਰ ਨਵੇਂ ਜਨਮੇ ਲੜਕੇ ਨਾਲ ਇਸ ਤਰਾਂ ਕਰਨਾ ਲਗਾਤਾਰ ਰੱਖਨ |
   * The phrase, "circumcision of the heart" refers figuratively to the "cutting away" or removal of sin from a person.
   * In a spiritual sense, "the circumcised" refers to people whom God has purified from sin through the blood of Jesus and who are his people.
   * The term "uncircumcised" refers to those who have not been circumcised physically. It can also refer figuratively to those who have not been circumcised spiritually, who do not have a relationship with God.
@@ -17,18 +19,18 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
   * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
   * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:pa:obe:kt:uncircumcised]], [[:pa:obe:kt:covenant]])
+(See also: [[:pa:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:pa:obe:kt:covenant|covenant]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?circumcise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[:pa:obs:notes:frames:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  * **[05-03]**  “ਤੇਰੇ ਲਈ ਜਰੂਰੀ ਹੈ ਕਿ ਤੂੰ ਆਪਣੇ ਪਰੀਵਾਰ ਵਿਚ ਹਰ ਨਰ ਦਾ ਖਤਨਾ ਕਰੇ|”
+  * **[05-05]** ਉਸ ਦਿਨ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਪਣੇ ਘਰਾਣੇ ਦੇ ਸਾਰੇ ਮਰਦਾਂ ਦਾ ਖਤਨਾ ਕੀਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
