@@ -1,6 +1,6 @@
-====== blood ======
+====== **ਖੂਨ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term "blood" refers to the red liquid that comes out of a person's skin when there is an injury or wound. Blood brings life-giving nutrients to a person's entire body.
 
@@ -17,21 +17,24 @@ The term "blood" refers to the red liquid that comes out of a person's skin when
   * Depending on the context, the idiom "my own flesh and blood" could be translated as "my own family" or "my own relatives" or "my own people."
   * If there is an idiom in the target language that is used with this meaning, that idiom could be used to translate "flesh and blood."
 
-(See: [[:pa:obe:kt:flesh|flesh]])
+(
+
+ਵੇਖੋ
+: **
+ਮਾਸ **  )
 
 ===== Bible References: =====
 
 {{topic>:en:bible?blood&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:08-03|[08-03]]]** Before Joseph's brothers returned home, they tore Joseph's robe and dipped it in goat's **blood**.
-  * **[[:pa:obs:notes:frames:10-03|[10-03]]]** God turned the Nile River into **blood**, but Pharaoh still would not let the Israelites go.
-  * **[[:pa:obs:notes:frames:11-05|[11-05]]]** All the houses of the Israelites had **blood**  around the doors, so God passed over those houses and everyone inside was safe. They were saved because of the lamb's **blood**.
-  * **[[:pa:obs:notes:frames:13-09|[13-09]]]** The **blood**  of the animal that was sacrificed covered the person's sin and made that person clean in God's sight.
-  * **[[:pa:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my **blood**  of the New Covenant that is poured out for the forgiveness of sins.
-  * **[[:pa:obs:notes:frames:48-10|[48-10]]]** When anyone believes in Jesus, the **blood**  of Jesus takes away that person's sin, and God's punishment passes over him.
-
+  * **[08-03]**  ਯੂਸਫ ਦੇ ਭਰਾਵਾਂ ਦੇ ਘਰ ਪਹੁੰਚਣ ਤੋਂ ਪਹਿਲਾਂ ਉਹਨਾਂ ਨੇ ਯੂਸਫ ਦੇ ਚੋਲੇ ਨੂੰ ਫਾੜਿਆ ਅਤੇ ਬੱਕਰੀ ਦੇ ਲਹੂ ਵਿਚ ਡੋਬਿਆ |
+  * **[10-03]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨੀਲ ਨਦੀ ਨੂੰ ਲਹੂ ਵਿਚ ਬਦਲ ਦਿੱਤਾ ਪਰ ਫਰਾਉਨ ਫਿਰ ਵੀ ਇਸਰੇਲੀਆਂ ਨੂੰ ਜਾਣ ਨਾ ਦਿੰਦਾ |
+  * **[11-05]**  ਇਸਰੇਲੀਆਂ ਦੇ ਸਾਰੇ ਘਰਾਣਿਆਂ ਦੇ ਦਰਵਾਜਿਆਂ ਉੱਤੇ ਲਹੂ ਸੀ ਇਸ ਲਈ ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ ਘਰਾਂ ਦੇ ਉੱਤੋਂ ਦੀ ਲੰਘ ਗਿਆ ਤੇ ਉਹਨਾਂ ਅੰਦਰ ਹਰ ਇਕ ਸੁਰਖਿਅਤ ਸੀ | ਉਹ ਲੇਲੇ ਦੇ ਲਹੂ ਦੇ ਕਾਰਨ ਬਚ ਗਏ |
+  * **[13-09]**  ਜਾਨਵਰ ਜੋ ਬਲੀ ਦਿੱਤਾ ਗਿਆ ਉਸ ਦਾ ਲਹੂ ਵਿਅਕਤੀ ਦੇ ਪਾਪਾਂ ਨੂੰ ਢੱਕਦਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਨਿਗਾਹ ਵਿਚ ਉਸ ਨੂੰ ਸ਼ੁੱਧ ਕਰਦਾ |
+  * **[38-05]**  ਤੱਦ ਯਿਸੂ ਨੇ ਕੱਪ ਲਿਆ ਅਤੇ ਕਿਹਾ, “ਇਸ ਨੂੰ ਪਿਓ| ਇਹ ਨਵੇਂ ਨੇਮ ਦਾ ਮੇਰਾ ਲਹੂ ਹੈ ਜੋ ਪਾਪਾਂ ਦੀ ਮਾਫ਼ੀ ਲਈ ਬਹਾਇਆ ਗਿਆ ਹੈ |
+  * **[48-10]**  ਜਦੋਂ ਕੋਈ ਵੀ ਯਿਸੂ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਦਾ ਹੈ, ਤਾਂ ਯਿਸੂ ਦਾ ਲਹੂ ਵਿਅਕਤੀ ਦੇ ਪਾਪਾਂ ਨੂੰ ਦੂਰ ਕਰਦਾ ਹੈ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਸਜਾ ਉਸ ਦੇ ਉੱਤੋਂ ਲੰਘ ਜਾਂਦੀ ਹੈ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
