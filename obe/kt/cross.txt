@@ -1,32 +1,38 @@
-====== cross ======
+====== **ਸਲੀਬ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam attached to it near the top.
+ਇਕ ਸਲੀਬ ਇਕ ਸਿਧੀ ਲੱਕੜ ਜੋ ਜਮੀਨ ਵਿਚ ਗੱਡੀ ਹੋਈ ਦੇ ਉੱਪਰਲੇ ਹਿਸੇ ਨਾਲ ਇਕ ਲੰਬੇ ਰੁਕ ਲੱਕੜ ਦਾ ਸਤੀਰ ਜੁੜਿਆ ਹੁੰਦਾ ਹੈ |
 
-  * During the time of the Roman Empire, the Roman government would execute criminals by tying or nailing them to a cross and leaving them there to die.
-  * Jesus was falsely accused of crimes he did not commit and the Romans put him to death on a cross.
+  * ਰੋਮੀ ਸਰਕਾਰ ਦੋਸ਼ੀ ਨੂੰ ਉਸ ਨਾਲ ਬੰਨ ਦਿੰਦੀ ਜਾਂ ਕਿੱਲ ਠੋਕ ਦਿੰਦੀ ਅਤੇ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਮਰਨ ਲਈ ਛੱਡ ਦਿੰਦੀ |
+  * ਯਿਸੂ ਉੱਤੇ ਝੂਠਾ ਇਲਜਾਮ ਲਾਇਆ ਗਿਆ ਅਤੇ ਉਸ ਜੁਰਮ ਦਾ ਝੂਠਾ ਦੋਸ਼ੀ ਠਹਿਰਾਇਆ ਗਿਆ ਜੋ ਉਸ ਨੇ ਨਹੀਂ ਕੀਤਾ ਸੀ | ਰੋਮੀਆਂ ਨੇ ਉਸ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਮਾਰ ਦਿੱਤਾ |
   * Note that this is a completely different word from the verb "to cross (a river)" or "to cross over."
 
 ===== Translation Suggestions: =====
 
   * This term could be translated using a term in the target language that refers to the shape of a cross.
   * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:pa:obe:kt:crucify|crucify]], [[:pa:obe:other:rome|Rome, Roman]])
+(ਇਹ ਵੀ ਦੇਖੋ: **
+
+ਸਲੀਬ  **, **
+
+ਰੋਮ  ** [[:pa:obe:other:rome|, ]]**
+
+ਰੋਮਨ  **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?cross&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:40-01|[40-01]]]** After the soldiers mocked Jesus, they led him away to crucify him. They made him carry the **cross**  on which he would die.
-  * **[[:pa:obs:notes:frames:40-02|[40-02]]]** The soldiers brought Jesus to a place called "the Skull" and nailed his arms and feet to the **cross**.
-  * **[[:pa:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, "If you are the Son of God, come down from the **cross**  and save yourself! Then we will believe you."
-  * **[[:pa:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the **cross**, he received your punishment.
-  * **[[:pa:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the **cross**  instead of you, and that God raised him to life again.
+  * **[40-01]**  ਯਿਸੂ ਨੂੰ ਮਜਾਕ ਕਰਨ ਦੇ ਬਾਅਦ ਸਿਪਾਹੀ ਉਸ ਨੂੰ ਦੂਰ ਸਲੀਬ ਦੇਣ ਲਈ ਲੈ ਗਏ | ਉਹਨਾਂ ਨੇ ਉਸ ਤੋਂ ਸਲੀਬ ਉਠਾਈ ਜਿਸ ਉੱਤੇ ਉਸ ਨੇ ਮਰਨਾ ਸੀ |
+  * **[40-02]**  ਸਿਪਾਹੀ ਯਿਸੂ ਨੂੰ ਉਸ ਜਗ੍ਹਾ ਤੇ ਲੈ ਕੇ ਆਏ ਜੋ “ਖੋਪੜੀ” ਕਹਾਉਂਦਾ ਸੀ ਅਤੇ ਦੀਆਂ ਬਾਹਵਾਂ ਅਤੇ ਪੈਰਾਂ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਕਿੱਲਾਂ ਨਾਲ ਠੋਕ ਦਿੱਤਾ |
+  * **[40-05]**  ਯਹੂਦੀ ਆਗੂਆਂ ਅਤੇ ਭੀੜ ਵਿਚ\ ਦੂਸਰੇ ਲੋਕਾਂ ਨੇ ਯਿਸੂ ਨੂੰ ਮਖੌਲ ਕੀਤੇ | ਉਹਨਾਂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਜੇ ਤੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੱਤਰ ਹੈ ਤਾਂ ਸਲੀਬ ਤੋਂ ਹੇਠਾਂ ਉੱਤਰ ਆ ਅਤੇ ਆਪਣੇ ਆਪ ਨੂੰ ਬਚਾ ਲੈ ! ਤੱਦ ਅਸੀਂ ਤੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰਾਂਗੇ !”
+  * **[49-10]**  ਜਦੋਂ ਯਿਸੂ ਸਲੀਬ ਉੱਤੇ ਮਰ ਗਿਆ, ਉਸ ਨੇ ਤੁਹਾਡੀ ਸਜਾ ਨੂੰ ਲੈ ਲਿਆ |
+  * **[49-12]**  ਲਾਜਮੀ ਹੈ ਕਿ ਤੁਸੀਂ ਵਿਸ਼ਵਾਸ ਕਰੋਂ ਕਿ ਯਿਸੂ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈ ਜੋ ਸਲੀਬ ਉੱਤੇ ਸਾਡੀ ਜਗ੍ਹਾ ਮਰ ਗਿਆ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਫਿਰ ਜੀਵਤ ਕਰ ਦਿੱਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
