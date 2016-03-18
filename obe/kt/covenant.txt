@@ -1,15 +1,15 @@
-====== covenant ======
+====== **ਨੇਮ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-A covenant is a formal, binding agreement between two parties that one or both parties must fulfill.
+ਨੇਮ ਇਕ ਰੀਤ ਜਾਂ ਦੋ ਧਿਰਾਂ ਦੇ ਵਿਚਕਾਰ ਜੋੜਨ ਵਾਲੀ ਸਹਿਮਤੀ ਹੁੰਦੀ ਹੈ ਕਿ ਉਸ ਨੂੰ  ਪੂਰਾ ਕਰਨਾ ਉਹਨਾਂ ਲਈ ਲਾਜਮੀ ਹੁੰਦਾ ਹੈ |
 
-  * This agreement can be between individuals, between groups of people, or between God and people.
-  * When people make a covenant with each other, they say that they will do something, and they must do it.
-  * Examples of human covenants include marriage covenants, business agreements, and treaties between countries.
-  * Throughout the Bible, God made several different covenants with his people.
-  * In some of the covenants, God promised to fulfill his part without conditions. For example when God established his covenant with mankind, promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
-  * In other covenants, God promised to fulfill his part only if the people obeyed him and fulfilled their part of the covenant.
+  * ਇਹ ਨੇਮ ਵਿਅਕਤੀਆਂ, ਲੋਕਾਂ ਦੇ ਝੁੰਡਾਂ ਜਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਅਤੇ ਲੋਕਾਂ ਦੇ ਵਿਚਕਾਰ ਹੋ ਸਕਦਾ ਹੈ |
+  * ਜਦੋਂ ਲੋਕ ਇਕ ਦੂਸਰੇ ਨਾਲ ਨੇਮ ਬੰਨਦੇ ਹਨ ਉਹ ਕਹਿੰਦੇ ਹਨ ਕਿ ਉਹ ਕੁੱਝ ਕਰਨਗੇ ਅਤੇ ਉਹਨਾਂ ਲਈ ਉਹ ਕਰਨਾ ਜਰੂਰੀ ਹੁੰਦਾ ਹੈ |
+  * ਨੇਮ ਦੀਆਂ ਉਦਾਹਰਨਾਂ ਜਿਵੇਂ ਕਿ ਵਿਆਹ, ਵਪਾਰਿਕ ਸਹਿਮਤੀ ਅਤੇ ਦੇਸਾਂ ਦੇ ਵਿਚਕਾਰ ਸੰਧੀਆਂ |
+  * ਬਹੁਤ ਸਾਰੇ ਸਮੇਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਲੋਕਾਂ ਨਾਲ ਨੇਮ ਬੰਨਿਆ |
+  * ਕੁੱਝ ਨੇਮਾਂ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਬਿਨਾ ਕਿਸੇ ਸ਼ਰਤ ਆਪਣਾ ਭਾਗ ਪੂਰਾ ਕੀਤਾ | For example when God established his covenant with mankind, promising to never destroy the earth again with a worldwide flood, this promise had no conditions for people to fulfill.
+  * ਦੂਸਰਿਆਂ ਨੇਮਾਂ ਵਿਚ, ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਾਇਦਾ ਕੀਤਾ ਕਿ ਉਹ ਆਪਣਾ ਭਾਗ ਪੂਰਾ ਕਰੇਗਾ ਜੇ ਲੋਕ ਉਸ ਦੇ ਹੁਕਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨਗੇ ਅਤੇ ਨੇਮ ਪ੍ਰਤੀ ਆਪਣੇ ਭਾਗ ਨੂੰ ਪੂਰਾ ਕਰਨਗੇ |
 
 ===== Translation Suggestions: =====
 
@@ -17,19 +17,19 @@ A covenant is a formal, binding agreement between two parties that one or both p
   * Some languages may have different words for covenant depending on whether one party or both parties have made a promise they must keep. If the covenant is one-sided, it could be translated as "promise" or "pledge."
   * Make sure the translation of this term does not sound like people proposed the covenant. In all cases of covenants between God and people, it was God who initiated the covenant.
 
-(See also: [[:pa:obe:kt:promise|promise]], [[:pa:obe:kt:newcovenant|New Covenant]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਵਾਇਦਾ**, **ਨਵਾਂ ਨੇਮ**)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?covenant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * **[[:pa:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * **[[:pa:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * **[[:pa:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * **[[:pa:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * **[[:pa:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
+  * **[04-09]**  ਤੱਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਅਬਰਾਹਾਮ ਨਾਲ ਨੇਮ ਬੰਨਿਆ | ਇਕ ਨੇਮ ਦੋ ਧਿਰਾਂ ਵਿਚਕਾਰ ਇਕ ਸਹਿਮਤੀ ਹੁੰਦੀ ਹੈ |
+  * **[05-04]**  “ਮੈਂ ਇਸ਼ਮਾਇਲ ਨੂੰ ਇਕ ਵੱਡੀ ਜਾਤੀ ਬਣਾਵਾਂਗਾ ਪਰ ਮੇਰਾ ਨੇਮ ਇਸਹਾਕ ਨਾਲ ਹੋਵੇਗਾ |”
+  * **[06-04]**  ਇਕ ਲੰਬੇ ਸਮੇਂ ਬਾਅਦ, ਅਬਰਾਹਾਮ ਮਰ ਗਿਆ ਅਤੇ ਉਸ ਦੇ ਸਾਰੇ ਵਾਇਦੇ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨੇਮ ਵਿਚ ਉਸ ਨਾਲ ਕੀਤੇ ਸਨ ਇਸਹਾਕ ਕੋਲ ਚਲੇ ਗਏ|
+  * **[07-10]**  ਨੇਮ ਦੇ ਵਾਇਦੇ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਅਬਰਾਹਾਮ ਨਾਲ ਕੀਤੇ ਸਨ ਅਤੇ ਤੱਦ ਇਸਹਾਕ ਕੋਲ ਗਏ ਅਤੇ ਹੁਣ ਯਕੂਬ ਕੋਲ ਚਲੇ ਗਏ ਸਨ |
+  * **[13-02]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮੂਸਾ ਅਤੇ ਇਸਰਾਏਲ ਦੇ ਲੋਕਾਂ ਨੂੰ ਕਿਹਾ, “ਜੇ ਤੁਸੀਂ ਮੇਰੀ ਆਵਾਜ ਨੂੰ ਮੰਨੋਗੇ ਅਤੇ ਮੇਰਾ ਨੇਮ ਪੂਰਾ ਕਰੋਗੇ, ਤੁਸੀਂ ਮੇਰੀ ਕਿਮਤੀ ਵਿਰਾਸਤ, ਜਾਜਕਾਂ ਦਾ ਰਾਜ, ਅਤੇ ਇਕ ਪਵਿੱਤਰ ਪਰਜਾ ਹੋਵੋਂਗੇ |”
+  * **[13-04]**  ਤੱਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੇ ਨੇਮ ਦਿੱਤਾ ਅਤੇ ਕਿਹਾ, “ਮੈਂ ਯਹੋਵਾਹ ਹੁਣ, ਤੁਹਾਡਾ ਪ੍ਰਮੇਸ਼ਵਰ ਜਿਸ ਨੇ ਤੁਹਾਨੂੰ ਮਿਸਰ ਦੀ ਗੁਲਾਮੀ ਵਿਚੋਂ ਛੁਡਾਇਆ | ਕਿਸੇ ਦੂਸਰੇ ਦੇਵਤੇ ਦੀ ਪੂਜਾ ਨਾ ਕਰਨੀ |”
   * **[[:pa:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the **covenant**  that God had made with the Israelites at Sinai.
 ~~DISCUSSION~~{{tag>publish ktobs}}
