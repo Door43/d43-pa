@@ -1,6 +1,6 @@
-====== **ਸਲੀਬ**  ======
+====== ਸਲੀਬ ======
 
-===== **ਪਰਿਭਾਸ਼ਾ**: =====
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 ਇਕ ਸਲੀਬ ਇਕ ਸਿਧੀ ਲੱਕੜ ਜੋ ਜਮੀਨ ਵਿਚ ਗੱਡੀ ਹੋਈ ਦੇ ਉੱਪਰਲੇ ਹਿਸੇ ਨਾਲ ਇਕ ਲੰਬੇ ਰੁਕ ਲੱਕੜ ਦਾ ਸਤੀਰ ਜੁੜਿਆ ਹੁੰਦਾ ਹੈ |
 
@@ -14,19 +14,13 @@
   * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
   * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(ਇਹ ਵੀ ਦੇਖੋ: **
-
-ਸਲੀਬ  **, **
-
-ਰੋਮ  ** [[:pa:obe:other:rome|, ]]**
-
-ਰੋਮਨ  **)
+(ਇਹ ਵੀ ਦੇਖੋ: ** ਸਲੀਬ **, ** ਰੋਮ **  [[:pa:obe:other:rome|, ]]** ਰੋਮਨ **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?cross&nocomments}}
 
-===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
+===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
   * **[40-01]**  ਯਿਸੂ ਨੂੰ ਮਜਾਕ ਕਰਨ ਦੇ ਬਾਅਦ ਸਿਪਾਹੀ ਉਸ ਨੂੰ ਦੂਰ ਸਲੀਬ ਦੇਣ ਲਈ ਲੈ ਗਏ | ਉਹਨਾਂ ਨੇ ਉਸ ਤੋਂ ਸਲੀਬ ਉਠਾਈ ਜਿਸ ਉੱਤੇ ਉਸ ਨੇ ਮਰਨਾ ਸੀ |
   * **[40-02]**  ਸਿਪਾਹੀ ਯਿਸੂ ਨੂੰ ਉਸ ਜਗ੍ਹਾ ਤੇ ਲੈ ਕੇ ਆਏ ਜੋ “ਖੋਪੜੀ” ਕਹਾਉਂਦਾ ਸੀ ਅਤੇ ਦੀਆਂ ਬਾਹਵਾਂ ਅਤੇ ਪੈਰਾਂ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਕਿੱਲਾਂ ਨਾਲ ਠੋਕ ਦਿੱਤਾ |
