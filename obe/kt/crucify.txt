@@ -1,38 +1,36 @@
-====== crucify ======
+====== **ਸਲੀਬ ਦੇਣਾ **  ======
 
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-===== Definition: =====
+ਕਿਸੇ ਨੂੰ ਸਲੀਬ ਦੇਣਾ ਉਸ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਟੰਗ ਦੇਣਾ ਜਾਂ ਸਲੀਬ ਨਾਲ ਬੰਨ ਦੇਣਾ ਅਤੇ ਫਿਰ ਉਸ ਨੂੰ ਉੱਥੇ ਦੁੱਖ ਝੱਲਣ ਲਈ ਜਾਂ ਵੱਡੀ ਪੀੜਾ ਵਿਚ ਮਰਨ ਛੱਡ ਦੇਣਾ |
 
-The term "crucify" means to execute someone by attaching him to a cross and leaving him there to suffer and die in great pain.
- 
   * The victim was either tied or nailed to the cross. Crucified people died from blood loss or from suffocation.
   * The ancient Roman Empire frequently used this method of execution to punish and kill people who were terrible criminals or who had rebelled against the authority of their government.
-  * The Jewish religious leaders asked the Roman governor to order his soldiers to crucify Jesus. The soldiers nailed Jesus to a cross. He suffered there for six hours, and then died.
+  * ਜਦੋਂ ਯਹੂਦੀ ਧਾਰਮਿਕ ਆਗੂ ਯਿਸੂ ਨੂੰ ਮਾਰਨਾ ਚਹੁੰਦੇ ਸਨ ਤਾਂ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਦੇਣ ਲਈ ਉਹਨਾਂ ਨੂੰ ਰੋਮੀ ਗਵਰਨਰ ਕੋਲੋਂ ਪੁੱਛਣਾ ਜਰੂਰੀ ਸੀ | ਰੋਮੀਆਂ ਨੇ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਉੱਤੇ ਕਿੱਲਾਂ ਨਾਲ ਠੋਕ ਕੇ ਸਲੀਬ ਦਿੱਤਾ | ਉਸ ਨੇ ਛੇ ਘੰਟੇ ਦੁੱਖ ਉਠਾਇਆ ਅਤੇ ਤੱਦ ਉਹ ਮਰ ਗਿਆ |
 
 ===== Translation Suggestions: =====
 
 The term "crucify" could be translated as, "kill on a cross" or "execute by nailing to a cross."
 
-(See also: [[en:obe:kt:cross]], [[en:obe:other:rome]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਸਲੀਬ**, **
+
+ਰੋਮ  ** [[:en:obe:other:rome|, ]]**
+
+ਰੋਮਨ  **)
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?crucify&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  ***[[:pa:obs:notes:frames:39-11|[39-11]]]** But the Jewish leaders and the crowd shouted, "**Crucify** him (Jesus)!"
-  ***[[:pa:obs:notes:frames:39-12|[39-12]]]** Pilate became afraid that the crowd would begin to riot, so he ordered his soldiers to **crucify** Jesus.
-  ***[[:pa:obs:notes:frames:40-01|[40-01]]]**  After the soldiers mocked Jesus, they led him away to **crucify** him. They made him carry the cross on which he would die.
-  ***[[:pa:obs:notes:frames:40-04|[40-04]]]** Jesus was **crucified** between two robbers.
-  ***[[:pa:obs:notes:frames:43-06|[43-06]]]** "Men of Israel, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know. But you **crucified** him!" 
-  ***[[:pa:obs:notes:frames:43-09|[43-09]]]** "You **crucified** this man, Jesus."
-  ***[[:pa:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You **crucified** Jesus, but God raised him to life again!"
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[39-11]**  ਪਰ ਯਹੂਦੀ ਆਗੂ ਅਤੇ ਭੀੜ ਨੇ ਰੌਲਾ ਪਾਇਆ, “ਉਸ ਨੂੰ (ਯਿਸੂ ਨੂੰ) ਸਲੀਬ ਦਿਓ!”
+  * **[39-12]**  ਪਿਲਾਤੂਸ ਡਰ ਗਿਆ ਕਿ ਭੀੜ ਦੰਗੇ ਕਰੂਗੀ ਇਸ ਲਈ ਉਸ ਨੇ ਸਿਪਾਹੀਆਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਕਿ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਦੇਣ|
+  * **[40-01]**  ਯਿਸੂ ਨੂੰ ਮਜਾਕ ਕਰਨ ਦੇ ਬਾਅਦ ਸਿਪਾਹੀ ਉਸ ਨੂੰ ਦੂਰ ਸਲੀਬ ਦੇਣ ਲਈ ਲੈ ਗਏ | ਉਹਨਾਂ ਨੇ ਉਸ ਤੋਂ ਸਲੀਬ ਉਠਾਈ ਜਿਸ ਉੱਤੇ ਉਸ ਨੇ ਮਰਨਾ ਸੀ |
+  * **[40-04]**  ਯਿਸੂ ਨੂੰ ਦੋ ਡਾਕੂਆਂ ਦੇ ਵਿਚਕਾਰ ਸਲੀਬ ਦਿੱਤਾ ਗਿਆ |
+  * **[43-06]**  “ਇਸਰਾਏਲ ਦੇ ਮਨੁੱਖੋ, ਯਿਸੂ ਉਹ ਇਕ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਸ਼ਕਤੀ ਨਾਲ ਬਹੁਤ ਵੱਡੇ ਚਿੰਨ ਅਤੇ ਚਮਤਕਾਰ ਕੀਤੇ ਜਿਵੇਂ ਤੁਸੀਂ ਦੇਖੇ ਅਤੇ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਜਾਣਦੇ ਹੋ | ਪਰ ਤੁਸੀਂ ਉਸ ਨੂੰ ਸਲੀਬ ਦਿੱਤਾ !”
+  * **[43-09]**  “ਤੁਸੀਂ ਇਸ ਵਿਅਕਤੀ ਯਿਸੂ ਨੂੰ ਮਾਰ ਦਿੱਤਾ|”
+  * **[44-08]**  ਪਤਰਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਜਵਾਬ ਦਿੱਤਾ, “ਇਹ ਵਿਅਕਤੀ ਜੋ ਤੁਹਾਡੇ ਸਾਹਮਣੇ ਖੜਾ ਹੈ ਮਸੀਹ ਯਿਸੂ ਦੀ ਸ਼ਕਤੀ ਨਾਲ ਚੰਗਾ ਕੀਤਾ ਗਿਆ ਹੈ | ਤੁਸੀਂ ਯਿਸੂ ਨੂੰ ਸਲੀਬ ਦਿੱਤਾ, ਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਦੁਬਾਰਾ ਫੇਰ ਜੀਵਤ ਕਰ ਦਿੱਤਾ!”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
