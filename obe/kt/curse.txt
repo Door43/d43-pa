@@ -1,10 +1,10 @@
-====== curse, cursed ======
+====== **ਸਰਾਪ**, **ਸਰਾਪ ਦਿੱਤਾ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term "curse" means to cause negative things to happen to the person or thing that is being cursed.
 
-  * A curse can be a statement that harm will happen to someone or something.
+  * “ਸਰਾਪ” ਕਿਸੇ ਵਿਅਕਤੀ ਜਾਂ ਵਸਤੁ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਣ ਲਈ ਇਕ ਘੋਸ਼ਣਾ ਹੈ |
   * To curse someone can also be an expression of desire that bad things will happen to them.
   * It can also refer to the punishment or other negative things that someone causes to happen to someone.
 
@@ -18,17 +18,21 @@ The term "curse" means to cause negative things to happen to the person or thing
   * "Cursed be the day I was born" could also be translated as, "I am so miserable it would have been better not to be born."
   * However, if the target language has the phrase "cursed be" and it has the same meaning, then it is good to keep the same phrase.
 
-(See also: [[:pa:obe:kt:bless|bless, blessed, blessing]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਆਸ਼ਿਸ਼** [[:pa:obe:kt:bless|, ]]**
+
+ਧੰਨ  ** [[:pa:obe:kt:bless|, ]]**
+
+ਬਰਕਤ  **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:pa:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:pa:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:pa:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:pa:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * **[02-09]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੱਪ ਨੂੰ ਕਿਹਾ, “ਤੂੰ ਸਰਾਪਿਤ ਹੈਂ!”
+  * **[02-11]**  “ਹੁਣ ਧਰਤੀ ਸਰਾਪਿਤ ਹੈ ਅਤੇ ਭੋਜਨ ਉਗਾਉਣ ਲਈ ਤੈਨੂੰ ਸਖਤ ਮੇਹਨਤ ਕਰਨੀ ਪਵੇਗੀ|”
+  * **[04-04]**  “ਮੈਂ ਉਹਨਾਂ ਨੂੰ ਆਸ਼ਿਸ਼ ਦੇਵਾਂਗਾ ਜੋ ਤੈਨੂੰ ਆਸ਼ਿਸ਼ ਦੇਣਗੇ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਸਰਾਪ ਜੋ ਤੈਨੂੰ ਸਰਾਪ ਦਿੰਦੇ ਹਨ|”
+  * **[39-07]**  ਤੱਦ ਪਤਰਸ ਨੇ ਕਸਮ ਖਾਧੀ ਇਹ ਕਹਿੰਦੇ ਹੋਏ, “ਪ੍ਰਮੇਸ਼ਵਰ ਮੈਨੁੰ ਸਰਾਪ ਦੇਵੇ ਜੇ ਮੈਂ ਇਸ ਵਿਅਕਤੀ ਨੂੰ ਜਾਣਦਾ ਹੋਵਾਂ!”
+  * **[50-16]**  ਕਿਉਂਕਿ ਆਦਮ ਅਤੇ ਹਵਾ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ ਅਤੇ ਇਸ ਜਗਤ ਵਿਚ ਪਾਪ ਨੂੰ ਲਿਆਂਦਾ, ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸ ਨੂੰ ਸਰਾਪ ਦਿੱਤਾ ਅਤੇ ਇਸ ਨੂੰ ਖਤਮ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
