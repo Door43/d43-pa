@@ -1,6 +1,6 @@
-====== **ਸਰਾਪ**, **ਸਰਾਪ ਦਿੱਤਾ**  ======
+====== ਸਰਾਪ, ਸਰਾਪ ਦਿੱਤਾ ======
 
-===== **ਪਰਿਭਾਸ਼ਾ**: =====
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 The term "curse" means to cause negative things to happen to the person or thing that is being cursed.
 
@@ -18,17 +18,13 @@ The term "curse" means to cause negative things to happen to the person or thing
   * "Cursed be the day I was born" could also be translated as, "I am so miserable it would have been better not to be born."
   * However, if the target language has the phrase "cursed be" and it has the same meaning, then it is good to keep the same phrase.
 
-(ਇਹ ਵੀ ਦੇਖੋ: **ਆਸ਼ਿਸ਼** [[:pa:obe:kt:bless|, ]]**
-
-ਧੰਨ  ** [[:pa:obe:kt:bless|, ]]**
-
-ਬਰਕਤ  **)
+(ਇਹ ਵੀ ਦੇਖੋ: **ਆਸ਼ਿਸ਼**  [[:pa:obe:kt:bless|, ]]** ਧੰਨ **  [[:pa:obe:kt:bless|, ]]** ਬਰਕਤ **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
+===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
   * **[02-09]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੱਪ ਨੂੰ ਕਿਹਾ, “ਤੂੰ ਸਰਾਪਿਤ ਹੈਂ!”
   * **[02-11]**  “ਹੁਣ ਧਰਤੀ ਸਰਾਪਿਤ ਹੈ ਅਤੇ ਭੋਜਨ ਉਗਾਉਣ ਲਈ ਤੈਨੂੰ ਸਖਤ ਮੇਹਨਤ ਕਰਨੀ ਪਵੇਗੀ|”
