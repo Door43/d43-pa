@@ -1,6 +1,12 @@
-====== disobey, disobedient, disobedience ======
+======
 
-===== Definition: =====
+ਖ਼ਿਲਾਫ਼  ,
+
+ਅਣਆਗਿਆਕਾਰ  ,
+
+ਅਣਆਗਿਆਕਾਰੀ   ======
+
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term "disobey" means to not obey what someone in authority has commanded or instructed. A person who does this is being "disobedient."
 
@@ -16,12 +22,12 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 
 {{topic>:en:bible?disobey&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed**  me."
-  * **[[:pa:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
-  * **[[:pa:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
-  * **[[:pa:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
+  * **[02-11]**  ਪ੍ਮ੍ਰ੍ਸ਼ਵਰ ਨੇ ਆਦਮੀ ਨੂੰ ਕਿਹਾ, “ਤੂੰ ਆਪਣੀ ਪਤਨੀ ਦੀ ਸੁਣੀ ਅਤੇ ਮੇਰੀ ਅਣਆਗਿਆਕਾਰੀ ਕੀਤੀ
+  * **[13-0.7]**  ਜੇ ਲੋਕ ਇਸ ਬਿਵਸਥਾ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹਨ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਾਇਦਾ ਕੀਤਾ ਹੈ ਕਿ ਉਹ ਉਹਨਾਂ ਨੂੰ ਬਰਕਤ ਦੇਵੇਗਾ ਅਤੇ ਉਹਨਾਂ ਦੀ ਸੁਰੱਖਿਆ ਕਰੇਗਾ | ਜੇ ਉਹ ਉਹਨਾਂ ਦੀ ਅਣਆਗਿਆਕਾਰੀ ਕਰਦੇ ਹਨ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ ਨੂੰ ਸਜਾ ਦੇਵੇਗਾ |
+  * **[16-02]**  ਇਸ ਕਾਰਨ ਕਿ ਇਸਰਾਏਲ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਅਣਆਗਿਆਕਾਰੀ ਕਰਦੇ ਰਹੇ ਇਸ ਲਈ ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣਾ ਦੁਆਰਾ ਹਰਾ ਕੇ ਸਜਾ ਦਿੱਤੀ |
+  * **[35-12]**  “ਵੱਡੇ ਪੁੱਤਰ ਨੇ ਆਪਣੇ ਬਾਪ ਨੂੰ ਕਿਹਾ, “ਇਹਨਾਂ ਸਾਰੇ ਸਾਲਾਂ ਵਿਚ ਮੈਂ ਤੇਰੇ ਲਈ ਵਫਾਦਾਰੀ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ ! ਮੈਂ ਕਦੀ ਵੀ ਤੇਰੀ ਅਣਆਗਿਆਕਾਰੀ ਨਹੀਂ ਕੀਤੀ ਅਤੇ ਤੂੰ ਫਿਰ ਵੀ ਮੈਨੂੰ ਇਕ ਛੋਟੀ ਜਿਹੀ ਬੱਕਰੀ ਨਾ ਦਿੱਤੀ ਕਿ ਮੈਂ ਆਪਣੇ ਦੋਸਤਾਂ ਨਾ ਜਸ਼ਨ ਮਨ ਸਕਾਂ|”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
