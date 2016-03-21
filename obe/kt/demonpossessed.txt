@@ -1,39 +1,33 @@
-====== demon-possessed ======
+====== **ਦੁਸ਼ਟ ਆਤਮਾ ਨਾਲ ਭਰਿਆ ਹੋਇਆ**  ======
 
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-===== Definition: =====
+ਇਕ ਵਿਅਕਤੀ ਜੋ ਦੁਸ਼ਟ ਆਤਮਾ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਉਹ ਹੁੰਦਾ ਹੈ ਜਿਸ ਵਿਚ ਬੁਰੀ ਆਤਮਾ ਜਾਂ ਭੂਤ ਹੋਣ ਜੋ ਉਸ ਦੇ ਕੰਮਾਂ ਅਤੇ ਵਿਚਾਰਾਂ ਨੂੰ ਕਾਬੂ ਕਰਦੇ ਹਨ |
 
-
-A person who is demon-possessed has a demon or evil spirit that controls what he does and thinks.
-
-
-    * Often a demon-possessed person will hurt himself or other people because the demon causes him to do that.
-    * Jesus healed demon-possessed people by commanding and forcing the demons to come out of them.
+  * ਆਮ ਤੌਰ ਤੇ ਇਕ ਵਿਅਕਤੀ ਜੋ ਦੁਸ਼ਟ ਆਤਮਾ ਨਾਲ ਭਰਿਆ ਹੁੰਦਾ ਹੈ ਉਹ ਆਪਣੇ ਆਪ ਜਾਂ ਦੂਸਰੇ ਲੋਕਾਂ ਨੂੰ ਦੁੱਖ ਦਿੰਦਾ ਹੈ ਕਿਉਂਕਿ ਭੂਤ ਉਸਨੂੰ ਇਹ ਕਰਨ ਲਈ ਮਜਬੂਰ ਕਰਦੇ ਹਨ |
+  * ਯਿਸੂ ਨੇ ਲੋਕਾਂ ਵਿਚੋਂ ਦੁਸ਼ਟ ਆਤਮਾ ਨੂੰ ਬਾਹਰ ਆਉਣ ਲਈ ਮਜਬੂਰ ਕਰਦੇ ਹੋਏ ਦੁਸ਼ਟ ਆਤਮਾ ਨਾਲ ਭਰੇ ਹੋਏ ਲੋਕਾਂ ਨੂੰ ਚੰਗਾ ਕੀਤਾ |
 
 ===== Translation Suggestions: =====
 
-    * Other ways to translate this term could include, "demon-controlled" or "controlled by a demon" or "having a demon."
+  * Other ways to translate this term could include, "demon-controlled" or "controlled by a demon" or "having a demon."
 
+(ਇਹ ਵੀ ਦੇਖੋ: **ਭੂਤ** [[:pa:obe:kt:demon|, ]]**
 
-(See also: [[demon]])
+ਭਰਿਸ਼ਟ ਆਤਮਾ  ** [[:pa:obe:kt:demon|, ]]**
 
+ਭਰਿਸ਼ਟ ਆਤਮਾ  **)
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?demonpossessed&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-    * **[[:pa:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-    * **[[:pa:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
-    * **[[:pa:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
-    * **[[:pa:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
-    * **[[:pa:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon** followed them. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[26-09]**  ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਜਿਹਨਾਂ ਵਿਚ ਭੂਤ ਸਨਾ ਯਿਸੂ ਕੋਲ ਲਿਆਂਦੇ ਗਏ |
+  * **[32-03]**  ਜਦੋਂ ਉਹ ਝੀਲ ਦੇ ਦੂਸਰੇ ਪਾਸੇ ਗਏ ਤਾਂ ਇਕ ਭੂਤਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਵਿਅਕਤੀ ਦੌੜਦਾ ਹੋਇਆ ਯਿਸੂ ਵੱਲ ਆਇਆ |
+  * **[32-06]**  ਭੂਤਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਵਿਅਕਤੀ ਉੱਚੀ ਆਵਾਜ ਵਿਚ ਬੋਲਿਆ, “ ਹੇ ਯਿਸੂ, ਅੱਤ ਮਹਾਨ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਪੁੱਤਰ ਤੇਰਾ ਮੇਰੇ ਨਾਲ ਕਿ ਵਾਸਤਾ ? ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਦੁੱਖ ਦਾ ਆ ਦੇਹ !”
+  * **[32-09]**  ਨਗਰ ਦੇ ਲੋਕਾਂ ਆਏ ਅਤੇ ਉਸ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ ਜੋ ਭੂਤਾਂ ਨਾਲ ਭਰਿਆ ਹੋਇਆ ਸੀ |
+  * **[47-03]**  ਹਰ ਰੋਜ ਜਿਵੇਂ ਉਹ (ਪੌਲੁਸ ਅਤੇ ਸਿਲਾਸ) ਉੱਥੋਂ ਦੀ ਲੰਘਦੇ ਤਾਂ ਇਕ ਭੂਤਾਂ ਨਾਲ ਭਰੀ ਹੋਈ ਲਕੜੀ ਉਹਨਾਂ ਦੇ ਪਿੱਛੇ ਭੱਜਦੀ |
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
