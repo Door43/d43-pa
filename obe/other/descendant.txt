@@ -1,26 +1,25 @@
-====== descendant ======
+====== **ਸੰਤਾਨ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-A descendant is someone who is a direct blood relative of someone else further back in history.
+ਸੰਤਾਨ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਕਿਹਾ ਜਾਂਦਾ ਹੈ ਜੋ ਜਿਸ ਦਾ ਕਿਸੇ ਨਾਲ ਪਿੱਛੇ ਇਤਹਾਸ ਵਿਚ ਖੂਨ ਦਾ ਰਿਸ਼ਤਾ ਹੋਵੇ |
 
-  * For example, Abraham was a descendant of Noah.
-  * A person's descendants are his children, grandchildren, great-great-grandchildren, etc.
+  * ਉਦਾਹਰਨ ਵਜੋਂ, ਅਬਰਾਹਾਮ ਨੂਹ  ਦੀ ਸੰਤਾਨ ਸੀ |
+  * ਇਕ ਵਿਅਕਤੀ ਦੀ ਸੰਤਾਨ ਉਸਦੇ ਬੱਚੇ, ਪੋਤੇ, ਪੜੋਤੇ ਅਤੇ ਪੜ-ਪੋਤੇ ਹੋਣਗੇ |
 
 ===== Bible References: =====
 
 {{topic>:en:bible?descendant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  ***[[:pa:obs:notes:frames:02-09|[02-09]]]** "The woman's **descendant** will crush your head, and you will wound his heel."
-  ***[[:pa:obs:notes:frames:04-09|[04-09]]]** "I give the land of Canaan to your **descendants**."
-  ***[[:pa:obs:notes:frames:05-10|[05-10]]]** "Your **descendants** will be more than the stars in the sky."
-  ***[[:pa:obs:notes:frames:17-07|[17-07]]]** "Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  ***[[:pa:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants** of David.
-  ***[[:pa:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  ***[[:pa:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant** of David.
-
+  * **[02-09]**  “ਔਰਤ ਦੀ ਸੰਤਾਨ ਤੇਰੇ ਸਿਰ ਨੂੰ ਕੁਚਲੇਗੀ ਅਤੇ ਤੂੰ ਉਸ ਦੀ ਅੱਡੀ ਨੂੰ ਡਸੇਗਾ |”
+  * **[04-09]**  “ਮੈਂ ਤੇਰੀ ਸੰਤਾਨ ਨੂੰ ਕਨਾਨ ਦੇਸ ਦੇਵਾਂਗਾ|”
+  * **[05-10]**  “ਤੇਰੀ ਸੰਤਾਨ ਆਕਾਸ਼ ਦੇ ਤਾਰਿਆਂ ਨਾਲੋਂ ਜਿਆਦਾ ਹੋਵੇਗੀ |”
+  * **[17-07]**  “ਤੇਰੇ ਘਰਾਣੇ ਵਿਚੋਂ ਇਕ ਜਣਾ ਹਮੇਸ਼ਾਂ ਇਸਰਾਏਲ ਦੇ ਰਾਜ ਉੱਤੇ ਰਾਜ ਕਰੇਗਾ, ਅਤੇ ਮਸੀਹਾ ਤੇਰੀ ਸੰਤਾਨ ਵਿਚੋਂ ਇਕ ਹੋਵੇਗਾ !”
+  * **[18-13]**  ਯਹੂਦਾਹਹ ਦੇ ਰਾਜੇ ਦਾਉਦ ਦੀ ਸੰਤਾਨ ਸਨ |
+  * **[21-04]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਰਾਜਾ ਦਾਉਦ ਨਾਲ ਵਾਇਦਾ ਕੀਤਾ ਕਿ ਮਸੀਹਾ ਦਾਉਦ ਦੀ ਆਪਣੀ ਸੰਤਾਨ ਵਿਚੋਂ ਇਕ ਹੋਵੇਗਾ |
+  * **[48-13]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਦਾਉਦ ਨਾਲ ਵਾਇਦਾ ਕੀਤਾ ਕਿ ਮਸੀਹਾ ਤੇਰੀ ਸੰਤਾਨ ਵਿਚੋਂ ਇਕ ਹੋਵੇਗਾ | ਯਿਸੂ, ਮਸੀਹਾ ਦਾਉਦ ਦੀ ਇਕ ਖਾਸ ਸੰਤਾਨ ਸੀ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
