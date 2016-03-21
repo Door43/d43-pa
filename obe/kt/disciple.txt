@@ -1,16 +1,14 @@
-====== disciple ======
+====== **ਚੇਲਾ**  ======
 
-
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term "disciple" refers to a person who follows a teacher and learns from him.
 
   * The people who followed Jesus around, listening to his teachings and obeying them, were called his "disciples." John the Baptist also had disciples.
   * At different times during Jesus' ministry, there were many disciples who followed him and heard his teachings.
   * From among the many disciples who followed Jesus, he chose twelve to be his closest followers; these men became known as his "apostles." Jesus' twelve apostles continued to also be called "disciples."
-  * Just before Jesus went up to heaven, he commanded his disciples to teach other people about him so that those people could become his disciples, too.
+  * ਪਰ ਯਿਸੂ ਦੇ ਸਵਰਗ ਵਿਚ ਵਾਪਸ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਉਸ ਨੇ ਆਪਣੇ ਚੇਲਿਆ ਨੂੰ ਉੱਤਰ ਦਿੱਤਾ ਕਿ ਦੂਸਰਿਆਂ ਨੂੰ ਸਿੱਖਾਉਣ ਤਾ ਕਿ ਉਹ ਵੀ ਉਸ ਦੇ ਚੇਲੇ ਬਣ ਸਕਣ |
   * In modern times as well, anyone who believes in Jesus and obeys his teachings is also called a disciple of Jesus.
-
 
 ===== Translation Suggestions: =====
 
@@ -18,23 +16,28 @@ The term "disciple" refers to a person who follows a teacher and learns from him
   * Make sure that the translation of this term does not refer only to a student who learns in a classroom.
   * The translation of this term should be different from the translation of "apostle."
 
-(See also: [[en:obe:kt:apostle]], [[en:obe:kt:believer]], [[:pa:obe:kt:jesus]], [[:En:obe:other:johnthebaptist]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਰਸੂਲ** [[:en:obe:kt:apostle|, ]]**
+
+ਰਸੂਲ  **, **ਵਿਸ਼ਵਾਸੀ**, **ਯਿਸੂ** [[:pa:obe:kt:jesus|, ]]**
+
+ਜੀਸਸ ਕਰਾਇਸਟ  ** [[:pa:obe:kt:jesus|, ]]**
+
+ਮਸੀਹ ਯਿਸੂ  **, **
+
+ਜਾਨ (
+ਬਪਤਿਸਮਾ
+)  **)
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?disciple&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  ***[[:pa:obs:notes:frames:30-08|[30-08]]]** He (Jesus) gave the pieces to his **disciples** to give to the people. The **disciples** kept passing out the food, and it never ran out!
-  ***[[:pa:obs:notes:frames:38-01|[38-01]]]** About three years after Jesus first began preaching and teaching publicly, Jesus told his **disciples** that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
-  ***[[:pa:obs:notes:frames:38-11|[38-11]]]** Then Jesus went with his **disciples** to a place called Gethsemane. Jesus told his **disciples** to pray that they would not enter into temptation.
-  ***[[:pa:obs:notes:frames:42-10|[42-10]]]** Jesus said to his **disciples**, "All authority in heaven and on earth has been given to me. So go, make **disciples** of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you."
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[30-08]**  ਉਸ ਨੇ  (ਯਿਸੂ) ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਟੁੱਕੜੇ ਦਿੱਤੇ ਕਿ ਉਹ ਲੋਕਾਂ ਨੂੰ ਵੰਡਣ | ਚੇਲੇ ਭੋਜਨ ਵੰਡਦੇ ਰਹੇ ਅਤੇ ਇਹ ਕਦੀ ਨਾ ਖਤਮ ਹੋਇਆ |
+  * **[38-01]**  ਯਿਸੂ ਦੇ ਦੁਆਰਾ ਪਹਿਲੀ ਵਾਰ ਜਨਤਕ ਤੌਰ ਤੇ ਪ੍ਰਚਾਰ ਕਰਨ ਅਤੇ ਸਿੱਖਾਉਣਾ ਸ਼ੁਰੂ ਕਰਨ ਦੇ ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆ ਨੂੰ ਦੱਸਿਆ ਕਿ ਉਹ ਉਹਨਾਂ ਦੇ ਨਾਲ ਯਰੂਸ਼ਲਮ ਵਿਚ ਪਸਹ ਦਾ ਤਿਉਹਾਰ ਮਨਾਉਣਾ ਚਹੁੰਦਾ ਹੈ ਅਤੇ ਉਹ ਉੱਥੇ ਮਾਰਿਆ ਜਾਵੇਗਾ |
+  * **[38-11]**  ਤੱਦ ਯਿਸੂ ਆਪਣੇ ਚੇਲਿਆਂ ਦੇ ਨਾਲ ਜੋ ਜਗ੍ਹਾ ਗਤਸਮਨੀ ਕਹਾਉਂਦੀ ਹੈ ਉੱਥੇ ਗਿਆ | ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਕਿ ਉਹ ਅਜਮਾਇਸ਼ ਵਿਚ ਨਾ ਪੈਣ |
+  * **[42-10]**  ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਕਿਹਾ, “ਸਵਰਗ ਅਤੇ ਧਰਤੀ ਦਾ ਸਾਰਾ ਅਧਿਕਾਰ ਮੈਨੂੰ ਦਿੱਤਾ ਗਿਆ ਹੈ | ਇਸ ਲਈ ਜਾਓ ਅਤੇ ਸਾਰੀਆਂ ਜਾਤੀਆਂ ਵਿਚੋਂ ਚੇਲੇ ਬਣਾਓ ਉਹਨਾਂ  ਨੂੰ ਪਿਤਾ, ਪੁੱਤਰ ਅਤੇ ਪਵਿੱਤਰ ਆਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਬਪਤਿਸਮਾ ਦਿਓ ਅਤੇ ਜੋ ਗੱਲਾਂ ਦਾ ਮੈਂ ਤੁਹਾਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਹੈ ਉਹਨਾਂ ਨੂੰ ਸਿਖਾਓ|”
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
