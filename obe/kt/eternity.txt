@@ -1,12 +1,9 @@
-======
+======   ======
 
-ਹਮੇਸ਼ਾ ਦੀ  ,
+**ਹਮੇਸ਼ਾ ਦੀ**, **ਸਦੀਵੀ**, **ਹਮੇਸ਼ਾ**
+======   ======
 
-ਸਦੀਵੀ  ,
-
-ਹਮੇਸ਼ਾ   ======
-
-===== **ਪਰਿਭਾਸ਼ਾ**: =====
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 The terms “everlasting” and “eternal” have very similar meanings and refer to something that will always exist or that lasts forever.
 
@@ -22,21 +19,13 @@ The terms “everlasting” and “eternal” have very similar meanings and ref
   * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
   * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(ਇਹ ਵੀ ਦੇਖੋ: **
-
-ਸਦਾ ਲਈ  **, **ਜਿੰਦਗੀ** [[:pa:obe:kt:life|, ]]**
-
-ਸਿੱਧਾ  ** [[:pa:obe:kt:life|, ]]**
-
-ਜੀਵਤ  ** [[:pa:obe:kt:life|, ]]**
-
-ਜਿੰਦਾ  **)
+(ਇਹ ਵੀ ਦੇਖੋ: ** ਸਦਾ ਲਈ **, **ਜਿੰਦਗੀ**  [[:pa:obe:kt:life|, ]]** ਸਿੱਧਾ **  [[:pa:obe:kt:life|, ]]** ਜੀਵਤ **  [[:pa:obe:kt:life|, ]]** ਜਿੰਦਾ **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?eternity&nocomments}}
 
-===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
+===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
   * **[27-01]**  ਇਕ ਦਿਨ ਇਕ ਯਹੂਦੀ ਬਿਵਸਥਾ ਦਾ ਮਾਹਰ ਯਿਸੂ ਨੂੰ ਪਰਖਣ ਉਸ ਕੋਲ ਆਇਆ ਅਤੇ ਕਹਿਣ ਲੱਗਾ, “ਗੁਰੂ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕਿ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?”
   * **[28-01]**  ਇਕ ਦਿਨ, ਇਕ ਅਮੀਰ ਨੌਜਵਾਨ ਹਾਕਮ ਯਿਸੂ ਕੋਲ ਆਇਆ ਅਤੇ ਉਸਨੂੰ ਪੁੱਛਿਆ, “ਚੰਗੇ ਗੁਰੂ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕਿ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?” ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਕਿਉਂ ਤੂੰ ਮੈਨੂੰ ਜੋ ਚੰਗਾ ਹੈ ਉਸ ਬਾਰੇ ਪੁੱਛ ਰਿਹਾ ਹੈਂ ? ਸਿਰਫ ਇਕ ਹੀ ਚੰਗਾ ਹੈ ਅਤੇ ਉਹ ਹੈ ਪ੍ਰਮੇਸ਼ਵਰ | ਪਰ ਜੇ ਤੂੰ ਅਨੰਤ ਜੀਵਨ ਪਾਉਣਾ ਚਹੁੰਦਾ ਹੈ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਹੁਕਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰ |”
