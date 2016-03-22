@@ -1,37 +1,30 @@
-====== Eve ======
+====== **ਹਵਾ**  ======
 
+===== **ਸੱਚਿਆਈਆਂ**: =====
 
-===== Facts: =====
+ਇਹ ਪਹਿਲੀ ਔਰਤ ਦਾ ਨਾਮ ਸੀ | ਉਸ ਦੇ ਨਾਮ ਦਾ ਮਤਲਬ, “ਜਿੰਦਗੀ” ਜਾਂ “ਜਿਉਂਣ” ਹੈ |
 
-This was the name of the first woman. Her name means "life" or "living."
+  * ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਿਅਕਤੀਗਤ ਤੌਰ ਤੇ ਔਰਤ ਨੂੰ ਇਕ ਪੱਸਲੀ ਤੋਂ ਬਣਾਇਆ ਜੋ ਉਸ ਨੇ ਆਦਮ ਤੋਂ ਲਈ ਸੀ |
+  * ਉਹ ਆਦਮ ਦੇ ਬਰਾਬਰ ਉਸ ਕੰਮ ਵਿਚ ਮੱਦਦ ਕਰਨ ਲਈ ਸੀ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਕਰਨ ਲਈ ਦਿੱਤਾ ਸੀ |
+  * ਹਵਾ ਸੱਪ (ਸ਼ੈਤਾਨ) ਦੁਆਰਾ ਪਰਤਾਈ ਗਈ ਅਤੇ ਉਸ ਫਲ ਨੂੰ ਖਾਹ ਕੇ ਪਹਿਲੀ ਪਾਪ ਕਰਨ ਵਾਲੀ ਸੀ ਜੋ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਖਾਣ ਤੋਂ ਮਨ੍ਹਾ ਕੀਤਾ ਸੀ |
 
-    * God personally formed Eve from a rib that he took out of Adam.
-    * Eve was created to be Adam's "helper." She came alongside Adam to assist him in the work that God gave him to do.
-    * Eve was tempted by the snake (Satan) and was the first to sin by eating the fruit that God said not to eat.
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
-
-(See also: [[adam]])
-
+(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:other:adam|ਆਦਮ]])
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?eve&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-    * **[[:pa:obs:notes:frames:01-13|[01-13]]]** Then God took one of Adam's ribs and made it into a woman and brought her to him.
-    * **[[:pa:obs:notes:frames:02-02|[02-02]]]** But there was a crafty snake in the garden. He asked the woman, "Did God really tell you not to eat the fruit from any of the trees in the garden?"
-    * **[[:pa:obs:notes:frames:02-11|[02-11]]]** The man named his wife **Eve**, which means "life-giver," because she would become the mother of all people.
-    * **[[:pa:obs:notes:frames:21-01|[21-01]]]** God promised that a descendant of **Eve**  would be born who would crush the snake's head.
-    * **[[:pa:obs:notes:frames:48-02|[48-02]]]** Satan spoke through the snake in the garden in order to deceive **Eve**. 
-    * **[[:pa:obs:notes:frames:49-08|[49-08]]]** When Adam and **Eve** sinned, it affected all of their descendants.
-    * **[[:pa:obs:notes:frames:50-16|[50-16]]]** Because Adam and **Eve** disobeyed God and brought sin into this world, God cursed it and decided to destroy it. 
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[01-13]**  ਤੱਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਦਮ ਦੀ ਇਕ ਪੱਸਲੀ ਲਈ ਅਤੇ ਉਸ ਤੋਂ ਇਕ ਔਰਤ ਬਣਾਈ ਅਤੇ ਉਸ ਕੋਲ ਲੈ ਕੇ ਆਇਆ |
+  * **[02-02]**  ਪਰ ਉਸ ਬਾਗ ਵਿਚ ਇਕ ਚਤੁਰ ਸੱਪ ਸੀ | ਉਸ ਨੇ ਔਰਤ ਨੂੰ ਪੁੱਛਿਆ, “ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਸੱਚ ਮੁਚ ਬਾਗ ਕਿਸੇ ਵੀ ਫਲਨੂੰ ਖਾਣ ਤੋਂ ਮਨ੍ਹਾ ਕੀਤਾ ਹੈ ?”
+  * **[02-11]**  ਆਦਮ ਨੇ ਆਪਣੀ ਪਤਨੀ ਦਾ ਨਾਮ “ਹਵਾ” ਰੱਖਿਆ ਜਿਸਦਾ ਮਤਲਬ “ਜਿੰਦਗੀ ਦੇਣ ਵਾਲੀ”, ਕਿਉਂਕਿ ਉਹ ਸਾਰੇ ਲੋਕਾਂ ਦੀ ਮਾਂ ਹੋਵੇਗੀ
+  * **[21-01]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨਾ ਵਾਇਦਾ ਕੀਤਾ ਕਿ ਹਵਾ ਦੀ ਇਕ ਸੰਤਾਨ ਪੈਦਾ ਹੋਵੇਗੀ ਜੋ ਸੱਪ ਦੇ ਸਿਰ ਨੂੰ ਮਿਧੇਗੀ |
+  * **[48-02]**  ਸੱਪ ਹਵਾ ਨੂੰ ਧੋਖਾ ਦੇਣ ਲਈ ਬਾਗ ਦੇ ਵਿਚ ਸੱਪ ਦੇ ਦੁਆਰਾ ਬੋਲਿਆ |
+  * **[49-08]**  ਜਦੋਂ ਆਦਮ ਅਤੇ ਹਵਾ ਨੇ ਪਾਪ ਕੀਤਾ ਤਾਂ ਇਸ ਨੇ ਉਸਦੀ ਸਾਰੀ ਸੰਤਾਨ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕੀਤਾ |
+  * **[50-16]**  ਕਿਉਂਕਿ ਆਦਮ ਅਤੇ ਹਵਾ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ ਅਤੇ ਇਸ ਸੰਸਾਰ ਵਿਚ ਪਾਪ ਨੂੰ ਲਿਆਂਦਾ, ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸ ਸਰਾਪ ਦਿੱਤਾ ਅਤੇ ਇਸ ਨੂੰ ਖਤਮ ਕਰਨ ਦਾ ਫੈਸਲਾ ਕੀਤਾ |
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
