@@ -1,6 +1,6 @@
-====== faithful, faithfulness ======
+====== **ਵਫ਼ਾਦਾਰ**, **ਵਫਾਦਾਰੀ**  ======
 
-===== Definition: =====
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 To be "faithful" means to be loyal to a person or to consistently live according to a set of beliefs. The state or condition of being faithful is "faithfulness."
 
@@ -20,16 +20,16 @@ To be "faithful" means to be loyal to a person or to consistently live according
 
 {{topic>:en:bible?faithful&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ**: =====
 
-  * **[[:pa:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained **faithful**  to God, and God blessed him.
-  * **[[:pa:obs:notes:frames:14-12|[14-12]]]** Even so, God was still **faithful**  to His promises to Abraham, Isaac, and Jacob.
-  * **[[:pa:obs:notes:frames:15-13|[15-13]]]** The people promised to remain **faithful**  to God and follow his laws.
-  * **[[:pa:obs:notes:frames:17-09|[17-09]]]** David ruled with justice and **faithfulness**  for many years, and God blessed him. However, toward the end of his life he sinned terribly against God.
-  * **[[:pa:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's **unfaithfulness**, he promised to divide the nation of Israel into two kingdoms after Solomon's death.
-  * **[[:pa:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked **faithfully**  for you!"
-  * **[[:pa:obs:notes:frames:49-17|[49-17]]]** But God is **faithful**  and says that if you confess your sins, he will forgive you.
-  * **[[:pa:obs:notes:frames:50-04|[50-04]]]** If you remain **faithful**  to me to the end, then God will save you."
+  * **[08-05]**  ਇੱਥੋਂ ਤੱਕ ਜੇਲ ਵਿਚ ਵੀ ਯੂਸਫ ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਵਫ਼ਾਦਾਰ ਰਿਹਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ |
+  * **[14-12]**  ਫਿਰ ਵੀ ਪ੍ਰਮੇਸ਼ਵਰ ਅਬਰਾਹਾਮ, ਇਸਹਾਕ ਅਤੇ ਯਕੂਬ ਨਾਲ ਕੀਤੇ ਵਾਇਦੇ ਪ੍ਰਤੀ ਵਫ਼ਾਦਾਰ ਸੀ |
+  * **[15-13]**  ਲੋਕਾਂ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਵਫ਼ਾਦਾਰ ਰਹਿਣ ਅਤੇ ਉਸਦੀ ਬਵਿਸਥਾ ਉੱਤੇ ਚੱਲਣ ਲਈ ਵਾਇਦਾ ਕੀਤਾ |
+  * **[17-09]**  ਦਾਉਦ ਨੇ ਬਹੁਤ ਸਾਲ ਧਰਮ ਅਤੇ ਵਫਾਦਾਰੀ ਨਾਲ ਰਾਜ ਕੀਤਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ | ਫਿਰ ਵੀ, ਉਸ ਦੀ ਜਿੰਦਗੀ ਦੇ ਅੰਤ ਵਿਚ ਉਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਵਿਰੁਧ ਪਾਪ ਕੀਤਾ |
+  * **[18-04]** ਪ੍ਰਮੇਸ਼ਵਰ ਸੁਲੇਮਾਨ ਉੱਤੇ ਬਹੁਤ ਗੁੱਸੇ ਸੀ ਅਤੇ ਸੁਲੇਮਾਨ ਦੀ ਆਵਿਸ਼ਵਾਸਯੋਗਤਾ ਦੀ ਸਜਾ ਵਜੋਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਾਇਦਾ ਕੀਤਾ ਉਹ ਸੁਲੇਮਾਨ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਇਸਰਾਏਲ ਦੇਸ ਨੂੰ ਦੋ ਰਾਜਾਂ ਵਿਚ ਵੰਡ ਦੇਵੇਗਾ |
+  * **[35-12]** “ਵੱਡੇ ਪੁੱਤਰ ਨੇ ਆਪਣੇ ਪਿਤਾ ਨੂੰ ਕਿਹਾ, “ਇਹਨਾਂ ਸਾਰੇ ਸਾਲਾਂ ਵਿਚ ਮੈਂ ਤੇਰੇ ਲਈ ਵਫਾਦਾਰੀ ਨਾਲ ਕੰਮ ਕੀਤਾ ਹੈ!”
+  * **[49-17]** ਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਵਫ਼ਾਦਾਰ ਹੈ ਅਤੇ ਕਹਿੰਦਾ ਹੈ ਕਿ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ ਕਰੋ ਤਾਂ ਉਹ ਤੁਹਾਨੂੰ ਮਾਫ਼ ਕਰ ਦੇਵੇਗਾ|
+  * **[50-04]** ਜੇ ਤੁਸੀਂ ਮੇਰੇ ਨਾਲ ਅੰਤ ਤੋਂੜੀ ਵਫ਼ਾਦਾਰ ਰਹੋਗੇ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਤੁਹਾਨੂੰ ਬਚਾਵੇਗਾ|”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
