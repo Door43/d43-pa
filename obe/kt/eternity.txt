@@ -1,6 +1,12 @@
-====== everlasting, eternal, eternity ======
+======
 
-===== Definition: =====
+ਹਮੇਸ਼ਾ ਦੀ  ,
+
+ਸਦੀਵੀ  ,
+
+ਹਮੇਸ਼ਾ   ======
+
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The terms “everlasting” and “eternal” have very similar meanings and refer to something that will always exist or that lasts forever.
 
@@ -14,20 +20,25 @@ The terms “everlasting” and “eternal” have very similar meanings and ref
   * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
   * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
   * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
-  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
+(ਇਹ ਵੀ ਦੇਖੋ: **
 
-(See also: [[:pa:obe:kt:forever]], [[:pa:obe:kt:life]])
+ਸਦਾ ਲਈ  **, **ਜਿੰਦਗੀ** [[:pa:obe:kt:life|, ]]**
+
+ਸਿੱਧਾ  ** [[:pa:obe:kt:life|, ]]**
+
+ਜੀਵਤ  ** [[:pa:obe:kt:life|, ]]**
+
+ਜਿੰਦਾ  **)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?eternity&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit **eternal life**?"
-  * **[[:pa:obs:notes:frames:28-01|[28-01]]]** One day, a rich young ruler came up to Jesus and asked him, "Good Teacher, what must I do to have **eternal life**?" Jesus said to him, "Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have **eternal life**, obey God's laws."
-  * **[[:pa:obs:notes:frames:28-10|[28-10]]]** Jesus answered, "Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name's sake, will receive 100 times more and will also receive **eternal life**."
-
-
+  * **[27-01]**  ਇਕ ਦਿਨ ਇਕ ਯਹੂਦੀ ਬਿਵਸਥਾ ਦਾ ਮਾਹਰ ਯਿਸੂ ਨੂੰ ਪਰਖਣ ਉਸ ਕੋਲ ਆਇਆ ਅਤੇ ਕਹਿਣ ਲੱਗਾ, “ਗੁਰੂ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕਿ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?”
+  * **[28-01]**  ਇਕ ਦਿਨ, ਇਕ ਅਮੀਰ ਨੌਜਵਾਨ ਹਾਕਮ ਯਿਸੂ ਕੋਲ ਆਇਆ ਅਤੇ ਉਸਨੂੰ ਪੁੱਛਿਆ, “ਚੰਗੇ ਗੁਰੂ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕਿ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?” ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਕਿਉਂ ਤੂੰ ਮੈਨੂੰ ਜੋ ਚੰਗਾ ਹੈ ਉਸ ਬਾਰੇ ਪੁੱਛ ਰਿਹਾ ਹੈਂ ? ਸਿਰਫ ਇਕ ਹੀ ਚੰਗਾ ਹੈ ਅਤੇ ਉਹ ਹੈ ਪ੍ਰਮੇਸ਼ਵਰ | ਪਰ ਜੇ ਤੂੰ ਅਨੰਤ ਜੀਵਨ ਪਾਉਣਾ ਚਹੁੰਦਾ ਹੈ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਹੁਕਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰ |”
+  * **[28-10]**  ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਹਰ ਕੋਈ ਜਿਸ ਨੇ ਮੇਰੇ ਨਾਮ ਦੇ ਕਾਰਨ ਆਪਣਾ ਘਰ, ਭੈਣ-ਭਰਾ, ਮਾਤਾ-ਪਿਤਾ, ਬੱਚੇ ਜਾਂ ਧੰਨ ਦੌਲਤ ਛੱਡੇ ਹਨ ਉਹ ਜਰੁਰ 100 ਗੁਣਾ ਵੱਧ ਪਵੇਗਾ ਅਤੇ ਅਨੰਤ ਜੀਵਨ ਵੀ ਪ੍ਰਾਪਤ ਕਰੇਗਾ |”
 ~~DISCUSSION~~{{tag>publish ktobs}}
