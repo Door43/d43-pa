@@ -1,35 +1,37 @@
-====== forgive, forgiveness ======
+====== **ਮਾਫ਼ ਕਰਨਾ **,
 
-===== Definition: =====
+ਮਾਫ਼ੀ   ======
 
-To forgive someone means to not resent that person and not be angry at him for doing something hurtful.
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-  * Forgiving someone often means not punishing that person for something he has done wrong.
-  * This can also mean not making someone pay back money he owes, as in, "forgiving a debt."
-  * Forgiveness is the act of forgiving.
-  * When people confess their sins, God forgives them based on Jesus' sacrificial death on the cross.
-  * Jesus taught his disciples to forgive others as he has forgiven them.
+ਕਿਸੇ ਨੂੰ ਮਾਫ਼ ਕਰਨ ਦਾ ਮਤਲਬ ਕਿਸ ਪ੍ਰਤੀ ਨਰਾਜਗੀ ਨਾ ਰੱਖਣੀ ਅਤੇ ਨਾ ਉਸ ਗੱਲ ਵਾਸਤੇ ਜੋ ਉਸਨੇ ਠੇਸ ਦੇਣ ਲਈ ਕੀਤਾ ਉਸ ਉੱਤੇ ਗੁੱਸੇ ਹੋਣਾ |
+
+  * ਕਿਸੇ ਨੂੰ ਮਾਫ਼ ਕਰਨਾ ਆਮ ਤੌਰ ਤੇ ਮਤਲਬ ਹੈ ਕਿ ਉਸ ਵਿਅਕਤੀ ਨੂੰ ਜੋ ਉਸ ਨੇ ਗਲਤ ਕੀਤਾ ਹੈ ਉਸ ਲਈ ਦਬਾਉਣਾ |
+  * ਇਸ ਦਾ ਇਹ ਵੀ ਮਤਲਬ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕਿਸੇ ਉਧਾਰ ਦੇ ਪੈਸੇ ਵਾਪਸ ਨਾ ਲੈਣੇ ਜਿਵੇਂ “ਕਰਜ ਮਾਫ਼” ਵਿਚ ਹੁੰਦਾ ਹੈ |
+  * ਮਾਫ਼ੀ ਮਾਫ਼ ਕਰਨ ਦੀ ਕਿਰਿਆ ਹੈ |
+  * ਜਦੋਂ ਲੋਕ ਆਪਣੇ ਪਾਪਾਂ ਤੋਂ ਤੌਬਾ ਕਰਦੇ ਹਨ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਯਿਸੂ ਦੀ ਸਲੀਬ ਉੱਤੇ ਬਲੀਦਾਨ ਵਾਲੀ ਮੌਤ ਦੇ ਵਸੀਲੇ ਉਹਨਾਂ ਨੂੰ ਮਾਫ਼ ਕਰਦਾ ਹੈ |
+  * ਯਿਸੂ ਨੇ ਆਪਣੇ ਚੇਲਿਆਂ ਨੂੰ ਸਿੱਖਾਇਆ ਕਿ ਜਿਵੇਂ ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਮਾਫ਼ ਕੀਤਾ ਹੈ ਤਿਵੇਂ ਹੀ ਉਹ ਵੀ ਦੂਸਰਿਆਂ ਨੂੰ ਮਾਫ਼ ਕਰਨ |
 
 ===== Translation Suggestions: =====
 
   * Depending on the context, "forgive" could be translated as, "pardon" or "cancel" or "release" or "not hold against" (someone).
   * The term "forgiveness" could be translated by a word or phrase that means, "practice of not resenting" or "declaring (someone) as not guilty" or "the act of pardoning."
 
-(See:  [[:pa:obe:kt:guilt]])
+(See: [[:pa:obe:kt:guilt|guilt, guilty]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?forgive&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:07-10|[07-10]]]** But Esau had already **forgiven**  Jacob, and they were happy to see each other again.
-  * **[[:pa:obs:notes:frames:13-15|[13-15]]]** Then Moses climbed the mountain again and prayed that God would **forgive**  the people. God listened to Moses and **forgave**  them.
-  * **[[:pa:obs:notes:frames:17-13|[17-13]]]** David repented of his sin and God **forgave**  him.
-  * **[[:pa:obs:notes:frames:21-05|[21-05]]]** In the New Covenant, God would write his law on the people's hearts, the people would know God personally, they would be his people, and God would **forgive**  their sins.
-  * **[[:pa:obs:notes:frames:29-01|[29-01]]]** One day Peter asked Jesus, "Master, how many times should I **forgive**  my brother when he sins against me?"
-  * **[[:pa:obs:notes:frames:29-08|[29-08]]]** I **forgave**  your debt because you begged me.
-  * **[[:pa:obs:notes:frames:38-05|[38-05]]]** Then Jesus took a cup and said, "Drink this. It is my blood of the New Covenant that is poured out for the **forgiveness**  of sins.
+  * **[07-10]** ਪਰ ਏਸਾਓ ਯਕੂਬ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਮਾਫ਼ ਕਰ ਚੁੱਕਿਆ ਸੀ ਅਤੇ ਉਹ ਇਕ ਦੂਸਰੇ ਨੂੰ ਦੇਖ ਕੇ ਖੁਸ਼ ਸਨ |
+  * **[13-15]** ਤੱਦ ਮੂਸਾ ਦੁਬਾਰਾ ਫੇਰ ਪਰਬਤ ਤੇ ਚੜ੍ਹ ਗਿਆ ਅਤੇ ਪ੍ਰਾਰਥਨਾ ਕੀਤੀ ਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਲੋਕਾਂ ਨੂੰ ਮਾਫ਼ ਕਰੇ | ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮੂਸਾ ਦੀ ਸੁਣੀ ਅਤੇ ਲੋਕਾਂ ਨੂੰ ਮਾਫ਼ ਕਰ ਦਿੱਤਾ |
+  * **[17-13]** ਦਾਉਦ ਨੇ ਆਪਣੇ ਪਾਪ  ਤੋਂ ਤੌਬਾ ਕੀਤੀ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਨੂੰ ਮਾਫ਼ ਕਰ ਦਿੱਤਾ |
+  * **[21-05]** ਨਵੇਂ ਨੇਮ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਆਪਣੀ ਬਵਿਸਥਾ ਨੂੰ ਲੋਕਾਂ ਦੇ ਦਿਲਾਂ ਉੱਤੇ ਲਿਖੇਗਾ ਅਤੇ ਲੋਕਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਵਿਅਕਤੀਗਤ ਜਾਨਣਗੇ, ਉਹ ਉਸਦੇ ਲੋਕ ਹੋਣਗੇ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ  ਦੇ ਪਾਪਾਂ ਨੂੰ ਮਾਫ਼ ਕਰੇਗਾ |
+  * **[29-01]** ਇਕ ਦਿਨ ਪਤਰਸ ਨੇ ਯਿਸੂ ਨੂੰ ਪੁੱਛਿਆ, “ਸਵਾਮੀ, ਜਦੋਂ ਮੇਰਾ ਭਰਾ ਮੇਰੇ ਵਿਰੁਧ ਪਾਪ ਕਰਦਾ ਹੈ ਤਾਂ ਕਿੰਨੀ ਵਾਰ ਮੈਨੂੰ ਉਸ ਨੂੰ ਮਾਫ਼ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?”
+  * **[29-08]** ਮੈਂ ਤੇਰੇ ਕਰਜ ਨੂੰ ਮਾਫ਼ ਕੀਤਾ ਕਿਉਂਕਿ ਤੂੰ ਮੇਰੇ ਅੱਗੇ ਤਰਲੇ ਕੀਤੇ |
+  * **__[__ 38-05]** ਤੱਦ ਯਿਸੂ ਨੇ ਕੱਪ ਲਿਆ ਅਤੇ ਕਿਹਾ, “ਇਸ ਨੂੰ ਪੋਵੋ| ਨਵੇਂ ਨੇਮ ਦਾ ਇਹ ਮੇਰਾ ਖੂਨ ਹੈ ਜੋ ਤੁਹਾਡੇ ਪਾਪਾਂ ਦੀ ਮਾਫ਼ੀ ਲਈ ਡੋਹਲਿਆ ਜਾਂਦਾ ਹੈ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
