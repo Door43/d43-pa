@@ -1,6 +1,8 @@
-====== glory, glorious ======
+====== **ਮਹਿੰਮਾ **,
 
-===== Definition: =====
+ਸ਼ਾਨਦਾਰ   ======
+
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 In general, the term "glory" means honor, splendor, and extreme greatness. Anything that has glory is said to be "glorious."
 
@@ -10,21 +12,21 @@ In general, the term "glory" means honor, splendor, and extreme greatness. Anyth
 ===== Translation Suggestions: =====
 
   * Depending on the context, different ways to translate "glory" could include, "splendor" or "brightness" or "majesty" or "awesome greatness" or "extreme value."
-  * The term "glorious" could be translated as  "full of glory" or "extremely valuable" or "brightly shining" or "awesomely majestic."
+  * The term "glorious" could be translated as "full of glory" or "extremely valuable" or "brightly shining" or "awesomely majestic."
   * The idiom,"give glory to God" could be translated as "honor God's greatness" or "praise God because of his splendor" or "tell others how great God is."
 
-(See also: [[:pa:obe:kt:glorify]])
+(See also: [[:pa:obe:kt:glorify|glorify]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?glory&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "**Glory**  to God in heaven and peace on earth to the people he favors!"
-  * **[[:pa:obs:notes:frames:25-06|[25-06]]]** Then Satan showed Jesus all the kingdoms of the world and all their **glory**  and said, "I will give you all this if you bow down and worship me."
-  * **[[:pa:obs:notes:frames:37-01|[37-01]]]** When Jesus heard this news, he said, "This sickness will not end in death, but it is for the **glory**  of God."
-  * **[[:pa:obs:notes:frames:37-08|[37-08]]]** Jesus responded, "Did I not tell you that you would see God's **glory**  if you believe in me?"
+  * **[23-07]** ਅਚਕਨ, ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਕਰਦੇ ਹੋਏ ਦੂਤਾਂ ਦੇ ਨਾਲ ਆਕਾਸ਼ ਭਰ ਗਏ ਅਤੇ ਇਹ ਕਹਿੰਦੇ ਹੋਏ, “ਸਵਰਗ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਅਤੇ ਧਰਤੀ ਉੱਤੇ ਉਹਨਾਂ ਲੋਕਾਂ ਉੱਤੇ ਉਸ ਦੀ ਸ਼ਾਂਤੀ ਜਿਹਨਾਂ ਉੱਤੇ ਉਸ ਦੀ ਦਯਾ ਹੈ !”
+  * **[25-06]** ਤੱਦ ਸ਼ੈਤਾਨ ਨੇ ਯਿਸੂ ਨੂੰ ਸੰਸਾਰ ਦੇ ਸਾਰੇ ਰਾਜ ਦਿਖਾਏ ਅਤੇ ਉਹਨਾਂ ਦੀ ਸਾਰੀ ਮਹਿੰਮਾ ਅਤੇ ਕਿਹਾ, “ਮੈਂ ਤੈਨੂੰ ਇਹ ਸਰ ਦੇ ਦੇਵਾਂਗਾ ਜੇ ਤੂੰ ਮੈਨੂੰ ਝੁੱਕ ਕੇ ਸਿੱਜਦਾ ਕਰੇਂ |”
+  * **[37-01]**  ਜਦੋਂ ਯਿਸੂ ਨੇ ਇਹ ਖਬਰ ਸੁਣੀ ਤਾਂ ਉਸ ਨੇ ਕਿਹਾ, “ਇਹ ਬਿਮਾਰੀ ਮੌਤ ਵਿਚ ਉਸਦਾ ਅੰਤ ਨਹੀਂ ਹੈ ਬਲਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ  ਲਈ ਹੈ |”
+  * **[37-08]** ਯਿਸੂ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਕਿ ਮੈਂ ਤੁਹਾਨੂੰ ਇਹ ਨਹੀਂ ਦੱਸਿਆ ਕਿ ਜੇ ਤੁਸੀਂ ਮੇਰੇ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਕਰੋਂਗੇ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਦੇਖੋਂਗੇ ?”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
