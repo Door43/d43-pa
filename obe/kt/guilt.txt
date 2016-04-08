@@ -1,29 +1,37 @@
-====== guilt, guilty ======
+====== **ਦੋਸ਼**,
 
-===== Definition: =====
+ਦੋਸ਼ੀ   ======
 
-The term "guilt" refers to the fact of having sinned or committed a crime.
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-  * To "be guilty" means to have done something morally wrong, that is, to have disobeyed God.
+ਦੋਸ਼ ਕੀਤੇ ਪਾਪ ਜਾਂ ਜੁਰਮ ਦੀ ਸਚਿਆਈ ਹੈ |
+
+  * ਦੋਸ਼ੀ ਹੋਣ ਦਾ ਮਤਲਬ ਹੈ, “ਕੁੱਝ ਨੈਤਿਕ ਗਲਤ ਕੀਤਾ ਹੋਇਆ” ਮਤਲੱਬ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਉਲੰਘਣਾ|”
   * The opposite of "guilty" is "innocent."
 
 ===== Translation Suggestions: =====
 
-  * Some languages might translate "guilt" as "the weight of one's sins" or "the counting of one's sins."
+  * ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਸ ਤਰਾਂ ਅਨੁਵਾਦ ਕਰ ਸਕਦੀਆਂ ਹਨ “ਦੋਸ਼” ਜਿਵੇਂ “ਕਿਸੇ ਦੇ ਪਾਪਾਂ ਦਾ ਭਾਰ” ਜਾਂ “ਕਿਸੇ ਦੇ ਪਾਪਾਂ ਦੀ ਗਿਣਤੀ|”
   * Ways to translate "to be guilty" could include a word or phrase that means, "to be at fault" or "having done something morally wrong" or "having committed a sin."
 
-(See also: [[:pa:obe:kt:innocent|innocent]], [[:pa:obe:kt:sin|sin, sinful, sinner]], [[:pa:obe:other:punish|punish, punishment]])
+(ਇਹ ਵੀ ਦੇਖੋ: ਨਿਰਦੋਸ਼, ਪਾਪ[[:pa:obe:kt:sin|, ]]
+
+ਪਾਪੀ  [[:pa:obe:kt:sin|, ]]
+
+ਪਾਪੀ  , ਸਜਾ[[:pa:obe:other:punish|, ]]
+
+ਨੂੰ ਸਜ਼ਾ  )
 
 ===== Bible References: =====
 
 {{topic>:en:bible?guilt&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:39-02|[39-02]]]** They brought many witnesses who lied about him (Jesus). However, their statements did not agree with each other, so the Jewish leaders could not prove he was **guilty**  of anything.
-  * **[[:pa:obs:notes:frames:39-11|[39-11]]]** After speaking with Jesus, Pilate went out to the crowd and said, "I find no **guilt**  in this man." But the Jewish leaders and the crowd shouted, "Crucify him!" Pilate replied, "He is not **guilty**." But they shouted even louder. Then Pilate said a third time, "He is not **guilty**!"
-  * **[[:pa:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them mocked Jesus, but the other said, "Don't you fear God? We are **guilty**, but this man is innocent.
-  * **[[:pa:obs:notes:frames:49-10|[49-10]]]** Because of your sin, you are **guilty**  and deserve to die.
+  * **[39-02]** ਉਹ ਬਹੁਤ ਸਾਰੇ ਗਵਾਹ ਲੈ ਕੇ ਆਏ ਜਿਹਨਾਂ ਨੇ ਉਸ ਬਾਰੇ (ਯਿਸੂ ਬਾਰੇ) ਝੂਠ ਬੋਲਿਆ | ਫਿਰ ਵੀ, ਉਹਨਾਂ ਦੇ ਬਿਆਨ ਇਕ ਦੂਸਰੇ ਨਾਲ ਨਾ ਮਿਲੇ ਇਸ ਲਈ ਯਹੂਦੀ ਆਗੂ ਉਸ ਨੂੰ ਕਿਸੇ ਵੀ ਗੱਲ ਵਿਚ ਦੋਸ਼ੀ ਨਾ ਠਹਿਰਾ ਸਕੇ |
+  * **[39-11]** ਯਿਸੂ ਨਾਲ ਗੱਲ ਕਰਨ ਦੇ ਬਾਅਦ ਪਿਲਾਤੂਸ ਭੀੜ ਵੱਲ ਗਿਆ ਅਤੇ ਕਿਹਾ, “ਮੈਂ ਇਸ ਆਦਮੀ ਵਿਚ ਕੋਈ ਦੋਸ਼ ਨਹੀਂ ਦੇਖਦਾ |” ਪਰ ਯਹੂਦੀ ਆਗੂ ਅਤੇ ਭੀੜ ਨੇ ਰੌਲਾ ਪਾਇਆ, “ਇਸ ਨੂੰ ਸਲੀਬ ਦਿਓ!” ਪਿਲਾਤੂਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ, “ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ |” ਪਰ ਉਹਨਾਂ ਨੇ ਉਸ ਤੋਂ ਵੀ ਜਿਆਦਾ ਰੌਲਾ ਪਾਇਆ | ਤੱਦ ਪਿਲਾਤੂਸ ਨੇ ਤੀਸਰੀ ਵਾਰ ਕਿਹਾ, “ਉਹ ਦੋਸ਼ੀ ਨਹੀਂ ਹੈ !’
+  * **[40-04]** ਯਿਸੂ ਨੂੰ ਦੋ ਡਾਕੂਆਂ ਦੇ ਵਿਚਕਾਰ ਸਲੀਬ ਦਿੱਤਾ ਗਿਆ | ਉਹਨਾਂ ਵਿਚੋਂ ਇਕ ਨੇ ਯਿਸੂ ਨੂੰ ਮਜਾਕ ਪਰ ਦੂਸਰੇ ਨੇ ਕਿਹਾ, “ਕਿ ਤੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਤੋਂ ਨਹੀਂ ਡਰਦਾ? ਅਸੀਂ ਦੋਸ਼ੀ ਹਾਂ ਪਰ ਇਸ ਵਿਅਕਤੀ ਨਿਰਦੋਸ਼ ਹੈ |
+  * **[49-10]** ਤੇਰੇ ਪਾਪ ਦੇ ਕਾਰਨ ਤੂੰ ਦੋਸ਼ੀ ਹੈ ਅਤੇ ਮੌਤ ਦੇ ਹੱਕਦਾਰ ਹੈ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
