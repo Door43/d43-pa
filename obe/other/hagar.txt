@@ -1,31 +1,33 @@
-====== Hagar ======
+====== **ਹਾਜਰਾਂ**  ======
 
+===== **ਸਚਿਆਈਆਂ**: =====
 
-===== Facts: =====
+ਹਾਜਰਾਂ ਸਰਾਹ ਦੀ ਨਿੱਜੀ ਗੁਲਾਮ (ਗੋਲੀ) ਸੀ |
 
-Hagar was Sarai's personal slave.
-
-  * Sarai, later named Sarah, gave Hagar to her husband, Abram, as a slave wife.
-  * Sarai wanted Hagar to bear children for her and Abram.
+  * ਸਰਾਈ, ਬਾਅਦ ਵਾਲਾ ਨਾਮ ਸਾਰਾਹ ਨੇ ਆਪਣੇ ਪਤੀ ਅਬਰਾਮ ਆਪਣੀ ਗੋਲੀ ਹਾਜਰਾਂ ਨੂੰ ਇਕ ਗੁਲਾਮ ਪਤਨੀ ਕਰਕੇ ਦਿੱਤਾ |
+  * ਸਰਾਈ ਚਹੁੰਦੀ ਸੀ ਕਿ ਹਾਜਰਾਂ ਅਬਰਾਮ ਆਏ ਉਸ ਲਈ ਬੱਚਾ ਪੈਦਾ ਕਰੇ |
   * Hagar gave birth to Abram's son, Ishmael.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[sarah]], [[en:obe:other:abraham]], [[servant]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਸਾਰਾਹ** [[:pa:obe:other:sarah|, ]]
+
+ਸਰਾਏ  , **ਅਬਰਾਹਾਮ** [[:en:obe:other:abraham|, ]]
+
+ਅਬਰਾਮ  ,
+
+ਨੌਕਰ ਨੂੰ  [[:pa:obe:other:servant|, ]]**ਗੁਲਾਮ** [[:pa:obe:other:servant|, ]]
+
+ਗੁਲਾਮੀ  )
 
 ===== Bible References: =====
 
-
 {{topic>:en:bible?Hagar&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  ***[[:pa:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
-  ***[[:pa:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
-
-~~DISCUSSION~~
-
-
-{{tag>publish ktobs}}
+  * **[05-01]** ਇਸ ਲਈ ਅਬਰਾਹਾਮ ਦੀ ਪਤਨੀ ਸਰਾਈ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਜਦਕਿ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਮੈਨੂੰ ਬੱਚਾ ਜਨਣ ਦੇ ਯੋਗ ਨਹੀਂ ਕੀਤਾ ਅਤੇ ਹੁਣ ਮੈਂ ਬੱਚਾ ਪੈਦਾ ਕਰਨ ਲਈ ਬਹੁਤ ਬੁੜੀ ਹੋ ਚੁੱਕੀ  ਹਾਂ  ਇਸ ਲਈ ਇਹ ਮਾਰੇ ਗੋਲੀ ਹਾਜਰਾਂ ਲੈ | ਇਸ ਨਾਲ ਵੀ ਵਿਆਹ ਕਰ
+  * **[05-02]** ਹਾਜਰਾਂ ਨੂੰ ਲੜਕਾ ਪੈਦਾ ਹੋਇਆ ਅਤੇ ਅਬਰਾਮ ਨੇ ਉਸਦਾ ਨਾਮ ਇਸ਼ਮਾਇਲ ਰੱਖਿਆ |
+~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
