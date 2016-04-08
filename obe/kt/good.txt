@@ -1,14 +1,16 @@
-====== good, goodness ======
+====== **ਚੰਗਾ**,
 
-===== Definition: =====
+ਭਲਿਆਈ   ======
 
-The word "good" has different meanings depending on the context. Many languages will use different words to translate these different meanings.
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
-  * In general, something is good if it fits with God's character, purposes, and will.
+ਸ਼ਬਦ “ਚੰਗਾ” ਦੇ ਬਹੁਤ ਸਾਰੇ ਮਤਲਬ ਹਨ ਅਤੇ ਇਹ ਸੰਦਰਭ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ | ਸ਼ਾਇਦ ਕੁੱਝ ਭਾਸ਼ਾਵਾਂ ਇਹਨਾਂ ਭਿੰਨ ਮਤਲਬਾਂ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਭਿੰਨ ਸ਼ਬਦਾਂ ਦਾ ਇਸਤੇਮਾਲ ਕਰਦੇ ਹਨ |
+
+  * ਆਮ ਭਾਸ਼ਾ ਵਿਚ, ਕੁੱਝ ਚੰਗਾ ਹੈ ਜੇ ਉਸ ਦੀ ਸਹਿਮਤੀ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਚਰਿੱਤਰ, ਉਦੇਸ਼ ਅਤੇ ਇੱਛਾ ਨਾਲ ਹੈ |
   * Something that is "good" could be pleasing, excellent, helpful, suitable, profitable, or morally right.
   * Land that is "good" could be called "fertile" or "productive."
   * A "good" crop could be a "plentiful" crop.
-  * A person can be "good" at what they do if they are skillful at their task or profession, as in, "a good farmer."
+  * ਇਕ ਵਿਅਕਤੀ “ਚੰਗਾ” ਹੋ ਸਕਦਾ ਹੈ ਉਸ ਵਿਚ ਜੋ ਉਹ ਕਰਦਾ ਹੈ ਜੇ ਉਹ ਆਪਣੇ ਕੰਮ ਜਾਂ ਧੰਦੇ ਵਿਚ ਨਿਪੁੰਨ ਹੋਵੇ ਜਿਵੇਂ ਕਿ “ਇਕ ਚੰਗਾ ਕਿਸਾਨ”|
   * In the Bible, the general meaning of "good" is often contrasted with "evil."
   * The term "goodness" usually refers to being morally good or righteous in thoughts and actions.
   * The goodness of God refers to how he blesses people by giving them good and beneficial things. It also can refer to his moral perfection.
@@ -21,22 +23,22 @@ The word "good" has different meanings depending on the context. Many languages 
   * The phrase "do good to" means to do something that benefits others and could be translated as to "be kind to" someone or to "help" or "benefit" someone.
   * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
 
-(See also: [[:pa:obe:kt:holy]], [[:pa:obe:other:profit]], [[:pa:obe:kt:righteous]], [[:pa:obe:kt:evil]])
+(See also: [[:pa:obe:kt:holy|holy, holiness]], [[:pa:obe:other:profit|profit, profitable]], [[:pa:obe:kt:righteous|righteous, righteousness]], [[:pa:obe:kt:evil|evil]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?good&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:01-04|[01-04]]]** God saw that what he had created was **good**.
-  * **[[:pa:obs:notes:frames:01-11|[01-11]]]** God planted…the tree of the knowledge of **good**  and evil."
-  * **[[:pa:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not **good**  for man to be alone."
-  * **[[:pa:obs:notes:frames:02-04|[02-04]]]**"God just knows that as soon as you eat it, you will be like God and will understand **good**  and evil like he does."
-  * **[[:pa:obs:notes:frames:08-12|[08-12]]]**"You tried to do evil when you sold me as a slave, but God used the evil for **good**!"
-  * **[[:pa:obs:notes:frames:14-15|[14-15]]]** Joshua was a **good**  leader because he trusted and obeyed God.
-  * **[[:pa:obs:notes:frames:18-13|[18-13]]]** Some of these kings were **good**  men who ruled justly and worshiped God.
-  * **[[:pa:obs:notes:frames:28-01|[28-01]]]**"**Good**  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '**good**?' There is only one who is **good**, and that is God."
+  * **[01-04]** ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਦੇਖਿਆ ਕਿ ਜੋ ਕੁੱਝ ਉਸ ਨੇ ਰਚਿਆ ਉਹ ਚੰਗਾ ਸੀ |
+  * **[01-11]** ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਬੁਰੇ ਅਤੇ ਭਲੇ ਦੇ ਗਈਆਂ ਦਾ ਦਰੱਖਤ ਲਾਇਆ |
+  * **[01-12]** ਤੱਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਕਿਹਾ, “ਆਦਮੀ ਦੇ ਲਈ ਇਹ ਚੰਗੀ ਗੱਲ ਨਹੀਂ ਕਿ ਉਹ ਇੱਕਲਾ ਰਹੇ|”
+  * **[02-04]** ”ਪ੍ਰਮੇਸ਼ਵਰ ਜਾਣਦਾ ਹੈ ਕਿ ਜਿਵੇਂ ਹੀ ਤੂੰ ਖਾਵੇਂਗਾ ਤਾਂ ਤੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਵਰਗਾ ਹੋ ਜਾਵੇਂਗਾ ਅਤੇ ਉਸ ਦੀ ਤਰਾਂ ਬੁਰੇ ਅਤੇ ਭਲੇ ਨੂੰ ਸਮਝ ਜਾਵੇਂਗਾ |”
+  * **[08-12]** “ਤੁਸੀਂ ਬੁਰਾ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਦੋਂ ਤੁਸੀਂ ਮੈਨੂੰ ਇਕ ਗੁਲਾਮ ਦੇ ਰੂਪ ਵਿਚ ਵੇਚਿਆ ਪਰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਸ ਬੁਰਾਈ ਨੂੰ ਭਲਾਈ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ!”
+  * **[14-15]** ਯਹੋਸ਼ੁਆ ਇਕ ਚੰਗਾ ਆਗੂ ਸੀ ਕਿਉਂਕਿ ਉਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਉੱਤੇ ਭਰੋਸਾ ਕੀਤਾ ਅਤੇ ਉਸਦੀ ਪਾਲਣਾ ਕੀਤੀ |
+  * **[18-13]** ਇਹਨਾਂ ਵਿਚੋਂ ਕੁੱਝ ਰਾਜੇ ਚੰਗੇ ਮਨੁੱਖ ਸਨ ਜਿਹਨਾਂ ਨੇ ਧਰਮ ਨਾਲ ਰਾਜ ਕੀਤਾ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਬੰਦਗੀ ਕੀਤੀ |
+  * **[28-01]** “ਚੰਗੇ ਗੁਰੂ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕਿ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ? ਯਿਸੂ ਨੇ ਉਸ ਨੂੰ ਕਿਹਾ, “ਕਿਉਂ ਤੂੰ ਮੈਨੂੰ ਚੰਗਾ ਕਹਿੰਦਾ ਹੈ ?” ਸਿਰਫ ਇਕ ਹੀ ਚੰਗਾ ਹੈ ਅਤੇ ਉਹ ਹੈ ਪ੍ਰਮੇਸ਼ਵਰ |”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
