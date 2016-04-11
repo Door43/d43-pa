@@ -1,6 +1,12 @@
-====== heaven, sky, heavens, heavenly ======
+====== **ਸਵਰਗ**,
 
-===== Definition: =====
+ਅਸਮਾਨ  ,
+
+ਅਕਾਸ਼  ,
+
+ਸਵਰਗੀ   ======
+
+===== **ਪਰਿਭਾਸ਼ਾ**: =====
 
 The term that is translated as "heaven" refers to where God lives. The same word can also mean "sky," depending on the context.
 
@@ -9,7 +15,6 @@ The term that is translated as "heaven" refers to where God lives. The same word
   * In some contexts in the Bible, the word "heaven" could refer to either the sky or the place where God lives.
   * When "heaven" is used figuratively, it is a way of referring to God. For example, when Matthew writes about the "kingdom of heaven" he is referring to the kingdom of God.
 
-
 ===== Translation Suggestions: =====
 
   * When "heaven" is used figuratively, it could be translated as "God."
@@ -17,20 +22,18 @@ The term that is translated as "heaven" refers to where God lives. The same word
   * The terms "heavens" or "heavenly bodies" could also be translated as, "sun, moon, and stars" or "all the stars in the universe."
   * The phrase, "stars of heaven" could be translated as "stars in the sky" or "stars in the galaxy" or "stars in the universe."
 
-
-
 ===== Bible References: =====
 
 {{topic>:en:bible?heaven&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  * **[[:pa:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.**
-  * **[[:pa:obs:notes:frames:14-11|[14-11]]]** He (God) gave them bread from **heaven**, called "manna."
-  * **[[:pa:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven**  and peace on earth to the people he favors!"
-  * **[[:pa:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly**  Father will do to every one of you if you do not forgive your brother from your heart."
-  * **[[:pa:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven**  and said, "Father, thank you for hearing me."
-  * **[[:pa:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
+  * **[04-02]** ਇਥੋਂ ਤੱਕ ਕਿ ਉਹ **ਸਵਰਗ**  ਵਿਚ ਪਹੁੰਚਣ ਲਈ ਇਕ ਉੱਚਾ ਬੁਰਜ ਬਣਾਉਣ ਲੱਗੇ |
+  * **[14-11]**  ਉਸ ਨੇ (ਪ੍ਰਮੇਸ਼ਵਰ) ਉਹਨਾਂ ਨੂੰ **ਸਵਰਗ**  ਤੋਂ ਰੋਟੀ ਦਿੱਤੀ ਜਿਸ ਨੂੰ “ਮੰਨਾ” ਕਿਹਾ ਜਾਂਦਾ ਸੀ |
+  * **[23-07]** ਅਚਾਨਕ, ਆਕਾਸ਼ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਕਰਦੇ ਹੋਏ ਦੂਤਾਂ ਨਾਲ ਭਰ ਗਿਆ ਜੋ ਇਹ ਕਹਿੰਦੇ ਸਨ, “**ਸਵਰਗ**  ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਮਹਿੰਮਾ ਹੋਵੇ ਅਤੇ ਧਰਤੀ ਉੱਤੇ ਉਹਨਾਂ ਲੋਕਾਂ ਲਈ ਸ਼ਾਂਤੀ ਜਿਹਨਾਂ ਉੱਤੇ ਉਸ ਦੀ ਦਯਾ ਹੋਈ ਹੈ !”
+  * **[29-09]**  ਤੱਦ ਯਿਸੂ ਨੇ ਕਿਹਾ, “ਇਸ ਤਰਾਂ ਮੇਰਾ **ਸਵਰਗੀ**  ਪਿਤਾ ਤੁਹਾਡੇ ਸਾਰਿਆਂ ਦੇ ਨਾਲ ਕਰੇਗਾ ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਦਿਲ ਤੋਂ ਆਪਣੇ ਭਾਈ ਨੂੰ ਮਾਫ਼ ਨਾ ਕੀਤਾ |”
+  * **[37-09]** ਤੱਦ ਯਿਸੂ ਨੇ **ਸਵਰਗ**  ਵੱਲ ਦੇਖਿਆ ਅਤੇ ਕਿਹਾ, “ਪਿਤਾ, ਮੇਰੀ ਸੁਣਨ ਲਈ ਤੇਰਾ ਧਨਵਾਦ|”
+  * **[42-11]**  ਤੱਦ ਯਿਸੂ **ਸਵਰ** ਗ ਵਿਚ ਗਿਆ ਅਤੇ ਬੱਦਲਾਂ ਨੇ ਉਸ ਨੂੰ ਉਹਨਾਂ ਦੀ ਦਿਰਸ਼ਟੀ ਤੋਂ ਢੱਕ ਲਿਆ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
