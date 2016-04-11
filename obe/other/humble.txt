@@ -1,25 +1,26 @@
-====== humble, humility ======
+====== **ਦੀਨ**,
+
+ਨਿਮਰਤਾ   ======
 
 ===== Definition: =====
 
 A humble person does not think of himself as better than others. He is not proud or arrogant.
 
-  * Being humble before God means understanding our weakness and imperfection in comparison with his greatness, wisdom and perfection.
+  * ਪ੍ਰਮੇਸ਼ਵਰ ਅੱਗੇ ਦੀਨ ਹੋਣ ਦਾ ਮਤਲਬ ਹੈ ਕਿ ਆਪਣੀਆਂ ਕਮਜੋਰੀਆਂ ਅਤੇ ਖਾਮੀਆਂ ਨੂੰ ਉਸ ਦੀ ਮਹਾਨਤਾ, ਬੁੱਧੀ ਅਤੇ ਪੂਰਨਤਾਈ ਦੀ ਤੁਲਨਾ ਵਿਚ ਸਮਝਣਾ |
   * If a person humbles himself, he puts himself in a position of lower importance.
   * Humility is thinking of the needs of others before one’s own needs.
   * Humility also means serving with a modest attitude when using one's gifts and abilities.
   * The phrase "be humble" could be translated as "don't be prideful."
   * "Humble yourself before God" could be translated as, "Submit your will to God, recognizing his greatness."
 
-(See also: [[proud|proud]])
+(ਇਹ ਵੀ ਦੇਖੋ: **ਘੁਮੰਡੀ**)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?humble&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
 
-  ***[[:pa:obs:notes:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
-  ***[[:pa:obs:notes:frames:34-10|[34-10]]]** "God will **humble** everyone who is proud, and he will lift up whoever **humbles** himself."
-
+  * **[17-02]** ਦਾਉਦ ਇਕ ਦੀਨ ਅਤੇ ਧਰਮੀ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਉੱਤੇ ਭਰੋਸਾ ਕੀਤਾ ਅਤੇ ਉਸ ਦੀ ਪਾਲਣਾ ਕੀਤੀ |
+  * **[34-10]** ”ਪ੍ਰਮੇਸ਼ਵਰ ਹਰ ਘੁਮੰਡੀ ਨੂੰ ਦੀਨ ਕਰੇਗਾ ਅਤੇ ਉਹ ਉਸ ਨੂੰ ਉੱਚਾ ਕਰੇਗਾ ਜੋ ਆਪਣੇ ਆਪ ਨੂੰ ਦੀਨ ਕਰਦਾ ਹੈ |”
 ~~DISCUSSION~~{{tag>publish ktobs}}
