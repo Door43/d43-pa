@@ -1,8 +1,9 @@
-====== **ਨਰਕ**,
 
-ਅੱਗ ਦੀ ਝੀਲ   ======
 
-===== **ਪਰਿਭਾਸ਼ਾ**: =====
+ **ਨਰਕ**, **ਅੱਗ ਦੀ ਝੀਲ**
+======   ======
+
+===== ਪਰਿਭਾਸ਼ਾ: =====
 
 Hell is the final place of unending pain and suffering where God will punish everyone who rebels against him.
 
@@ -21,10 +22,11 @@ Hell is the final place of unending pain and suffering where God will punish eve
 
 {{topic>:en:bible?hell&nocomments}}
 
-===== **ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ **: =====
+===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
-  * **[[:pa:obs:notes:frames:50-14|[50-14]]]** He (God) will throw them into **hell**, where they will weep and grind their teeth in anguish forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
-  * **[[:pa:obs:notes:frames:50-15|[50-15]]]** He will throw Satan into **hell**  where he will burn forever, along with everyone who chose to follow him rather than to obey God.
+  * **[50-14]** ਉਹ (ਪ੍ਰਮੇਸ਼ਵਰ) ਉਹਨਾਂ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਰੋਣਗੇ ਅਤੇ ਕਸ਼ਟ ਵਿਚ ਹਮੇਸ਼ਾਂ ਲਈ ਆਪਣੇ ਦੰਦ ਪੀਸਣਗੇ | ਉਹ ਅੱਗ ਜੋ ਕਦੀ ਨਹੀਂ ਬੁਝਦੀ ਉਹਨਾਂ ਨੂੰ ਲਗਾਤਾਰ ਸਾੜੇਗੀ ਅਤੇ ਕਿੜਾ ਉਹਨਾਂ ਨੂੰ ਖਾਂਦਾ ਰਹੇਗਾ |
+  * **[50-15]** ਉਹ ਸ਼ੈਤਾਨ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਹਮੇਸ਼ਾਂ ਲਈ ਸੜੇਗਾ ਉਹਨਾਂ ਦੇ ਨਾਲ ਜਿਹਨਾਂ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਮਗਰ ਚੱਲਣ ਦੀ ਬਜਾਏ ਸ਼ੈਤਾਨ ਦੇ ਪਿੱਛੇ ਚੱਲਣ ਨੂੰ ਚੁਣਿਆ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
