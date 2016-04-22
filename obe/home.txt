@@ -1,9 +1,10 @@
-====== Complete List of Important Terms - Punjabi ======
+====== Complete List of translationWords - Punjabi ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:pa:obe:kt:home]]
-  * [[:pa:obe:other:home]]
+  * [[:pa:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:pa:obe:other:home|List of the Other Terms in the OBE Directory]]
+
 
 ==== All Important Terms: ====
 
