@@ -1,7 +1,6 @@
 
 
- **ਨਰਕ**, **ਅੱਗ ਦੀ ਝੀਲ**
-======   ======
+====== ਨਰਕ, ਅੱਗ ਦੀ ਝੀਲ  ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -16,7 +15,7 @@ Hell is the final place of unending pain and suffering where God will punish eve
   * In the Bible, "hell" is also called the "lake of fire." But some languages can not use "lake" because it refers to water.
   * Hell could be translated as "the place of anguish" or "the place of darkness" or "the huge fire (of suffering)" or "the field of fire."
 
-(See also: [[:en:obe:kt:heaven|heaven, sky, heavens, heavenly]], [[:en:obe:kt:death|death, die, dead]], [[:en:obe:other:hades|hades, sheol]], [[:en:obe:other:abyss|abyss]])
+(See also: [[:pa:obe:kt:heaven]], [[:pa:obe:kt:death]], [[:pa:obe:other:hades]], [[:pa:obe:other:abyss]])
 
 ===== Bible References: =====
 
@@ -24,8 +23,8 @@ Hell is the final place of unending pain and suffering where God will punish eve
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
-  * **[50-14]** ਉਹ (ਪ੍ਰਮੇਸ਼ਵਰ) ਉਹਨਾਂ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਰੋਣਗੇ ਅਤੇ ਕਸ਼ਟ ਵਿਚ ਹਮੇਸ਼ਾਂ ਲਈ ਆਪਣੇ ਦੰਦ ਪੀਸਣਗੇ | ਉਹ ਅੱਗ ਜੋ ਕਦੀ ਨਹੀਂ ਬੁਝਦੀ ਉਹਨਾਂ ਨੂੰ ਲਗਾਤਾਰ ਸਾੜੇਗੀ ਅਤੇ ਕਿੜਾ ਉਹਨਾਂ ਨੂੰ ਖਾਂਦਾ ਰਹੇਗਾ |
-  * **[50-15]** ਉਹ ਸ਼ੈਤਾਨ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਹਮੇਸ਼ਾਂ ਲਈ ਸੜੇਗਾ ਉਹਨਾਂ ਦੇ ਨਾਲ ਜਿਹਨਾਂ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਮਗਰ ਚੱਲਣ ਦੀ ਬਜਾਏ ਸ਼ੈਤਾਨ ਦੇ ਪਿੱਛੇ ਚੱਲਣ ਨੂੰ ਚੁਣਿਆ |
+    * **[[:pa:obs:notes:frames:50-14|[50-14]]]** ਉਹ (ਪ੍ਰਮੇਸ਼ਵਰ) ਉਹਨਾਂ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਰੋਣਗੇ ਅਤੇ ਕਸ਼ਟ ਵਿਚ ਹਮੇਸ਼ਾਂ ਲਈ ਆਪਣੇ ਦੰਦ ਪੀਸਣਗੇ | ਉਹ ਅੱਗ ਜੋ ਕਦੀ ਨਹੀਂ ਬੁਝਦੀ ਉਹਨਾਂ ਨੂੰ ਲਗਾਤਾਰ ਸਾੜੇਗੀ ਅਤੇ ਕਿੜਾ ਉਹਨਾਂ ਨੂੰ ਖਾਂਦਾ ਰਹੇਗਾ |
+    * **[[:pa:obs:notes:frames:50-15|[50-15]]]** ਉਹ ਸ਼ੈਤਾਨ ਨੂੰ ਨਰਕ ਵਿਚ ਸੁੱਟੇਗਾ ਜਿੱਥੇ ਉਹ ਹਮੇਸ਼ਾਂ ਲਈ ਸੜੇਗਾ ਉਹਨਾਂ ਦੇ ਨਾਲ ਜਿਹਨਾਂ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦੇ ਮਗਰ ਚੱਲਣ ਦੀ ਬਜਾਏ ਸ਼ੈਤਾਨ ਦੇ ਪਿੱਛੇ ਚੱਲਣ ਨੂੰ ਚੁਣਿਆ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
