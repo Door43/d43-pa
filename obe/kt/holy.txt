@@ -1,7 +1,5 @@
 
-
- **ਪਵਿੱਤਰ**,** ਪਵਿੱਤਰ**
-======   ======
+======  ਪਵਿੱਤਰ, ਪਵਿੱਤਰ ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -19,7 +17,7 @@ The terms "holy" and "holiness" refer to the character of God that is totally "s
   * Ways to translate "holy" might include, "set apart for God" or "belonging to God" or "completely pure" or "perfectly sinless. or "separated from sin."
   * To "make holy" is often translated as "sanctify" in English. It could also be translated as "set apart (someone) for God's glory."
 
-(See also: [[:pa:obe:kt:sanctify|sanctify, sanctification]], [[:pa:obe:kt:holyspirit|holyspirit]], [[:pa:obe:kt:setapart|set apart]])
+(See also: [[:pa:obe:kt:sanctify]], [[:pa:obe:kt:holyspirit]], [[:pa:obe:kt:setapart]])
 
 ===== Bible References: =====
 
@@ -27,11 +25,11 @@ The terms "holy" and "holiness" refer to the character of God that is totally "s
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
-  * **[01-16]**  ਉਸ ਨੇ (ਪ੍ਰਮੇਸ਼ਵਰ) ਸੱਤਵੇਂ ਦਿਨ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ ਅਤੇ ਇਸ ਨੂੰ ਪਵਿੱਤਰ ਠਹਿਰਾਇਆ, ਕਿਉਂਕਿ ਇਸ ਦਿਨ ਉਸ ਨੇ ਆਪਣੇ ਸਾਰੇ ਕੰਮ ਤੋਂ ਅਰਾਮ ਕੀਤਾ ਸੀ |
-  * **[09-12]**  “ਤੂੰ ਪਵਿੱਤਰ ਭੂਮੀ ਉੱਤੇ ਖੜ੍ਹਾ ਹੈਂ|”
-  * **[13-02]**  ”ਜੇ ਤੂੰ ਮੇਰੀ ਪਾਲਣਾ ਕਰੇਂਗਾ ਅਤੇ ਮੇਰੇ ਨੇਮ ਨੂੰ ਮੰਨੇਗਾ ਤਾਂ ਤੂੰ ਮੇਰੇ ਵਿਰਸੇ ਦਾ ਇਨਾਮ, ਜਾਜਕਾਂ ਦਾ ਰਾਜ ਆਏ ਪਵਿੱਤਰ ਜਾਤੀ ਹੋਵੇਂਗਾ|”
-  * **[13-05]**  ”ਹਮੇਸ਼ਾ ਸੱਤਵੇ ਦਿਨ ਨੂੰ ਪਵਿੱਤਰ ਰੱਖਣ ਯਕਿਨਨ ਕਰਨਾ |”
-  * **[22-05]**  ”ਇਸ ਲਈ ਬੱਚਾ ਪਵਿੱਤਰ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੋਵੇਗਾ|”
-  * **[50-02]**  ਜਦੋਂ ਅਸੀਂ ਯਿਸੂ ਦੇ ਦੁਬਾਰਾ ਆਉਣ ਲਈ ਇੰਤਜਾਰ ਕਰਦੇ ਹਾਂ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਸਾਨੂੰ ਇਸ ਤਰੀਕੇ ਨਾਲ ਜਿਉਣ ਆਸ਼ਾ ਕਰਦਾ ਹੈ ਕਿ ਜੋ ਪਵਿੱਤਰ ਅਤੇ ਉਸ ਨੂੰ ਆਦਰ ਦੇਣ ਵਾਲੀ ਹੋਵੇ |
+  * **[[:pa:obs:notes:frames:01-16|[01-16]]]**  ਉਸ ਨੇ (ਪ੍ਰਮੇਸ਼ਵਰ) ਸੱਤਵੇਂ ਦਿਨ ਨੂੰ ਬਰਕਤ ਦਿੱਤੀ ਅਤੇ ਇਸ ਨੂੰ ਪਵਿੱਤਰ ਠਹਿਰਾਇਆ, ਕਿਉਂਕਿ ਇਸ ਦਿਨ ਉਸ ਨੇ ਆਪਣੇ ਸਾਰੇ ਕੰਮ ਤੋਂ ਅਰਾਮ ਕੀਤਾ ਸੀ |
+  * **[[:pa:obs:notes:frames:09-12|[09-12]]]**  “ਤੂੰ ਪਵਿੱਤਰ ਭੂਮੀ ਉੱਤੇ ਖੜ੍ਹਾ ਹੈਂ|”
+  * **[[:pa:obs:notes:frames:13-01|[13-02]]]** ”ਜੇ ਤੂੰ ਮੇਰੀ ਪਾਲਣਾ ਕਰੇਂਗਾ ਅਤੇ ਮੇਰੇ ਨੇਮ ਨੂੰ ਮੰਨੇਗਾ ਤਾਂ ਤੂੰ ਮੇਰੇ ਵਿਰਸੇ ਦਾ ਇਨਾਮ, ਜਾਜਕਾਂ ਦਾ ਰਾਜ ਆਏ ਪਵਿੱਤਰ ਜਾਤੀ ਹੋਵੇਂਗਾ|”
+  * **[[:pa:obs:notes:frames:13-05|[13-05]]]**  ”ਹਮੇਸ਼ਾ ਸੱਤਵੇ ਦਿਨ ਨੂੰ ਪਵਿੱਤਰ ਰੱਖਣ ਯਕਿਨਨ ਕਰਨਾ |”
+  * **[[:pa:obs:notes:frames:22-05|[22-05]]]**  ”ਇਸ ਲਈ ਬੱਚਾ ਪਵਿੱਤਰ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੋਵੇਗਾ|”
+  * **[[:pa:obs:notes:frames:50-02|[50-02]]]**  ਜਦੋਂ ਅਸੀਂ ਯਿਸੂ ਦੇ ਦੁਬਾਰਾ ਆਉਣ ਲਈ ਇੰਤਜਾਰ ਕਰਦੇ ਹਾਂ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਸਾਨੂੰ ਇਸ ਤਰੀਕੇ ਨਾਲ ਜਿਉਣ ਆਸ਼ਾ ਕਰਦਾ ਹੈ ਕਿ ਜੋ ਪਵਿੱਤਰ ਅਤੇ ਉਸ ਨੂੰ ਆਦਰ ਦੇਣ ਵਾਲੀ ਹੋਵੇ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
