@@ -1,7 +1,7 @@
 
 
- **ਬਾਬਲ**,** ਬਾਬਲੀ**
-======   ======
+
+======  ਬਾਬਲ, ਬਾਬਲੀ  ======
 
 ===== ਸੱਚਿਆਈਆਂ: =====
 
@@ -10,9 +10,12 @@
   * ਬਾਬਲ ਉਸੇ ਖੇਤਰ ਵਿਚ ਸਥਿਤ ਸੀ ਜਿੱਥੇ ਬਾਬਲ ਦਾ ਬੁਰਜ ਸੈਕੜੇ ਸਾਲ ਪਹਿਲਾਂ ਬਣਾਇਆ ਗਿਆ ਸੀ |
   * Sometimes the word "Babylon" refers to the entire Babylonian Empire. For example, the "king of Babylon" ruled the entire empire, not just the city.
   * ਬਾਬਲ ਦੇ ਲੋਕ ਇਕ ਸ਼ਕਤੀਸ਼ਾਲੀ ਲੋਕਾਂ ਦਾ ਝੁੰਡ ਸੀ ਜਿਹਨਾਂ ਨੇ ਯਹੂਦਾਹਹ ਦੇ ਰਾਜ ਉੱਤੇ ਹਮਲਾ ਕੀਤਾ ਅਤੇ ਉਹਨਾਂ ਵਿਚੋਂ ਕੁੱਝ ਲੋਕਾਂ ਨੂੰ 70 ਸਾਲ ਲਈ ਗੁਲਾਮ ਬਣਾ ਲਿਆ |
-  * Part of this region was called "Chaldea" and the people living there were the "Chaldeans." Often "Chaldea" is just another name for "Babylonia."
+  * Part of this region was called "Chaldea" and the people living there were the "Chaldeans." Often "Chaldea" is just another name for "Babylonia." (See: [[:pa:ta:vol2:translate:figs_synecdoche]])
+  * In the New Testament, the term "Babylon" is sometimes used as a metaphor to refer to places, people, and thinking patterns that are associated with idol-worship and other sinful behaviors.
+  * The phrase "Babylon the Great" or "great city of Babylon" refers metaphorically to a city or nation that was large, wealthy, and sinful, just as the ancient city of Babylon was. (See: [[:pa:ta:vol1:translate:figs_metaphor]])
 
-(ਇਹ ਵੀ ਦੇਖੋ: **ਯਹੂਦਾਹਹ ਦਾ ਰਾਜ**  [[:pa:obe:other:kingdomofjudah|, ]]** ਯਹੂਦਾਹ **, **ਨਬੂਕਦਨਸਰ**, ** ਕਸਦੀ , ਕਸਦੀ **)
+(ਇਹ ਵੀ ਦੇਖੋ: [[:pa:obe:other:babel]], [[:pa:obe:other:chaldeans]], [[:pa:obe:other:kingdomofjudah]], [[:pa:obe:other:nebuchadnezzar]])
+
 
 ===== Bible References: =====
 
@@ -20,10 +23,10 @@
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
-  * **[20-06]**  ਅਸੀਰੀਆ ਦੁਆਰਾ ਇਸਰਾਏਲ ਦੇ ਰਾਜ ਨੂੰ ਤਬਾਹ ਕਰਨ ਦੇ ਲੱਗ ਭੱਗ 100 ਸਾਲ ਬਾਅਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨਬੂਕਦਨਸਰ** ਨੂੰ **  ਯਹੂਦਾਹਹ ਦੇ ਰਾਜ ਉੱਤੇ ਹਮਲ ਕਰਨ ਲਈ ਭੇਜਿਆ ਜੋ **ਬਾਬਲ**  ਦਾ ਰਾਜਾ ਸੀ | **ਬਾਬਲ**  ਇਕ ਸ਼ਕਤੀਸ਼ਾਲੀ ਸਾਮਰਾਜ ਸੀ |
-  * **[20-07]**  ਪਰ ਕੁੱਝ ਸਾਲਾਂ ਦੇ ਬਾਅਦ ਯਹੂਦਾਹਹ ਦੇ ਰਾਜਾ ਨੇ ਬਾਬਲ ਵਿਰੁਧ ਵਿਦਰੋਹ ਕਰ ਦਿੱਤਾ | ਇਸ ਲਈ **ਬਾਬਲ****ਦੇ ਲੋਕ**  ਫਿਰ ਵਾਪਸ ਆਏ ਅਤੇ ਯਹੂਦਾਹਹ ਦੇ ਰਾਜ ਉੱਤੇ ਹਮਲਾ ਕੀਤਾ | ਉਹਨਾਂ ਨੇ ਯਰੂਸ਼ਲਮ ਤੇ ਕਬਜਾ ਕਰ ਲਿਆ, ਮੰਦਰ ਨੂੰ ਤੋਂੜ ਦਿੱਤਾ, ਅਤੇ ਸਾਰੇ ਸ਼ਹਿਰ ਅਤੇ ਮੰਦਰ ਦਾ ਸਾਰਾ ਧੰਨ ਲੈ ਗਏ |
-  * **[20-09]**  ਨਬੂਕਦਨਸਰ ਅਤੇ ਉਸ ਦੀ ਸੈਨਾ ਯਹੂਦਾਹਹ ਦੇ ਲੱਗ ਭੱਗ ਸਾਰੇ ਲੋਕਾਂ ਨੂੰ **ਬਾਬਲ**  ਵਿਚ ਲੈ ਗਈ ਅਤੇ ਸਿਰਫ ਬਹੁਤ ਗਰੀਬ ਲੋਕਾਂ ਨੂੰ ਹੀ ਪਿੱਛੇ ਛੱਡ ਗਏ ਕਿ ਉਹ ਜਮੀਨ ਨੂੰ ਬੀਜਣ |
-  * **[20-11]**  ਲੱਗ ਭੱਗ 70 ਸਾਲ ਬਾਅਦ ਪ੍ਰ੍ਸੀਆਂ ਦੇ ਰਾਜ ਕੋਰਸ ਨੇ **ਬਾਬਲ**  ਨੂੰ ਹਰਾ ਦਿੱਤਾ |
+  * **[[:pa:obs:notes:frames:20-06|[20-06]]]**   ਅਸੀਰੀਆ ਦੁਆਰਾ ਇਸਰਾਏਲ ਦੇ ਰਾਜ ਨੂੰ ਤਬਾਹ ਕਰਨ ਦੇ ਲੱਗ ਭੱਗ 100 ਸਾਲ ਬਾਅਦ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨਬੂਕਦਨਸਰ** ਨੂੰ **  ਯਹੂਦਾਹਹ ਦੇ ਰਾਜ ਉੱਤੇ ਹਮਲ ਕਰਨ ਲਈ ਭੇਜਿਆ ਜੋ **ਬਾਬਲ**  ਦਾ ਰਾਜਾ ਸੀ | **ਬਾਬਲ**  ਇਕ ਸ਼ਕਤੀਸ਼ਾਲੀ ਸਾਮਰਾਜ ਸੀ |
+  * **[[:pa:obs:notes:frames:20-07|[20-07]]]**  ਪਰ ਕੁੱਝ ਸਾਲਾਂ ਦੇ ਬਾਅਦ ਯਹੂਦਾਹਹ ਦੇ ਰਾਜਾ ਨੇ ਬਾਬਲ ਵਿਰੁਧ ਵਿਦਰੋਹ ਕਰ ਦਿੱਤਾ | ਇਸ ਲਈ **ਬਾਬਲ****ਦੇ ਲੋਕ**  ਫਿਰ ਵਾਪਸ ਆਏ ਅਤੇ ਯਹੂਦਾਹਹ ਦੇ ਰਾਜ ਉੱਤੇ ਹਮਲਾ ਕੀਤਾ | ਉਹਨਾਂ ਨੇ ਯਰੂਸ਼ਲਮ ਤੇ ਕਬਜਾ ਕਰ ਲਿਆ, ਮੰਦਰ ਨੂੰ ਤੋਂੜ ਦਿੱਤਾ, ਅਤੇ ਸਾਰੇ ਸ਼ਹਿਰ ਅਤੇ ਮੰਦਰ ਦਾ ਸਾਰਾ ਧੰਨ ਲੈ ਗਏ |
+  * **[[:pa:obs:notes:frames:20-09|[20-09]]]**  ਨਬੂਕਦਨਸਰ ਅਤੇ ਉਸ ਦੀ ਸੈਨਾ ਯਹੂਦਾਹਹ ਦੇ ਲੱਗ ਭੱਗ ਸਾਰੇ ਲੋਕਾਂ ਨੂੰ **ਬਾਬਲ**  ਵਿਚ ਲੈ ਗਈ ਅਤੇ ਸਿਰਫ ਬਹੁਤ ਗਰੀਬ ਲੋਕਾਂ ਨੂੰ ਹੀ ਪਿੱਛੇ ਛੱਡ ਗਏ ਕਿ ਉਹ ਜਮੀਨ ਨੂੰ ਬੀਜਣ |
+  * **[[:pa:obs:notes:frames:20-11|[20-11]]]**  ਲੱਗ ਭੱਗ 70 ਸਾਲ ਬਾਅਦ ਪ੍ਰ੍ਸੀਆਂ ਦੇ ਰਾਜ ਕੋਰਸ ਨੇ **ਬਾਬਲ**  ਨੂੰ ਹਰਾ ਦਿੱਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
