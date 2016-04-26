@@ -1,7 +1,7 @@
 
 
-**ਭੂਤ**, **ਭਰਿਸ਼ਟ ਆਤਮਾ**, **ਭਰਿਸ਼ਟ ਆਤਮਾ**
-======   ======
+
+====== ਭੂਤ, ਭਰਿਸ਼ਟ ਆਤਮਾ, ਭਰਿਸ਼ਟ ਆਤਮਾ  ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -17,9 +17,9 @@
   * The term "demon" could also be translated as "evil spirit."
   * The term "unclean spirit" could also be translated as "impure spirit" or "corrupt spirit" or "perverse spirit."
   * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
-  * Also consider how the term "demon" is translated in a local or national language. (See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+  * Also consider how the term "demon" is translated in a local or national language. (See: [[:pa:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:pa:obe:kt:demonpossessed|ਦੁਸ਼ਟ ਆਤਮਾ ਨਾਲ ਭਰਿਆ ਹੋਇਆ]], [[:pa:obe:kt:satan|Satan, devil, evil one]], [[:pa:obe:other:idol|idol, idolatrous]], [[:pa:obe:kt:falsegod|false god, god]], [[:pa:obe:kt:angel|ਦੂਤ]], [[:pa:obe:kt:evil|evil, wicked, wickedness]], [[:pa:obe:kt:unclean|unclean, uncleanness]])
+(See also: [[:pa:obe:kt:demonpossessed]], [[:pa:obe:kt:satan]], [[:pa:obe:other:idol]], [[:pa:obe:kt:falsegod]], [[:pa:obe:kt:angel]], [[:pa:obe:kt:evil]], [[:pa:obe:kt:unclean]])
 
 ===== Bible References: =====
 
@@ -27,10 +27,10 @@
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
-  * **[26-09]**  ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਜਿਹਨਾਂ ਵਿਚ ਭੂਤ ਸਨ ਯਿਸੂ ਕੋਲ ਲਿਆਂਦੇ ਗਏ | ਜਦੋਂ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਤਾਂ ਭੂਤ ਲੋਕਾਂ ਵਿਚੋਂ ਬਾਹਰ ਅਤੇ ਆਮ ਤੌਰ ਤੇ ਚਿਲਾਉਂਦੇ , “ਤੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੱਤਰ ਹੈਂ!”
-  * **[32-08]**  ਭੂਤ ਮਨੁੱਖ ਦੇ ਵਿਚੋਂ ਨਿਕਲ ਗਏ ਅਤੇ ਸੂਰਾਂ ਵਿਚ ਜਾ ਵੜੇ |
-  * **[47-05]**  ਆਖਰਕਾਰ, ਇਕ ਦਿਨ ਜਦੋਂ ਉਸ ਲੜਕਿ ਨੇ ਚਿਲਾਉਣਾ ਸ਼ੁਰੂ ਕੀਤਾ ਤਾਂ ਪੌਲੁਸ ਉਸ ਵੱਲ ਮੁੜਿਆ ਅਤੇ ਭੂਤਾਂ ਨੂੰ ਕਿਹਾ ਜੋ ਉਸ ਲਕੜੀ ਦੇ ਅੰਦਰ ਸਨ, “ਯਿਸੂ ਦੇ ਆਮ ਵਿਚ ਉਸ ਦੇ ਵਿਚੋਂ ਬਾਹਰ ਆ ਜਾਓ|” ਉਸੇ ਘੜੀ ਭੂਤ ਉਸ ਨੂੰ ਛੱਡ ਗਏ |
-  * **[49-02]**  ਉਹ (ਯਿਸੂ) ਪਾਣੀ ਉੱਤੇ ਚੱਲਿਆ, ਤੁਫਾਨ ਨੂੰ ਸ਼ਾਂਤ ਕੀਤਾ, ਬਹੁਤੇ ਬੀਮਾਰ ਲੋਕਾਂ ਨੂੰ ਚੰਗਾ ਕੀਤਾ, ਭੂਤਾਂ ਨੂੰ ਕੱਢਿਆ, ਮੁਰਦਿਆਂ ਨੂੰ ਜੀਵਤ ਕੀਤਾ, ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਛੋਟੀਆਂ ਮੱਛੀਆਂ ਨੂੰ 5000 ਲੋਕਾਂ ਲਈ ਪਰਯਾਪਤ ਭੋਜਨ ਵਿਚ ਬਦਲ ਦਿੱਤਾ |
+  * **[[:pa:obs:notes:frames:26-09|[26-09]]]**  ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਜਿਹਨਾਂ ਵਿਚ ਭੂਤ ਸਨ ਯਿਸੂ ਕੋਲ ਲਿਆਂਦੇ ਗਏ | ਜਦੋਂ ਯਿਸੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਹੁਕਮ ਦਿੱਤਾ ਤਾਂ ਭੂਤ ਲੋਕਾਂ ਵਿਚੋਂ ਬਾਹਰ ਅਤੇ ਆਮ ਤੌਰ ਤੇ ਚਿਲਾਉਂਦੇ , “ਤੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੱਤਰ ਹੈਂ!”
+  * **[[:pa:obs:notes:frames:32-08|[32-08]]]**  ਭੂਤ ਮਨੁੱਖ ਦੇ ਵਿਚੋਂ ਨਿਕਲ ਗਏ ਅਤੇ ਸੂਰਾਂ ਵਿਚ ਜਾ ਵੜੇ |
+  * **[[:pa:obs:notes:frames:47-05|[47-05]]]**   ਆਖਰਕਾਰ, ਇਕ ਦਿਨ ਜਦੋਂ ਉਸ ਲੜਕਿ ਨੇ ਚਿਲਾਉਣਾ ਸ਼ੁਰੂ ਕੀਤਾ ਤਾਂ ਪੌਲੁਸ ਉਸ ਵੱਲ ਮੁੜਿਆ ਅਤੇ ਭੂਤਾਂ ਨੂੰ ਕਿਹਾ ਜੋ ਉਸ ਲਕੜੀ ਦੇ ਅੰਦਰ ਸਨ, “ਯਿਸੂ ਦੇ ਆਮ ਵਿਚ ਉਸ ਦੇ ਵਿਚੋਂ ਬਾਹਰ ਆ ਜਾਓ|” ਉਸੇ ਘੜੀ ਭੂਤ ਉਸ ਨੂੰ ਛੱਡ ਗਏ |
+  * **[[:pa:obs:notes:frames:49-02|[49-02]]]**  ਉਹ (ਯਿਸੂ) ਪਾਣੀ ਉੱਤੇ ਚੱਲਿਆ, ਤੁਫਾਨ ਨੂੰ ਸ਼ਾਂਤ ਕੀਤਾ, ਬਹੁਤੇ ਬੀਮਾਰ ਲੋਕਾਂ ਨੂੰ ਚੰਗਾ ਕੀਤਾ, ਭੂਤਾਂ ਨੂੰ ਕੱਢਿਆ, ਮੁਰਦਿਆਂ ਨੂੰ ਜੀਵਤ ਕੀਤਾ, ਪੰਜ ਰੋਟੀਆਂ ਅਤੇ ਦੋ ਛੋਟੀਆਂ ਮੱਛੀਆਂ ਨੂੰ 5000 ਲੋਕਾਂ ਲਈ ਪਰਯਾਪਤ ਭੋਜਨ ਵਿਚ ਬਦਲ ਦਿੱਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
