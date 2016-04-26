@@ -1,7 +1,5 @@
-======   ======
 
-**ਹਵਾਲੇ** , **ਛੁਟਕਾਰਾ**
-======   ======
+====== ਹਵਾਲੇ, ਛੁਟਕਾਰਾ  ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -19,7 +17,7 @@ To "deliver" someone means to rescue that person. The term "deliverer" refers to
   * The word "deliverer" can also be translated as, "rescuer" or "liberator."
   * When the term "deliverer" refers to the judges who led Israel, it could also be translated as "governor" or "judge" or "leader."
 
-(See: [[:pa:obe:kt:judge|judge, judgment]], [[:pa:obe:kt:save|save]])
+(See: [[:pa:obe:kt:judge]], [[:pa:obe:kt:save]])
 
 ===== Bible References: =====
 
@@ -27,9 +25,10 @@ To "deliver" someone means to rescue that person. The term "deliverer" refers to
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
-  * **[16-03]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣਾ ਤੋਂ ਬਚਾਉਣ ਲਈ ਅਤੇ ਦੇਸ਼ ਵਿਚ ਸ਼ਾਂਤੀ ਲਿਆਉਣ ਲਈ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲੇ ਪ੍ਰਦਾਨ ਕੀਤੇ |
-  * **[16-16]**  ਉਸ ਨੇ (ਇਸਰਾਏਲ) ਆਖਰਕਾਰ ਫਿਰ ਦੁਬਾਰਾ ਪ੍ਰਮੇਸ਼ਵਰ ਕੋਲੋਂ ਮੱਦਦ ਮੰਗੀ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਲਈ ਇਕ ਹੋਰ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲਾ ਦਿੱਤਾ |
-  * **[16-17]**  ਬਹੁਤ ਸਾਲਾਂ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸਰਾਏਲ ਨੂੰ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣਾ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਹੁਤ ਸਾਰੇ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲੇ ਭੇਜੇ |
+
+  * **[[:pa:obs:notes:frames:16-03|[16-03]]]**  ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੂੰ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣਾ ਤੋਂ ਬਚਾਉਣ ਲਈ ਅਤੇ ਦੇਸ਼ ਵਿਚ ਸ਼ਾਂਤੀ ਲਿਆਉਣ ਲਈ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲੇ ਪ੍ਰਦਾਨ ਕੀਤੇ |
+  * **[[:pa:obs:notes:frames:16-16|[16-16]]]**  ਉਸ ਨੇ (ਇਸਰਾਏਲ) ਆਖਰਕਾਰ ਫਿਰ ਦੁਬਾਰਾ ਪ੍ਰਮੇਸ਼ਵਰ ਕੋਲੋਂ ਮੱਦਦ ਮੰਗੀ ਅਤੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਲਈ ਇਕ ਹੋਰ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲਾ ਦਿੱਤਾ 
+  * **[[:pa:obs:notes:frames:16-17|[16-17]]]**  ਬਹੁਤ ਸਾਲਾਂ ਵਿਚ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਇਸਰਾਏਲ ਨੂੰ ਉਹਨਾਂ ਦੇ ਦੁਸ਼ਮਣਾ ਤੋਂ ਬਚਾਉਣ ਲਈ ਬਹੁਤ ਸਾਰੇ ਛੁਟਕਾਰਾ ਦੇਣ ਵਾਲੇ ਭੇਜੇ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
