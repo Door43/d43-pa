@@ -1,7 +1,7 @@
 
 
-**ਦੀਨ**, **ਨਿਮਰਤਾ**
-======   ======
+
+====== ਦੀਨ, ਨਿਮਰਤਾ   ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -14,7 +14,7 @@ A humble person does not think of himself as better than others. He is not proud
   * The phrase "be humble" could be translated as "don't be prideful."
   * "Humble yourself before God" could be translated as, "Submit your will to God, recognizing his greatness."
 
-(ਇਹ ਵੀ ਦੇਖੋ: **ਘੁਮੰਡੀ**)
+(ਇਹ ਵੀ ਦੇਖੋ: [[proud]])
 
 ===== Bible References: =====
 
@@ -22,7 +22,7 @@ A humble person does not think of himself as better than others. He is not proud
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ : =====
 
-  * **[17-02]**  ਦਾਉਦ ਇਕ ਦੀਨ ਅਤੇ ਧਰਮੀ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਉੱਤੇ ਭਰੋਸਾ ਕੀਤਾ ਅਤੇ ਉਸ ਦੀ ਪਾਲਣਾ ਕੀਤੀ |
-  * **[34-10]**  ”ਪ੍ਰਮੇਸ਼ਵਰ ਹਰ ਘੁਮੰਡੀ ਨੂੰ ਦੀਨ ਕਰੇਗਾ ਅਤੇ ਉਹ ਉਸ ਨੂੰ ਉੱਚਾ ਕਰੇਗਾ ਜੋ ਆਪਣੇ ਆਪ ਨੂੰ ਦੀਨ ਕਰਦਾ ਹੈ |”
+  ***[[:pa:obs:notes:frames:17-02|[17-02]]]**   ਦਾਉਦ ਇਕ ਦੀਨ ਅਤੇ ਧਰਮੀ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਉੱਤੇ ਭਰੋਸਾ ਕੀਤਾ ਅਤੇ ਉਸ ਦੀ ਪਾਲਣਾ ਕੀਤੀ |
+  ***[[:pa:obs:notes:frames:34-10|[34-10]]]**  ”ਪ੍ਰਮੇਸ਼ਵਰ ਹਰ ਘੁਮੰਡੀ ਨੂੰ ਦੀਨ ਕਰੇਗਾ ਅਤੇ ਉਹ ਉਸ ਨੂੰ ਉੱਚਾ ਕਰੇਗਾ ਜੋ ਆਪਣੇ ਆਪ ਨੂੰ ਦੀਨ ਕਰਦਾ ਹੈ |”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
