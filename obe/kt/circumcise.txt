@@ -1,7 +1,7 @@
 
 
- **ਖਤਨਾ**, **ਸੁੰਨਤ**
-======   ======
+
+======  ਖਤਨਾ, ਸੁੰਨਤ  ======
 
 ===== ਪਰਿਭਾਸ਼ਾ: =====
 
@@ -20,9 +20,9 @@
   * In cultures where circumcision is not known, it may be necessary to explain it in a footnote or glossary.
   * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
 
-(See: [[:en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[:pa:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
-(See also: [[:pa:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:pa:obe:kt:covenant|covenant]])
+(See also: [[:pa:obe:kt:uncircumcised]], [[:pa:obe:kt:covenant]])
 
 ===== Bible References: =====
 
@@ -30,8 +30,8 @@
 
 ===== ਬਾਈਬਲ ਦੀਆਂ ਕਹਾਣੀਆਂ ਵਿਚੋਂ ਉਦਾਹਰਨਾਂ: =====
 
-  * **[05-03]**  “ਤੇਰੇ ਲਈ ਜਰੂਰੀ ਹੈ ਕਿ ਤੂੰ ਆਪਣੇ ਪਰੀਵਾਰ ਵਿਚ ਹਰ ਨਰ ਦਾ ਖਤਨਾ ਕਰੇ|”
-  * **[05-05]**  ਉਸ ਦਿਨ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਪਣੇ ਘਰਾਣੇ ਦੇ ਸਾਰੇ ਮਰਦਾਂ ਦਾ ਖਤਨਾ ਕੀਤਾ |
+  * **[[:pa:obs:notes:frames:05-03|[05-03]]]**  “ਤੇਰੇ ਲਈ ਜਰੂਰੀ ਹੈ ਕਿ ਤੂੰ ਆਪਣੇ ਪਰੀਵਾਰ ਵਿਚ ਹਰ ਨਰ ਦਾ ਖਤਨਾ ਕਰੇ|”
+  * **[[:pa:obs:notes:frames:05-05|[05-05]]]**  ਉਸ ਦਿਨ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਪਣੇ ਘਰਾਣੇ ਦੇ ਸਾਰੇ ਮਰਦਾਂ ਦਾ ਖਤਨਾ ਕੀਤਾ |
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
