@@ -1,6 +1,6 @@
 ====== ਕਹਾਣੀ #3: ਜਲ ਪਰਲੋ ======
 
-===== **ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾ**  =====
+===== ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾ =====
 
   - **ਕਿਉਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਚਾਹਿਆ ਕੀ ਉਹ ਜਗਤ ਨੂੰ ਤਬਾਹ ਕਰਨਾ ਚਾਹਿਆ ?**
       * ਲੋਕ ਬਹੁਤ ਬੁਰੇ ਅਤੇ ਵਿਦਰੋਹੀ ਬਣ ਗਏ ਸਨ |// [03-01]//
@@ -14,24 +14,25 @@
       * ਨੂਹ, ਉਸਦੇ ਪਰੀਵਾਰ ਅਤੇ ਜਾਨਵਰਾਂ ਨੂੰ ਜਲ ਪਰਲੋ ਦੇ ਸਮੇਂ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ |// [03-03]//
   - **ਲੋਕਾਂ ਨੇ ਕੀ ਪ੍ਰਤੀਉੱਤਰ ਦਿੱਤਾ ਜਦੋਂ ਨੂਹ ਨੇ ਉਹਨਾਂ ਨੂੰ ਦੱਸਿਆ ਕੀ ਜਲ ਪਰਲੋ ਆਉਣ ਵਾਲੀ ਹੈ ?**
       * ਉਹਨਾਂ ਨੇ ਉਸ ਉੱਤੇ ਵਿਸ਼ਵਾਸ ਨਹੀਂ ਕੀਤਾ |// [03-04]//
-  - **Which animals came into the boat before the flood?**
-      * //A male and a female of every kind of animal, and seven males and seven females of every type of animal that could be used for sacrifice. [03-06]//
-  - **Who closed the door of the boat after Noah's family and the animals came inside?**
-      * //God closed the door. [03-06]//
-  - **How long did it rain?**
-      * //Forty days and forty nights. [03-07]//
-  - **How high did the water of the flood reach?**
-      * //It covered everything in the whole world, even the highest mountains. [03-08]//
-  - **What happened to everything that lived on land?**
-      * //Everything died. [03-08]//
-  - **How did Noah know the water had dried up?**
-      * //He sent out a dove and it did not return. [03-12]//
-  - **What did God tell Noah and his family to do when they left the boat?**
-      * //He told them to have many children and grandchildren and to fill the earth. [03-13]//
-  - **How did Noah worship God after he got off the boat?**
-      * //He built an altar and sacrificed some of the animals. [03-14]//
-  - **What did God promise he would never do again?**
-      * //Curse the ground or destroy the world with a flood. [03-15]//
-  - **What did God make as a sign of his promise?**
-      * //He made a rainbow in the sky. [03-16]//
+  - **ਕਿਹੜੇ ਜਾਨਵਰ ਜਲ ਪਰਲੋ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਸ਼ਤੀ ਵਿਚ ਆਏ ?**
+      * ਇਕ ਨਰ ਅਤੇ ਨਾਰੀ ਸਾਰੇ ਕਿਸਮ ਦੇ ਜਾਨਵਰਾਂ ਵਿਚੋਂ ਅਤੇ ਬਲੀ ਲਈ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਜਾਨਵਰਾਂ ਵਿਚੋਂ ਦੀ ਨਸਲ ਵਿਚੋਂ ਸੱਤ ਨਰ ਅਤੇ ਸੱਤ ਮਾਦਾ ਕਿਸ਼ਤੀ ਵਿਚ ਆਏ |// [03-06]//
+  - **ਕਿਸ਼ਤੀ ਵਿਚ ਨੂਹ ਦੇ ਪਰੀਵਾਰ ਅਤੇ ਜਾਨਵਰਾਂ ਦੇ ਪ੍ਰਵੇਸ਼ ਕਰਨ ਤੋਂ ਬਾਅਦ ਕਿਸ ਨੇ ਦਰਵਾਜਾ ਬੰਦ ਕੀਤਾ ?**
+      * ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਦਰਵਾਜਾ ਬੰਦ ਕੀਤਾ |// [03-06]//
+  - **ਕਿੰਨਾ ਸਮਾਂ ਬਾਰਸ਼ ਹੋਈ ?**
+      * ਚਾਲੀ ਦਿਨ ਅਤੇ ਚਾਲੀ ਰਾਤ | //[03-07]//
+  - **ਪਰਲੋ ਦੇ ਪਾਣੀ ਕਿੰਨੀ ਉੱਚੀ ਚੜ੍ਹ ਗਏ ?**
+      * ਇਹਨਾਂ ਨੇ ਜਗਤ ਦਾ ਸੱਭ ਕੁੱਝ ਢੱਕ ਲਿਆ, ਇੱਥੋਂ ਤੱਕ ਕਿ ਸੱਭ ਤੋਂ ਉੱਚੇ ਪਰਬਤ ਵੀ |// [03-08]//
+  - **ਧਰਤੀ ਉੱਤੇ ਰਹਿਣ ਵਾਲੇ ਹਰ ਪ੍ਰਾਣੀ ਨਾਲ ਕੀ ਹੋਇਆ ?**
+      * ਸੱਭ ਕੁੱਝ ਮਰ ਗਿਆ |// [03-08]//
+  - **ਕਿਸ ਤਰਾਂ ਨੂਹ ਨੂੰ ਪਤਾ ਲੱਗਾ ਕਿ ਪਾਣੀ ਸੁੱਕ ਗਿਆ ਹੈ ?**
+      * ਉਸ ਨੇ ਬਾਹਰ ਇਕ ਘੁੱਗੀ  ਭੇਜੀ ਅਤੇ ਉਹ ਵਾਪਸ ਨਾ ਆਈ |// [03-12]//
+  - **ਜਦੋਂ ਨੂਹ ਅਤੇ ਉਸਦੇ ਪਰਿਵਾਰ ਨੇ ਕਿਸ਼ਤੀ ਛੱਡੀ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਉਹਨਾਂ ਨੂੰ ਕੀ ਕਰਨ ਲਈ ਕਿਹਾ ?**
+      * ਉਸ ਨੇ ਉਹਨਾਂ ਨੂੰ ਬਹੁਤ ਬੱਚੇ ਪੈਦਾ ਕਰਨ ਅਤੇ ਧਰਤੀ ਨੂੰ ਭਰਨ ਲਈ ਕਿਹਾ |// [03-13]//
+  - **ਕਿਸ ਤਰਾਂ ਨੂਹ ਨੇ ਕਿਸ਼ਤੀ ਤੋਂ ਬਾਹਰ ਆਉਣ ਤੋਂ ਬਾਅਦ ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਅਰਾਧਨਾ ਕੀਤੀ ?**
+      * ਉਸ ਨੇ ਇਕ ਜਗਵੇਦੀ ਬਣਾਈ ਅਤੇ ਉਸ ਉੱਤੇ ਕੁੱਝ ਜਾਨਵਰ ਬਲੀ ਕੀਤੇ |// [03-14]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਕੀ ਕਸਮ ਖਾਧੀ ਕਿ ਉਹ ਦੁਬਾਰਾ ਕਦੀ ਨਹੀਂ ਕਰੇਗਾ ?**
+      * ਧਰਤੀ ਨੂੰ ਕਦੀ ਸਰਾਪ ਨਾ ਦੇਵਾਗਾ ਅਤੇ ਪਾਣੀ ਨਾਲ ਤਬਾਹ ਨਾ ਕਰੇਗਾ |// [03-15]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਆਪਣੇ ਵਾਇਦੇ ਲਈ ਕੀ ਨਿਸ਼ਾਨ ਰੱਖਿਆ ?**
+      * ਉਸ ਨੇ ਅਕਾਸ਼ ਵਿਚ ਇਕ ਸਤਰੰਗੀ ਪੀਂਘ ਬਣਾਈ |// [03-16]//
+
 **[[:en:obs:notes:questions:02|<< ]] | [[:en:obs:notes:questions:04| >>]]**
