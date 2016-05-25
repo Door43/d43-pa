@@ -1,27 +1,25 @@
-====== Story #10: The Ten Plagues ======
+====== **ਕਹਾਣੀ** ** #10**: **ਦੱਸ ਬਵਾਵਾਂ **  ======
 
-===== Comprehension Questions and Answers =====
+===== **ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾ**  =====
 
-  - **What was God's message that Moses and Aaron gave to Pharaoh?**
-    *//"Let my people go!" [10-01]//
-  - **What did Pharaoh do when he heard this command?**
-    *//He forced the Israelites to work even harder. [10-01]//
-  - **What did God do when Pharaoh refused to let the Israelites go?**
-    *//He sent ten terrible plagues on Egypt. [10-02]//
-  - **What did God show Pharaoh through these plagues?**
-    *//That he is more powerful than Pharaoh and all of Egypt's gods. [10-02]//
-  - **What did God do to the water in the Nile River?**
-    *//God turned water in the Nile River into blood. [10-03]//
+  - **ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਕਿਹੜਾ ਸੰਦੇਸ਼ ਸੀ ਜੋ ਮੂਸਾ ਅਤੇ ਹਰੂਨ ਨੇ ਫਰਾਉਨ ਨੂੰ ਦਿੱਤਾ ?**
+      * “ਮੇਰੇ ਲੋਕਾਂ ਨੂੰ ਜਾਣ ਦੇਹ|” //[10-01]//
+  - **ਫਰਾਉਨ ਨੇ ਕੀ ਕੀਤਾ ਜਦੋਂ ਉਸ ਨੇ ਇਸ ਹੁੱਕਮ ਨੂੰ ਸੁਣਿਆ ?**
+      * ਉਸ ਨੇ ਇਸਰੇਲੀਆਂ ਨੂੰ ਇਸ ਤੋਂ ਵੀ ਵੱਧ ਕਠਨ ਕੰਮ ਕਰਨ ਨੂੰ ਕਿਹਾ |// [10-01]//
+  - **ਜਦੋਂ ਫਰਾਉਨ ਇਸਰੇਲੀਆਂ ਨੂੰ ਜਾਣ ਤੋਂ ਮਨ੍ਹਾ ਕਰਦਾ ਤਾਂ ਪ੍ਰਮੇਸ਼ਵਰ ਕੀ ਕੀਤਾ ?**
+      * ਉਸ ਨੇ ਮਿਸਰ ਉੱਤੇ ਦੱਸ ਭਿਅੰਕਰ ਬਵਾਵਾਂ ਭੇਜੀਆਂ |// [10-02]//
+  - **ਇਹਨਾਂ ਬਵਾਵਾਂ ਦੁਆਰਾ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਫਰਾਉਨ ਨੂੰ ਕੀ ਦਿਖਾਇਆ ?**
+      * ਕਿ ਉਹ ਫਰਾਉਨ ਅਤੇ ਮਿਸਰ ਦੇ ਸਾਰੇ ਰਜਿਆਂ ਤੋਂ ਵੀ ਜਿਆਦਾ ਸ਼ਕਤੀਸ਼ਾਲੀ ਹੈ |// [10-02]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨੀਲ ਨਦੀ ਦੇ ਪਾਣੀ ਵਿਚ ਕੀ ਕੀਤਾ ?**
+      * ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਨੀਲ ਨਦੀ ਵਿਚ ਪਾਣੀ ਨੂੰ ਲਹੂ ਵਿਚ ਬਦਲ ਦਿੱਤਾ |// [10-03]//
   - **Who was affected by the plague of the painful skin sores?**
-    *//The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
+      * //The sores appeared on the Egyptians, but not on the Israelites. [10-07]//
   - **Did the plague of darkness affect everyone equally?**
-    *//No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
+      * //No. It was dark where the Egyptians lived, but there was light where the Israelites lived. [10-11]//
   - **How did Pharaoh respond to each of the first nine plagues?**
-    *//He refused to let the people go free. [10-12]//
+      * //He refused to let the people go free. [10-12]//
   - **What did God do after Pharaoh did not respond to the first nine plagues?**
-    *//God planned to send one last plague. [10-12]//
+      * //God planned to send one last plague. [10-12]//
   - **What would this last plague do that the first nine had not done?**
-    *//It would change Pharaoh's mind. [10-12]//
-
-
-**[[en/obs/notes/questions/09|<< ]] | [[en/obs/notes/questions/11| >>]]**
+      * //It would change Pharaoh's mind. [10-12]//
+**[[:en:obs:notes:questions:09|<< ]] | [[:en:obs:notes:questions:11| >>]]**
