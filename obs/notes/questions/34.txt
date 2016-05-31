@@ -1,32 +1,30 @@
-====== Story #34: Jesus Teaches Other Stories ======
+====== **Story #34**: **ਯਿਸੂ ਹੋਰ ਕਹਾਣੀਆ ਦੱਸਦਾ ਹੈ**  ======
 
-===== Comprehension Questions and Answers =====
+===== **ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾਂ **  =====
 
+  - **ਦੂਸਰੇ ਦਾਣਿਆਂ ਤੁਲਨਾ ਵਿਚ ਰਾਈ ਦਾ ਦਾਣਾ ਕਿਸ ਤਰਾਂ ਹੈ ?**
+      * ਇਹ ਸਾਰੇ ਦਾਣਿਆਂ ਨਾਲੋਂ ਛੋਟਾ ਹੈ |// [34-01]//
+  - **ਰਾਈ ਦੇ ਦਾਣੇ ਨਾਲ ਕੀ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਇਹ ਉੱਗਦਾ ਹੈ ?**
+      * ਇਹ ਬਗੀਚੇ ਦੇ ਬਾਕੀ ਪੌਦਿਆਂ ਨਾਲੋਂ ਵੱਡਾ ਹੋ ਜਾਂਦਾ ਹੈ |// [34-02]//
+  - **ਕੀ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਖਮੀਰ ਆਟੇ ਦੀ ਤੌਣ ਵਿਚ ਮਿਲਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ?**
+      * ਇਹ ਸਾਰੀ ਤੌਣ ਨੂੰ ਖਮੀਰ ਕਰ ਦਿੰਦਾ ਹੈ |// [34-03]//
+  - **ਖੇਤ ਵਿਚ ਛੁਪਾਏ ਧੰਨ ਨੂੰ ਲੱਭਣ ਤੋਂ ਬਾਅਦ ਉਸ ਆਦਮੀ ਨੇ ਕੀ ਕੀਤਾ ?**
+      * ਉਸ ਨੇ ਆਪਣਾ ਸੱਭ ਕੁੱਝ ਵੇਚ ਦਿੱਤਾ ਅਤੇ ਉਸ ਪੈਸੇ ਨਾਲ ਉਸ ਖੇਤ ਨੂੰ ਖਰੀਦਿਆ|// [34-04]//
+  - **ਜਦੋਂ ਇਕ ਹੀਰੇ ਦੇ ਵਪਾਰੀ ਨੂੰ ਇਕ ਬਹੁਮੁੱਲਾ ਹੀਰਾ ਮਿਲਦਾ ਹੈ ਤਾਂ ਉਹ ਕੀ ਕਰਦਾ ਹੈ ?**
+      * ਉਹ ਆਪਣੇ ਸੱਭ ਕੁੱਝ ਵੇਚ ਦਿੰਦਾ ਹੈ ਉਸ ਪੈਸੇ ਨਾਲ ਉਸ ਨੂੰ ਖਰੀਦਦਾ ਹੈ |// [34-05]//
+  - **ਕਿਸ ਨੂੰ ਯਿਸੂ ਨੇ ਦੋ ਪ੍ਰਾਰਥਨਾ ਕਰਨ ਵਾਲਿਆਂ ਮਨੁੱਖਾਂ ਦੀ ਕਹਾਣੀ ਦੱਸੀ ?**
+      * ਉਹ ਲੋਕ ਜੋ ਆਪਣੇ ਚੰਗੇ ਕਰਮਾਂ ਵਿਚ ਵਿਸ਼ਵਾਸ ਕਰਦੇ ਸਨ ਅਤੇ ਦੂਸਰਿਆਂ ਨੂੰ ਤ੍ਰਿਸਕਾਰਦੇ ਸਨ |// [34-06]//
+  - **ਕਿਉਂ ਧਾਰਮਿਕ ਆਗੂ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਧਨਵਾਦ ਕਰਦਾ ਸੀ ?**
+      * ਉਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਧਨਵਾਦ ਕੀਤਾ ਕਿ ਉਹ ਦੂਸਰੇ ਮਨੁੱਖ ਵਾਂਗੂ ਪਾਪੀ ਨਹੀਂ ਸੀ |// [34-07]//
+  - **ਕਿਉ ਧਾਰਮਿਕ ਆਗੂ ਇਹ ਸਮਝਦਾ ਸੀ ਕਿ ਉਹ ਧਰਮੀ ਹੈ ?**
+      * ਉਹ ਹਰ ਹਫਤੇ ਦੋ ਵਾਰ ਵਰਤ ਰੱਖਦਾ ਸੀ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਪੈਸੇ ਅਤੇ ਸੱਭ ਵਸਤਾਂ ਦਾ ਦਸਵੰਦ ਦਿੰਦਾ ਸੀ |// [34-08]//
+  - **ਮਸੂਲ ਲੈਣ ਵਾਲੇ ਪ੍ਰਮੇਸ਼ਵਰ ਕੋਲੋਂ ਕੀ ਬੇਨਤੀ ਕੀਤੀ ?**
+      * ਉਸ ਨੇ ਪ੍ਰਮੇਸ਼ਵਰ ਨੂੰ ਕਿਹਾ ਕਿ ਉਹ ਉਸ ਉੱਤੇ ਦਯਾ ਕਰੇ ਕਿਉਂਕਿ ਉਹ ਪਾਪੀ ਸੀ |// [34-09]//
+  - **ਕਿਸ ਵਿਅਕਤੀ ਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਨੇ ਧਰਮੀ ਘੋਸ਼ਿਤ ਕੀਤਾ ?**
+      * ਮਸੂਲ ਲੈਣ ਵਾਲੇ ਨੂੰ |// [34-10]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਹਰ ਇਕ ਘੁੰਮਡ ਕਰਨ ਵਾਲੇ ਨਾਲ ਕੀ ਕਰੇਗਾ ?**
+      * ਉਹ ਉਹਨਾਂ ਨੂੰ ਨੀਵੀਆਂ ਕਰੇਗਾ |// [34-01]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਉਹਨਾਂ ਸਾਰੀਆਂ ਨਾਲ ਜੋ ਨੀਵੇਂ ਜਾਂ ਦੀਨ ਕੀ ਕਰੇਗਾ ?**
+      * ਉਹ ਉਹਨਾਂ ਨੂੰ ਉੱਚਿਆਂ ਕਰੇਗਾ |// [34-10]//
 
-  - **How does a mustard seed compare to other seeds?**
-    *//It is the smallest seed of all. [34-01]//
-  - **What happens to a mustard seed when it grows?**
-    *//It becomes the largest of all the garden plants. [34-02]//
-  - **What happens to yeast when it is mixed into bread dough?**
-    *//It spreads throughout the dough. [34-03]//
-  - **What did the man do after he found the treasure that was hidden in the field?**
-    *//He sold all that he had and used the money to buy it. [34-04]//
-  - **What did the pearl merchant do when he found a perfect pearl?**
-    *//He sold all that he had and used the money to buy it. [34-05]//
-  - **To whom did Jesus tell the story of the two men praying at the Temple?**
-    *//People who trusted in their own good deeds and despised other people. [34-06]//
-  - **Why did the religious leader thank God?**
-    *//He thanked God that he was not a sinner like other men. [34-07]//
-  - **Why did the religious leader think he was righteous?**
-    *//He fasted two times every week and gave ten percent of his money and goods. [34-08]//
-  - **What did the tax collector request from God?**
-    *//He asked God to be be merciful to him because he was a sinner. [34-09]//
-  - **Which man did God declare to be righteous?**
-    *//The tax collector. [34-10]//
-  - **What will God do to everyone who is proud?**
-    *//He will humble them. [34-01]//
-  - **What will God do to everyone who is humble?**
-    *//He will lift them up. [34-10]//
-
-
-**[[en/obs/notes/questions/33|<< ]] | [[en/obs/notes/questions/35| >>]]**
+**[[:en:obs:notes:questions:33|<< ]] | [[:en:obs:notes:questions:35| >>]]**
