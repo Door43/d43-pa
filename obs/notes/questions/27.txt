@@ -1,33 +1,32 @@
-====== Story #27: The Story of the Good Samaritan ======
+====== **ਕਹਾਣੀ** ** #27**: **ਚੰਗੇ ਸਾਮਰੀ ਦੀ ਕਹਾਣੀ **  ======
 
-===== Comprehension Questions and Answers =====
+===== **ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾ**  =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
+  - **ਯਹੂਦੀ ਬਿਵਸਥਾ ਦੇ ਮਾਹਿਰਾਂ ਨੇ ਯਿਸੂ ਕੋਲੋਂ ਕਿਹੜਾ ਸਵਾਲ ਪੁੱਛਿਆ ?**
+      * “ਗੁਰੂ ਜੀ, ਅਨੰਤ ਜੀਵਨ ਪਾਉਣ ਲਈ ਮੈਨੂੰ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ?
+  - **ਉਸ ਦੇ ਜਵਾਬ ਵਿਚ ਯਿਸੂ ਨੇ ਉਸ ਮਾਹਿਰ ਕੋਲੋਂ ਕਿਹੜਾ ਸਵਾਲ ਪੁੱਛਿਆ ?**
+      * ਉਸ ਨੇ ਕਿਹਾ, “ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਬਿਵਸਥਾ ਵਿਚ ਕੀ ਲਿੱਖਿਆ ਹੋਇਆ ਹੈ?”// [27-01]//
+  - **ਪ੍ਰਮੇਸ਼ਵਰ ਦੀ ਬਿਵਸਥਾ ਕਿਸ ਨੂੰ ਪਿਆਰ ਕਰਨ ਲਈ ਕਹਿੰਦੀ ਹੈ ?**
+      * ਸਾਡੇ ਪ੍ਰਭੁ ਪ੍ਰਮੇਸ਼ਵਰ ਅਤੇ ਗੁਆਂਢੀ ਨੂੰ |// [27-02]//
+  - **ਕਿਉਂ ਯਹੂਦੀ ਬਿਵਸਥਾ ਦੇ ਮਾਹਿਰ ਨੇ ਪੁੱਛਿਆ ਕਿ ਉਸ ਦਾ ਗੁਆਂਢੀ ਕੌਣ ਹੈ ?**
+      * ਉਹ ਸਾਬਤ ਕਰਨਾ ਚਹੁੰਦਾ ਸੀ ਕੀ ਉਹ ਧਰਮੀ ਹੈ |// [27-03]//
+  - **ਯਿਸੂ ਦੀ ਇਸ ਕਹਾਣੀ ਵਿਚ, ਉਸ ਯਹੂਦੀ ਆਦਮੀ ਨਾਲ ਕੀ ਹੋਇਆ ਜਦੋਂ ਉਹ ਯਾਤਰਾ ਕਰਦਾ ਸੀ ?**
+      * ਉਸ ਉੱਤੇ ਡਾਕੂਆਂ ਨੇ ਹਮਲਾ ਕੀਤਾ, ਜੋ ਕੁਝ ਉਸਦਾ ਸੀ ਲੈ ਗਏ ਅਤੇ ਉਸ ਨੂੰ ਅਧਮੋਇਆ ਕਰਕੇ ਛੱਡ ਗਏ |// [27-05]//
+  - **ਉਹ ਕਿਹੜਾ ਵਿਅਕਤੀ ਸੀ ਜਿਸ ਨੇ ਘਾਇਲ ਆਦਮੀ ਨੂੰ ਪਹਿਲਾਂ ਦੇਖਿਆ ?**
+      * ਯਹੂਦੀ ਜਾਜਕ |// [27-06]//
+  - **ਉਸ ਜਾਜਕ ਨੇ ਕੀ ਕੀਤਾ ਜਦੋਂ ਉਸ ਨੇ ਘਾਇਲ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ ?**
+      * ਉਸ ਨੇ ਉਸ ਨੂੰ ਅਣਗੋਲਿਆਂ ਕੀਤਾ ਮਾਰਗ ਦੇ ਦੂਸਰੇ ਪਾਸੇ ਹੋ ਕੇ ਚਲਾ ਗਿਆ |// [27-06]//
+  - **ਉਹ ਦੂਸਰਾ ਆਦਮੀ ਕੌਣ ਸੀ ਜਿਸ ਨੇ ਘਾਇਲ ਆਦਮੀ ਨੂੰ ਦੇਖਿਆ ਅਤੇ ਉਸ ਕੋਲੋ ਹੋ ਕੇ ਚਲ ਗਿਆ ?**
+      * ਇਕ ਲੇਵੀ |// [27-06]//
+  - **ਲੇਵੀ ਨੇ ਕੀ ਕੀਤਾ ਜਦੋਂ ਉਸ ਨੇ ਘਾਇਲ ਆਦਮੀ ਨੂੰ ਦੇਖੀਆਂ ?**
+      * ਉਸ ਨੇ ਉਸ ਨੂੰ ਅਣਗੋਲਿਆਂ ਕੀਤਾ ਮਾਰਗ ਦੇ ਦੂਸਰੇ ਪਾਸੇ ਹੋ ਕੇ ਚਲਾ ਗਿਆ |// [27-07]//
+  - **ਘਾਇਲ ਆਦਮੀ ਨੂੰ ਦੇਖਣ ਵਾਲਾ ਤੀਸਰਾ ਆਦਮੀ ਕੌਣ ਸੀ ?**
+      * ਇਕ ਸਾਮਰੀ |// [27-08]//
+  - **ਸਾਮਰੀ ਅਤੇ ਯਹੂਦੀਆਂ ਵਿਚਕਾਰ ਕਿਸ ਤਰਾਂ ਦਾ ਰਿਸ਼ਤਾ ਸੀ ?**
+      * ਉਹ ਇਕ ਦੂਸਰੇ ਨੂੰ ਨਫਰਤ ਕਰਦੇ ਸਨ |// [27-08]//
+  - **ਕਿਸ ਤਰਾਂ ਸਾਮਰੀ ਨੇ ਉਸ ਘਾਇਲ ਦੀ ਮੱਦਦ ਕੀਤੀ ?**
+      * ਉਸ ਨੇ ਉਸ ਦੇ ਜਖਮਾਂ ਤੇੰ ਪੱਟੀਆਂ ਬੰਨੀਆਂ, ਉਸ ਨੂੰ ਰਾਹ ਕਿਨਾਰੇ ਇਕ ਸਰਾਂ ਵਿਚ ਲੈ ਗਿਆ ਅਤੇ ਉਸ ਦੀ ਦੇਖ ਭਾਲ ਕੀਤੀ |// [27-09], [27-10]//
+  - **ਇਹਨਾਂ ਤਿੰਨਾ ਆਦਮੀਆਂ ਵਿਚੋਂ ਕਿਸ ਨੇ ਉਸ ਘਾਇਲ ਆਦਮੀ ਨਾਲ ਇਕ ਗੁਆਂਢੀ ਦੀ ਤਰਾਂ ਵਿਵਹਾਰ ਕੀਤਾ ?**
+      * ਇਕ ਸਾਮਰੀ ਜੋ ਉਸ ਉੱਤੇ ਦਯਾਵਾਨ ਹੋਇਆ |// [27-11]//
 
-
-**[[en/obs/notes/questions/26|<< ]] | [[en/obs/notes/questions/28| >>]]**
+**[[:en:obs:notes:questions:26|<< ]] | [[:en:obs:notes:questions:28| >>]]**
