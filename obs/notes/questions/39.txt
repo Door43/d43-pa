@@ -1,40 +1,37 @@
-====== Story #39: Jesus Is Put on Trial ======
+====== **ਕਹਾਣੀ** **#39**: **ਯਿਸੂ ਤੇ ਮੁੱਕਦਮਾ ਚਲਾਇਆ ਜਾਂਦਾ **  ======
 
-===== Comprehension Questions and Answers =====
+===== **ਪ੍ਰਸ਼ਨ ਉੱਤਰਾਂ ਨੂੰ ਸਮਝਣਾ **  =====
 
-
-  - **What time of the day was it when the Jewish leaders began to question Jesus?**
-    *//It was the middle of the night. [39-01]//
-  - **Why could the Jewish leaders not prove Jesus was guilty of anything?**
-    *//The statements of the false witnesses did not agree with each other. [39-02]//
-  - **What question did the high priest finally ask Jesus?**
-    *//“Tell us, are you the Messiah, the Son of the living God?” [39-03]//
-  - **What answer did Jesus give to the high priest?**
-    *//“I am, and you will see me seated with God and coming from heaven.” [39-04]//
-  - **What was the crime that the high priest said that Jesus had committed?**
-    *//Jesus said he was the Son of God. [39-04]//
-  - **Where was Peter during Jesus' trial?**
-    *//Peter was waiting outside the house of the high priest. [39-06]//
-  - **Why did the people think that Peter had been with Jesus?**
-    *//Peter and Jesus were both from Galilee. [39-06]//
-  - **What did Peter say when the people asked if he knew Jesus ?**
-    *//Peter denied three times that he knew Jesus. [39-07]//
-  - **What happened immediately after Peter denied Jesus the third time?**
-    *//A rooster crowed, and Jesus turned and looked at Peter. [39-07]//
-  - **What did Judas do when he saw that the Jewish leaders had condemned Jesus?**
-    *//Judas became full of sorrow and went away and killed himself. [39-08]//
+  - **ਦਿਨ ਦਾ ਕਿਹੜਾ ਸਮਾਂ ਦੀ ਜਦੋਂ ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਯਿਸੂ ਤੇ ਮੁੱਕਦਮਾ ਚਲਾਉਣਾ ਸ਼ੁਰੂ ਕੀਤਾ ?**
+      * ਇਹ ਅੱਧੀ ਰਾਤ ਸੀ |// [39-01]//
+  - **ਕਿਉਂ ਯਹੂਦੀ ਆਗੂ ਯਿਸੂ ਨੂੰ ਕਿਸੇ ਵੀ ਗੱਲ ਵਿਚ ਦੋਸ਼ੀ ਨਾ ਪਾ ਸਕੇ ?**
+      * ਝੂਠੇ ਗਵਾਹਾਂ ਦੇ ਬਿਆਨ ਆਪਸ ਵਿਚ ਨਾ ਮਿਲੇ |// [39-02]//
+  - **ਆਖਰ ਵਿਚ ਮਹਾਂ ਜਾਜਕ ਨੇ ਯਿਸੂ ਕੋਲੋਂ ਕੀ ਸਵਾਲ ਪੁੱਛਿਆ ?**
+      * “ਸਾਨੂੰ ਦੱਸ, ਕੀ ਤੂੰ ਮਸੀਹਾ, ਜਿਉਂਦੇ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈਂ ?”// [39-03]//
+  - **ਯਿਸੂ ਨੇ ਮਹਾਂ ਜਾਜਕ ਨੂੰ ਕੀ ਉੱਤਰ ਦਿੱਤਾ?**
+      * “ਮੈਂ ਹਾਂ, ਅਤੇ ਤੁਸੀਂ ਮੈਨੂੰ ਪ੍ਰਮੇਸ਼ਵਰ ਨਾਲ ਬੈਠਾ ਅਤੇ ਸਵਰਗ ਤੋਂ ਆਉਂਦਾ ਹੋਇਆ ਦੇਖੋਂਗੇ|”// [39-04]//
+  - **ਮਹਾਂ ਜਾਜਕ ਦੇ ਅਨੁਸਾਰ ਯਿਸੂ ਨੇ ਕਿਹੜਾ ਗੁਨਾਹ ਕੀਤਾ ?**
+      * ਯਿਸੂ ਨੇ ਕਿਹਾ ਕਿ ਉਹ ਪ੍ਰਮੇਸ਼ਵਰ ਦਾ ਪੁੱਤਰ ਹੈ |// [39-04]//
+  - **ਯਿਸੂ ਦੇ ਮੁੱਕਦਮੇ ਸਮੇਂ ਪਤਰਸ ਕਿੱਥੇ ਸੀ ?**
+      * ਪਤਰਸ ਮਹਾਂ ਜਾਜਕ ਦੇ ਘਰ ਦੇ ਬਾਹਰ ਇੰਤਜਾਰ ਕਰਦਾ ਸੀ |// [39-06]//
+  - **ਕਿਉਂ ਲੋਕਾਂ ਨੇ ਸੋਚਿਆ ਕਿ ਪਤਰਸ ਯਿਸੂ ਦੇ ਨਾਲ ਸੀ ?**
+      * ਪਤਰਸ ਅਤੇ ਯਿਸੂ ਦੋਨੋਂ ਗਲੀਲ ਦੇ ਸਨ |// [39-06]//
+  - **ਪਤਰਸ ਨੇ ਕੀ ਕਿਹਾ ਜਦੋਂ ਲੋਕਾਂ ਨੇ ਉਸ ਨੂੰ ਪੁੱਛਿਆ ਕਿ ਕੀ ਉਹ ਯਿਸੂ ਨੂੰ ਜਾਣਦਾ ਹੈ ?**
+      * ਪਤਰਸ ਨੇ ਤਿੰਨ ਵਾਰ ਇਸ ਗੱਲ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਕਿ ਉਹ ਯਿਸੂ ਨੂੰ ਜਾਣਦਾ ਹੈ |// [39-07]//
+  - **ਪਤਰਸ ਦੁਆਰਾ ਯਿਸੂ ਦੇ ਤੀਸਰੀ ਵਾਰ ਇਨਕਾਰ ਦੇ ਬਾਅਦ ਕੀ ਹੋਇਆ ?**
+      * ਮੁਰਗੇ ਨੇ ਬਾਂਗ ਦਿੱਤੀ ਅਤੇ ਯਿਸੂ ਨੇ ਮੁੜ ਕੇ ਪਤਰਸ ਵੱਲ ਦੇਖਿਆ |// [39-07]//
+  - **ਜਦੋਂ ਯਹੂਦਾ ਨੇ ਦੇਖਿਆ ਕੀ ਯਹੂਦੀ ਆਗੂਆਂ ਨੇ ਯਿਸੂ ਨੂੰ ਦੋਸ਼ੀ ਠਹਿਰਾ ਦਿੱਤਾ ਹੈ ਤਾਂ ਉਸ ਨੇ ਕੀ ਕੀਤਾ ?**
+      * ਯਹੁਦਾਹ ਬਹੁਤ ਉਦਾਸ ਹੋਇਆ ਅਤੇ ਦੂਰ ਜਾ ਕੇ ਆਤਮ ਹੱਤਿਆ ਕਰ ਲਈ |// [39-08]//
   - **Why did the Jewish leaders take Jesus to the Roman governor Pilate?**
-    *//They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
+      * //They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
   - **What was the first question that Pilate asked Jesus?**
-    *//“Are you the king of the Jews?” [39-09]//
+      * //“Are you the king of the Jews?” [39-09]//
   - **What did Jesus say was the reason he came to earth?**
-    *//To tell the truth about God. [39-10]//
+      * //To tell the truth about God. [39-10]//
   - **How many times did Pilate say to the crowd that Jesus was not guilty?**
-    *//Three times. [39-11]//
+      * //Three times. [39-11]//
   - **Why then did Pilate allow Jesus to be crucified?**
-    *//Pilate became afraid that the crowd would begin to riot. [39-12]//
+      * //Pilate became afraid that the crowd would begin to riot. [39-12]//
   - **How did the Roman soldiers treat Jesus?**
-    *//They whipped Jesus, put a royal robe and a crown of thorns on him, and mocked him. [39-12]//
-
-
-**[[en/obs/notes/questions/38|<< ]] | [[en/obs/notes/questions/40| >>]]**
+      * //They whipped Jesus, put a royal robe and a crown of thorns on him, and mocked him. [39-12]//
+**[[:en:obs:notes:questions:38|<< ]] | [[:en:obs:notes:questions:40| >>]]**
